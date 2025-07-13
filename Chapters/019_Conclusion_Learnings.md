@@ -8,6 +8,6 @@ There’s a plethora of information I skipped over or omitted you may go through
 
 Outside of that, thank you for reading and I hope you came away from this manual knowing more than before about the world of teaching.
 
-## You’re reached the last page! 😃
+## You have reached the end! 😃
 
 ## [Back to Chapter List](/Chapters/)
