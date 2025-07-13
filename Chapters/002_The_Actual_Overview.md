@@ -51,3 +51,5 @@ The frameworks and advice given assume the following is true for the reader’s 
 - Many “results” I talk about are from direct observations over the years I’ve taught and are difficult to quantify outside of estimations when you’re doing multiple tasks at once and cannot treat the classroom like a user research session.
     - Additionally, using data from my students may introduce two types of bias from non-probability sampling: voluntary response and convenience.
 - For any products I call out and examples from those products, I am not endorsing or saying you need to purchase/use those products. They are there because I used them and thought they had value to me when I taught.
+
+## [Next Section](003_Legality.md)
