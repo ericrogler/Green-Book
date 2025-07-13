@@ -1,12 +1,6 @@
 # ReadMe
 
-Welcome to the New Teacher Guide (or "The Green Book"). Included is a short reminder of the repository license and how to navigate the repository for users unfamiliar with Github.
-
-## License
-
-
-
-
+Welcome to the New Teacher Guide (or "The Green Book"). Included is how to navigate the repository for users unfamiliar with Github.
 
 ## Navigating on BOTH Mobile + Desktop
 
