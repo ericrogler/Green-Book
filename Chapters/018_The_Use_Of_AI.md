@@ -51,16 +51,14 @@ Most teachers I’ve seen are in the first two categories. Third category I’ve
 • Streamlining administrative tasks
 • Compare submissions to answers for quick grading
 • Students with disabilities are explicitly allowed to use it to help them learn
-• To record and practice voice lines which are transcribed into text
-|
+• To record and practice voice lines which are transcribed into text |
 
 | **AT Not Okay** |
 | --- | 
 | • Completing assignments for students
 • Providing AI confidential or classified information
 • As a replacement for learning something new
-• Using it as a substitute for critical thought and problem solving
-|
+• Using it as a substitute for critical thought and problem solving |
 
 As a stern reminder, anything listed under “AI OK” still requires a human to verify its accuracy and ensure what is done is what you intended.
 
