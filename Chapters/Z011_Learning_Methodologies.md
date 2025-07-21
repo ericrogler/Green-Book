@@ -22,6 +22,8 @@ If you have ever coached or practiced sports before, you may have experienced sp
 
 Sleep is important. Both students and teachers should not neglect it because it affects learning. How exactly sleep affects learning is outside the scope of this writing, but generally speaking: if you don’t get enough sleep, it is harder to learn and keep up learning over a long time.
 
+### Types of Practice
+
 **Spaced practice** (alternatively, “distributed practice”) is the most straight-forward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, time periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material; the optimal point to relearn is somewhere around where you’re just about to forget information. It’s used to combat the [**forgetting curve**](https://pmc.ncbi.nlm.nih.gov/articles/PMC4492928/) to help with active recall and better memory retention of the topic(s) learned.
 
 Before going into the next type of practice, I’ll review “massed practice” next. Massed practice is the opposite of spaced practice. Rather than giving time and learning over multiple sessions, you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work.
@@ -31,6 +33,8 @@ Before going into the next type of practice, I’ll review “massed practice”
 **Interleaved practice** is when you alternate what is being practiced or learned. For example, we spaced out tennis practice at certain times each day as spaced practice. Interleaved practice is doing multiple types of tennis techniques throughout the practice sessions, rather than only drop shots one day and back hands only the next; the day can *interleave* drop shots and back hand returns together in the same session.
 
 **Varied practice** is another form of learning. To expand on the tennis example, we’re already doing spaced days and interleaving different types of tennis techniques throughout the day. However, now we *vary* the context of the techniques and how they are used. Do you use a drop shot when at the back of the court? What about the technique to use when you’re suddenly near the net? You take the topic and the techniques employed under that topic and vary up on how they’re applied and when they’re applied.
+
+### Helplessness and Failure
 
 Lastly, there’s also dealing with the theories of learned helplessness, learned incompetence, and negative reinforcement. It may show at any age in humans and also shows up in animals, but typically shows up in younger age groups. In the context of students, these issues manifest most often when a student is presented with a difficult task. Rather than try to work through a task to the best of their ability, they may instead not attempt the task at all because it seems difficult or attempt it once and give up after only a single failure, waiting for someone else to do the work for them.
 
@@ -50,7 +54,11 @@ Many students can act like they don’t know because it’s easier to do so and 
 
 Countering learned helplessness, faked incompetence, and negative reinforcement is simple: Do not help students unless absolutely needed and/or medically/legally obligated to. It’s the best way I’ve seen it beat those issues; making students experience and overcome difficulty and failure.
 
-Another concept I want to touch on is a focus on performance vs a focus on learning. When a student focuses on performance, their goal is to satisfy metrics–often quantitative, like a grade–and do no additional work beyond that. When a student focuses on learning, they’ll invest time less towards an explicit grade and more towards the underlying how and/or why something works. Ironically, students I’ve seen focused on learning score similar, if not higher, grades compared to students focused on performance because they’re exploring the topic they’re tested on in-depth rather than a baseline effort.
+### Performance vs Learning
+
+When a student focuses on performance, their goal is to satisfy metrics–often quantitative, like a grade–and do no additional work beyond that. When a student focuses on learning, they’ll invest time less towards an explicit grade and more towards the underlying how and/or why something works. 
+
+Ironically, students I’ve seen focused on learning score similar, if not higher, grades compared to students focused on performance. They’re exploring the topic they’re tested on in-depth rather than a baseline effort to achieve a desired grade and no more beyond that.
 
 If you’re still unsure what to tell students when it comes to learning, I’ll give you a list I’ve shown to my own students. It’s a rather long list, so you may do all the points or cherry-pick the points most relevant to your situation.
 
@@ -87,4 +95,4 @@ https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf
 
 https://apps.ankiweb.net/
 
-## [Next Section](011_Homework.md)
+## [Next Section](Z012_Homework.md)

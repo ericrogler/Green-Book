@@ -8,11 +8,11 @@
 
 ## **Introduction**
 
-Imagine I only have 1 hour to get a new teacher up to speed, from 0-100 as fast as possible, WITHOUT giving them any additional materials to copy+paste and they’re in a situation where they start from… well, basically nothing.
+Imagine I need to get a new teacher, instructor, presenter, from 0-100 as fast as possible, WITHOUT giving them any additional materials to copy+paste and they’re in a situation where they start from… well, basically nothing.
 
 **That’s my problem here to solve and this writing is my solution. I take what seems complex and make it simpler to approach in an accessible way.**
 
-Think of this writing as the starting point, with the expectation that if you need to learn or expand on a topic, you’ll have an idea *which* topic to further learn about rather than be completely aimless.
+Think of this writing as the starting point. If you need to learn or expand on a topic, you’ll have an idea *which* topic to further learn about rather than be completely aimless.
 
 A teacher exists in many different forms. There’s the formal teacher many students are familiar with, but there’s also teachers in unexpected places. Perhaps you’ve shown someone how to ride a bicycle, operate a piece of software, or assist in interpreting a book passage. All those, and countless other examples, have you teaching.
 
@@ -35,9 +35,9 @@ This writing is designed with the following people in mind:
 
 ### **Assumptions / Advisory for Readers**
 
-The frameworks and advice given assume the following is true for the reader’s case:
+*The frameworks and advice given assume the following is true for the reader’s case:*
 
-- Some statements and information may not be independently verifiable because it relies on internal evidence like grades, timelines, surveys, and more. Some information I cannot openly share legally and other information I purposely omit PII.
+- Some statements and information may not be independently verifiable because it relies on internal evidence like grades, timelines, surveys, and more. Some information I cannot openly share legally and other information I purposely omit PID/PII.
 - **You are hired on as a teacher, able to be hired into an instructional role (not necessarily a “Teacher” title), OR you are in a role where you design learning materials and curriculums in general.**
     - **This means I’m not covering how to get a teaching license–or other licenses–extensively as it’s a varied, case-by-case basis.**
 - The frameworks and advice I give are originally designed for technical classes, such as math, engineering, and science.
@@ -52,4 +52,4 @@ The frameworks and advice given assume the following is true for the reader’s 
     - Additionally, using data from my students may introduce two types of bias from non-probability sampling: voluntary response and convenience.
 - For any products I call out and examples from those products, I am not endorsing or saying you need to purchase/use those products. They are there because I used them and thought they had value to me when I taught.
 
-## [Next Section](003_Legality.md)
+## [Next Section](Z003_Legality.md)

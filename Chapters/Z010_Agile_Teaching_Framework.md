@@ -4,9 +4,10 @@
 
 *Disclaimer: I built this framework in mind for secondary and tertiary education (middle school and above). Elementary school/primary education may need adjustments beyond what is written here.*
 
+- **The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
 - Many topics you’re teaching can be blocked into short, fixed-time periods of 1, 2, or 4 weeks/days and include a balance of lectures, activities, projects, and tests.
 - Be ready and able to adjust lesson plans as needed, even on a day-by-day basis.
-- E*very* subject requires teachers to communicate well through storytelling. If you cannot communicate well and hold students’ attention, then you cannot get students to invest into your teachings and learn what they need to learn.
+- *Every* subject requires teachers to communicate well through storytelling. If you cannot communicate well and hold students’ attention, then you cannot get students to invest into your teachings and learn what they need to learn.
 - If something can be explained well in a short summary, use a short summary.
 - Good lectures are not boring. Bad lectures are boring.
 - ***“If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now.”* – Former US President Woodrow Wilson**
@@ -37,7 +38,7 @@ Why I did this setup is because I had, in the worst case, *24 units in a single 
 
 More important notes with the above distribution:
 
-1. Sometimes there are days you lose. It’s possible, but difficult, to plan for losses like these, but you’ll only be able to do them 1-2 weeks out.
+1. Sometimes there are days you lose. It’s possible, but difficult, to plan for losses like these, but you’ll likely only be able to plan 1-2 weeks out.
 2. This distribution example is for a 2 business week (10 day) coverage of one unit. 1 week (5 days) would be 3/1/1 and 4 weeks (20 days) would be 12/4/4.
 3. 1 or 2 week periods work best for me, because you aren’t tempted to go too in-depth when you should summarize instead and you are less likely to get behind on your teaching schedule.
 
@@ -115,23 +116,23 @@ This is the first “6” of my setup. Again, you can decrease lecture days for 
 
 These are sessions used to deliver–mainly verbally–a significant amount of information all at once to a student, or group or students, and allowing them to ask questions.
 
-With lectures, you need to focus on three areas *alongside* the material you’re teaching: passion, knowledge, and entertainment.
+**With lectures, you need to focus on three areas *alongside* the material you’re teaching: passion, knowledge, and entertainment.**
 
-Passion is how much you care about what you’re teaching. If you can show you care–preferably in a genuine manner, but even an attempt is fine–then you can get students to also care.
+**Passion is how much you care about what you’re teaching.** If you can show you care–preferably in a genuine manner, but even an attempt is fine–then you can get students to also care.
 
-Knowledge is how much you know about the subject(s) you’re teaching. It’s entirely possible to teach by reading out the material, straight from a textbook, but your students may question your teaching ability if you also cannot successfully answer their questions, which leads to disengagement and less effective teaching.
+**Knowledge is how much you know about the subject(s) you’re teaching.** It’s entirely possible to teach by reading out the material, straight from a textbook, but your students may question your teaching ability if you also cannot successfully answer their questions, which leads to disengagement and less effective teaching.
 
-Entertainment is the ability to *hold* attention. You don’t need to dance like a monkey in front of students, but you also shouldn’t be bland and monotone. If you’re not able to hold a student’s attention, they’ll lose that attention and may create problems for you *and* other students, negatively bringing down the classroom. Steve Jobs’ speech with the iPhone reveal, TED Talks, TikTok, social media applications, and YouTube shorts are excellent examples of how you can hold the attention of people across all ages.
+**Entertainment is the ability to *hold* attention.** You don’t need to dance like a monkey in front of students, but you also shouldn’t be bland and monotone. If you’re not able to hold a student’s attention, they’ll lose that attention and may create problems for you *and* other students, negatively bringing down the classroom. Steve Jobs’ speech with the iPhone reveal, TED Talks, TikTok, social media applications, and YouTube shorts are excellent examples of how you can hold the attention of people across all ages.
 
 The combination of these three areas, with the material you’re teaching, culminates into storytelling; the ability to tell interesting stories (or “sell” something that students “buy” into with their attention and willingness to learn).
 
 Though some may criticize “sage on the stage” style lectures, with valid points, they are extremely effective when done well. You are not limited to only words; you can use images, drawings, occasionally get students to follow along with something while lecturing, ask them questions about what you’re teaching, and more. If you’re able to, you can even play off of student tangents relevant to your topic and have the tangent used as a question on a test, just to keep student’s attention by inserting the unexpected question here and there.
 
-Overall, lecturing works great if the lecture is well structured. If not, then it does not work. It is a powerful tool for learning, but requires preparation and dedication on the teacher’s part.
+**Lecturing works great if the lecture is well structured. If not, then it does not work well.** It is a powerful tool for learning, but requires preparation and dedication on the teacher’s part.
 
 ***Activities / Projects***
 
-This is the first “2” of my setup. I’d advise against doing fewer than 2 activities or projects per unit, unless your material is nearly all theoretical or confined strictly to lecture-based teaching, as you may lose student engagement from over-repetition.
+This is the first “2” of my setup. **I’d advise against doing fewer than 1 to 2 activities or projects per unit, unless your material is nearly all theoretical** or confined strictly to lecture-based teaching, as you may lose student engagement from over-repetition.
 
 Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. This may be the toughest type to implement, because a lot of things can go very wrong, very quickly.
 
@@ -139,7 +140,7 @@ If you haven’t gone over any safety measures for activities, plan 1 day out as
 
 For activities and projects, do not be afraid to use the Internet for inspiration and gather ideas. Compared to finding textual information on how things work, it’s much harder to find physical and workable implementations to apply that information.
 
-When I search for activities, I consider some of the following:
+**When I search for activities, I consider some of the following:**
 
 - Does this activity meet the standards I have to follow?
 - Do I–or can I–get the equipment for this without significant difficulty and/or cost?
@@ -149,13 +150,13 @@ When I search for activities, I consider some of the following:
 - How will I manage the activity inside of the classroom?
 - Do I need to account for disabilities or accommodations with the activity?
 
-While many activities can be done on computers as of 2025, such as planetary orbit simulations, some activities *have* to be done in a physical environment–and often are better done in a physical environment where students can touch, feel, and/or see what is happening.
+While many activities can be done on computers as of 2025, such as planetary orbit simulations, some activities *have* to be done in a physical environment and often are better done in a physical environment where students can touch, feel, and/or see what is happening.
 
 Lastly, with activities, you’re expected to manage students more compared to lectures. This isn’t necessarily a bad thing, but an observed fact of doing activities; you’re giving students more freedom and not confining them (mostly) to chairs or in a single spot, so your role of keeping them on task intensifies greatly.
 
-### ***“Daily Scrum”***
+### **“Daily Scrum” (Teacher)** 
 
-Think of daily scrum as your reassessment of your classroom and what you got done during the day. This is NOT going back to the planning stage.
+Think of the daily scrum as your reassessment of your classroom and what you got done during the day. This is NOT going back to the planning stage.
 
 After each day/class session, you can see which topic(s) were covered, how well they were covered, and then spend a bit of time making minor to moderate adjustments. Do NOT make major adjustments after initial planning outside of emergencies; it is a time sink and a large headache.
 
@@ -163,7 +164,9 @@ After each day/class session, you can see which topic(s) were covered, how well 
 
 In the review stage, we get to the last “2” in my “6/2/2” setup. Review is when you’re presenting the material you’ve implemented in the previous stage, whether through lectures, activities, or a combination of the two.
 
-In teaching, review focuses on sorting out deficiencies in learning, seeing where students had difficulties in the material they’re learning, and also having students demonstrate that they have “done” with the learning they need.  This may be done through tests, quizzes, review sessions, questionnaires, exit tickets, and more. For each of these sessions, you must explicitly define the test-taking conditions, such as what is allowed, what is not allowed, how much you can help a student with questions, how to take the test, time allotted, and what other resources they may bring into the test.
+In teaching, review sorts out deficiencies in learning, seeing where students had difficulties in the material they’re learning, and demonstrates students have “done” the learning they need.
+
+This may be done through tests, quizzes, review sessions, questionnaires, exit tickets, and more. For each of these sessions, you must explicitly define the test-taking conditions, such as what is allowed, what is not allowed, how much you can help a student with questions, how to take the test, time allotted, and what other resources they may bring into the test.
 
 There are two ways I would separate the review days, as my example accounts for 2 days worth of time out of 10 days total.
 
@@ -176,7 +179,7 @@ In the first method, this assumes you’ll set aside an entire day as review to 
 
 In the second method, you’ll still do review but typically at the end of each lecture day. As an example, instead of 50 minutes of dedicated review on one day, you take up the 5-10 minutes you originally allocated for down-time and “waste” and do shorter reviews on the concepts covered explicitly on that day. This lets you go through the unit faster, but risks more forgetting material on the students' part and requires more pre-planning on the teacher's part to make up for the loss of in-class time. Additionally, you’ll have to specifically remind students when a test is, as they may expect a review before the test rather than going straight into learning with a test the day right after.
 
-In general, I recommend you go with the first method: 1 day of testing with 1 day of dedicated review. The second method is harder to implement and higher difficulty for students, but it does save you time, give you the chance to cover more material within the year, semester, or trimester, and provide more buffer days in case of unexpected events.
+**In general, I recommend you go with the first method: 1 day of testing with 1 day of dedicated review.** The second method is harder to implement and higher difficulty for students, but it does save you time, give you the chance to cover more material within the year, semester, or trimester, and provide more buffer days in case of unexpected events.
 
 ### **Retrospective (Teacher)**
 
@@ -223,6 +226,19 @@ Using the same 2 hour example, we can do another distribution like this:
 
 You could combine lecture and projects/activities into 4 days rather than a 3 one split if desired, putting lecture and activity inside of the same day. It depends on the needs of the class and if it’s the best way to learn about what you’re teaching.
 
+***What if I have 1 day (or a weekend) for the entire curriculum instead of 1-a-week?***
+
+Pretending you're combining multiple weeks together into a day and scale down the values and time estimates. You'll adjust some parts depending on the material and what you need to cover, but it is doable.
+
+To give an example, let's say we normally need 8 weeks to teach a topic, but only have one work day (8 hours total). You could do something like this:
+- 4 weeks of lecture --> 4 hours of lecture
+- 2 weeks of project/activity --> 2 hours of projects/activities
+- 2 weeks of review/test --> 2 hours split between separate review(s) and a test
+
+Sprinkle in short breaks throughout the parts as needed or when the session requires it.
+
+**Do not underestimate how long it takes to condense information.** It can take a short amount of time, or an extensive amount of time, to convert a long timeframe curriculum into a shortened curriculum.
+
 **Cost Overage vs Cost Underage (Teaching too much vs too little in X time)**
 
 You may have seen these terms before in an engineering, supply chain, or production context, where underage costs are costs when you don’t have enough inventory to meet demand and overage costs are costs when you have too much inventory beyond demand. If you have not heard these terms before and want to learn about more, look for “Newsvendor Model” on Google or another search engine. (**[Further reading from MIT OpenCourseWare](https://ocw.mit.edu/courses/15-772j-d-lab-supply-chains-fall-2014/6952be57b43aa185119c6f114908bcc5_MIT15_772JF14_Newsboy.pdf) (warning: higher-level math!)**)
@@ -253,4 +269,4 @@ https://scrumguides.org/scrum-guide.html
 
 https://ocw.mit.edu/courses/15-772j-d-lab-supply-chains-fall-2014/6952be57b43aa185119c6f114908bcc5_MIT15_772JF14_Newsboy.pdf
 
-## [Next Section](010_Learning_Methodologies.md)
+## [Next Section](Z011_Learning_Methodologies.md)

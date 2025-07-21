@@ -4,7 +4,7 @@
 
 Standards depend heavily on what, where, and how you’re teaching. You may have many standards to follow or not that many, so learn where you can and cannot be flexible on topics to enhance learning. Additionally, you may have to make concessions on topics and time you need for the curriculum.
 
-- **Your main goal here is to meet all standards and go into the appropriate depth on each topic.**
+- **Your main goal here is to meet all standards and go into the appropriate depth on each relevant topic.**
 
 ## **Long Answer**
 
@@ -16,7 +16,7 @@ There’s several reasons why:
 - Some materials you want to use for teaching may not align with the standards
 - In the worst case, standards not appropriately covered and taught may put you and others in legal and financial trouble
 
-Once you firmly establish your standards and objectives, *then* you can be creative in your teaching methodology. Objectives and standards need to be ironclad or else the floor you’re building your curriculum on falls through and collapses. Another way to think about standards and objectives is the guardrails for your curriculum; they mitigate you going overboard or focusing too heavily in one area when you need to spread focus across multiple areas. In business terms, it limits your scope.
+**Once you firmly establish your standards and objectives, *then* you can be creative in your teaching methodology.** Objectives and standards need to be ironclad or else the floor you’re building your curriculum on falls through and collapses. Another way to think about standards and objectives is the guardrails for your curriculum; they mitigate you going overboard or focusing too heavily in one area when you need to spread focus across multiple areas. In business terms, it limits your scope.
 
 Though standards and objectives limit what you should do, good objectives and standards will elevate your teaching ability, provide clear direction, and explicitly written measures to evaluate how you’re teaching and if you’re covering what you need to.
 
@@ -58,4 +58,4 @@ https://www.thecorestandards.org/
 
 https://corestandards.org/
 
-## [Next Section](006_Roadblocks_To_Teaching.md)
+## [Next Section](Z006_Roadblocks_To_Teaching.md)

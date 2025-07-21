@@ -36,28 +36,32 @@ Keep in mind you’re not exclusively limited to the area you’re teaching. I�
 
 Say for example you’re teaching engineering. You don’t only need to bring in engineering resources; you can bring in case studies, articles, and examples from multiple fields like management, finance, aerospace, communication, and more. From there, you can use that to gain a new perspective, link it into the material you’re teaching to reinforce ideas and show practical use, or use that newfound knowledge to reinforce *how* you teach.
 
-To show what I mean, here is a small list of books I personally used for designing a curriculum. For reference, I taught mainly science as well as engineering topics during my teaching career.
+To show what I mean, here is a small list of books I personally used for designing a curriculum. 
 
 - *Make It Stick: The Science of Successful Learning* by Peter Brown, Henry Roediger III, and Mark McDaniel
-- *Uncommon Sense Teaching: Practical Insights in Brain Science to Help Students Learn by Barbara Oakley, Beth Rogowsky, and Terrence Sejnowski*
+- *Uncommon Sense Teaching: Practical Insights in Brain Science to Help Students Learn* by Barbara Oakley, Beth Rogowsky, and Terrence Sejnowski
 - *Resonate* by Nancy Duarte
-- *Just Enough Research by Erika Hall*
-- *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days by Jake Knapp, John Zeratsky, and Braden Kowitz*
-- *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter) by Steve Krug*
-- *Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience by Tom Greever*
-- *Smart Brevity: The Power of Saying More with Less by Jim VandeHei, Mike Allen, and Roy Schwartz*
+- *Just Enough Research* by Erika Hall
+- *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days* by Jake Knapp, John Zeratsky, and Braden Kowitz
+- *Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition) (Voices That Matter)* by Steve Krug
+- *Articulating Design Decisions: Communicate with Stakeholders, Keep Your Sanity, and Deliver the Best User Experience* by Tom Greever
+- *Smart Brevity: The Power of Saying More with Less* by Jim VandeHei, Mike Allen, and Roy Schwartz
 
-Despite my focus on science and engineering, I found useful information in communication and design books. Again, this is a small sample, but shows an example where looking into information outside of your field may help you in the long run.
+Despite my teaching focus on science and engineering, I found useful information in other sources like communication and design books. This is a small sample, but shows an example where looking into information outside of your field may help you in the long run.
 
 ### Regarding Wikipedia
 
 Lastly, I’m going to end with a note on Wikipedia. Wikipedia is extremely good as a one stop source for what you’re trying to look up and it’s heavily moderated; a lot of misinformation gets corrected quickly and, in intentional misinformation, a ban of the offender. For the average layman and in general, it’s a good resource.
 
-Now for my criticisms of Wikipedia. Wikipedia is terrible for research and is not appropriate for essay or research citations, as it doesn’t follow a scientific procedure to get information (there’s some irony here considering how I’m writing this guide, but I digress). Any person can create an account and submit edits to Wikipedia articles, which brings into question the credentials and background of the people writing the information in the first place. **A Wikipedia article does not hold the same weight as a peer-reviewed research article, *even if they have the exact same information*, due to each source’s credibility.** It’s also subject to bias of the editors on any viewpoints they may add or opinions they bring in, even if the information is factually correct. 
+**Now for my criticisms of Wikipedia:** 
+- Wikipedia is terrible for research and is not appropriate for essay or research citations, as it doesn’t follow a scientific procedure to get information (there’s some irony here considering how I’m writing this guide, but I digress). 
+- Any person can create an account and submit edits to Wikipedia articles, which brings into question the credentials and background of the people writing the information in the first place. 
+- **A Wikipedia article does not hold the same weight as a peer-reviewed research article, *even if they have the exact same information*, due to each source’s credibility.** 
+- Subject to bias of the editors on any viewpoints they may add or opinions they bring in, even if the information is factually correct. 
 
 You also won’t figure out the reputations of sources from Wikipedia alone, as Wikipedia is a compilation of information drawn in from multiple sources. It also stuns the ability to do research, as students may think Wikipedia is “good enough” and not bother to research beyond that. Additionally, the information you get from Wikipedia is extremely easy to change, whereas books, peer-review articles, and the like are *not* easily changed.
 
-Despite Wikipedia’s benefits and drawbacks, it’s inevitable a student will use it, if not at least look at it. To counter this, consider implementing the following for work where students do research:
+Despite Wikipedia’s benefits and drawbacks, it’s inevitable a student may use it, if not at least look at it. To counter this, consider implementing the following for work where students do research:
 
 - If you look at Wikipedia, go to the bottom of the page/article and look for headers like “References” and “External Links.” Use the information from *those* sources as research and citations.
 - Wikipedia is OK as a starting point, but no further.
@@ -91,4 +95,4 @@ https://guides.lib.k-state.edu/c.php?g=181829&p=1195993
 
 https://usingsources.fas.harvard.edu/evaluating-sources-0
 
-## [Next Section](009_Agile_Teaching_Framework.md)
+## [Next Section](Z009_Communication_Design_Usability.md)

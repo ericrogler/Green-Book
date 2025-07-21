@@ -2,9 +2,9 @@
 
 Providing information relevant to new teachers, old teachers wanting a different perspective on teaching, and for people interested or curious about teaching.
 
-**Last Updated: July 12, 2025**
+**Last Updated: July 21, 2025**
 
-![New Teacher Guide.png](https://i.ibb.co/ymWQWHsT/New-Teacher-Guide.png)
+![The Green Book.png](https://i.ibb.co/8LjgkDTV/The-Green-Book-Pseudo-Cover-1.png)
 
 # A Manager TL;DR
 
@@ -47,4 +47,4 @@ Due to a teaching contract, I cannot easily provide curriculum materials as I *t
 - Don’t use AI for learning if students do not know how to use AI safely and properly. It is still a tool you, as a teacher, should learn about, plan for, and utilize.
 - Money is always a constraint when teaching. Be careful on how you spend it.
 
-## [Next Section](002_The_Actual_Overview.md)
+## [Next Section](Z002_The_Actual_Overview.md)

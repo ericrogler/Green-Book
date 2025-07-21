@@ -45,3 +45,4 @@ There's multiple ways to view this repository, so I'll go over mobile, desktop, 
 **Monitor Width < ~1280p ("p" = pixels)**
 1. Follow the steps under "Mobile Specific Navigation" above to navigate across different chapters.
 
+## [Alternatively: click here to start reading!](Chapters/Z001_Manager_TLDR.md)

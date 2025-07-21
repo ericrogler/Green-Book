@@ -84,9 +84,9 @@ To summarize, an IEP focuses on modifying the instruction/delivery of material a
 
 IEPs and 504s have nation-wide resources available, whereas IHPs have info at the state level. Here are a few links you can see for future reference.
 
-- IEP: https://sites.ed.gov/idea/topic-areas/#IEP
-- 504: https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504
-- IHP (Colorado/CDE Specific): https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019
+- https://sites.ed.gov/idea/topic-areas/#IEP
+- https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504
+- https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019
 
 Establishing one of these plans is not always your responsibility as a teacher, but meeting the plan’s accommodations and knowing the accommodations a student needs are a teacher’s responsibility. Additionally, these plans can change over time and are not set in stone for the entire student’s learning journey.
 
@@ -184,4 +184,6 @@ https://www.act.org/
 
 https://www.collegeboard.org/
 
-## [Next Section](004_Management_101.md)
+*That was a lot of links; that's all for now.*
+
+## [Next Section](Z004_Management_101.md)

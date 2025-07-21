@@ -45,7 +45,7 @@ You’ll want to be careful when measuring data. You are subject to multiple bia
 
 You may see two common terms used for metrics of success: Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs). OKRs are for tracking progress and setting direction towards specific goals, whereas KPIs are for tracking performance, outcomes, and statuses of one or more metrics over a period of time. KPIs are better suited for tasks done repeatedly whereas OKRs are better for tasks you dismiss or change once reached. OKRs typically use qualitative data while KPIs use quantitative data as well.
 
-As an aside, if there is a metric available, there is a way to “game the metric or optimize the metric. Though such methods are available, I’d advise you to remember your primary goal is whether or not students successfully learn what you’re trying to teach. You may need to meet metrics, but you’re still a teacher at the end of the day.
+As an aside, if there is a metric available, there is a way to “game" the metric or optimize the metric. Though such methods are available, remember your primary goal is whether or not students successfully learn what you’re trying to teach. You may need to meet metrics, but you’re still a teacher at the end of the day.
 
 # **Reference Links**
 
@@ -69,4 +69,4 @@ https://www.ibm.com/think/topics/data-bias
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8784036/
 
-## [Next Section](008_Source(s)_Of_Truth.md)
+## [Next Section](Z008_Source(s)_Of_Truth.md)

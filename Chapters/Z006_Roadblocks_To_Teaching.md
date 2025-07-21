@@ -2,7 +2,7 @@
 
 ## **Short Answer**
 
-There’s four types of blockers I’ll define: 
+**There’s four types of blockers I’ll define:**
 
 - Technical
 - Physical
@@ -85,7 +85,8 @@ If you don’t have assistance or a HR department, here’s things you should av
 - Anything that intentionally–and unintentionally–causes physical harm to others.
 - Bullying and bringing down people through your words and actions
 - Relationships with students
+- Relationships (in general)
 
 What’s the relationship between weightlifting and people? You lift up weights and you lift up people’s knowledge. You want to lift other people up, not put them down, and you want to maintain a safe, acceptable, and respectable distance between you and your students.
 
-## [Next Section](007_Metrics_Of_Success.md)
+## [Next Section](Z007_Metrics_Of_Success.md)

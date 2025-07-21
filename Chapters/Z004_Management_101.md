@@ -36,7 +36,7 @@ Success varies greatly depending on what type of group you’re teaching, but so
 
 One single list will not solve all your problems. You’ll need to adjust strategies over time and this is something you have to do in practice rather than only read about. Other times, you don’t have time to mentally review the entire list and may have less than a few seconds to get back control before chaos occurs.
 
-Here is one such list for ways to enforce classroom control:
+**Here's some examples to enforce control of the room:**
 
 - Establish a routine. If they know what to do without constant reminders, they’re less likely to go out-of-turn.
 - Clearly define the rules. Explicitly stated rules are followed and enforced better than implied rules.
@@ -57,13 +57,15 @@ Here is one such list for ways to enforce classroom control:
 
 ### **Attention Economy**
 
-The amount of type a student can focus on is dependent on many factors, such as their age, disposition, and personality. Generally speaking, the younger students are, the less time they can maintain focus before needing a break. A common rule of thumb is a younger student's *maximum* attention span is 2 to 3 times their age (e.g. 13 years old = 26-39 minutes) before a short break is needed. The [**Pomodoro technique**](https://www.pomodorotechnique.com/) is one example of a management method capitalizing on attention spans.
+The amount of time a student can focus depends on many factors, such as age, disposition, and personality. 
+
+Generally speaking, the younger students are, the less time they can maintain focus before needing a break. A common rule of thumb is a younger student's *maximum* attention span is 2 to 3 times their age (e.g. 13 years old = 26-39 minutes) before a short break is needed. The [**Pomodoro technique**](https://www.pomodorotechnique.com/) is one example of a management method capitalizing on attention spans.
 
 Since 2020 and COVID, there is a proliferation of short-form content, like TikTok videos and YouTube shorts. Due to their implementation of highly optimized psychological techniques to get your time, which are also found in similar apps and software, maintaining focus in a classroom is set to Hard mode by default. It’s not impossible, but you’re starting off at a hefty disadvantage. Rather than demonize this software, it may help you, as a teacher, to figure out *why* these methods grab attention so effectively and see if you can use that in teaching.
 
-If a student wants to learn something, there are a myriad of ways to try and learn something–which can happen while you’re teaching. It’s not always a case of the student intentionally doing something bad, but something else caught their attention more at the time or they got confused on something and are now acting out.
+If a student wants to learn something, they'll at least try to learn something–which may not be what you're teaching. It’s not always a case of the student intentionally doing something bad, but something else caught their attention more at the time or they got confused on something and are now acting out.
 
-Fighting for attention can be remedied with some of these techniques. They may not work perfectly and their effects vary, but it’s significantly better than *not* using any of them.
+**Fighting for attention can be remedied with some of these techniques.** They may not work perfectly and their effects vary, but it’s significantly better than *not* using any of them.
 
 - Keep an overall level of focus (look up “utilization rate”) at 85% to 90%.
     - Some mental wandering, breaks, and loss of focus midway from students should be expected and accounted for.
@@ -80,16 +82,18 @@ Fighting for attention can be remedied with some of these techniques. They may n
 
 ### **Positive and Negative Student Behaviors**
 
-This usually applies to younger students, but older and adult learners can have behavior issues too. Two categories I’ll put behaviors in are positive and negative.
+*This usually applies to younger students, but older and adult learners can have behavior issues too.* 
+
+Two categories I’ll put behaviors in are positive and negative.
 
 Every student wants to be understood and accepted, but each student has different ways of getting that acknowledgement. Negative behaviors can be replacements for lack of attention or acknowledgement for many people.
 
 Positive behaviors are behaviors you want to enforce and reward, such as giving attention to, providing *random* acknowledgements, and compliments. These behaviors vary across teachers, but generally they are things you want students to do and how you want them to act. For behaviors you want to see, you provide a clear path to reach them and indications they are reaching positive behaviors along the way to the goal.
 
-Negative behaviors are behaviors that put you, the classroom, or other students in a disadvantageous position and threaten the sanctity of the learning environment. Whenever a negative-attention seeking behavior occurs from a student, you have two ways to handle it.
+Negative behaviors are behaviors that put you, the classroom, or other students in a disadvantageous position and threaten the sanctity of the learning environment. Whenever a negative-attention seeking behavior occurs from a student, I prefer two ways to handle it.
 
 1. Shut it down immediately.
-    1. All it takes is a few seconds for control to be lost, your authority diminished, and the rest of the class to see an opportunity to make it worse.
+    1. All it takes is a few seconds for control to be lost, your authority diminished, and the rest of the class/audience to see an opportunity to make it worse.
 2. Ignore it entirely.
     1. This doesn’t mean being harsh, but ignoring them means figuring out later how to replace negative behaviors with positive behaviors.
 
@@ -113,7 +117,7 @@ Even if you mitigate negative behaviors, it doesn’t always mean they’re gone
 
 Negative behaviors will rarely resolve in a single day as well. They can take a week, a month, or even years to resolve–or at least get better compared to before. Controlling behaviors amongst students is an exercise in management you cannot avoid, nor should you avoid.
 
-Additionally, as a teacher, there’s certain actions only other staff, such as principals and security, are equipped to handle and legally allowed to handle. If it reaches that point, do not hesitate to contact one of them to try to get the situation under control. The longer it takes to control the situation, the more likely something bad will happen.
+Additionally, if you're a teacher, there’s certain actions only other staff, such as principals and security, are equipped to handle and legally allowed to handle. If it reaches that point, do not hesitate to contact one of them to try to get the situation under control. The longer it takes to control the situation, the more likely something bad will happen.
 
 **Remember: All it takes is one disruptive, mismanaged student to ruin a classroom.**
 
@@ -133,11 +137,12 @@ Delving into this area further brings you into the world of psychology and into 
 
 General rule of thumb is if something *can* be automated, you probably should automate it. Why spend hours grading multiple choice questions by hand when you can instantly grade them in a fraction of time by supplying an answer key and putting it through software, or even hosting the assignment on a platform like Google Forms?
 
+However, you also want to make sure you don't automate yourself out of a job. You'd probably still want to get paid, I'd assuming.
+
 **Remember: Time is your most valuable resource. Once gone, it cannot be restored.**
+- **Also remember: automation can be expensive and may not always solve EVERY problem.**
 
 As a teacher, whatever you do should be optimized to get you back more time. The more time you have, the more time you can dedicate to your other students–or matters outside of teaching.
-
-**Also remember: automation can be expensive and may not always solve EVERY problem.**
 
 Automation–and AI (Artificial Intelligence) by extension–is not a one-size-fits-all solution. Not everything can–and should–be automated. If you’re unsure of what can be automated with existing technology, I’ll provide examples below:
 
@@ -161,4 +166,4 @@ https://www.pomodorotechnique.com/
 
 https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463
 
-## [Next Section](005_Standards_Objectives.md)
+## [Next Section](Z005_Standards_Objectives.md)

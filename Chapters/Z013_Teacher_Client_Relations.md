@@ -10,6 +10,8 @@ You’ll also need to learn how to work with people you don’t agree with and l
 
 ***Disclaimer: This section is more heavily opinionated.***
 
+### Primer on Psychology (kind of)
+
 Before we go into how to deal with people, I should briefly talk about their goals and unconscious bias. If you know what someone’s goal is, you’ll have an easier time rationalizing and dealing with them. There are times goals vary amongst different people in the same position, so this is a very broad overview. As a teacher, you’ll deal primarily with administrators and parents, as well as other teachers. Depending on your role or needs, you may also deal with agencies.
 
 As for bias… well, it’s unavoidable, ever-present, and unlikely to go away anytime soon. It’s the things people don’t *say* they do, but still do it anyway–the unknown knowns.
@@ -26,7 +28,7 @@ We’ll start with the principal, dean, and assistant principals, as they’re y
 
 In plain business terms, the Board/DoE wants a good return on their investment they put into the school. Ironically, the power a principal holds over teachers is also marred with their hands tied for many issues outside of their control, such as state and federal legal consequences for actions.
 
-Unlike most teaching roles, principals and deans are more public facing and deal with the brunt of *most* complaints and outside interference, such as the Department of Education, agencies, councils, parents, and more. They also deal with budgeting, meetings, staffing, planning, decision-making, operations, policy-making, public speaking, marketing, managing personnel (like teachers) across different disciplines, and significantly more. There’s also a lot of undefined work because these roles may need to do multiple duties outside of their work routine.
+Unlike typical teaching (and designing) roles, principals and deans are more public facing and deal with the brunt of *most* complaints and outside interference, such as the Department of Education, agencies, councils, parents, and more. They also deal with budgeting, meetings, staffing, planning, decision-making, operations, policy-making, public speaking, marketing, managing personnel (like teachers) across different disciplines, and significantly more. There’s also a lot of undefined work because these roles may need to do multiple duties outside of their work routine.
 
 For smaller schools, you may need only a single principal and sometimes the teachers will pitch in to cover deficiencies. For larger schools, you’ll still have one “principal” but many roles are divided or partitioned out amongst multiple people, such as assistant principals or deans. These roles assume some duties similar to a principal, but specialize in certain duties (such as discipline), groups of students (such as finance major students), or specialized administrative tasks (Legal Counsel and HR Manager). The principal still has a hand in the affairs of everything at the school and has a surprisingly large amount of legal power.
 
@@ -114,4 +116,4 @@ To keep it simple, treat them well. If you don’t, you’ll find yourself saddl
 
 https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications
 
-## [Next Section](013_Assistant_Teachers.md)
+## [Next Section](Z014_Assistant_Teachers.md)
