@@ -1,6 +1,6 @@
 # ReadMe
 
-Welcome to The Green Book (For Teachers, Instructors, Presenters, and Learning Designers). Included is the license involved with this work and how to navigate the repository for users unfamiliar with Github.
+Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and how to navigate the repository for users unfamiliar with Github.
 
 ## License
 
