@@ -2,7 +2,7 @@
 
 Providing information relevant to new teachers, old teachers wanting a different perspective on teaching, and for people interested or curious about teaching.
 
-**Last Updated: July 21, 2025**
+**Last Updated: July 22, 2025**
 
 ![The Green Book.png](https://i.ibb.co/8LjgkDTV/The-Green-Book-Pseudo-Cover-1.png)
 
