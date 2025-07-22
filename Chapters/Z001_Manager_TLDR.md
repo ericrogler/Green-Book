@@ -1,4 +1,4 @@
-# New Teacher Guide (Online & Free)
+# The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)
 
 Providing information relevant to new teachers, old teachers wanting a different perspective on teaching, and for people interested or curious about teaching.
 
