@@ -2,8 +2,6 @@
 
 Providing information relevant to new teachers and instructors, old teachers and instructors wanting a different perspective on teaching, and for people interested or curious about the art of teaching and presenting information.
 
-**Last Updated: July 22, 2025**
-
 ![The Green Book.png](https://i.ibb.co/8LjgkDTV/The-Green-Book-Pseudo-Cover-1.png)
 
 # A Manager TL;DR
