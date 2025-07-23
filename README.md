@@ -1,6 +1,10 @@
 # ReadMe
 
-Welcome to The Green Book (For Teachers, Instructors, Presenters, and Learning Designers). Included is the license involved with this work and how to navigate the repository for users unfamiliar with Github.
+Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and how to navigate the repository for users unfamiliar with Github.
+
+Last Updated: July 23, 2025
+
+## [Alternatively: click here to start reading!](Chapters/Z001_Manager_TLDR.md)
 
 ## License
 
@@ -44,5 +48,3 @@ There's multiple ways to view this repository, so I'll go over mobile, desktop, 
 
 **Monitor Width < ~1280p ("p" = pixels)**
 1. Follow the steps under "Mobile Specific Navigation" above to navigate across different chapters.
-
-## [Alternatively: click here to start reading!](Chapters/Z001_Manager_TLDR.md)

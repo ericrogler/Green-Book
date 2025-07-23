@@ -1,8 +1,8 @@
-# New Teacher Guide (Online & Free)
+# The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)
 
-Providing information relevant to new teachers, old teachers wanting a different perspective on teaching, and for people interested or curious about teaching.
+Providing information relevant to new teachers and instructors, old teachers and instructors wanting a different perspective on teaching, and for people interested or curious about the art of teaching and presenting information.
 
-**Last Updated: July 21, 2025**
+**Last Updated: July 22, 2025**
 
 ![The Green Book.png](https://i.ibb.co/8LjgkDTV/The-Green-Book-Pseudo-Cover-1.png)
 
@@ -41,10 +41,12 @@ Due to a teaching contract, I cannot easily provide curriculum materials as I *t
 - Good lectures are not boring. Bad lectures are boring.
 - The best way to learn varies across topics and you can teach multiple ways at once.
 - The time spent in class should make up for the time spent on homework and it also depends heavily on the subject. More time in class = less time in homework.
-- Collaborating people outside of students, like parents and administrators, is also necessary. If you cannot do this well, you’ll have a hard time as a teacher.
+- Collaborating people outside of students, like parents and administrators, is necessary. If you cannot do this well, you’ll have a hard time as a teacher.
 - If you treat your peers well, you’ll (likely) get treated well in turn.
 - You’ll need to learn how to work with people you don’t agree with and learn how to not take things personally.
-- Don’t use AI for learning if students do not know how to use AI safely and properly. It is still a tool you, as a teacher, should learn about, plan for, and utilize.
+- Don’t use AI for learning if students do not know how to use AI safely and properly.
 - Money is always a constraint when teaching. Be careful on how you spend it.
+- Templates are king.
+- Learn to design reusable materials.
 
-## [Go To Next Chapter](Z002_The_Actual_Overview.md)
+## [Next Section](Z002_The_Actual_Overview.md)
