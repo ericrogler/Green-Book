@@ -112,8 +112,6 @@ More importantly, the contract may explicitly spell out whatever property or mat
 - **Read. Contracts. Carefully.**
 - If there’s something in a contract you don’t know about, fix that ASAP.
 
-## [Go To Next Chapter](Z004_Management_101.md)
-
 ## **Reference Links**
 
 https://www.acenet.edu/Pages/default.aspx
@@ -185,3 +183,5 @@ https://www.ibo.org/
 https://www.act.org/
 
 https://www.collegeboard.org/
+
+## [Go To Next Chapter](Z004_Management_101.md)

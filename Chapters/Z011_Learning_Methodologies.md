@@ -79,8 +79,6 @@ If you’re still unsure what to tell students when it comes to learning, I’ll
 - Helping out people who struggle too much is detrimental to them
 - Goals matter more when chosen by someone rather than given
 
-## [Go To Next Chapter](Z012_Homework.md)
-
 ## **Reference Links**
 
 https://opendissertations.org/
@@ -96,3 +94,5 @@ https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles
 https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf
 
 https://apps.ankiweb.net/
+
+## [Go To Next Chapter](Z012_Homework.md)

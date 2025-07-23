@@ -253,8 +253,6 @@ There’s also a *chance* you could go over or under your deadline of 26 weeks; 
 
 The newsvendor model is one way to illustrate how having too little or too much material is costly and detrimental to all parties involved, even outside of a production context. The example provided is extremely simplified and in real-world scenarios there are significantly more costs and factors involved.
 
-## [Go To Next Chapter](Z011_Learning_Methodologies.md)
-
 ## **Reference Links**
 
 https://opendissertations.org/
@@ -270,3 +268,5 @@ https://www.atlassian.com/agile/scrum/sprints
 https://scrumguides.org/scrum-guide.html
 
 https://ocw.mit.edu/courses/15-772j-d-lab-supply-chains-fall-2014/6952be57b43aa185119c6f114908bcc5_MIT15_772JF14_Newsboy.pdf
+
+## [Go To Next Chapter](Z011_Learning_Methodologies.md)

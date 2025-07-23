@@ -69,8 +69,6 @@ Despite Wikipedia’s benefits and drawbacks, it’s inevitable a student may us
     - https://guides.lib.k-state.edu/c.php?g=181829&p=1195993 (my alma mater!)
     - https://usingsources.fas.harvard.edu/evaluating-sources-0
 
-## [Go To Next Chapter](Z009_Communication_Design_Usability.md)
-
 ## **Reference Links**
 
 [Uncomfortable knowledge: the social construction of ignorance in science and environmental policy discourses: Economy and Society](https://www.tandfonline.com/doi/abs/10.1080/03085147.2011.637335)
@@ -96,3 +94,5 @@ https://public.tableau.com/app/discover
 https://guides.lib.k-state.edu/c.php?g=181829&p=1195993
 
 https://usingsources.fas.harvard.edu/evaluating-sources-0
+
+## [Go To Next Chapter](Z009_Communication_Design_Usability.md)

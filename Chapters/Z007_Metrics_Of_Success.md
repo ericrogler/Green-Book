@@ -47,8 +47,6 @@ You may see two common terms used for metrics of success: Objectives and Key Res
 
 As an aside, if there is a metric available, there is a way to “game" the metric or optimize the metric. Though such methods are available, remember your primary goal is whether or not students successfully learn what you’re trying to teach. You may need to meet metrics, but you’re still a teacher at the end of the day.
 
-## [Go To Next Chapter](Z008_Source(s)_Of_Truth.md)
-
 ## **Reference Links**
 
 https://www.sciencedirect.com/science/article/pii/S131915782400137X
@@ -70,3 +68,5 @@ https://www.enrollify.org/blog/how-do-you-measure-student-success
 https://www.ibm.com/think/topics/data-bias
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC8784036/
+
+## [Go To Next Chapter](Z008_Source(s)_Of_Truth.md)

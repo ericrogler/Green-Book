@@ -87,8 +87,6 @@ Some software you use will look “good” and function properly, while other so
 
 Sometimes you’re forced to use a particular software, or suite of software, to accomplish your goal. At the end of the day, software is a tool to accomplish a task or solve a problem you have and you’ll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won’t get better with them unless you actually use them.
 
-## [Go To Next Chapter](Z022_Action_Plan_Day_1.md)
-
 ## Reference Links
 https://www.figma.com/blog/design-systems-101-what-is-a-design-system/ 
 
@@ -108,3 +106,4 @@ https://developer.apple.com/design/human-interface-guidelines/
 
 https://www.designsystems.com/ 
 
+## [Go To Next Chapter](Z022_Action_Plan_Day_1.md)
