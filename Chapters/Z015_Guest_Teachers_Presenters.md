@@ -54,6 +54,6 @@ After all of the checks and procedures to make sure they’re allowed in the cla
 
 Generally, if explicit roles weren’t defined for you, the teacher. I’d remain in the classroom and in the vicinity of students. This standard procedure helps address any emergencies or concerns the guest teacher is unable or ill equipped to handle. It also protects me, students, and the guest teacher in case of any unforeseen liabilities or situations we did not originally plan for.
 
-Overall, **if you want to get a guest teacher or presenter, it’s OK to do–and sometimes encouraged–but make sure you have all the legal stuff and background checks squared away before the time(s) they’re present.**
+**If you want to get a guest teacher or presenter, it’s OK to do–and sometimes encouraged–but make sure you have all the legal stuff and background checks squared away before the time(s) they’re present.**
 
-## [Next Section](Z016_Passporting_Information_Transfer.md)
+## [Go To Next Chapter](Z016_Passporting_Information_Transfer.md)

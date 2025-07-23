@@ -62,6 +62,8 @@ Most teachers I’ve seen are in the first two categories. Third category I’ve
 
 As a stern reminder, anything listed under “AI OK” still requires a human to verify its accuracy and ensure what is done is what you intended.
 
+## [Go To Next Chapter](Z021_Design_Systems_EdTech.md)
+
 ## **Reference Links**
 
 https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf
@@ -73,5 +75,3 @@ https://simonwillison.net/2025/Jun/6/six-months-in-llms/
 https://developers.google.com/machine-learning/crash-course
 
 https://ethical.institute/principles.html
-
-## [Next Section](Z021_Action_Plan_Day_1.md)

@@ -47,4 +47,4 @@ Due to a teaching contract, I cannot easily provide curriculum materials as I *t
 - Don’t use AI for learning if students do not know how to use AI safely and properly. It is still a tool you, as a teacher, should learn about, plan for, and utilize.
 - Money is always a constraint when teaching. Be careful on how you spend it.
 
-## [Next Section](Z002_The_Actual_Overview.md)
+## [Go To Next Chapter](Z002_The_Actual_Overview.md)

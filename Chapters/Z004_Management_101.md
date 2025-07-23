@@ -166,4 +166,4 @@ https://www.pomodorotechnique.com/
 
 https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463
 
-## [Next Section](Z005_Standards_Objectives.md)
+## [Go To Next Chapter](Z005_Standards_Objectives.md)

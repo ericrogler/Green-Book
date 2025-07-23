@@ -68,6 +68,7 @@ If it's near the end of the year and you need to reach net zero–where you spen
 
 **Remember: Never pay out-of-pocket unless absolutely necessary and don't go above your allotted learning budget whenever possible.** You don't have to spend a lot of money for a good teaching experience; only as much as you need.
 
+## [Go To Next Chapter](Z020_The_Use_Of_AI.md)
 
 ## **Reference Links**
 
@@ -92,5 +93,3 @@ https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questio
 https://www.irs.gov/filing/digital-assets
 
 https://www.investopedia.com/terms/l/leadtime.asp
-
-## [Next Section](Z020_The_Use_Of_AI.md)

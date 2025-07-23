@@ -67,6 +67,8 @@ Then you need to make time for a meeting with that assistant teacher. Said meeti
 
 Lastly, I want to go into another category: **a teacher of record or alternative teaching license**. Some states adopt a teacher of record pathway to a license as a means to address teacher shortages during unfavorable times. You’ll still likely need to be part of a teacher preparation program for the license, but you’re permitted to do work in a classroom setting normally reserved for the preparation program. It’s accessible to professionals of other fields outside of teaching to transition into teaching. Keep in mind you’ll still need transcript proof of any subject matter knowledge and may have to pass additional exams, like the PRAXIS. There’s a lot of other requirements in play I’m not privy to and won’t cover on this, but know this pathway to teaching does exist.
 
+## [Go To Next Chapter](Z015_Guest_Teachers_Presenters.md)
+
 ## **Reference Links**
 
 https://www.cde.state.co.us/fedprograms/tii/a_hqp
@@ -76,5 +78,3 @@ https://www.cde.state.co.us/educatortalent/hb1309
 https://www.cde.state.co.us/educatortalent/educator_preparation_search_engine/pathway_detail/65019/ASPIRE%20to%20Teach
 
 https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance
-
-## [Next Section](Z015_Guest_Teachers_Presenters.md)

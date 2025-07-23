@@ -48,6 +48,8 @@ You may come across other sets of standards (NOT curriculums!) such as NGSS and 
 - States and Districts require teachers covering the appropriate standards, but despite doing everything correctly, there are times you need to shorten or summarize teaching certain standards. That’s not always a failure on your part; that’s just life as a teacher.
 - A set of standards can be good, but a curriculum using those standards can be poor. The inverse is also true, but significantly more difficult to achieve in my opinion.
 
+## [Go To Next Chapter](Z006_Roadblocks_To_Teaching.md)
+
 ## **Reference Links**
 
 https://www.nextgenscience.org/
@@ -58,4 +60,3 @@ https://www.thecorestandards.org/
 
 https://corestandards.org/
 
-## [Next Section](Z006_Roadblocks_To_Teaching.md)

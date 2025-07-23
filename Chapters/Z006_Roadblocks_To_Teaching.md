@@ -89,4 +89,4 @@ If you don’t have assistance or a HR department, here’s things you should av
 
 What’s the relationship between weightlifting and people? You lift up weights and you lift up people’s knowledge. You want to lift other people up, not put them down, and you want to maintain a safe, acceptable, and respectable distance between you and your students.
 
-## [Next Section](Z007_Metrics_Of_Success.md)
+## [Go To Next Chapter](Z007_Metrics_Of_Success.md)

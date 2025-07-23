@@ -45,4 +45,4 @@ After the templating stage is done, you’ve effectively cut the time to make ev
 **Again, templates are great. If you can use a template, or make one, do it.** 
 - There are cases where you shouldn't use a template, but they are rare and far in-between. You can also template your lesson plans too.
 
-## [Next Section](Z023_Action_Plan_Month_1.md)
+## [Go To Next Chapter](Z024_Action_Plan_Month_1.md)

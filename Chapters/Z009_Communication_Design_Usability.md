@@ -95,6 +95,8 @@ If you want two examples, think about blind and deaf people. Braille was made to
 
 You might also claim that accessibility will harm the design and content of whatever you’re teaching. Outside of exceptional niche cases, that’s not always true. I found designing for accessibility won’t compromise the design, look, feel, and delivery of a message. If anything, it greatly improved the curriculum and made things simpler to understand for all students. It also eliminated–or heavily mitigated–issues where if students without disabilities probably experienced problems in one area, then students with disabilities definitely experienced problems in the same area.
 
+## [Go To Next Chapter](Z010_Agile_Teaching_Framework.md)
+
 ## Reference Links
 https://sensible.com/dont-make-me-think/ 
 
@@ -105,5 +107,3 @@ https://opensource.org/license/mit
 https://www.copyright.gov/ 
 
 https://www.investopedia.com/terms/p/paretoprinciple.asp 
-
-## [Next Section](Z010_Agile_Teaching_Framework.md)

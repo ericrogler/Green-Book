@@ -16,7 +16,7 @@ First, the obvious. What is a law where you’re located is still a law you shou
 
 As for the less obvious, you’ll need to search for it. I’m most familiar with the state of Colorado in the United States, so my examples are from there. If you’re elsewhere in the United States, the exact organizations will differ but still serve similar roles. If you’re outside of the United States, you may have something like the Department of Education and other federal judiciary organizations for your sovereign state.
 
-Using the state of Colorado as an example, I had some level of interaction with these types of organizations and laws:
+Using the state of Colorado as an example, I had some level of interaction with these types of organizations and laws. I don't expect to get every organization and law here; only a sample.
 
 - Colorado Department of Education (CDE)
 - U.S. Department of Education
@@ -112,6 +112,8 @@ More importantly, the contract may explicitly spell out whatever property or mat
 - **Read. Contracts. Carefully.**
 - If there’s something in a contract you don’t know about, fix that ASAP.
 
+## [Go To Next Chapter](Z004_Management_101.md)
+
 ## **Reference Links**
 
 https://www.acenet.edu/Pages/default.aspx
@@ -183,7 +185,3 @@ https://www.ibo.org/
 https://www.act.org/
 
 https://www.collegeboard.org/
-
-*That was a lot of links; that's all for now.*
-
-## [Next Section](Z004_Management_101.md)

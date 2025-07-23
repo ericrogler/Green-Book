@@ -98,6 +98,7 @@ Venting and decompressing varies across different people. It can be done through
 
 **Keep in mind these mental states and decompression processes are surprisingly normal.** I myself have gone through situations like these. Despite saying that, be mindful that your decompression or venting doesn't negatively harm or abuse other human beings, their property, and yourself. If it reaches that point or feels it's reaching that point, that's when it's gone too far and you’ll want professional help (e.g. therapists, doctors, etc ) getting through those hardships.
 
+## [Go To Next Chapter](Z019_Money_Budget_Management.md)
 
 ## **Reference Links**
 
@@ -116,5 +117,3 @@ https://www.cdc.gov/healthy-weight-growth/about/index.html
 https://www.nutrition.gov/topics/basic-nutrition/healthy-eating
 
 https://www.hhs.gov/programs/prevention-and-wellness/healthy-lifestyle/index.html
-
-## [Next Section](Z019_Money_Budget_Management.md)

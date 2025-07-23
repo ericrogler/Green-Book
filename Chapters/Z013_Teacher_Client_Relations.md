@@ -112,8 +112,8 @@ Without these staff members, your school wouldn’t help keep rooms clean, take 
 
 To keep it simple, treat them well. If you don’t, you’ll find yourself saddled with bad conditions and more work very quickly.
 
+## [Go To Next Chapter](Z014_Assistant_Teachers.md)
+
 ## **Reference Links**
 
 https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications
-
-## [Next Section](Z014_Assistant_Teachers.md)
