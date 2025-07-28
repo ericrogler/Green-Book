@@ -45,7 +45,7 @@ I'll post the entire exchange below; **[transcript sourced from IMDB](https://m.
 
 *(Transcript Start)*
 
-> *J.D.: You know what I was thinking the whole time I was having lunch with Jill?
+> J.D.: You know what I was thinking the whole time I was having lunch with Jill?
 
 > Dr. Cox: What's that?
 
@@ -61,7 +61,7 @@ I'll post the entire exchange below; **[transcript sourced from IMDB](https://m.
 
 > Dr. Cox: No. You don't. Once you start blaming yourself for deaths that aren't your fault, my friend, that's a slippery slope that you can't come back from. And trust me, I've seen it ruin a hell of a lot of good doctors. And I will not let it happen to you.
 
-> J.D.: [narration] And because he said that... I knew it wouldn't.*
+> J.D.: [narration] And because he said that... I knew it wouldn't.
 
 *(Transcript End)*
 
@@ -98,22 +98,20 @@ Venting and decompressing varies across different people. It can be done through
 
 **Keep in mind these mental states and decompression processes are surprisingly normal.** I myself have gone through situations like these. Despite saying that, be mindful that your decompression or venting doesn't negatively harm or abuse other human beings, their property, and yourself. If it reaches that point or feels it's reaching that point, that's when it's gone too far and you’ll want professional help (e.g. therapists, doctors, etc ) getting through those hardships.
 
-## **Reference Links**
+## References
 
-https://www.ncbi.nlm.nih.gov/books/NBK513254/
+1. Centers for Disease Control and Prevention. (2024, February 27). *About Hand Hygiene for Patients in Healthcare Settings*. https://www.cdc.gov/clean-hands/about/hand-hygiene-for-healthcare.html
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC10772474/
+2. Centers for Disease Control and Prevention. (2024, April 18). *Stay Healthy*. https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html
 
-https://www.cdc.gov/clean-hands/about/hand-hygiene-for-healthcare.html
+3. Office of Disease Prevention and Health Promotion. (n.d.). *Nutrition and Healthy Eating*. Healthy People 2030. https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating
 
-https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html
+4. Centers for Disease Control and Prevention. (2024, February 20). *About Healthy Weight and Growth*. https://www.cdc.gov/healthy-weight-growth/about/index.html
 
-https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating
+5. U.S. Department of Agriculture. (n.d.). *Healthy Eating*. Nutrition.gov. https://www.nutrition.gov/topics/basic-nutrition/healthy-eating
 
-https://www.cdc.gov/healthy-weight-growth/about/index.html
+6. U.S. Department of Health and Human Services. (2024, September 9). *Healthy Lifestyle*. https://www.hhs.gov/programs/prevention-and-wellness/healthy-lifestyle/index.html
 
-https://www.nutrition.gov/topics/basic-nutrition/healthy-eating
-
-https://www.hhs.gov/programs/prevention-and-wellness/healthy-lifestyle/index.html
+7. Lawrence, B (Director). (n.d.). *Scrubs* [Film quote]. IMDB. https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk
 
 ## [Go To Next Chapter](Z019_Money_Budget_Management.md)

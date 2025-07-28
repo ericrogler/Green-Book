@@ -68,28 +68,28 @@ If it's near the end of the year and you need to reach net zero–where you spen
 
 **Remember: Never pay out-of-pocket unless absolutely necessary and don't go above your allotted learning budget whenever possible.** You don't have to spend a lot of money for a good teaching experience; only as much as you need.
 
-## **Reference Links**
+## References
 
-https://www.irs.gov/forms-pubs/guide-to-business-expense-resources
+1. Internal Revenue Service. (2025, February 19). *Guide to business expense resources*. https://www.irs.gov/forms-pubs/guide-to-business-expense-resources
 
-https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations
+2. Internal Revenue Service. (2025, January 30). *Exemption requirements - 501(c)(3) organizations*. https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations
 
-https://www.irs.gov/charities-non-profits/exempt-organization-types
+3. Internal Revenue Service. (2025, June 5). *Exempt organization types*. https://www.irs.gov/charities-non-profits/exempt-organization-types
 
-https://www.cde.state.co.us/communications/copublicschoolfinance
+4. Colorado Department of Education. (2025, May 7). *Colorado public school finance*. https://www.cde.state.co.us/communications/copublicschoolfinance
 
-https://www.ed.gov/about/ed-overview/annual-performance-reports/budget-process-in-the-us-department-of-education
+5. U.S. Department of Education. (2025, June 27). *Budget process in the U.S. Department of Education*. https://www.ed.gov/about/ed-overview/annual-performance-reports/budget-process-in-the-us-department-of-education
 
-https://www.adoptaclassroom.org/
+6. AdoptAClassroom.org. (n.d.). *AdoptAClassroom.org*. https://www.adoptaclassroom.org/
 
-https://www.investopedia.com/terms/s/sectoral-currency.asp
+7. Chen, J. (2021, September 13). *Sectoral Currency*. Investopedia. https://www.investopedia.com/terms/s/sectoral-currency.asp
 
-https://www.investopedia.com/terms/c/complementary-currency-cc.asp
+8. Chen, J. (2024, June 30). *Complementary Currency: What It Is, How It Works, and Examples*. Investopedia. https://www.investopedia.com/terms/c/complementary-currency-cc.asp
 
-https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions
+9. Internal Revenue Service. (2025, April 23). *Frequently asked questions on virtual currency transactions*. https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions
 
-https://www.irs.gov/filing/digital-assets
+10. Internal Revenue Service. (2025, June 20). *Digital assets*. https://www.irs.gov/filing/digital-assets
 
-https://www.investopedia.com/terms/l/leadtime.asp
+11. Kenton, W. (2024, June 05). *Lead Time: Definition, How It Works, and Example*. Investopedia. https://www.investopedia.com/terms/l/leadtime.asp
 
 ## [Go To Next Chapter](Z020_The_Use_Of_AI.md)

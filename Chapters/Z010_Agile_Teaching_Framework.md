@@ -241,7 +241,7 @@ Sprinkle in short breaks throughout the parts as needed or when the session requ
 
 **Cost Overage vs Cost Underage (Teaching too much vs too little in X time)**
 
-You may have seen these terms before in an engineering, supply chain, or production context, where underage costs are costs when you don’t have enough inventory to meet demand and overage costs are costs when you have too much inventory beyond demand. If you have not heard these terms before and want to learn about more, look for “Newsvendor Model” on Google or another search engine. (**[Further reading from MIT OpenCourseWare](https://ocw.mit.edu/courses/15-772j-d-lab-supply-chains-fall-2014/6952be57b43aa185119c6f114908bcc5_MIT15_772JF14_Newsboy.pdf) (warning: higher-level math!)**)
+You may have seen these terms before in an engineering, supply chain, or production context, where underage costs are costs when you don’t have enough inventory to meet demand and overage costs are costs when you have too much inventory beyond demand. If you have not heard these terms before and want to learn about more, look for “Newsvendor Model” on Google or another search engine.
 
 In teaching, overage and underage costs are part of your monetary costs and budgeting, but also a way to define if you’re teaching the optimal amount of content in a given timeframe. This problem normally deals with supply quantities rather than timeframes, so my example may deviate from standard models.
 
@@ -253,20 +253,18 @@ There’s also a *chance* you could go over or under your deadline of 26 weeks; 
 
 The newsvendor model is one way to illustrate how having too little or too much material is costly and detrimental to all parties involved, even outside of a production context. The example provided is extremely simplified and in real-world scenarios there are significantly more costs and factors involved.
 
-## **Reference Links**
+## References
 
-https://opendissertations.org/
+1. EBSCO. (n.d.). *OpenDissertations*. https://opendissertations.org/
 
-https://agilemanifesto.org/principles.html
+2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. https://agilemanifesto.org/principles.html
 
-https://asana.com/resources/agile-methodology
+3. Laoyan, S. (2025, February 20). *Agile methodology: What it is and how to implement it*. https://asana.com/resources/agile-methodology
 
-https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
+4. Gurnov, A. (2025, May 22). *What is Agile Methodology in Project Management?* https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
 
-https://www.atlassian.com/agile/scrum/sprints
+5. Rehkopf, M. (n.d.). *Scrum Sprints*. https://www.atlassian.com/agile/scrum/sprints
 
-https://scrumguides.org/scrum-guide.html
-
-https://ocw.mit.edu/courses/15-772j-d-lab-supply-chains-fall-2014/6952be57b43aa185119c6f114908bcc5_MIT15_772JF14_Newsboy.pdf
+6. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. https://scrumguides.org/scrum-guide.html
 
 ## [Go To Next Chapter](Z011_Learning_Methodologies.md)

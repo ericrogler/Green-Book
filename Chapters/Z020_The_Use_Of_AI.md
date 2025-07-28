@@ -62,16 +62,16 @@ Most teachers I’ve seen are in the first two categories. Third category I’ve
 
 As a stern reminder, anything listed under “AI OK” still requires a human to verify its accuracy and ensure what is done is what you intended.
 
-## **Reference Links**
+## References
 
-https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf
+1. Cybersecurity and Infrastructure Security Agency. (2024, September). *Secure our world: Using AI – Tip sheet*. https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf
 
-https://fly.io/blog/youre-all-nuts/
+2. Ptacek, T. (2025, June 2). *My AI Skeptic Friends Are All Nuts*. Fly.io Blog. https://fly.io/blog/youre-all-nuts/
 
-https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+3. Willison, S. (2025, June 6). *The last six months in LLMs, illustrated by pelicans on bicycles.* https://simonwillison.net/2025/Jun/6/six-months-in-llms/
 
-https://developers.google.com/machine-learning/crash-course
+4. Google Developers. (n.d.). *Machine Learning Crash Course*. https://developers.google.com/machine-learning/crash-course
 
-https://ethical.institute/principles.html
+5. The Institute for Ethical AI & ML. (n.d.). *The Responsible Machine Learning Principles*. https://ethical.institute/principles.html
 
 ## [Go To Next Chapter](Z021_Design_Systems_EdTech.md)

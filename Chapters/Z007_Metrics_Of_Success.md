@@ -47,26 +47,14 @@ You may see two common terms used for metrics of success: Objectives and Key Res
 
 As an aside, if there is a metric available, there is a way to “game" the metric or optimize the metric. Though such methods are available, remember your primary goal is whether or not students successfully learn what you’re trying to teach. You may need to meet metrics, but you’re still a teacher at the end of the day.
 
-## **Reference Links**
+## References
 
-https://www.sciencedirect.com/science/article/pii/S131915782400137X
+1. U.S. Department of Education, Office of Career, Technical, and Adult Education. (2025, January 15). *Performance measures and accountability*. https://www.ed.gov/about/ed-offices/octae/performance-measures-and-accountability
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8402961/
+2. U.S. Department of Education. (2024, November 15). *How to measure and improve student success in higher education*. https://safesupportivelearning.ed.gov/news/how-measure-and-improve-student-success-higher-education
 
-https://ntrs.nasa.gov/api/citations/20010102850/downloads/20010102850.pdf
+3. Fields, E. (2024, November 15). How do you measure student success? *Enrollify*. https://www.enrollify.org/blog/how-do-you-measure-student-success
 
-https://www.sciencedirect.com/science/article/abs/pii/037722179090001R
-
-https://www.researchgate.net/publication/225260290_The_Theory_and_Practice_of_Simulated_Annealing
-
-https://www.ed.gov/about/ed-offices/octae/performance-measures-and-accountability
-
-https://safesupportivelearning.ed.gov/news/how-measure-and-improve-student-success-higher-education
-
-https://www.enrollify.org/blog/how-do-you-measure-student-success
-
-https://www.ibm.com/think/topics/data-bias
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8784036/
+4. Rogers, J., & Jonker, A. (2024, October 4). What is data bias?. IBM. https://www.ibm.com/think/topics/data-bias 
 
 ## [Go To Next Chapter](Z008_Source(s)_Of_Truth.md)

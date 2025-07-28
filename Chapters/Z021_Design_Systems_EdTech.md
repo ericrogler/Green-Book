@@ -87,23 +87,24 @@ Some software you use will look “good” and function properly, while other so
 
 Sometimes you’re forced to use a particular software, or suite of software, to accomplish your goal. At the end of the day, software is a tool to accomplish a task or solve a problem you have and you’ll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won’t get better with them unless you actually use them.
 
-## Reference Links
-https://www.figma.com/blog/design-systems-101-what-is-a-design-system/ 
+## References
 
-https://www.nngroup.com/articles/design-systems-101/ 
+1. Bergman, C. (2024, February 12). *Design systems 101: What is a design system?* https://www.figma.com/blog/design-systems-101-what-is-a-design-system/
 
-https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle 
+2. Fessenden, T. (2021, April 11). *Design systems 101*. https://www.nngroup.com/articles/design-systems-101/
 
-https://designsystem.digital.gov/ 
+3. TV Tropes. (n.d.). *Kansas City shuffle*. https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle
 
-https://atlassian.design/ 
+4. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. https://designsystem.digital.gov/
 
-https://m3.material.io/
+5. Atlassian. (n.d.). *Atlassian design system*. https://atlassian.design/
 
-https://developer.apple.com/design/ 
+6. Google. (n.d.). *Material 3 design system*. https://m3.material.io/
 
-https://developer.apple.com/design/human-interface-guidelines/  
+7. Apple Inc. (n.d.). *Apple design*. https://developer.apple.com/design/
 
-https://www.designsystems.com/ 
+8. Apple Inc. (n.d.). *Human interface guidelines*. https://developer.apple.com/design/human-interface-guidelines/
+
+9. Design Systems. (n.d.). *DesignSystems.com*. https://www.designsystems.com/
 
 ## [Go To Next Chapter](Z022_Action_Plan_Day_1.md)

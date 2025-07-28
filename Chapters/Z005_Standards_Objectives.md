@@ -48,14 +48,20 @@ You may come across other sets of standards (NOT curriculums!) such as NGSS and 
 - States and Districts require teachers covering the appropriate standards, but despite doing everything correctly, there are times you need to shorten or summarize teaching certain standards. That’s not always a failure on your part; that’s just life as a teacher.
 - A set of standards can be good, but a curriculum using those standards can be poor. The inverse is also true, but significantly more difficult to achieve in my opinion.
 
-## **Reference Links**
+## References
 
-https://www.nextgenscience.org/
+1. NextGenScience. (n.d.). *Next Generation Science Standards*. https://www.nextgenscience.org/
 
-https://www.nsta.org/science-standards
+2. National Science Teaching Association. (n.d.). *Science standards*. https://www.nsta.org/science-standards
 
-https://www.thecorestandards.org/
+3. Common Core State Standards Initiative. (n.d.). *The Common Core State Standards*. https://www.thecorestandards.org/
 
-https://corestandards.org/
+4. Common Core State Standards Initiative. (n.d.). *Common Core State Standards*. https://corestandards.org/
+
+5. Colorado Department of Education. (2025, July 3). *Colorado Department of Education*. https://www.cde.state.co.us/
+
+6. Colorado Department of Education. (n.d.). *Colorado academic standards*. https://www.cde.state.co.us/apps/standards/
+
+7. Colorado Department of Education. (2025, April 18). *Standards and instruction: Standards*. https://www.cde.state.co.us/standardsandinstruction/standards
 
 ## [Go To Next Chapter](Z006_Roadblocks_To_Teaching.md)

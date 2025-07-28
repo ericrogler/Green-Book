@@ -24,7 +24,7 @@ Sleep is important. Both students and teachers should not neglect it because it 
 
 ### Types of Practice
 
-**Spaced practice** (alternatively, “distributed practice”) is the most straight-forward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, time periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material; the optimal point to relearn is somewhere around where you’re just about to forget information. It’s used to combat the [**forgetting curve**](https://pmc.ncbi.nlm.nih.gov/articles/PMC4492928/) to help with active recall and better memory retention of the topic(s) learned.
+**Spaced practice** (alternatively, “distributed practice”) is the most straight-forward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, time periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material; the optimal point to relearn is somewhere around where you’re just about to forget information. It’s used to combat the [**forgetting curve**](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned.
 
 Before going into the next type of practice, I’ll review “massed practice” next. Massed practice is the opposite of spaced practice. Rather than giving time and learning over multiple sessions, you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work.
 
@@ -79,20 +79,18 @@ If you’re still unsure what to tell students when it comes to learning, I’ll
 - Helping out people who struggle too much is detrimental to them
 - Goals matter more when chosen by someone rather than given
 
-## **Reference Links**
+## References
 
-https://opendissertations.org/
+1. EBSCO. (n.d.). *OpenDissertations*. https://opendissertations.org/
 
-https://agilemanifesto.org/principles.html
+2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. https://agilemanifesto.org/principles.html
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC5141652/
+3. Riener, C. R., & Willingham, D. (2010, August). (PDF) *The Myth of Learning Styles.* ResearchGate. https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles 
 
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8222525/
+4. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf
 
-https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles
+5. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. https://apps.ankiweb.net/
 
-https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf
-
-https://apps.ankiweb.net/
+6. Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. https://e-student.org/ebbinghaus-forgetting-curve/ 
 
 ## [Go To Next Chapter](Z012_Homework.md)

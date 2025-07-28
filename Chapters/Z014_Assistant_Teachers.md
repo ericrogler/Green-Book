@@ -67,14 +67,14 @@ Then you need to make time for a meeting with that assistant teacher. Said meeti
 
 Lastly, I want to go into another category: **a teacher of record or alternative teaching license**. Some states adopt a teacher of record pathway to a license as a means to address teacher shortages during unfavorable times. You’ll still likely need to be part of a teacher preparation program for the license, but you’re permitted to do work in a classroom setting normally reserved for the preparation program. It’s accessible to professionals of other fields outside of teaching to transition into teaching. Keep in mind you’ll still need transcript proof of any subject matter knowledge and may have to pass additional exams, like the PRAXIS. There’s a lot of other requirements in play I’m not privy to and won’t cover on this, but know this pathway to teaching does exist.
 
-## **Reference Links**
+## References
 
-https://www.cde.state.co.us/fedprograms/tii/a_hqp
+1. Colorado Department of Education. (2025, April 4). *Title II, Part A – Highly Qualified Professionals (HQP)*. https://www.cde.state.co.us/fedprograms/tii/a_hqp
 
-https://www.cde.state.co.us/educatortalent/hb1309
+2. Colorado Department of Education. (2024, October 10). *House Bill 1309: Teacher recruitment and preparation programs*. https://www.cde.state.co.us/educatortalent/hb1309
 
-https://www.cde.state.co.us/educatortalent/educator_preparation_search_engine/pathway_detail/65019/ASPIRE%20to%20Teach
+3. Colorado Department of Education. (n.d.). *ASPIRE to Teach educator preparation pathway*. https://www.cde.state.co.us/educatortalent/educator_preparation_search_engine/pathway_detail/65019/ASPIRE%20to%20Teach
 
-https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance
+4. Colorado Department of Education. (2019). *Unique role guidance for educator effectiveness*. https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance
 
 ## [Go To Next Chapter](Z015_Guest_Teachers_Presenters.md)

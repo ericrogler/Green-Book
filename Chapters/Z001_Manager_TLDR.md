@@ -44,7 +44,6 @@ Due to a teaching contract, I cannot easily provide curriculum materials as I *t
 - You’ll need to learn how to work with people you don’t agree with and learn how to not take things personally.
 - Don’t use AI for learning if students do not know how to use AI safely and properly.
 - Money is always a constraint when teaching. Be careful on how you spend it.
-- Templates are king.
-- Learn to design reusable materials.
+- Templates are king, so learn to design reusable materials.
 
 ## [Go To Next Chapter](Z002_The_Actual_Overview.md)

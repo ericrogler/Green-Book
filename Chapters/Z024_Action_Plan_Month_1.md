@@ -31,11 +31,8 @@ Effectiveness and efficiency are two terms used in similar context and fields, b
 2. Once you learn that everything is a system of some kind and see what makes effective and efficient systems, you can't help but see inefficiencies in things you couldn't before.
 3. Per Peter Drucker in *The Effective Executive*: “Efficiency is doing things right. Effectiveness is doing the right thing.”
 
-## Reference Links
-https://m.imdb.com/title/tt0796524/quotes/ 
+## References
 
-https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk 
-
-https://a.co/d/aNqtAlC (The Effective Executive Amazon store link)
+1. Drucker, P. (2017). *The Effective Executive.*
 
 ## [Go To Next Chapter](Z025_Case_Study_Communication_Lesson_Example.md)

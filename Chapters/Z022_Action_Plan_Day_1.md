@@ -97,15 +97,14 @@ There's several other items you could use which don't administer drugs, but they
 - Are unlikely to be needed in everyday situations
 - Don't administer drugs, but have specific procedures involved to not cause life-threatening harm instead.
 
-## Reference Links
-https://www.ncbi.nlm.nih.gov/books/NBK441917/ 
+## References
 
-https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings
+1. U.S. Food and Drug Administration. (2024, October 21). *N95 Respirators, Surgical Masks, Face Masks, and Barrier Face Coverings*. https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings
 
-https://medlineplus.gov/ency/article/001958.htm
+2. MedlinePlus. (2025, January 8). *First aid kit*. U.S. National Library of Medicine. https://medlineplus.gov/ency/article/001958.htm
 
-https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html?srsltid=AfmBOoq7_k1YLTdpDwBd7lzvrKe_-UBZpO760LggKdQ4dVkC0Xvdf09t
+3. American Red Cross. (n.d.). *Make a First Aid Kit*. https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html?srsltid=AfmBOoq7_k1YLTdpDwBd7lzvrKe_-UBZpO760LggKdQ4dVkC0Xvdf09t
 
-https://medlineplus.gov/druginfo/meds/a681004.html
+4. MedlinePlus. (2023, September 15). *Acetaminophen*. U.S. National Library of Medicine. https://medlineplus.gov/druginfo/meds/a681004.html
 
 ## [Go To Next Chapter](Z023_Action_Plan_Week_1.md)

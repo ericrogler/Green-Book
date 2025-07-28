@@ -62,7 +62,8 @@ Avoid asking them questions dealing with heavy visual elements.
   - Ask “improv” questions about the presentation to the class
   - Allow early dismissal (if permitted by principal/school policy)
 
-## Reference Links
-https://m.youtube.com/watch?v=MnrJzXM7a6o
+## References
+
+1. Schroter, J. (2011, October 8). Steve Jobs introduces iPhone in 2007. YouTube. https://m.youtube.com/watch?v=MnrJzXM7a6o 
 
 ## [Go To Next Chapter](Z026_Conclusion_Learnings.md)
