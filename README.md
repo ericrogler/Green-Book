@@ -2,7 +2,7 @@
 
 Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and how to navigate the repository for users unfamiliar with Github.
 
-Last Updated: July 28, 2025
+Last Updated: July 30, 2025
 
 ### [Alternatively: click here to start reading!](Chapters/Z001_Manager_TLDR.md)
 
@@ -39,7 +39,7 @@ This work is licensed under a
 Per the license requirements, you may need these for citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, July 28). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners 
+  - Rogler, E. (2025, July 30). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners 
 - **CC-BY-SA License Link**
   - https://creativecommons.org/licenses/by-sa/4.0/
 - **Indication of changes made to original**
