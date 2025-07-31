@@ -1,6 +1,6 @@
-Communication, Design, and Usability
+# Communication, Design, and Usability
 ## Short Answer
-Being a teacher also means being a designer. The materials you provide students is an extension of your teaching and communication with them. If you don’t need to reinvent the wheel to teach your topic(s), then don’t reinvent the wheel.
+Being a teacher also means being a designer. The materials you provide students are an extension of your teaching and communication with them. If you don’t need to reinvent the wheel to teach your topic(s), then don’t reinvent the wheel.
 
 When in doubt, design for clarity and simplicity–even at the cost of some consistency. This goes for templates, assignments, tests, projects, activities, etc. The more clarity an assignment has, the more likely a student will do it with fewer issues.
 

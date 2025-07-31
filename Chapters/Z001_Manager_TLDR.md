@@ -2,8 +2,9 @@
 
 Providing information relevant to new teachers and instructors, old teachers and instructors wanting a different perspective on teaching, and for people interested or curious about the art of teaching and presenting information.
 
-![The Green Book.png](https://i.ibb.co/8LjgkDTV/The-Green-Book-Pseudo-Cover-1.png)
+![The Green Book.png](https://iili.io/Fg93eou.png)
 
+*Font used in pseudo cover: [Switzer](https://www.fontshare.com/fonts/switzer)*
 # A Manager TL;DR
 
 ### **My Role Overview**

@@ -6,7 +6,7 @@ Sometimes you need to help get a fellow teacher–or substitute teacher–set up
 
 ## **Long Answer**
 
-I’ll split this up into two sections: teacher-to-teacher and teacher-to-sub.
+I’ll split this up into two sections: teacher-to-teacher and teacher-to-substitute.
 
 ### **Teacher-to-Teacher**
 
