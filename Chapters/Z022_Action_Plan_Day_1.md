@@ -3,7 +3,7 @@
 
 The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is done in one day, what you need prepared may change.
 
-**Here are some things I'd like to have in the classroom by day 1.** I'm focusing bare essentials over “nice to haves” to balance preparedness with minimal cost and effort plus ability to address many situations:
+**Here are some things I'd like to have by day 1.** I'm focusing bare essentials over “nice to haves” to balance preparedness with minimal cost and effort plus ability to address many situations:
 - Facility access, like keys and scannable ID badge
 - Parking space, if you travel by car
 - Designated location(s) to teach on campus
