@@ -61,6 +61,7 @@ Avoid asking them questions dealing with heavy visual elements.
   - “Free time” for students until class dismissal
   - Ask “improv” questions about the presentation to the class
   - Allow early dismissal (if permitted by principal/school policy)
+  - Ask the students how they would make their own presentation on a topic of their choice, using the concepts and themes shown in the video.
 
 ## References
 
