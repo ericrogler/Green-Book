@@ -53,7 +53,7 @@ Most teachers I’ve seen are in the first two categories. Third category I’ve
 • Students with disabilities are explicitly allowed to use it to help them learn
 • To record and practice voice lines which are transcribed into text |
 
-| **AT Not Okay** |
+| **AI Not Okay** |
 | --- | 
 | • Completing assignments for students
 • Providing AI confidential or classified information
