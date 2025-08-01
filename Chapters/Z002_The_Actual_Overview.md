@@ -31,7 +31,7 @@ This writing is designed with the following people in mind:
 - People teaching in traditional classroom settings
 - People with non-teaching backgrounds and multi-disciplinary backgrounds
 - A student wondering why their teacher is doing things a certain way
-- Hiring managers not wanting to read the entire manual and just get an overview (a bit later; don’t worry!)
+- Hiring managers not wanting to read the entire thing and just get an overview
 
 ### **Assumptions / Advisory for Readers**
 
