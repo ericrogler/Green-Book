@@ -8,7 +8,7 @@
 
 ## **Introduction**
 
-Imagine I need to get a new teacher, instructor, presenter, from 0-100 as fast as possible, WITHOUT giving them any additional materials to copy+paste and they’re in a situation where they start from… well, basically nothing.
+Imagine I need to get a new teacher, instructor, presenter, etc. from 0-100 as fast as possible, WITHOUT giving them any additional materials to copy+paste and they’re in a situation where they start from… well, basically nothing.
 
 **That’s my problem here to solve and this writing is my solution. I take what seems complex and make it simpler to approach in an accessible way.**
 
