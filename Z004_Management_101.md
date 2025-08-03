@@ -1,5 +1,7 @@
 # Management 101
 
+### [Previous Chapter](Z003_Legality.md)
+
 ## **Short Answer**
 
 **Prepare for the worst, but assume the best of students.** You may also need licensure or certifications to teach certain subjects or do certain tasks legally, such as administering medicine to students
@@ -155,14 +157,16 @@ Automation–and AI (Artificial Intelligence) by extension–is not a one-size-f
 - Shortening text and summarizing
 
 ## References
-1. Colorado Department of Education. (n.d.). *Summary of 2023–24 discipline data release*. https://www.cde.state.co.us/dropoutprevention/summaryof2023-24disciplinedata-release
+1. Colorado Department of Education. (n.d.). *Summary of 2023–24 discipline data release*. [https://www.cde.state.co.us/dropoutprevention/summaryof2023-24disciplinedata-release](https://www.cde.state.co.us/dropoutprevention/summaryof2023-24disciplinedata-release)  
 
-2. Ferlazzo, L. (2018, October 27). Opinion response: Ways to handle a class that has gotten out of control. *Education Week*. https://www.edweek.org/teaching-learning/opinion-response-ways-to-handle-a-class-that-has-gotten-out-of-control/2018/10
+2. Ferlazzo, L. (2018, October 27). Opinion response: Ways to handle a class that has gotten out of control. *Education Week*. [https://www.edweek.org/teaching-learning/opinion-response-ways-to-handle-a-class-that-has-gotten-out-of-control/2018/10](https://www.edweek.org/teaching-learning/opinion-response-ways-to-handle-a-class-that-has-gotten-out-of-control/2018/10)  
 
-3. Voss, C., & Raz, T. (2016). *Never split the difference: Negotiating as if your life depended on it*. Harper Business. https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews
+3. Voss, C., & Raz, T. (2016). *Never split the difference: Negotiating as if your life depended on it*. Harper Business. [https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews](https://www.amazon.com/Never-Split-Difference-Negotiating-Depended/dp/0062407805#customerReviews)  
 
-4. Cirillo, F. (n.d.). *The Pomodoro Technique*. https://www.pomodorotechnique.com/
+4. Cirillo, F. (n.d.). *The Pomodoro Technique*. [https://www.pomodorotechnique.com/](https://www.pomodorotechnique.com/)  
 
-5. Rozati, F. (2025, April 9). *Analyzing the effects of TikTok on the attention span of evolving high school students*. Intersect: The Stanford Journal of Science, Technology, and Society. https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463 
+5. Rozati, F. (2025, April 9). *Analyzing the effects of TikTok on the attention span of evolving high school students*. Intersect: The Stanford Journal of Science, Technology, and Society. [https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463](https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463)
 
-## [Go To Next Chapter](Z005_Standards_Objectives.md)
+### [Next Chapter](Z005_Standards_Objectives.md)
+
+### [Back to Beginning](README.md)

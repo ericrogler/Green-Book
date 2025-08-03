@@ -1,5 +1,7 @@
 # Passporting & Information Transfer
 
+### [Previous Chapter](Z015_Guest_Teachers_Presenters.md)
+
 ## **Short Answer**
 
 Sometimes you need to help get a fellow teacher–or substitute teacher–set up in a classroom. You may not have to do it often, but it’s better to know how because you may be forced to do it.
@@ -74,4 +76,6 @@ Here are some things you should note down and divide by each class/subject for t
 
 Only put down information relevant for a substitute teacher–or another teacher in general–to know for these plans when you’re gone.
 
-## [Go To Next Chapter](Z017_Other_Additional_Duties.md)
+### [Next Chapter](Z017_Other_Additional_Duties.md)
+
+### [Back to Beginning](README.md)

@@ -1,4 +1,7 @@
 # Communication, Design, and Usability
+
+### [Previous Chapter](Z008_Source(s)_Of_Truth.md)
+
 ## Short Answer
 Being a teacher also means being a designer. The materials you provide students are an extension of your teaching and communication with them. If you don’t need to reinvent the wheel to teach your topic(s), then don’t reinvent the wheel.
 
@@ -96,14 +99,17 @@ If you want two examples, think about blind and deaf people. Braille was made to
 You might also claim that accessibility will harm the design and content of whatever you’re teaching. Outside of exceptional niche cases, that’s not always true. I found designing for accessibility won’t compromise the design, look, feel, and delivery of a message. If anything, it greatly improved the curriculum and made things simpler to understand for all students. It also eliminated–or heavily mitigated–issues where if students without disabilities probably experienced problems in one area, then students with disabilities definitely experienced problems in the same area.
 
 ## References
-1. Krug, S. (2014). *Don’t make me think*. Sensible. https://sensible.com/dont-make-me-think/
+1. Krug, S. (2014). *Don’t make me think*. Sensible. [https://sensible.com/dont-make-me-think/](https://sensible.com/dont-make-me-think/)
 
-2. Creative Commons. (n.d.). *About CC licenses*. https://creativecommons.org/share-your-work/cclicenses/
+2. Creative Commons. (n.d.). *About CC licenses*. [https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/)
 
-3. Open Source Initiative. (n.d.). *The MIT license*. https://opensource.org/license/mit
+3. Open Source Initiative. (n.d.). *The MIT license*. [https://opensource.org/license/mit](https://opensource.org/license/mit)
 
-4. U.S. Copyright Office. (n.d.). *U.S. Copyright Office*. https://www.copyright.gov/
+4. U.S. Copyright Office. (n.d.). *U.S. Copyright Office*. [https://www.copyright.gov/](https://www.copyright.gov/)
 
-5. The Investopedia Team. (2025, April 18). The Pareto Principle—aka the Pareto Rule or 80/20 Rule. *Investopedia*. https://www.investopedia.com/terms/p/paretoprinciple.asp
+5. The Investopedia Team. (2025, April 18). The Pareto Principle—aka the Pareto Rule or 80/20 Rule. *Investopedia*. [https://www.investopedia.com/terms/p/paretoprinciple.asp](https://www.investopedia.com/terms/p/paretoprinciple.asp)
 
-## [Go To Next Chapter](Z010_Agile_Teaching_Framework.md)
+
+### [Next Chapter](Z010_Agile_Teaching_Framework.md)
+
+### [Back to Beginning](README.md)

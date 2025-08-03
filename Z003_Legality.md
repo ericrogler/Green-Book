@@ -1,5 +1,7 @@
 # Legality
 
+### [Previous Chapter](Z002_The_Actual_Overview.md)
+
 ## **Short Answer**
 
 What you legally follow depends on your location, subject, and place of employment.
@@ -67,9 +69,9 @@ Generally speaking students, teachers, and teaching staff will deal with FERPA a
 
 For more information on FERPA and HIPAA, see the following links below:
 
-- https://www.cdc.gov/phlp/php/resources/index.html
-- https://www.hhs.gov/hipaa/for-professionals/special-topics/ferpa-hipaa/index.html
-- https://www.hhs.gov/hipaa/for-professionals/faq/ferpa-and-hipaa/index.html
+- [https://www.cdc.gov/phlp/php/resources/index.html](https://www.cdc.gov/phlp/php/resources/index.html)  
+- [https://www.hhs.gov/hipaa/for-professionals/special-topics/ferpa-hipaa/index.html](https://www.hhs.gov/hipaa/for-professionals/special-topics/ferpa-hipaa/index.html)  
+- [https://www.hhs.gov/hipaa/for-professionals/faq/ferpa-and-hipaa/index.html](https://www.hhs.gov/hipaa/for-professionals/faq/ferpa-and-hipaa/index.html)
 
 The FERPA and HIPAA relationship comes from how educational records covered under FERPA are excluded from HIPAA. They both have their own set of regulations when it comes to disclosing health information as well. In addition to personal information coverage, FERPA *also* covers educational records as well.
 
@@ -87,9 +89,9 @@ To summarize, an IEP focuses on modifying the instruction/delivery of material a
 
 IEPs and 504s have nation-wide resources available, whereas IHPs have info at the state level. Here are a few links you can see for future reference.
 
-- https://sites.ed.gov/idea/topic-areas/#IEP
-- https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504
-- https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019
+- [https://sites.ed.gov/idea/topic-areas/#IEP](https://sites.ed.gov/idea/topic-areas/#IEP)  
+- [https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504](https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504)  
+- [https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019](https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019)
 
 Establishing one of these plans is not always your responsibility as a teacher, but meeting the plan’s accommodations and knowing the accommodations a student needs are a teacher’s responsibility. Additionally, these plans can change over time and are not set in stone for the entire student’s learning journey.
 
@@ -116,80 +118,82 @@ More importantly, the contract may explicitly spell out whatever property or mat
 - If there’s something in a contract you don’t know about, fix that ASAP.
 
 ## References
-1. American Council on Education. (n.d.). *American Council on Education*. https://www.acenet.edu/Pages/default.aspx
+1. American Council on Education. (n.d.). *American Council on Education*. [https://www.acenet.edu/Pages/default.aspx](https://www.acenet.edu/Pages/default.aspx)
 
-2. American Council on Education. (2024). *Accreditation toolkit: New England*. https://www.acenet.edu/Documents/Accreditation-Toolkit-NE.pdf
+2. American Council on Education. (2024). *Accreditation toolkit: New England*. [https://www.acenet.edu/Documents/Accreditation-Toolkit-NE.pdf](https://www.acenet.edu/Documents/Accreditation-Toolkit-NE.pdf)  
 
-3. Coursera Staff. (2025, July 15). *What are college credits?* Coursera. https://www.coursera.org/articles/what-are-college-credits
+3. Coursera Staff. (2025, July 15). *What are college credits?* Coursera. [https://www.coursera.org/articles/what-are-college-credits](https://www.coursera.org/articles/what-are-college-credits)  
 
-4. U.S. Department of Education. (2025, June 17). *The federal role in education*. https://www.ed.gov/about/ed-overview/federal-role-in-education
+4. U.S. Department of Education. (2025, June 17). *The federal role in education*. [https://www.ed.gov/about/ed-overview/federal-role-in-education](https://www.ed.gov/about/ed-overview/federal-role-in-education)  
 
-5. U.S. Department of Education. (2025, April 4). *Individuals with Disabilities Education Act (IDEA)*. https://www.ed.gov/laws-and-policy/individuals-disabilities/idea
+5. U.S. Department of Education. (2025, April 4). *Individuals with Disabilities Education Act (IDEA)*. [https://www.ed.gov/laws-and-policy/individuals-disabilities/idea](https://www.ed.gov/laws-and-policy/individuals-disabilities/idea)  
 
-6. U.S. Department of Education. (2025, January 14). *Every Student Succeeds Act (ESSA)*. https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/every-student-succeeds-act-essa
+6. U.S. Department of Education. (2025, January 14). *Every Student Succeeds Act (ESSA)*. [https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/every-student-succeeds-act-essa](https://www.ed.gov/laws-and-policy/laws-preschool-grade-12-education/every-student-succeeds-act-essa)  
 
-7. U.S. Department of Education. (2025, January 14). *Disability discrimination: Providing a free appropriate public education (FAPE)*. https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/disability-discrimination-key-issues/disability-discrimination-providing-free-appropriate-public-education-fape
+7. U.S. Department of Education. (2025, January 14). *Disability discrimination: Providing a free appropriate public education (FAPE)*. [https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/disability-discrimination-key-issues/disability-discrimination-providing-free-appropriate-public-education-fape](https://www.ed.gov/laws-and-policy/civil-rights-laws/disability-discrimination/disability-discrimination-key-issues/disability-discrimination-providing-free-appropriate-public-education-fape)  
 
-8. Colorado Department of Education. (2022, December). *Colorado educational governance*. https://www.cde.state.co.us/cdedepcom/coeducationalgovernance
+8. Colorado Department of Education. (2022, December). *Colorado educational governance*. [https://www.cde.state.co.us/cdedepcom/coeducationalgovernance](https://www.cde.state.co.us/cdedepcom/coeducationalgovernance)  
 
-9. Colorado Department of Education. (2013, December 19). *Colorado law and non-public schools*. https://www.cde.state.co.us/choice/nonpublic_law
+9. Colorado Department of Education. (2013, December 19). *Colorado law and non-public schools*. [https://www.cde.state.co.us/choice/nonpublic_law](https://www.cde.state.co.us/choice/nonpublic_law)  
 
-10. Colorado Department of Education. (2025, May 14). *Home school*. https://www.cde.state.co.us/choice/homeschool
+10. Colorado Department of Education. (2025, May 14). *Home school*. [https://www.cde.state.co.us/choice/homeschool](https://www.cde.state.co.us/choice/homeschool)  
 
-11. U.S. Copyright Office. (n.d.). *U.S. Copyright Office*. https://www.copyright.gov/
+11. U.S. Copyright Office. (n.d.). *U.S. Copyright Office*. [https://www.copyright.gov/](https://www.copyright.gov/)  
 
-12. Colorado Department of Education. (2025, January 21). *Professional next steps*. https://www.cde.state.co.us/cdeprof/professional_nextsteps
+12. Colorado Department of Education. (2025, January 21). *Professional next steps*. [https://www.cde.state.co.us/cdeprof/professional_nextsteps](https://www.cde.state.co.us/cdeprof/professional_nextsteps)  
 
-13. Colorado Department of Education. (2025, July 28). *Online learning*. https://www.cde.state.co.us/onlinelearning
+13. Colorado Department of Education. (2025, July 28). *Online learning*. [https://www.cde.state.co.us/onlinelearning](https://www.cde.state.co.us/onlinelearning)  
 
-14. U.S. Department of Education. (2025, June 17). *Colorado state regulation of private and home schools*. https://www.ed.gov/birth-grade-12-education/education-choice/state-regulation-of-private-and-home-schools/colorado-state-regulation-of-private-and-home-schools
+14. U.S. Department of Education. (2025, June 17). *Colorado state regulation of private and home schools*. [https://www.ed.gov/birth-grade-12-education/education-choice/state-regulation-of-private-and-home-schools/colorado-state-regulation-of-private-and-home-schools](https://www.ed.gov/birth-grade-12-education/education-choice/state-regulation-of-private-and-home-schools/colorado-state-regulation-of-private-and-home-schools)  
 
-15. Higher Learning Commission. (2025). *Higher Learning Commission*. https://www.hlcommission.org/
+15. Higher Learning Commission. (2025). *Higher Learning Commission*. [https://www.hlcommission.org/](https://www.hlcommission.org/)  
 
-16. GED Testing Service. (n.d.). *GED*. https://www.ged.com/
+16. GED Testing Service. (n.d.). *GED*. [https://www.ged.com/](https://www.ged.com/)  
 
-17. WASC Senior College and University Commission. (n.d.). *WSCUC*. https://www.wscuc.org/
+17. WASC Senior College and University Commission. (n.d.). *WSCUC*. [https://www.wscuc.org/](https://www.wscuc.org/)  
 
-18. AACSB International. (n.d.). *AACSB*. https://www.aacsb.edu/
+18. AACSB International. (n.d.). *AACSB*. [https://www.aacsb.edu/](https://www.aacsb.edu/)  
 
-19. ABET. (n.d.). *ABET*. https://www.abet.org/
+19. ABET. (n.d.). *ABET*. [https://www.abet.org/](https://www.abet.org/)  
 
-20. National Architectural Accrediting Board. (n.d.). *NAAB*. https://www.naab.org/home
+20. National Architectural Accrediting Board. (n.d.). *NAAB*. [https://www.naab.org/home](https://www.naab.org/home)  
 
-21. Colorado Office of School Safety. (n.d.). *Mandatory reporting*. https://oss.colorado.gov/mandatory-reporting
+21. Colorado Office of School Safety. (n.d.). *Mandatory reporting*. [https://oss.colorado.gov/mandatory-reporting](https://oss.colorado.gov/mandatory-reporting) 
 
-22. American Academy of Pediatrics. (2024, March 1). *HIPAA and FERPA basics*. https://www.aap.org/en/patient-care/school-health/hipaa-and-ferpa-basics/
+22. American Academy of Pediatrics. (2024, March 1). *HIPAA and FERPA basics*. [https://www.aap.org/en/patient-care/school-health/hipaa-and-ferpa-basics/](https://www.aap.org/en/patient-care/school-health/hipaa-and-ferpa-basics/)  
 
-23. U.S. Department of Health & Human Services. (2020, September 23). *FERPA and HIPAA*. https://www.hhs.gov/hipaa/for-professionals/special-topics/ferpa-hipaa/index.html
+23. U.S. Department of Health & Human Services. (2020, September 23). *FERPA and HIPAA*. [https://www.hhs.gov/hipaa/for-professionals/special-topics/ferpa-hipaa/index.html](https://www.hhs.gov/hipaa/for-professionals/special-topics/ferpa-hipaa/index.html)  
 
-24. U.S. Department of Health & Human Services. (n.d.). *FERPA and HIPAA FAQs*. https://www.hhs.gov/hipaa/for-professionals/faq/ferpa-and-hipaa/index.html
+24. U.S. Department of Health & Human Services. (n.d.). *FERPA and HIPAA FAQs*. [https://www.hhs.gov/hipaa/for-professionals/faq/ferpa-and-hipaa/index.html](https://www.hhs.gov/hipaa/for-professionals/faq/ferpa-and-hipaa/index.html)  
 
-25. Centers for Disease Control and Prevention. (2024, July 10). *Public health law program resources*. https://www.cdc.gov/phlp/php/resources/index.html
+25. Centers for Disease Control and Prevention. (2024, July 10). *Public health law program resources*. [https://www.cdc.gov/phlp/php/resources/index.html](https://www.cdc.gov/phlp/php/resources/index.html)  
 
-26. Readiness and Emergency Management for Schools. (2024, August 13). *K-12 FERPA*. https://rems.ed.gov/K12FERPA.aspx?AspxAutoDetectCookieSupport=1
+26. Readiness and Emergency Management for Schools. (2024, August 13). *K-12 FERPA*. [https://rems.ed.gov/K12FERPA.aspx?AspxAutoDetectCookieSupport=1](https://rems.ed.gov/K12FERPA.aspx?AspxAutoDetectCookieSupport=1)  
 
-27. Schultz, S. (2022, December). *Differences between 504 plan and individualized education program (IEP)*. https://www.nea.org/professional-excellence/student-engagement/tools-tips/differences-between-504-plan-and-individualized-education-program-iep
+27. Schultz, S. (2022, December). *Differences between 504 plan and individualized education program (IEP)*. [https://www.nea.org/professional-excellence/student-engagement/tools-tips/differences-between-504-plan-and-individualized-education-program-iep](https://www.nea.org/professional-excellence/student-engagement/tools-tips/differences-between-504-plan-and-individualized-education-program-iep)  
 
-28. U.S. Department of Education. (n.d.). *IEP topic areas*. https://sites.ed.gov/idea/topic-areas/#IEP
+28. U.S. Department of Education. (n.d.). *IEP topic areas*. [https://sites.ed.gov/idea/topic-areas/#IEP](https://sites.ed.gov/idea/topic-areas/#IEP)  
 
-29. U.S. Department of Education. (2025, July 8). *Section 504*. https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504
+29. U.S. Department of Education. (2025, July 8). *Section 504*. [https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504](https://www.ed.gov/laws-and-policy/individuals-disabilities/section-504)  
 
-30. Colorado Department of Education. (2025, March). *Individualized healthcare plan process*. https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019
+30. Colorado Department of Education. (2025, March). *Individualized healthcare plan process*. [https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019](https://www.cde.state.co.us/shs/individualizedhealthcareplanprocesspdfjune2019)  
 
-31. ChildCare.gov. (n.d.). *Child protective services*. https://childcare.gov/consumer-education/child-protective-services
+31. ChildCare.gov. (n.d.). *Child protective services*. [https://childcare.gov/consumer-education/child-protective-services](https://childcare.gov/consumer-education/child-protective-services)  
 
-32. Colorado Department of Public Safety. (n.d.). *Mandated reporting tip sheet*. https://cdpsdocs.state.co.us/safeschools/Resources/CDE%20Building%20Bridges/MandatedReportingTipSheet81310.pdf
+32. Colorado Department of Public Safety. (n.d.). *Mandated reporting tip sheet*. [https://cdpsdocs.state.co.us/safeschools/Resources/CDE%20Building%20Bridges/MandatedReportingTipSheet81310.pdf](https://cdpsdocs.state.co.us/safeschools/Resources/CDE%20Building%20Bridges/MandatedReportingTipSheet81310.pdf)  
 
-33. U.S. Department of Justice. (2024, June 11). *Rights of juveniles*. https://www.justice.gov/crt/rights-juveniles
+33. U.S. Department of Justice. (2024, June 11). *Rights of juveniles*. [https://www.justice.gov/crt/rights-juveniles](https://www.justice.gov/crt/rights-juveniles)  
 
-34. Office of Juvenile Justice and Delinquency Prevention. (n.d.). *OJJDP*. https://ojjdp.ojp.gov/
+34. Office of Juvenile Justice and Delinquency Prevention. (n.d.). *OJJDP*. [https://ojjdp.ojp.gov/](https://ojjdp.ojp.gov/)  
 
-35. Colorado Department of Education. (2024, November 7). *CDE tasks*. https://www.cde.state.co.us/cdecomm/cdetasks
+35. Colorado Department of Education. (2024, November 7). *CDE tasks*. [https://www.cde.state.co.us/cdecomm/cdetasks](https://www.cde.state.co.us/cdecomm/cdetasks)  
 
-36. International Baccalaureate Organization. (n.d.). *IBO*. https://www.ibo.org/
+36. International Baccalaureate Organization. (n.d.). *IBO*. [https://www.ibo.org/](https://www.ibo.org/)  
 
-37. ACT. (n.d.). *ACT*. https://www.act.org/
+37. ACT. (n.d.). *ACT*. [https://www.act.org/](https://www.act.org/)  
 
-38. College Board. (n.d.). *College Board*. https://www.collegeboard.org/
+38. College Board. (n.d.). *College Board*. [https://www.collegeboard.org/](https://www.collegeboard.org/)
 
-## [Go To Next Chapter](Z004_Management_101.md)
+### [Next Chapter](Z004_Management_101.md)
+
+### [Back to Beginning](README.md)

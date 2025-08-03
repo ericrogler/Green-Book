@@ -1,5 +1,7 @@
 # Conclusion / Learnings
 
+### [Previous Chapter](Z025_Case_Study_Communication_Lesson_Example.md)
+
 Teaching is many different fields merged together in a single profession.
 
 There’s also a lot of management involved and you can always improve your teaching over time. The beginning may seem difficult and overwhelming, but it gets easier over time to teach subjects, create curriculums, and people over time.
@@ -10,4 +12,4 @@ Outside of that, thank you for reading and I hope you came away from this manual
 
 ### You have reached the end! 😃
 
-## [Back to Chapter List](/Chapters/)
+### [Back to Beginning](README.md)

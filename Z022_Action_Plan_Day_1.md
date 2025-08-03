@@ -1,9 +1,12 @@
 # Action Plan: Day 1 
+
+### [Previous Chapter](Z021_Design_Systems_EdTech.md)
+
 *Notice: This setup is designed for a year long (or semester long) class session taking place at a physical location for primary or secondary education.*
 
 The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is done in one day, what you need prepared may change.
 
-**Here are some things I'd like to have by day 1.** I'm focusing bare essentials over “nice to haves” to balance preparedness with minimal cost and effort plus ability to address many situations:
+**Here are some things I'd like to have (and/or know) by day 1.** I'm focusing bare essentials over “nice to haves” to balance preparedness with minimal cost and effort plus ability to address many situations:
 - Facility access, like keys and scannable ID badge
 - Parking space, if you travel by car
 - Designated location(s) to teach on campus
@@ -33,7 +36,11 @@ The very first day of a classroom setting. Depending on your timeframe, like if 
 - List of software and other tools you need for class on the first day
 - N95 and KN95 (or higher grade) masks
 
-This is a large list, but think of it like climbing a plateau. It is steep initially, but once you reach the top it flattens out and is easier to traverse. There are some parts I'll go more into depth on which aren't as obvious.
+This is a large list, but think of it like climbing a plateau. It is steep initially, but once you reach the top it flattens out and is easier to traverse. 
+
+You may be climbing up a short plateau as well, and not even need all these items. You may need even more than what's listed here. The situation depends on a case-by-case basis.
+
+There are some parts I'll go more into depth on which aren't as obvious.
 
 ### Syllabus
 This is important information for the student to know about in your class. Depending on student demographics, this can be either simple or more complex in design.
@@ -99,12 +106,14 @@ There's several other items you could use which don't administer drugs, but they
 
 ## References
 
-1. U.S. Food and Drug Administration. (2024, October 21). *N95 Respirators, Surgical Masks, Face Masks, and Barrier Face Coverings*. https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings
+1. U.S. Food and Drug Administration. (2024, October 21). *N95 Respirators, Surgical Masks, Face Masks, and Barrier Face Coverings*. [https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings](https://www.fda.gov/medical-devices/personal-protective-equipment-infection-control/n95-respirators-surgical-masks-face-masks-and-barrier-face-coverings)
 
-2. MedlinePlus. (2025, January 8). *First aid kit*. U.S. National Library of Medicine. https://medlineplus.gov/ency/article/001958.htm
+2. MedlinePlus. (2025, January 8). *First aid kit*. U.S. National Library of Medicine. [https://medlineplus.gov/ency/article/001958.htm](https://medlineplus.gov/ency/article/001958.htm)
 
-3. American Red Cross. (n.d.). *Make a First Aid Kit*. https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html?srsltid=AfmBOoq7_k1YLTdpDwBd7lzvrKe_-UBZpO760LggKdQ4dVkC0Xvdf09t
+3. American Red Cross. (n.d.). *Make a First Aid Kit*. [https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html?srsltid=AfmBOoq7_k1YLTdpDwBd7lzvrKe_-UBZpO760LggKdQ4dVkC0Xvdf09t](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html?srsltid=AfmBOoq7_k1YLTdpDwBd7lzvrKe_-UBZpO760LggKdQ4dVkC0Xvdf09t)
 
-4. MedlinePlus. (2023, September 15). *Acetaminophen*. U.S. National Library of Medicine. https://medlineplus.gov/druginfo/meds/a681004.html
+4. MedlinePlus. (2023, September 15). *Acetaminophen*. U.S. National Library of Medicine. [https://medlineplus.gov/druginfo/meds/a681004.html](https://medlineplus.gov/druginfo/meds/a681004.html)
 
-## [Go To Next Chapter](Z023_Action_Plan_Week_1.md)
+### [Next Chapter](Z023_Action_Plan_Week_1.md)
+
+### [Back to Beginning](README.md)

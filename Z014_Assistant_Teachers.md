@@ -1,5 +1,7 @@
 # Assistant Teachers
 
+### [Previous Chapter](Z013_Teacher_Client_Relations.md)
+
 ## **Short Answer**
 
 This category of teachers and teaching assistants are *assisting you*, not taking over for you. If you have them, plan as if you may not have them initially in case they are not available and/or not doing the necessary aid you require.
@@ -69,12 +71,14 @@ Lastly, I want to go into another category: **a teacher of record or alternative
 
 ## References
 
-1. Colorado Department of Education. (2025, April 4). *Title II, Part A – Highly Qualified Professionals (HQP)*. https://www.cde.state.co.us/fedprograms/tii/a_hqp
+1. Colorado Department of Education. (2025, April 4). *Title II, Part A – Highly Qualified Professionals (HQP)*. [https://www.cde.state.co.us/fedprograms/tii/a_hqp](https://www.cde.state.co.us/fedprograms/tii/a_hqp)
 
-2. Colorado Department of Education. (2024, October 10). *House Bill 1309: Teacher recruitment and preparation programs*. https://www.cde.state.co.us/educatortalent/hb1309
+2. Colorado Department of Education. (2024, October 10). *House Bill 1309: Teacher recruitment and preparation programs*. [https://www.cde.state.co.us/educatortalent/hb1309](https://www.cde.state.co.us/educatortalent/hb1309)
 
-3. Colorado Department of Education. (n.d.). *ASPIRE to Teach educator preparation pathway*. https://www.cde.state.co.us/educatortalent/educator_preparation_search_engine/pathway_detail/65019/ASPIRE%20to%20Teach
+3. Colorado Department of Education. (n.d.). *ASPIRE to Teach educator preparation pathway*. [https://www.cde.state.co.us/educatortalent/educator_preparation_search_engine/pathway_detail/65019/ASPIRE%20to%20Teach](https://www.cde.state.co.us/educatortalent/educator_preparation_search_engine/pathway_detail/65019/ASPIRE%20to%20Teach)
 
-4. Colorado Department of Education. (2019). *Unique role guidance for educator effectiveness*. https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance
+4. Colorado Department of Education. (2019). *Unique role guidance for educator effectiveness*. [https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance](https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance)
 
-## [Go To Next Chapter](Z015_Guest_Teachers_Presenters.md)
+### [Next Chapter](Z015_Guest_Teachers_Presenters.md)
+
+### [Back to Beginning](README.md)

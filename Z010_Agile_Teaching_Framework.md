@@ -1,5 +1,7 @@
 # “Agile” Teaching Framework
 
+### [Previous Chapter](Z009_Communication_Design_Usability.md)
+
 ## **Short Answer**
 
 *Disclaimer: I built this framework in mind for secondary and tertiary education (middle school and above). Elementary school/primary education may need adjustments beyond what is written here.*
@@ -255,18 +257,20 @@ The newsvendor model is one way to illustrate how having too little or too much 
 
 ## References
 
-1. EBSCO. (n.d.). *OpenDissertations*. https://opendissertations.org/
+1. EBSCO. (n.d.). *OpenDissertations*. [https://opendissertations.org/](https://opendissertations.org/)
 
-2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. https://agilemanifesto.org/principles.html
+2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
 
-3. Laoyan, S. (2025, February 20). *Agile methodology: What it is and how to implement it*. https://asana.com/resources/agile-methodology
+3. Laoyan, S. (2025, February 20). *Agile methodology: What it is and how to implement it*. [https://asana.com/resources/agile-methodology](https://asana.com/resources/agile-methodology)
 
-4. Gurnov, A. (2025, May 22). *What is Agile Methodology in Project Management?* https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
+4. Gurnov, A. (2025, May 22). *What is Agile Methodology in Project Management?* [https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/)
 
-5. Rehkopf, M. (n.d.). *Scrum Sprints*. https://www.atlassian.com/agile/scrum/sprints
+5. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
 
-6. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. https://scrumguides.org/scrum-guide.html
+6. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 
 7. 1946, The Wilson Era: Years of War and After 1917-1923 by Josephus Daniels, Quote Page 624, The University of North Carolina Press, Chapel Hill, North Carolina. (Verified with scans)
 
-## [Go To Next Chapter](Z011_Learning_Methodologies.md)
+### [Next Chapter](Z011_Learning_Methodologies.md)
+
+### [Back to Beginning](README.md)

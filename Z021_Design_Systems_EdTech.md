@@ -1,4 +1,7 @@
 # Design Systems and EdTech
+
+### [Previous Chapter](Z020_The_Use_Of_AI.md)
+
 ## Short Answer:
 
 Everyone is a designer. Not everyone is a good designer though.
@@ -65,12 +68,12 @@ Think of design systems as curriculums. Let me draw some parallels below:
 - Do whatever makes the most sense for your use case(s) and for the people using your design system or curriculum. 
   - If it doesn’t make sense, then no one’s going to want to stick with it
 - Look up actual design systems. Some examples are linked below:
-  - https://designsystem.digital.gov/ 
-  - https://atlassian.design/ 
-  - https://m3.material.io/
-  - https://developer.apple.com/design/ 
-  - https://developer.apple.com/design/human-interface-guidelines/  
-  - https://www.designsystems.com/ 
+  - [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
+  - [https://atlassian.design/](https://atlassian.design/)
+  - [https://m3.material.io/](https://m3.material.io/)
+  - [https://developer.apple.com/design/](https://developer.apple.com/design/)
+  - [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
+  - [https://www.designsystems.com/](https://www.designsystems.com/)
 - If you want to make good designs, you have to start designing.
 - Learn to not fall in love with your work, because high chances are you will change it later.
   - Sometimes it’s also your boss or consumers making you change it.
@@ -89,22 +92,24 @@ Sometimes you’re forced to use a particular software, or suite of software, to
 
 ## References
 
-1. Bergman, C. (2024, February 12). *Design systems 101: What is a design system?* https://www.figma.com/blog/design-systems-101-what-is-a-design-system/
+1. Bergman, C. (2024, February 12). *Design systems 101: What is a design system?* [https://www.figma.com/blog/design-systems-101-what-is-a-design-system/](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
 
-2. Fessenden, T. (2021, April 11). *Design systems 101*. https://www.nngroup.com/articles/design-systems-101/
+2. Fessenden, T. (2021, April 11). *Design systems 101*. [https://www.nngroup.com/articles/design-systems-101/](https://www.nngroup.com/articles/design-systems-101/)
 
-3. TV Tropes. (n.d.). *Kansas City shuffle*. https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle
+3. TV Tropes. (n.d.). *Kansas City shuffle*. [https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle](https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle)
 
-4. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. https://designsystem.digital.gov/
+4. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
-5. Atlassian. (n.d.). *Atlassian design system*. https://atlassian.design/
+5. Atlassian. (n.d.). *Atlassian design system*. [https://atlassian.design/](https://atlassian.design/)
 
-6. Google. (n.d.). *Material 3 design system*. https://m3.material.io/
+6. Google. (n.d.). *Material 3 design system*. [https://m3.material.io/](https://m3.material.io/)
 
-7. Apple Inc. (n.d.). *Apple design*. https://developer.apple.com/design/
+7. Apple Inc. (n.d.). *Apple design*. [https://developer.apple.com/design/](https://developer.apple.com/design/)
 
-8. Apple Inc. (n.d.). *Human interface guidelines*. https://developer.apple.com/design/human-interface-guidelines/
+8. Apple Inc. (n.d.). *Human interface guidelines*. [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
 
-9. Design Systems. (n.d.). *DesignSystems.com*. https://www.designsystems.com/
+9. Design Systems. (n.d.). *DesignSystems.com*. [https://www.designsystems.com/](https://www.designsystems.com/)
 
-## [Go To Next Chapter](Z022_Action_Plan_Day_1.md)
+### [Next Chapter](Z022_Action_Plan_Day_1.md)
+
+### [Back to Beginning](README.md)

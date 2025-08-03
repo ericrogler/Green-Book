@@ -1,5 +1,7 @@
 # Teacher-Client Relations
 
+### [Previous Chapter](Z012_Homework.md)
+
 ## **Short Answer**
 
 Working with people outside of students, like parents and administrators, is also necessary. If you cannot do this well, you’ll have a hard time making it through teaching and getting any support you need. If you treat your peers well, you’ll (likely) get treated well in turn.
@@ -114,6 +116,8 @@ To keep it simple, treat them well. If you don’t, you’ll find yourself saddl
 
 ## References
 
-1. U.S. Equal Employment Opportunity Commission. (n.d.). *CM-625 bona fide occupational qualifications*. https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications
+1. U.S. Equal Employment Opportunity Commission. (n.d.). *CM-625 bona fide occupational qualifications*. [https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)
 
-## [Go To Next Chapter](Z014_Assistant_Teachers.md)
+### [Next Chapter](Z014_Assistant_Teachers.md)
+
+### [Back to Beginning](README.md)

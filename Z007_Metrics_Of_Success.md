@@ -1,5 +1,7 @@
 # Metrics Of Success
 
+### [Previous Chapter](Z006_Roadblocks_To_Teaching.md)
+
 ## **Short Answer**
 
 Depends on your goals, but metrics should be measures designed to be consistent and objective. Test scores are one common–and visible–metric to base performance on.
@@ -49,14 +51,16 @@ As an aside, if there is a metric available, there is a way to “game" the metr
 
 ## References
 
-1. U.S. Department of Education, Office of Career, Technical, and Adult Education. (2025, January 15). *Performance measures and accountability*. https://www.ed.gov/about/ed-offices/octae/performance-measures-and-accountability
+1. U.S. Department of Education, Office of Career, Technical, and Adult Education. (2025, January 15). *Performance measures and accountability*. [https://www.ed.gov/about/ed-offices/octae/performance-measures-and-accountability](https://www.ed.gov/about/ed-offices/octae/performance-measures-and-accountability)
 
-2. U.S. Department of Education. (2024, November 15). *How to measure and improve student success in higher education*. https://safesupportivelearning.ed.gov/news/how-measure-and-improve-student-success-higher-education
+2. U.S. Department of Education. (2024, November 15). *How to measure and improve student success in higher education*. [https://safesupportivelearning.ed.gov/news/how-measure-and-improve-student-success-higher-education](https://safesupportivelearning.ed.gov/news/how-measure-and-improve-student-success-higher-education)
 
-3. Fields, E. (2024, November 15). How do you measure student success? *Enrollify*. https://www.enrollify.org/blog/how-do-you-measure-student-success
+3. Fields, E. (2024, November 15). How do you measure student success? *Enrollify*. [https://www.enrollify.org/blog/how-do-you-measure-student-success](https://www.enrollify.org/blog/how-do-you-measure-student-success)
 
-4. Rogers, J., & Jonker, A. (2024, October 4). What is data bias?. IBM. https://www.ibm.com/think/topics/data-bias
+4. Rogers, J., & Jonker, A. (2024, October 4). What is data bias? IBM. [https://www.ibm.com/think/topics/data-bias](https://www.ibm.com/think/topics/data-bias)
 
 5. Strathern, Marilyn. (1997). "['Improving ratings': audit in the British University system](https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)". European Review. 5 (3). John Wiley & Sons: 305–321. doi:[10.1002/(SICI)1234-981X(199707)5:3<305::AID-EURO184>3.0.CO;2-4](https://www.cambridge.org/core/journals/european-review/article/abs/improving-ratings-audit-in-the-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [145644958](https://api.semanticscholar.org/CorpusID:145644958). 
 
-## [Go To Next Chapter](Z008_Source(s)_Of_Truth.md)
+### [Next Chapter](Z008_Source(s)_Of_Truth.md)
+
+### [Back to Beginning](README.md)

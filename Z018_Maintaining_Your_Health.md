@@ -1,5 +1,7 @@
 # Maintaining Your Health
 
+### [Previous Chapter](Z017_Other_Additional_Duties.md)
+
 ## **Short Answer**
 
 You are human, so you have human needs you also need to fill. Leave work at work whenever you can.
@@ -100,18 +102,20 @@ Venting and decompressing varies across different people. It can be done through
 
 ## References
 
-1. Centers for Disease Control and Prevention. (2024, February 27). *About Hand Hygiene for Patients in Healthcare Settings*. https://www.cdc.gov/clean-hands/about/hand-hygiene-for-healthcare.html
+1. Centers for Disease Control and Prevention. (2024, February 27). *About Hand Hygiene for Patients in Healthcare Settings*. [https://www.cdc.gov/clean-hands/about/hand-hygiene-for-healthcare.html](https://www.cdc.gov/clean-hands/about/hand-hygiene-for-healthcare.html)
 
-2. Centers for Disease Control and Prevention. (2024, April 18). *Stay Healthy*. https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html
+2. Centers for Disease Control and Prevention. (2024, April 18). *Stay Healthy*. [https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html](https://www.cdc.gov/prepare-your-health/plan-ahead/stay-healthy.html)
 
-3. Office of Disease Prevention and Health Promotion. (n.d.). *Nutrition and Healthy Eating*. Healthy People 2030. https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating
+3. Office of Disease Prevention and Health Promotion. (n.d.). *Nutrition and Healthy Eating*. Healthy People 2030. [https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating](https://odphp.health.gov/healthypeople/objectives-and-data/browse-objectives/nutrition-and-healthy-eating)
 
-4. Centers for Disease Control and Prevention. (2024, February 20). *About Healthy Weight and Growth*. https://www.cdc.gov/healthy-weight-growth/about/index.html
+4. Centers for Disease Control and Prevention. (2024, February 20). *About Healthy Weight and Growth*. [https://www.cdc.gov/healthy-weight-growth/about/index.html](https://www.cdc.gov/healthy-weight-growth/about/index.html)
 
-5. U.S. Department of Agriculture. (n.d.). *Healthy Eating*. Nutrition.gov. https://www.nutrition.gov/topics/basic-nutrition/healthy-eating
+5. U.S. Department of Agriculture. (n.d.). *Healthy Eating*. Nutrition.gov. [https://www.nutrition.gov/topics/basic-nutrition/healthy-eating](https://www.nutrition.gov/topics/basic-nutrition/healthy-eating)
 
-6. U.S. Department of Health and Human Services. (2024, September 9). *Healthy Lifestyle*. https://www.hhs.gov/programs/prevention-and-wellness/healthy-lifestyle/index.html
+6. U.S. Department of Health and Human Services. (2024, September 9). *Healthy Lifestyle*. [https://www.hhs.gov/programs/prevention-and-wellness/healthy-lifestyle/index.html](https://www.hhs.gov/programs/prevention-and-wellness/healthy-lifestyle/index.html)
 
-7. Lawrence, B (Director). (n.d.). *Scrubs* [Film quote]. IMDB. https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk
+7. Lawrence, B (Director). (n.d.). *Scrubs* [Film quote]. IMDB. [https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk](https://m.imdb.com/title/tt0796524/quotes/?item=qt5357194&ref_=ext_shr_lnk)
 
-## [Go To Next Chapter](Z019_Money_Budget_Management.md)
+### [Next Chapter](Z019_Money_Budget_Management.md)
+
+### [Back to Beginning](README.md)

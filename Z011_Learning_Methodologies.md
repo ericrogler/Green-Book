@@ -1,5 +1,7 @@
 # Learning Methodologies
 
+### [Previous Chapter](Z010_Agile_Teaching_Framework.md)
+
 ## **Short Answer**
 
 I’m not a proponent of “individual learning styles” ([**see here for further evidence**](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)). There are optimal ways to learn topics, but the best way varies from topic to topic and you can teach in multiple ways at once. Direct instruction is an effective way of learning, if done well.
@@ -81,16 +83,20 @@ If you’re still unsure what to tell students when it comes to learning, I’ll
 
 ## References
 
-1. EBSCO. (n.d.). *OpenDissertations*. https://opendissertations.org/
+1. EBSCO. (n.d.). *OpenDissertations*. [https://opendissertations.org/](https://opendissertations.org/)
 
-2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. https://agilemanifesto.org/principles.html
+2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
 
-3. Riener, C. R., & Willingham, D. (2010, August). (PDF) *The Myth of Learning Styles.* ResearchGate. https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles 
+3. Riener, C. R., & Willingham, D. (2010, August). (PDF) *The Myth of Learning Styles.* ResearchGate. [https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)
 
-4. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf
+4. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. [https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf)
 
-5. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. https://apps.ankiweb.net/
+5. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
-6. Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. https://e-student.org/ebbinghaus-forgetting-curve/ 
+6. Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
 
-## [Go To Next Chapter](Z012_Homework.md)
+7. Parrish, S. (n.d.). *Feynman Technique: The Ultimate Guide to Learning Anything Faster*. Farnam Street Media Inc. [https://fs.blog/feynman-technique/](https://fs.blog/feynman-technique/)
+
+### [Next Chapter](Z012_Homework.md)
+
+### [Back to Beginning](README.md)

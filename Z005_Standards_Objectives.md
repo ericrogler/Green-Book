@@ -1,5 +1,7 @@
 # Standards / Objectives
 
+### [Previous Chapter](Z004_Management_101.md)
+
 ## **Short Answer**
 
 Standards depend heavily on what, where, and how you’re teaching. You may have many standards to follow or not that many, so learn where you can and cannot be flexible on topics to enhance learning. Additionally, you may have to make concessions on topics and time you need for the curriculum.
@@ -29,12 +31,12 @@ If, however, you’re teaching in a physical environment like a traditional clas
 If you’re unsure how to find state education standards, your best bet is the Internet. For an example, I’ll use Colorado’s website and search for K-12 academic standards in general.
 
 1. Go to your state’s DoE website (Colorado = CDE)
-    1. E.g. https://www.cde.state.co.us/
+    1. E.g. [https://www.cde.state.co.us/](https://www.cde.state.co.us/)  
 2. Search for “Academic Standards”
 3. Assuming the website is indexed properly, it should be the first result or on the first result page 
-    1. E.g. https://www.cde.state.co.us/standardsandinstruction/standards
+    1. E.g. [https://www.cde.state.co.us/standardsandinstruction/standards](https://www.cde.state.co.us/standardsandinstruction/standards)  
 4. From there, you can select a subject area or look through all standards in one menu 
-    1. E.g. https://www.cde.state.co.us/apps/standards/
+    1. E.g. [https://www.cde.state.co.us/apps/standards/](https://www.cde.state.co.us/apps/standards/)
     2. You can also sort by focus and grade level as well.
 
 For colleges and universities, a similar search process may occur in your specialized or institutional accreditation providing standards you need to follow.
@@ -50,18 +52,20 @@ You may come across other sets of standards (NOT curriculums!) such as NGSS and 
 
 ## References
 
-1. NextGenScience. (n.d.). *Next Generation Science Standards*. https://www.nextgenscience.org/
+1. NextGenScience. (n.d.). *Next Generation Science Standards*. [https://www.nextgenscience.org/](https://www.nextgenscience.org/)  
 
-2. National Science Teaching Association. (n.d.). *Science standards*. https://www.nsta.org/science-standards
+2. National Science Teaching Association. (n.d.). *Science standards*. [https://www.nsta.org/science-standards](https://www.nsta.org/science-standards)  
 
-3. Common Core State Standards Initiative. (n.d.). *The Common Core State Standards*. https://www.thecorestandards.org/
+3. Common Core State Standards Initiative. (n.d.). *The Common Core State Standards*. [https://www.thecorestandards.org/](https://www.thecorestandards.org/)  
 
-4. Common Core State Standards Initiative. (n.d.). *Common Core State Standards*. https://corestandards.org/
+4. Common Core State Standards Initiative. (n.d.). *Common Core State Standards*. [https://corestandards.org/](https://corestandards.org/)  
 
-5. Colorado Department of Education. (2025, July 3). *Colorado Department of Education*. https://www.cde.state.co.us/
+5. Colorado Department of Education. (2025, July 3). *Colorado Department of Education*. [https://www.cde.state.co.us/](https://www.cde.state.co.us/)  
 
-6. Colorado Department of Education. (n.d.). *Colorado academic standards*. https://www.cde.state.co.us/apps/standards/
+6. Colorado Department of Education. (n.d.). *Colorado academic standards*. [https://www.cde.state.co.us/apps/standards/](https://www.cde.state.co.us/apps/standards/)  
 
-7. Colorado Department of Education. (2025, April 18). *Standards and instruction: Standards*. https://www.cde.state.co.us/standardsandinstruction/standards
+7. Colorado Department of Education. (2025, April 18). *Standards and instruction: Standards*. [https://www.cde.state.co.us/standardsandinstruction/standards](https://www.cde.state.co.us/standardsandinstruction/standards)
 
-## [Go To Next Chapter](Z006_Roadblocks_To_Teaching.md)
+### [Next Chapter](Z006_Roadblocks_To_Teaching.md)
+
+### [Back to Beginning](README.md)

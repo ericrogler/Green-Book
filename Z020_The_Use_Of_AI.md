@@ -1,5 +1,7 @@
 # The Use of AI
 
+### [Previous Chapter](Z019_Money_Budget_Management.md)
+
 ## **Short Answer**
 
 **Don’t use AI for learning if students do not know how to use AI safely and properly.** It is still a tool you, as a teacher, should learn about, plan for, and utilize because it is not going away any time soon.
@@ -64,14 +66,17 @@ As a stern reminder, anything listed under “AI OK” still requires a human to
 
 ## References
 
-1. Cybersecurity and Infrastructure Security Agency. (2024, September). *Secure our world: Using AI – Tip sheet*. https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf
+1. Cybersecurity and Infrastructure Security Agency. (2024, September). *Secure our world: Using AI – Tip sheet*. [https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf)
 
-2. Ptacek, T. (2025, June 2). *My AI Skeptic Friends Are All Nuts*. Fly.io Blog. https://fly.io/blog/youre-all-nuts/
+2. Ptacek, T. (2025, June 2). *My AI Skeptic Friends Are All Nuts*. Fly.io Blog. [https://fly.io/blog/youre-all-nuts/](https://fly.io/blog/youre-all-nuts/)
 
-3. Willison, S. (2025, June 6). *The last six months in LLMs, illustrated by pelicans on bicycles.* https://simonwillison.net/2025/Jun/6/six-months-in-llms/
+3. Willison, S. (2025, June 6). *The last six months in LLMs, illustrated by pelicans on bicycles.* [https://simonwillison.net/2025/Jun/6/six-months-in-llms/](https://simonwillison.net/2025/Jun/6/six-months-in-llms/)
 
-4. Google Developers. (n.d.). *Machine Learning Crash Course*. https://developers.google.com/machine-learning/crash-course
+4. Google Developers. (n.d.). *Machine Learning Crash Course*. [https://developers.google.com/machine-learning/crash-course](https://developers.google.com/machine-learning/crash-course)
 
-5. The Institute for Ethical AI & ML. (n.d.). *The Responsible Machine Learning Principles*. https://ethical.institute/principles.html
+5. The Institute for Ethical AI & ML. (n.d.). *The Responsible Machine Learning Principles*. [https://ethical.institute/principles.html](https://ethical.institute/principles.html)
 
-## [Go To Next Chapter](Z021_Design_Systems_EdTech.md)
+
+### [Next Chapter](Z021_Design_Systems_EdTech.md)
+
+### [Back to Beginning](README.md)

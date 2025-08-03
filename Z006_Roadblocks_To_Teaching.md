@@ -1,5 +1,7 @@
 # Roadblocks To Teaching
 
+### [Previous Chapter](Z005_Standards_Objectives.md)
+
 ## **Short Answer**
 
 **There’s four types of blockers I’ll define:**
@@ -89,4 +91,12 @@ If you don’t have assistance or a HR department, here’s things you should av
 
 What’s the relationship between weightlifting and people? You lift up weights and you lift up people’s knowledge. You want to lift other people up, not put them down, and you want to maintain a safe, acceptable, and respectable distance between you and your students.
 
-## [Go To Next Chapter](Z007_Metrics_Of_Success.md)
+## References
+
+1. NASA. (n.d.). *NASA's Eyes*. [https://science.nasa.gov/eyes/](https://science.nasa.gov/eyes/)
+
+2. U.S. Geological Survey. (n.d.). *USGS TopoView*. [https://ngmdb.usgs.gov/topoview/](https://ngmdb.usgs.gov/topoview/)
+
+### [Next Chapter](Z007_Metrics_Of_Success.md)
+
+### [Back to Beginning](README.md)

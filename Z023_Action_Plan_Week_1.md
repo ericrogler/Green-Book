@@ -1,5 +1,7 @@
 # Action Plan: Week 1
 
+### [Previous Chapter](Z022_Action_Plan_Day_1.md)
+
 After the first day, it gets easier. Really, it does. The next wall, however, is getting through week 1 and having everything you need by the end of it done or close to done. 
 
 This week is difficult precisely because everything is still “new” and you may need to spend a lot of time outside work now to save time later. It's like interest and principal on a loan; if you pay extra money now towards the principal on top of the interest, the average interest across all future pay periods decreases.
@@ -45,4 +47,6 @@ After the templating stage is done, you’ve effectively cut the time to make ev
 **Again, templates are great. If you can use a template, or make one, do it.** 
 - There are cases where you shouldn't use a template, but they are rare and far in-between. You can also template your lesson plans too.
 
-## [Go To Next Chapter](Z024_Action_Plan_Month_1.md)
+### [Next Chapter](Z024_Action_Plan_Month_1.md)
+
+### [Back to Beginning](README.md)

@@ -1,5 +1,7 @@
 # Source(s) of Truth
 
+### [Previous Chapter](Z007_Metrics_Of_Success.md)
+
 ## **Short Answer**
 
 **“Absence of Evidence is not Evidence of Absence” – Carl Sagan, Astronomer**
@@ -66,32 +68,35 @@ Despite Wikipedia’s benefits and drawbacks, it’s inevitable a student may us
 - If you look at Wikipedia, go to the bottom of the page/article and look for headers like “References” and “External Links.” Use the information from *those* sources as research and citations.
 - Wikipedia is OK as a starting point, but no further.
 - Ensure you’re able to evaluate sources properly through critical thinking. The following links are two ways of evaluating sources:
-    - https://guides.lib.k-state.edu/c.php?g=181829&p=1195993 (my alma mater!)
-    - https://usingsources.fas.harvard.edu/evaluating-sources-0
+    - [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993) (my alma mater!)
+    - [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
 
 ## References
 
-1. Rayner, S. (2012, February 9). *Uncomfortable knowledge: The social construction of ignorance in science and environmental policy discourses: Economy and society: Vol 41, no 1.* Taylor & Francis Online. https://www.tandfonline.com/doi/abs/10.1080/03085147.2011.637335 
+1. Rayner, S. (2012, February 9). *Uncomfortable knowledge: The social construction of ignorance in science and environmental policy discourses: Economy and society: Vol 41, no 1.* Taylor & Francis Online. [https://www.tandfonline.com/doi/abs/10.1080/03085147.2011.637335](https://www.tandfonline.com/doi/abs/10.1080/03085147.2011.637335)
 
-2. *United States Department of Defense*. Defense.gov Transcript: DoD News Briefing - Secretary Rumsfeld and Gen. Myers. (2002, February 12). https://web.archive.org/web/20160406235718/http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636 
+2. *United States Department of Defense*. Defense.gov Transcript: DoD News Briefing - Secretary Rumsfeld and Gen. Myers. (2002, February 12). [https://web.archive.org/web/20160406235718/http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636](https://web.archive.org/web/20160406235718/http://archive.defense.gov/Transcripts/Transcript.aspx?TranscriptID=2636)
 
-3. Kohn, A. (1995). *Punished by rewards*. Turn-the-page Press. 
+3. Kohn, A. (1995). *Punished by rewards*. Turn-the-page Press.
 
-4. Harvard, B. (2018, March 9). Assumptions about learning in the classroom. *The Effortful Educator*. https://theeffortfuleducator.com/2018/03/09/assumptions-about-learning-in-the-classroom/
+4. Harvard, B. (2018, March 9). *Assumptions about learning in the classroom*. The Effortful Educator. [https://theeffortfuleducator.com/2018/03/09/assumptions-about-learning-in-the-classroom/](https://theeffortfuleducator.com/2018/03/09/assumptions-about-learning-in-the-classroom/)
 
-5. Knaflic, C. N. (n.d.). *Storytelling with data*. https://www.storytellingwithdata.com/
+5. Knaflic, C. N. (n.d.). *Storytelling with data*. [https://www.storytellingwithdata.com/](https://www.storytellingwithdata.com/)
 
-6. Charpentier, A. (n.d.). *The Python graph gallery*. https://www.python-graph-gallery.com/
+6. Python Graph Gallery. (n.d.). *The Python graph gallery*. [https://www.python-graph-gallery.com/](https://www.python-graph-gallery.com/)
 
-7. McCandless, D. (n.d.). *Information is beautiful*. https://informationisbeautiful.net/
+7. McCandless, D., et al. (n.d.). *Information is beautiful*. [https://informationisbeautiful.net/](https://informationisbeautiful.net/)
 
-8. Microsoft. (n.d.). *Power BI*. https://powerbi.microsoft.com/en-us/
+8. Microsoft. (n.d.). *Power BI*. [https://powerbi.microsoft.com/en-us/](https://powerbi.microsoft.com/en-us/)
 
-9. Tableau Software. (n.d.). *Tableau Public*. https://public.tableau.com/app/discover
+9. Tableau Software. (n.d.). *Tableau Public*. [https://public.tableau.com/app/discover](https://public.tableau.com/app/discover)
 
-10. Kansas State University Libraries. (n.d.). Evaluate Sources. https://guides.lib.k-state.edu/c.php?g=181829&p=1195993
+10. Kansas State University Libraries. (n.d.). *Evaluate Sources*. [https://guides.lib.k-state.edu/c.php?g=181829&p=1195993](https://guides.lib.k-state.edu/c.php?g=181829&p=1195993)
 
-11. Harvard Library. (n.d.). Evaluating Sources. https://usingsources.fas.harvard.edu/evaluating-sources-0
+11. Harvard Library. (n.d.). *Evaluating Sources*. [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
 
 
-## [Go To Next Chapter](Z009_Communication_Design_Usability.md)
+
+### [Next Chapter](Z009_Communication_Design_Usability.md)
+
+### [Back to Beginning](README.md)

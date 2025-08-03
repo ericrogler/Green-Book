@@ -1,5 +1,7 @@
 # Other Additional Duties
 
+### [Previous Chapter](Z016_Passporting_Information_Transfer.md)
+
 ## **Short Answer**
 
 You still have more duties to take care of and many of them are not teaching related.
@@ -54,4 +56,6 @@ What this vehicle restriction means for you, as a teacher, is all methods of tra
 
 **Substitute teaching** can be assumed by a separate substitute teacher, or by a current teacher at the institution doing it for you for a time. Sometimes, as a current teacher, you may need to sub in for another teacher at the same location. The teacher you’re subbing in for should have left you a plan, if not emergency plans at least, for you to follow. As long as you follow those plans, you’re generally in good shape. If there are *no* plans left at all, refer to support staff in the area, if present, for assistance.
 
-## [Go To Next Chapter](Z018_Maintaining_Your_Health.md)
+### [Next Chapter](Z018_Maintaining_Your_Health.md)
+
+### [Back to Beginning](README.md)

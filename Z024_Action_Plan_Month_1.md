@@ -1,5 +1,7 @@
 # Action Plan: Month 1
 
+### [Previous Chapter](Z023_Action_Plan_Week_1.md)
+
 At about Month 1, you should have your bearings in the classroom and how you prefer teaching. You have an idea of what kind of activities to do, how to present lectures, administer tests and quizzes, etc. You’ll also have formed educated guesses and judgments, whether consciously or unconsciously, about many of your students and how they may fare in your class.
 
 At this point, you're going to focus on finer details and further refine all of your processes–not just how you're teaching. Remember, a teacher is a combination of many roles all in one (except therapist). Put another way, you're going to figure out how to develop yourself professionally. As much as I can help you out with this guide, it only sticks if you put it into practice yourself.
@@ -35,4 +37,6 @@ Effectiveness and efficiency are two terms used in similar context and fields, b
 
 1. Drucker, P. (2017). *The Effective Executive.*
 
-## [Go To Next Chapter](Z025_Case_Study_Communication_Lesson_Example.md)
+### [Next Chapter](Z025_Case_Study_Communication_Lesson_Example.md)
+
+### [Back to Beginning](README.md)

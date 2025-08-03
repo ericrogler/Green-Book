@@ -1,5 +1,7 @@
 # Homework
 
+### [Previous Chapter](Z011_Learning_Methodologies.md)
+
 ## **Short Answer**
 
 The time spent in class should make up for the time spent on homework and it also depends heavily on the subject.
@@ -49,4 +51,6 @@ There’s cases where you can permit an open book test as well, but reserve thos
 
 Overall though, don’t give out homework unless necessary. Try your best, as a teacher, to accomplish what you need to get students to learn within the classroom setting.
 
-## [Go To Next Chapter](Z013_Teacher_Client_Relations.md)
+### [Next Chapter](Z013_Teacher_Client_Relations.md)
+
+### [Back to Beginning](README.md)

@@ -1,5 +1,7 @@
 # Case Study: Communication Lesson
 
+### [Previous Chapter](Z024_Action_Plan_Month_1.md)
+
 *Notice: You can copy and modify this template. This is based on an activity I actually did for my own students in Science classes.*
 
 ### Objective 
@@ -65,6 +67,8 @@ Avoid asking them questions dealing with heavy visual elements.
 
 ## References
 
-1. Schroter, J. (2011, October 8). Steve Jobs introduces iPhone in 2007. YouTube. https://m.youtube.com/watch?v=MnrJzXM7a6o 
+1. Schroter, J. (2011, October 8). Steve Jobs introduces iPhone in 2007. YouTube. [https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o)
 
-## [Go To Next Chapter](Z026_Conclusion_Learnings.md)
+### [Next Chapter](Z026_Conclusion_Learnings.md)
+
+### [Back to Beginning](README.md)
