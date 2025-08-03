@@ -21,13 +21,17 @@ There’s three explicit categories stated here: known knowns, known unknowns, a
 
 **In reference to teaching, you get the following:**
 
-| **Types** | **Description** |
-| --- | --- |
-| **Known Known** | The domain knowledge, skills, and expertise you learned through rigorous effort and/or time. |
-| **Known Unknown** | Areas of knowledge you have familiarity with, such as summaries and general information, but lack the specifics and details on. |
-| **Unknown Known** |Judgments, biases and preconceived notions towards new and old information, policies, and behaviors you do without always being aware of them. |
-| **Unknown Unknown** | Information that you are neither aware of, understand, nor can properly predict and expect. |
----
+**Known Known**
+- The domain knowledge, skills, and expertise you learned through rigorous effort and/or time.
+
+**Known Unknown**
+- Areas of knowledge you have familiarity with, such as summaries and general information, but lack the specifics and details on.
+
+**Unknown Known** 
+- Judgments, biases and preconceived notions towards new and old information, policies, and behaviors you do without always being aware of them.
+
+**Unknown Unknown**
+- Information that you are neither aware of, understand, nor can properly predict and expect.
 
 ### Exploring Outside Your Field
 Though Rumsfeld mentions unknown unknowns as difficult, I’d also categorize unknown knowns as equally difficult. Beliefs, suppositions, and practices we seem to not know of may form the values we know of, follow, and practice.

@@ -1,4 +1,4 @@
-# Guest Teachers, Speakers, And Presenters
+# Guest Teachers, Speakers, and Presenters
 
 ### [Previous Chapter](Z014_Assistant_Teachers.md)
 

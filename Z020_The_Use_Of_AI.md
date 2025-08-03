@@ -46,21 +46,19 @@ That said, AI is a complicated topic. The velocity, volume, value, variety, and 
 
 Most teachers I’ve seen are in the first two categories. Third category I’ve seen is mainly teachers in engineering, computer science, or software development and the rare teacher outside of those fields. What is not likely to change though is where AI applies to teaching and students specifically. Here are some examples I’ve seen and would categorize below.
 
-| **AI Okay** |
-| --- |
-| • Repeating redundant tasks normally done manually
-• Generating concepts, examples, and ideas for humans to expand on
-• Streamlining administrative tasks
-• Compare submissions to answers for quick grading
-• Students with disabilities are explicitly allowed to use it to help them learn
-• To record and practice voice lines which are transcribed into text |
+**AI Okay**
+- Repeating redundant tasks normally done manually
+- Generating concepts, examples, and ideas for humans to expand on
+- Streamlining administrative tasks
+- Compare submissions to answers for quick grading
+- Students with disabilities are explicitly allowed to use it to help them learn
+- To record and practice voice lines which are transcribed into text
 
-| **AI Not Okay** |
-| --- | 
-| • Completing assignments for students
-• Providing AI confidential or classified information
-• As a replacement for learning something new
-• Using it as a substitute for critical thought and problem solving |
+**AI Not Okay**
+- Completing assignments for students
+- Providing AI confidential or classified information
+- As a replacement for learning something new
+- Using it as a substitute for critical thought and problem solving
 
 As a stern reminder, anything listed under “AI OK” still requires a human to verify its accuracy and ensure what is done is what you intended.
 

@@ -61,7 +61,7 @@ Per the license requirements, you may need the following for help in citations:
 - [Homework](Z012_Homework.md)
 - [Teacher-Client Relations](Z013_Teacher_Client_Relations.md)
 - [Assistant Teachers](Z014_Assistant_Teachers.md)
-- [Guest Teachers, Speakers, And Presenters](Z015_Guest_Teachers_Presenters.md)
+- [Guest Teachers, Speakers, and Presenters](Z015_Guest_Teachers_Presenters.md)
 - [Passporting & Information Transfer](Z016_Passporting_Information_Transfer.md)
 - [Other Additional Duties](Z017_Other_Additional_Duties.md)
 - [Maintaining Your Health](Z018_Maintaining_Your_Health.md)
