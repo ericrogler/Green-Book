@@ -6,4 +6,28 @@ remote_theme: "jekyll/minima@1e8a445"
 
 minima:
   nav_pages:
-    - README.md
+    - Chapters/Z001_Manager_TLDR.md
+    - Chapters/Z002_The_Actual_Overview.md
+    - Chapters/Z003_Legality.md
+    - Chapters/Z005_Standards_Objectives.md
+    - Chapters/Z006_Roadblocks_To_Teaching.md
+    - Chapters/Z007_Metrics_Of_Success.md
+    - Chapters/Z008_Source(s)_Of_Truth.md
+    - Chapters/Z009_Communication_Design_Usability.md
+    - Chapters/Z010_Agile_Teaching_Framework.md
+    - Chapters/Z011_Learning_Methodologies.md
+    - Chapters/Z012_Homework.md
+    - Chapters/Z013_Teacher_Client_Relations.md
+    - Chapters/Z014_Assistant_Teachers.md
+    - Chapters/Z015_Guest_Teachers_Presenters.md
+    - Chapters/Z016_Passporting_Information_Transfer.md
+    - Chapters/Z017_Other_Additional_Duties.md
+    - Chapters/Z018_Maintaining_Your_Health.md
+    - Chapters/Z019_Money_Budget_Management.md
+    - Chapters/Z020_The_Use_Of_AI.md
+    - Chapters/Z021_Design_Systems_EdTech.md
+    - Chapters/Z022_Action_Plan_Day_1.md
+    - Chapters/Z023_Action_Plan_Week_1.md
+    - Chapters/Z024_Action_Plan_Month_1.md
+    - Chapters/Z025_Case_Study_Communication_Lesson_Example.md
+    - Chapters/Z026_Conclusion_Learnings.md
