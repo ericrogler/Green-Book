@@ -3,3 +3,7 @@ title: The Green Book by Eric Rogler
 # description: TBD
 # show_downloads: false
 remote_theme: "jekyll/minima@1e8a445"
+
+minima:
+  nav_pages:
+    - README.md
