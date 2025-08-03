@@ -2,4 +2,4 @@ title: The Green Book by Eric Rogler
 # logo: TBD
 # description: TBD
 # show_downloads: false
-theme: jekyll-theme-minima
+remote_theme: "jekyll/minima@1e8a445"
