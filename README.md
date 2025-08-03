@@ -1,6 +1,6 @@
 ## ReadMe
 
-Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and how to navigate the repository for users unfamiliar with Github. This is a web-friendly version hosted on Github Pages. You do not need to access the main repository unless you want to.
+Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github Pages. You do not need to access the main repository unless you want to.
 
 **Last Updated: August 3, 2025**
 
