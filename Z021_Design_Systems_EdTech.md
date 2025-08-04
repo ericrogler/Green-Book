@@ -1,8 +1,10 @@
 # Design Systems and EdTech
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z020_The_Use_Of_AI.md)
 
-## Short Answer:
+## **Short Answer**
 
 Everyone is a designer. Not everyone is a good designer though.
 
@@ -10,7 +12,7 @@ Understanding design systems translates directly into skills across multiple fie
 
 Learn to not fall in love with your work, because high chances are you will change it later.
 
-## Long Answer:
+## **Long Answer**
 
 Considering all the other topics and themes in the book, I get the feeling some readers think I’m pulling a Kansas City Shuffle on them. To that I say: you’re right, but also wrong. 
 
@@ -90,6 +92,31 @@ Some software you use will look “good” and function properly, while other so
 
 Sometimes you’re forced to use a particular software, or suite of software, to accomplish your goal. At the end of the day, software is a tool to accomplish a task or solve a problem you have and you’ll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won’t get better with them unless you actually use them.
 
+### I don't have much design experience though...
+
+Two things before you panic.
+1. You can "design" in PowerPoint, Excel, and Microsoft Word or their equivalents in Google Documents, Sheets, and Slides as well. If you really need advanced design programs, look into tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.
+2. You're likely focused more on content, the delivery of content, and the management of students rather than design anyways. Learn just enough to get by and supplement your teaching.
+
+Some general rules of thumb you can quickly apply comes from personal experience as well as reading through *Refactoring UI* by Wathan and Schoger.
+
+*Just a headsup, this is still a decently sized list.* 
+
+- Start with simple designs and get them functional first before you add complexity
+- It's easier to start with more white space and remove it rather than start with too little white space and add it
+- Limit your choices, like number of colors, font sizes, adjustments, etc. early on to avoid analysis paralysis later on
+- Emphasize, whether by increasing the size, bolding text, etc. the information a student will look for
+- Ideal line height (sometimes called "Line Spacing") is inversely proportional to font size
+- Text needs sufficient contrast between itself and the background its on to be readable
+- 5 random colors don't make a good design, but 8-10 shades, both lighter and darker, of 5 random colors can make a good design
+- For colorblind people, it's easier to tell by lightness (light/dark) rather than color
+- Don't rely on color alone to convey information
+- Many greys you see in the world aren't actually true greys; they grey with another color saturated/mixed in
+- For making lighter and darker shades of colors, increase the saturation as well or it looks "washed out"
+- HSL (Hue, Saturation, Lightness) is easier to work with compared to RGB and Hex, in my opinion, but many people still work with Hex
+- Make paragraphs stay between 45 to 75 characters per line of text when able
+- For fonts, stick with a neutral sans-serif, like Roboto, Helvetica Neue, or even Arial if you want
+
 ## References
 
 1. Bergman, C. (2024, February 12). *Design systems 101: What is a design system?* [https://www.figma.com/blog/design-systems-101-what-is-a-design-system/](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
@@ -110,6 +137,6 @@ Sometimes you’re forced to use a particular software, or suite of software, to
 
 9. Design Systems. (n.d.). *DesignSystems.com*. [https://www.designsystems.com/](https://www.designsystems.com/)
 
-### [Next Chapter](Z022_Action_Plan_Day_1.md)
+10. Wathan, A., Schoger, S. (2025). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
 
-### [Back to Beginning](README.md)
+### [Next Chapter](Z022_Action_Plan_Day_1.md)

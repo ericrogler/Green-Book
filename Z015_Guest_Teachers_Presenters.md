@@ -1,15 +1,17 @@
 # Guest Teachers, Speakers, and Presenters
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z014_Assistant_Teachers.md)
 
-## Short Answer
+## **Short Answer**
 These are NOT substitute teachers; they're people, who are not the primary teacher, scheduled and arranged to come in for a limited time to teach one or more topics to your students.
 
 If there's a topic you want to teach you normally cannot teach due to licensure, certification, or disclosure agreements, you may be permitted to have a guest, who is NOT a teacher, come in to teach or present.
 
 Keep in mind whether or not guests are allowed are dependent on administrative approval over teacher approval due to many legal procedures to follow first.
 
-## Long Answer
+## **Long Answer**
 *Notice: This section deals mainly with education involving minors and younger students, rather than adult students. Adult students in tertiary education may have different procedures I’m not personally familiar with, so I will not speak on them in-depth. I’m also purposely going overboard on some requirements, so you can scale down as allowed.*
 
 Imagine this scenario. You are a music teacher and you happen to be friends with a famous artist, band, etc. For purely example purposes, let’s go with Pink Floyd. I like Pink Floyd and their album The Dark Side of the Moon. They have a lot of credibility when it comes to musical ability and the students get to meet a pretty famous band in-person.
@@ -59,5 +61,3 @@ Generally, if explicit roles weren’t defined for you, the teacher. I’d remai
 **If you want to get a guest teacher or presenter, it’s OK to do–and sometimes encouraged–but make sure you have all the legal stuff and background checks squared away before the time(s) they’re present.**
 
 ### [Next Chapter](Z016_Passporting_Information_Transfer.md)
-
-### [Back to Beginning](README.md)

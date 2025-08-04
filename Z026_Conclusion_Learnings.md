@@ -1,5 +1,7 @@
 # Conclusion / Learnings
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z025_Case_Study_Communication_Lesson_Example.md)
 
 Teaching is many different fields merged together in a single profession.
@@ -11,5 +13,3 @@ There’s a plethora of information I skipped over or omitted you may go through
 Outside of that, thank you for reading and I hope you came away from this manual knowing more than before about the world of teaching.
 
 ### You have reached the end! 😃
-
-### [Back to Beginning](README.md)

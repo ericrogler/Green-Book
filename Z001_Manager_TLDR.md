@@ -1,5 +1,7 @@
 # The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](README.md)
 
 Providing information relevant to new teachers and instructors, old teachers and instructors wanting a different perspective on teaching, and for people interested or curious about the art of teaching and presenting information.
@@ -50,5 +52,3 @@ Due to a teaching contract, I cannot easily provide curriculum materials as I *t
 - Templates are king, so learn to design reusable materials.
 
 ### [Next Chapter](Z002_The_Actual_Overview.md)
-
-### [Back to Beginning](README.md)

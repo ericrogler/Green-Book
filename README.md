@@ -1,8 +1,8 @@
 ## ReadMe
 
-Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github Pages. You do not need to access the main repository unless you want to.
+Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-**Last Updated: August 3, 2025**
+**Last Updated: August 4, 2025**
 
 ### Wait, a book hosted on GitHub?
 
@@ -16,36 +16,18 @@ Surprisingly though, it has more benefits than expected:
 - WYSIWYG
 - Can be converted further from here
 - You can copy it freely and without issue
-- Hosting as a repository on GitHub generates a free URL with my name on it--a feature you normally pay extra for on web hosting and custom domains
-- It's self-published, so no other middle man.
-- It's free for you, the user/reader.
+- It's self-published, so no other middle man
+- It's free for you, the user/reader
 
-## License
+## [Full Length Text Version (Click!)](Y000_Green_Book_Full.md)
+Best for desktop viewers or for people who don't want to click through multiple pages.
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
-
-This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
-
-### Attribution
-Per the license requirements, you may need the following for help in citations:
-
-- **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, August 3). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
-- **CC-BY-SA License Link**
-  - [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Indication of changes made to original**
-  - Only if they were made, otherwise ignore.
-
-### [Begin reading!](Z001_Manager_TLDR.md)
+References are split [onto a separate link here](Y001_References_Separated.md), no numbering and ordering.
 
 ## Navigation by Chapter
+This splits the text by chapter across multiple pages. 
+
+Click "Navigation & ReadMe" near the top of each page to get back to here quickly.
 
 - [Manager TL;DR](Z001_Manager_TLDR.md)
 - [Actual Overview](Z002_The_Actual_Overview.md)
@@ -73,3 +55,26 @@ Per the license requirements, you may need the following for help in citations:
 - [Action Plan: Month 1](Z024_Action_Plan_Month_1.md)
 - [Case Study: Communication Lesson](Z025_Case_Study_Communication_Lesson_Example.md)
 - [Conclusion / Learnings](Z026_Conclusion_Learnings.md)
+
+## License
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+
+### Attribution
+Per the license requirements, you may need the following for help in citations:
+
+- **"Appropriate Credit" (APA 7th example below)**
+  - Rogler, E. (2025, August 4). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
+- **CC-BY-SA License Link**
+  - [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Indication of changes made to original**
+  - Only if they were made, otherwise ignore.

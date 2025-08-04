@@ -1,5 +1,7 @@
 # Action Plan: Week 1
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z022_Action_Plan_Day_1.md)
 
 After the first day, it gets easier. Really, it does. The next wall, however, is getting through week 1 and having everything you need by the end of it done or close to done. 
@@ -48,5 +50,3 @@ After the templating stage is done, you’ve effectively cut the time to make ev
 - There are cases where you shouldn't use a template, but they are rare and far in-between. You can also template your lesson plans too.
 
 ### [Next Chapter](Z024_Action_Plan_Month_1.md)
-
-### [Back to Beginning](README.md)

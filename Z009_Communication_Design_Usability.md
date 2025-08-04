@@ -1,8 +1,10 @@
 # Communication, Design, and Usability
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z008_Source(s)_Of_Truth.md)
 
-## Short Answer
+## **Short Answer**
 Being a teacher also means being a designer. The materials you provide students are an extension of your teaching and communication with them. If you don’t need to reinvent the wheel to teach your topic(s), then don’t reinvent the wheel.
 
 When in doubt, design for clarity and simplicity–even at the cost of some consistency. This goes for templates, assignments, tests, projects, activities, etc. The more clarity an assignment has, the more likely a student will do it with fewer issues.
@@ -14,7 +16,7 @@ When in doubt, design for clarity and simplicity–even at the cost of some cons
 - State testing and specialized testing
 - This book
 
-## Long Answer
+## **Long Answer**
 
 **I want you to be aware of 2 things before continuing:**
 1. There’s a high chance someone else did what you want to do before you
@@ -111,5 +113,3 @@ You might also claim that accessibility will harm the design and content of what
 
 
 ### [Next Chapter](Z010_Agile_Teaching_Framework.md)
-
-### [Back to Beginning](README.md)

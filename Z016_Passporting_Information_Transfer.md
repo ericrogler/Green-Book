@@ -1,5 +1,7 @@
 # Passporting & Information Transfer
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z015_Guest_Teachers_Presenters.md)
 
 ## **Short Answer**
@@ -77,5 +79,3 @@ Here are some things you should note down and divide by each class/subject for t
 Only put down information relevant for a substitute teacher–or another teacher in general–to know for these plans when you’re gone.
 
 ### [Next Chapter](Z017_Other_Additional_Duties.md)
-
-### [Back to Beginning](README.md)

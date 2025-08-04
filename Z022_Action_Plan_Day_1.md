@@ -1,10 +1,14 @@
 # Action Plan: Day 1 
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z021_Design_Systems_EdTech.md)
 
 *Notice: This setup is designed for a year long (or semester long) class session taking place at a physical location for primary or secondary education.*
 
 The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is done in one day, what you need prepared may change.
+
+*Ideally,* you'll have at least a few days to a week of preparation time to get ready for the class. If not, well, get what you can.
 
 **Here are some things I'd like to have (and/or know) by day 1.** I'm focusing bare essentials over “nice to haves” to balance preparedness with minimal cost and effort plus ability to address many situations:
 - Facility access, like keys and scannable ID badge
@@ -115,5 +119,3 @@ There's several other items you could use which don't administer drugs, but they
 4. MedlinePlus. (2023, September 15). *Acetaminophen*. U.S. National Library of Medicine. [https://medlineplus.gov/druginfo/meds/a681004.html](https://medlineplus.gov/druginfo/meds/a681004.html)
 
 ### [Next Chapter](Z023_Action_Plan_Week_1.md)
-
-### [Back to Beginning](README.md)

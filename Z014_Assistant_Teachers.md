@@ -1,5 +1,7 @@
 # Assistant Teachers
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z013_Teacher_Client_Relations.md)
 
 ## **Short Answer**
@@ -80,5 +82,3 @@ Lastly, I want to go into another category: **a teacher of record or alternative
 4. Colorado Department of Education. (2019). *Unique role guidance for educator effectiveness*. [https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance](https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance)
 
 ### [Next Chapter](Z015_Guest_Teachers_Presenters.md)
-
-### [Back to Beginning](README.md)

@@ -1,5 +1,7 @@
 # Legality
 
+### [Navigation & ReadMe](README.md)
+
 ### [Previous Chapter](Z002_The_Actual_Overview.md)
 
 ## **Short Answer**
@@ -195,5 +197,3 @@ More importantly, the contract may explicitly spell out whatever property or mat
 38. College Board. (n.d.). *College Board*. [https://www.collegeboard.org/](https://www.collegeboard.org/)
 
 ### [Next Chapter](Z004_Management_101.md)
-
-### [Back to Beginning](README.md)
