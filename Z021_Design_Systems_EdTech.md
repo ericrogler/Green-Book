@@ -107,7 +107,7 @@ Some general rules of thumb you can quickly apply comes from personal experience
 - Limit your choices, like number of colors, font sizes, adjustments, etc. early on to avoid analysis paralysis later on
 - Emphasize, whether by increasing the size, bolding text, etc. the information a student will look for
 - Ideal line height (sometimes called "Line Spacing") is inversely proportional to font size
-- Text needs sufficient contrast between itself and the background its on to be readable
+- Text needs sufficient contrast between itself and the background it's on to be readable
 - 5 random colors don't make a good design, but 8-10 shades, both lighter and darker, of 5 random colors can make a good design
 - For colorblind people, it's easier to tell by lightness (light/dark) rather than color
 - Don't rely on color alone to convey information

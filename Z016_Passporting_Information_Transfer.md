@@ -34,7 +34,7 @@ Pretend you are the older teacher, rather than a newer teacher. Here are things 
     - This is so a new teacher isn’t too coddled and allowed to teach on their own.
 - Any soft skills they should be mindful of.
 - How to observe their classrooms (if needed).
-- how to set up coverage (substitute teachers, etc.).
+- How to set up coverage (substitute teachers, etc.).
 - How to build routines, establish behaviors and rewards, and management.
 - Any plans for check-ins for newer teachers, like weekly meetings, collaboration sessions, etc.
 - Ways to provide more time to “catch-up” on teaching duties.

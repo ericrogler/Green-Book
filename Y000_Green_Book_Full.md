@@ -48,6 +48,7 @@ Due to a teaching contract, I cannot easily provide curriculum materials as I *t
 - Don’t use AI for learning if students do not know how to use AI safely and properly.
 - Money is always a constraint when teaching. Be careful on how you spend it.
 - Templates are king, so learn to design reusable materials.
+
 ___
 
 # 2. The Actual Overview
@@ -1427,7 +1428,7 @@ Pretend you are the older teacher, rather than a newer teacher. Here are things 
     - This is so a new teacher isn’t too coddled and allowed to teach on their own.
 - Any soft skills they should be mindful of.
 - How to observe their classrooms (if needed).
-- how to set up coverage (substitute teachers, etc.).
+- How to set up coverage (substitute teachers, etc.).
 - How to build routines, establish behaviors and rewards, and management.
 - Any plans for check-ins for newer teachers, like weekly meetings, collaboration sessions, etc.
 - Ways to provide more time to “catch-up” on teaching duties.
@@ -1874,7 +1875,7 @@ Some general rules of thumb you can quickly apply comes from personal experience
 - Limit your choices, like number of colors, font sizes, adjustments, etc. early on to avoid analysis paralysis later on
 - Emphasize, whether by increasing the size, bolding text, etc. the information a student will look for
 - Ideal line height (sometimes called "Line Spacing") is inversely proportional to font size
-- Text needs sufficient contrast between itself and the background its on to be readable
+- Text needs sufficient contrast between itself and the background it's on to be readable
 - 5 random colors don't make a good design, but 8-10 shades, both lighter and darker, of 5 random colors can make a good design
 - For colorblind people, it's easier to tell by lightness (light/dark) rather than color
 - Don't rely on color alone to convey information
@@ -2096,7 +2097,7 @@ Students will examine a case study and learn how to communicate and present to a
 ### Resource(s)
 Steve Jobs Introduced iPhone in 2007
 (Posted on YouTube by John Schroter):
-https://m.youtube.com/watch?v=MnrJzXM7a6o 
+[https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o) 
 
 ### Accommodations
 - For hearing impairments, turn on closed captions (CC) in the video.

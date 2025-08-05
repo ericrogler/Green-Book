@@ -20,7 +20,7 @@ Students will examine a case study and learn how to communicate and present to a
 ### Resource(s)
 Steve Jobs Introduced iPhone in 2007
 (Posted on YouTube by John Schroter):
-https://m.youtube.com/watch?v=MnrJzXM7a6o 
+[https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o) 
 
 ### Accommodations
 - For hearing impairments, turn on closed captions (CC) in the video.
