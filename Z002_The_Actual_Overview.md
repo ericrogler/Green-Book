@@ -59,4 +59,4 @@ This writing is designed with the following people in mind:
     - Additionally, using data from my students may introduce two types of bias from non-probability sampling: voluntary response and convenience.
 - For any products I call out and examples from those products, I am not endorsing or saying you need to purchase/use those products. They are there because I used them and thought they had value to me when I taught.
 
-### [Next Chapter](Z003_Legality.html)
+## [Next Chapter](Z003_Legality.html)

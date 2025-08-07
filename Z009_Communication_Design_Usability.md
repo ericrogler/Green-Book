@@ -115,4 +115,4 @@ You might also claim that accessibility will harm the design and content of what
 5. The Investopedia Team. (2025, April 18). The Pareto Principle—aka the Pareto Rule or 80/20 Rule. *Investopedia*. [https://www.investopedia.com/terms/p/paretoprinciple.asp](https://www.investopedia.com/terms/p/paretoprinciple.asp)
 
 
-### [Next Chapter](Z010_Agile_Teaching_Framework.html)
+## [Next Chapter](Z010_Agile_Teaching_Framework.html)

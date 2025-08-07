@@ -172,4 +172,4 @@ Automation–and AI (Artificial Intelligence) by extension–is not a one-size-f
 
 5. Rozati, F. (2025, April 9). *Analyzing the effects of TikTok on the attention span of evolving high school students*. Intersect: The Stanford Journal of Science, Technology, and Society. [https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463](https://ojs.stanford.edu/ojs/index.php/intersect/article/view/3463)
 
-### [Next Chapter](Z005_Standards_Objectives.html)
+## [Next Chapter](Z005_Standards_Objectives.html)

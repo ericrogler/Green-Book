@@ -104,4 +104,4 @@ Despite Wikipedia’s benefits and drawbacks, it’s inevitable a student may us
 
 11. Harvard Library. (n.d.). *Evaluating Sources*. [https://usingsources.fas.harvard.edu/evaluating-sources-0](https://usingsources.fas.harvard.edu/evaluating-sources-0)
 
-### [Next Chapter](Z009_Communication_Design_Usability.html)
+## [Next Chapter](Z009_Communication_Design_Usability.html)

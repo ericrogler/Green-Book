@@ -81,4 +81,4 @@ Here are some things you should note down and divide by each class/subject for t
 
 Only put down information relevant for a substitute teacher–or another teacher in general–to know for these plans when you’re gone.
 
-### [Next Chapter](Z017_Other_Additional_Duties.html)
+## [Next Chapter](Z017_Other_Additional_Duties.html)

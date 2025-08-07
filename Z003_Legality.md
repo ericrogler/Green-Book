@@ -199,4 +199,4 @@ More importantly, the contract may explicitly spell out whatever property or mat
 
 38. College Board. (n.d.). *College Board*. [https://www.collegeboard.org/](https://www.collegeboard.org/)
 
-### [Next Chapter](Z004_Management_101.html)
+## [Next Chapter](Z004_Management_101.html)

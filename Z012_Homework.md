@@ -56,4 +56,4 @@ There’s cases where you can permit an open book test as well, but reserve thos
 
 Overall though, don’t give out homework unless necessary. Try your best, as a teacher, to accomplish what you need to get students to learn within the classroom setting.
 
-### [Next Chapter](Z013_Teacher_Client_Relations.html)
+## [Next Chapter](Z013_Teacher_Client_Relations.html)

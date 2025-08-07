@@ -142,4 +142,4 @@ Some general rules of thumb you can quickly apply comes from personal experience
 
 10. Wathan, A., Schoger, S. (2025). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
 
-### [Next Chapter](Z022_Action_Plan_Day_1.html)
+## [Next Chapter](Z022_Action_Plan_Day_1.html)

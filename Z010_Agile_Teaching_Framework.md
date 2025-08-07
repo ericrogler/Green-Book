@@ -276,4 +276,4 @@ The newsvendor model is one way to illustrate how having too little or too much 
 
 7. 1946, The Wilson Era: Years of War and After 1917-1923 by Josephus Daniels, Quote Page 624, The University of North Carolina Press, Chapel Hill, North Carolina. (Verified with scans)
 
-### [Next Chapter](Z011_Learning_Methodologies.html)
+## [Next Chapter](Z011_Learning_Methodologies.html)

@@ -2164,8 +2164,6 @@ Outside of that, thank you for reading and I hope you came away from this manual
 
 ### You have reached the end! 😃
 
-### [Navigation & ReadMe](README.md)
-
 # References
 
 1. American Council on Education. (n.d.). *American Council on Education*. [https://www.acenet.edu/Pages/default.aspx](https://www.acenet.edu/Pages/default.aspx)

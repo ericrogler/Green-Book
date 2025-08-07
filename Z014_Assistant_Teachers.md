@@ -88,4 +88,4 @@ Lastly, I want to go into another category: **a teacher of record or alternative
 
 4. Colorado Department of Education. (2019). *Unique role guidance for educator effectiveness*. [https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance](https://www.cde.state.co.us/educatoreffectiveness/uniqueroleguidance)
 
-### [Next Chapter](Z015_Guest_Teachers_Presenters.html)
+## [Next Chapter](Z015_Guest_Teachers_Presenters.html)

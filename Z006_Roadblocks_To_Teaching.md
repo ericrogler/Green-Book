@@ -102,4 +102,4 @@ What’s the relationship between weightlifting and people? You lift up weights 
 
 2. U.S. Geological Survey. (n.d.). *USGS TopoView*. [https://ngmdb.usgs.gov/topoview/](https://ngmdb.usgs.gov/topoview/)
 
-### [Next Chapter](Z007_Metrics_Of_Success.html)
+## [Next Chapter](Z007_Metrics_Of_Success.html)

@@ -42,4 +42,4 @@ Effectiveness and efficiency are two terms used in similar context and fields, b
 
 1. Drucker, P. (2017). *The Effective Executive.*
 
-### [Next Chapter](Z025_Case_Study_Communication_Lesson_Example.html)
+## [Next Chapter](Z025_Case_Study_Communication_Lesson_Example.html)
