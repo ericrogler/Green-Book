@@ -18,8 +18,7 @@ Surprisingly though, it has more benefits than expected:
 - Version control capabilities
 - Text styles
 - Break points
-- Supported on any text tool editor
-- WYSIWYG
+- Supports Markdown
 - Can be converted further from here
 - You can copy it freely and without issue
 - It's self-published, so no other middle man
