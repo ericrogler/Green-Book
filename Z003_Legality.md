@@ -1,7 +1,7 @@
 ---
 title: 3. Legality
 layout: default
-nav_order: 2.3
+nav_order: 5
 ---
 # Legality
 

@@ -1,7 +1,7 @@
 ---
 title: 1. A Manager TL;DR
 layout: default
-nav_order: 2.1
+nav_order: 3
 ---
 
 # A Manager TL;DR
@@ -46,4 +46,4 @@ Due to a teaching contract, I cannot easily provide curriculum materials as I *t
 - Money is always a constraint when teaching. Be careful on how you spend it.
 - Templates are king, so learn to design reusable materials.
 
-### [Next Chapter](Z002_The_Actual_Overview.md)
+### [Next Chapter](../Z002_The_Actual_Overview.md)
