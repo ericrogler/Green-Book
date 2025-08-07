@@ -5,9 +5,7 @@ nav_order: 9
 ---
 # Metrics Of Success
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z006_Roadblocks_To_Teaching.md)
+### [Previous Chapter](Z006_Roadblocks_To_Teaching.html)
 
 ## **Short Answer**
 
@@ -68,4 +66,4 @@ As an aside, if there is a metric available, there is a way to “game" the metr
 
 5. Strathern, Marilyn. (1997). "['Improving ratings': audit in the British University system](https://archive.org/details/ImprovingRatingsAuditInTheBritishUniversitySystem)". European Review. 5 (3). John Wiley & Sons: 305–321. doi:[10.1002/(SICI)1234-981X(199707)5:3<305::AID-EURO184>3.0.CO;2-4](https://www.cambridge.org/core/journals/european-review/article/abs/improving-ratings-audit-in-the-british-university-system/FC2EE640C0C44E3DB87C29FB666E9AAB). [S2CID](https://en.wikipedia.org/wiki/S2CID_(identifier)) [145644958](https://api.semanticscholar.org/CorpusID:145644958). 
 
-### [Next Chapter](Z008_Source(s)_Of_Truth.md)
+### [Next Chapter](Z008_Source(s)_Of_Truth.html)

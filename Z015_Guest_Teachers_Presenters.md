@@ -5,9 +5,7 @@ nav_order: 17
 ---
 # Guest Teachers, Speakers, and Presenters
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z014_Assistant_Teachers.md)
+### [Previous Chapter](Z014_Assistant_Teachers.html)
 
 ## **Short Answer**
 These are NOT substitute teachers; they're people, who are not the primary teacher, scheduled and arranged to come in for a limited time to teach one or more topics to your students.
@@ -65,4 +63,4 @@ Generally, if explicit roles weren’t defined for you, the teacher. I’d remai
 
 **If you want to get a guest teacher or presenter, it’s OK to do–and sometimes encouraged–but make sure you have all the legal stuff and background checks squared away before the time(s) they’re present.**
 
-### [Next Chapter](Z016_Passporting_Information_Transfer.md)
+### [Next Chapter](Z016_Passporting_Information_Transfer.html)

@@ -5,9 +5,7 @@ nav_order: 15
 ---
 # Teacher-Client Relations
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z012_Homework.md)
+### [Previous Chapter](Z012_Homework.html)
 
 ## **Short Answer**
 
@@ -125,4 +123,4 @@ To keep it simple, treat them well. If you don’t, you’ll find yourself saddl
 
 1. U.S. Equal Employment Opportunity Commission. (n.d.). *CM-625 bona fide occupational qualifications*. [https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)
 
-### [Next Chapter](Z014_Assistant_Teachers.md)
+### [Next Chapter](Z014_Assistant_Teachers.html)

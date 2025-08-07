@@ -5,9 +5,7 @@ nav_order: 7
 ---
 # Standards / Objectives
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z004_Management_101.md)
+### [Previous Chapter](Z004_Management_101.html)
 
 ## **Short Answer**
 
@@ -73,4 +71,4 @@ You may come across other sets of standards (NOT curriculums!) such as NGSS and 
 
 7. Colorado Department of Education. (2025, April 18). *Standards and instruction: Standards*. [https://www.cde.state.co.us/standardsandinstruction/standards](https://www.cde.state.co.us/standardsandinstruction/standards)
 
-### [Next Chapter](Z006_Roadblocks_To_Teaching.md)
+### [Next Chapter](Z006_Roadblocks_To_Teaching.html)

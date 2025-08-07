@@ -25,7 +25,7 @@ Surprisingly though, it has more benefits than expected:
 - It's self-published, so no other middle man
 - It's free for you, the user/reader
 
-## [Full Length Text Version (Click!)](Y000_Green_Book_Full.md)
+## [Full Length Text Version (Click!)](Y000_Green_Book_Full.html)
 Best for desktop viewers or for people who don't want to click through multiple pages.
 
 ## Navigation by Chapter
@@ -79,7 +79,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, August 7). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
+  - Rogler, E. (2025, August 7). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_ER](https://github.com/ericrogler/The_Green_Book_ER)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 

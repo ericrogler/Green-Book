@@ -5,9 +5,7 @@ nav_order: 23
 ---
 # Design Systems and EdTech
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z020_The_Use_Of_AI.md)
+### [Previous Chapter](Z020_The_Use_Of_AI.html)
 
 ## **Short Answer**
 
@@ -144,4 +142,4 @@ Some general rules of thumb you can quickly apply comes from personal experience
 
 10. Wathan, A., Schoger, S. (2025). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
 
-### [Next Chapter](Z022_Action_Plan_Day_1.md)
+### [Next Chapter](Z022_Action_Plan_Day_1.html)

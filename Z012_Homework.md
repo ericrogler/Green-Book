@@ -5,9 +5,7 @@ nav_order: 14
 ---
 # Homework
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z011_Learning_Methodologies.md)
+### [Previous Chapter](Z011_Learning_Methodologies.html)
 
 ## **Short Answer**
 
@@ -58,4 +56,4 @@ There’s cases where you can permit an open book test as well, but reserve thos
 
 Overall though, don’t give out homework unless necessary. Try your best, as a teacher, to accomplish what you need to get students to learn within the classroom setting.
 
-### [Next Chapter](Z013_Teacher_Client_Relations.md)
+### [Next Chapter](Z013_Teacher_Client_Relations.html)

@@ -5,9 +5,7 @@ nav_order: 24
 ---
 # Action Plan: Day 1 
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z021_Design_Systems_EdTech.md)
+### [Previous Chapter](Z021_Design_Systems_EdTech.html)
 
 *Notice: This setup is designed for a year long (or semester long) class session taking place at a physical location for primary or secondary education.*
 
@@ -123,4 +121,4 @@ There's several other items you could use which don't administer drugs, but they
 
 4. MedlinePlus. (2023, September 15). *Acetaminophen*. U.S. National Library of Medicine. [https://medlineplus.gov/druginfo/meds/a681004.html](https://medlineplus.gov/druginfo/meds/a681004.html)
 
-### [Next Chapter](Z023_Action_Plan_Week_1.md)
+### [Next Chapter](Z023_Action_Plan_Week_1.html)

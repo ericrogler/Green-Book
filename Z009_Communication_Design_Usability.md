@@ -5,9 +5,7 @@ nav_order: 11
 ---
 # Communication, Design, and Usability
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z008_Source(s)_Of_Truth.md)
+### [Previous Chapter](./Z008_Source(s)_Of_Truth.html)
 
 ## **Short Answer**
 Being a teacher also means being a designer. The materials you provide students are an extension of your teaching and communication with them. If you don’t need to reinvent the wheel to teach your topic(s), then don’t reinvent the wheel.
@@ -117,4 +115,4 @@ You might also claim that accessibility will harm the design and content of what
 5. The Investopedia Team. (2025, April 18). The Pareto Principle—aka the Pareto Rule or 80/20 Rule. *Investopedia*. [https://www.investopedia.com/terms/p/paretoprinciple.asp](https://www.investopedia.com/terms/p/paretoprinciple.asp)
 
 
-### [Next Chapter](Z010_Agile_Teaching_Framework.md)
+### [Next Chapter](Z010_Agile_Teaching_Framework.html)

@@ -5,9 +5,7 @@ nav_order: 8
 ---
 # Roadblocks To Teaching
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z005_Standards_Objectives.md)
+### [Previous Chapter](Z005_Standards_Objectives.html)
 
 ## **Short Answer**
 
@@ -104,4 +102,4 @@ What’s the relationship between weightlifting and people? You lift up weights 
 
 2. U.S. Geological Survey. (n.d.). *USGS TopoView*. [https://ngmdb.usgs.gov/topoview/](https://ngmdb.usgs.gov/topoview/)
 
-### [Next Chapter](Z007_Metrics_Of_Success.md)
+### [Next Chapter](Z007_Metrics_Of_Success.html)

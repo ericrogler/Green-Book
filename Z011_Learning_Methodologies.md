@@ -5,9 +5,7 @@ nav_order: 13
 ---
 # Learning Methodologies
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z010_Agile_Teaching_Framework.md)
+### [Previous Chapter](Z010_Agile_Teaching_Framework.html)
 
 ## **Short Answer**
 
@@ -104,4 +102,4 @@ If you’re still unsure what to tell students when it comes to learning, I’ll
 
 7. Parrish, S. (n.d.). *Feynman Technique: The Ultimate Guide to Learning Anything Faster*. Farnam Street Media Inc. [https://fs.blog/feynman-technique/](https://fs.blog/feynman-technique/)
 
-### [Next Chapter](Z012_Homework.md)
+### [Next Chapter](Z012_Homework.html)

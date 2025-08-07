@@ -5,9 +5,7 @@ nav_order: 28
 ---
 # Conclusion / Learnings
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z025_Case_Study_Communication_Lesson_Example.md)
+### [Previous Chapter](Z025_Case_Study_Communication_Lesson_Example.html)
 
 Teaching is many different fields merged together in a single profession.
 

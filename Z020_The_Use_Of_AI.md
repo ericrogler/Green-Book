@@ -5,9 +5,7 @@ nav_order: 22
 ---
 # The Use of AI
 
-### [Navigation & ReadMe](README.md)
-
-### [Previous Chapter](Z019_Money_Budget_Management.md)
+### [Previous Chapter](Z019_Money_Budget_Management.html)
 
 ## **Short Answer**
 
@@ -81,4 +79,4 @@ As a stern reminder, anything listed under “AI OK” still requires a human to
 
 5. The Institute for Ethical AI & ML. (n.d.). *The Responsible Machine Learning Principles*. [https://ethical.institute/principles.html](https://ethical.institute/principles.html)
 
-### [Next Chapter](Z021_Design_Systems_EdTech.md)
+### [Next Chapter](Z021_Design_Systems_EdTech.html)

@@ -6,8 +6,6 @@ nav_order: 2
 
 # The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers)
 
-### [Navigation & ReadMe](README.md)
-
 Providing information relevant to new teachers and instructors, old teachers and instructors wanting a different perspective on teaching, and for people interested or curious about the art of teaching and presenting information.
 
 ![The Green Book.png](https://iili.io/Fg93eou.png)
