@@ -2425,5 +2425,3 @@ Outside of that, thank you for reading and I hope you came away from this manual
 1. Drucker, P. (2017). *The Effective Executive.*
 
 1. Schroter, J. (2011, October 8). Steve Jobs introduces iPhone in 2007. YouTube. [https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o)
-
-### [Navigation & ReadMe](README.md)
