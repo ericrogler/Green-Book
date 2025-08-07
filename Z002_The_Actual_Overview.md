@@ -1,8 +1,8 @@
 ---
-title: 2. The Actual Overview
+title: 2. A Manager TL;DR
 layout: default
+nav_order: 4
 ---
-
 # The Actual Overview
 
 ### [Navigation & ReadMe](README.md)

@@ -1,3 +1,8 @@
+---
+title: 11. Learning Methodologies
+layout: default
+nav_order: 13
+---
 # Learning Methodologies
 
 ### [Navigation & ReadMe](README.md)

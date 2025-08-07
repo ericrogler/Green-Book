@@ -1,3 +1,8 @@
+---
+title: 25. Case Study Communication Lesson
+layout: default
+nav_order: 27
+---
 # Case Study: Communication Lesson
 
 ### [Navigation & ReadMe](README.md)

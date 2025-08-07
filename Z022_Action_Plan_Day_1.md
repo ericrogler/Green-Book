@@ -1,3 +1,8 @@
+---
+title: 22. Action Plan - Day 1 
+layout: default
+nav_order: 24
+---
 # Action Plan: Day 1 
 
 ### [Navigation & ReadMe](README.md)

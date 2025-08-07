@@ -1,3 +1,8 @@
+---
+title: 21. Design Systems and EdTech
+layout: default
+nav_order: 23
+---
 # Design Systems and EdTech
 
 ### [Navigation & ReadMe](README.md)

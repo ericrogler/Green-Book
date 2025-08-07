@@ -1,3 +1,8 @@
+---
+title: 8. Source(s) of Truth
+layout: default
+nav_order: 10
+---
 # Source(s) of Truth
 
 ### [Navigation & ReadMe](README.md)

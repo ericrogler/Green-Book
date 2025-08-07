@@ -1,3 +1,8 @@
+---
+title: 3. Legality
+layout: default
+nav_order: 5
+---
 # Legality
 
 ### [Navigation & ReadMe](README.md)

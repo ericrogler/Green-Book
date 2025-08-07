@@ -1,3 +1,8 @@
+---
+title: 7. Metrics Of Success
+layout: default
+nav_order: 9
+---
 # Metrics Of Success
 
 ### [Navigation & ReadMe](README.md)

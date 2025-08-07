@@ -1,3 +1,8 @@
+---
+title: 14. Assistant Teachers
+layout: default
+nav_order: 16
+---
 # Assistant Teachers
 
 ### [Navigation & ReadMe](README.md)

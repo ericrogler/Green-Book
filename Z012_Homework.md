@@ -1,3 +1,8 @@
+---
+title: 12. Homework
+layout: default
+nav_order: 14
+---
 # Homework
 
 ### [Navigation & ReadMe](README.md)

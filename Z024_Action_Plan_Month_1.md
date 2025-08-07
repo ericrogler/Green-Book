@@ -1,3 +1,8 @@
+---
+title: 24. Action Plan - Month 1
+layout: default
+nav_order: 26
+---
 # Action Plan: Month 1
 
 ### [Navigation & ReadMe](README.md)

@@ -1,3 +1,8 @@
+---
+title: 15. Guest Teachers, Speakers, and Presenters
+layout: default
+nav_order: 17
+---
 # Guest Teachers, Speakers, and Presenters
 
 ### [Navigation & ReadMe](README.md)

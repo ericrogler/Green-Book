@@ -1,3 +1,8 @@
+---
+title: 4. Management 101
+layout: default
+nav_order: 6
+---
 # Management 101
 
 ### [Navigation & ReadMe](README.md)

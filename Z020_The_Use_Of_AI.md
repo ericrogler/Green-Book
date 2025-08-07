@@ -1,3 +1,8 @@
+---
+title: 20. The Use of AI
+layout: default
+nav_order: 22
+---
 # The Use of AI
 
 ### [Navigation & ReadMe](README.md)

@@ -1,3 +1,8 @@
+---
+title: 23. Action Plan - Week 1
+layout: default
+nav_order: 25
+---
 # Action Plan: Week 1
 
 ### [Navigation & ReadMe](README.md)

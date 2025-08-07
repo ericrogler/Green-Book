@@ -1,7 +1,9 @@
 ---
 title: 1. A Manager TL;DR
 layout: default
+nav_order: 3
 ---
+
 # A Manager TL;DR
 
 ### **My Role Overview**

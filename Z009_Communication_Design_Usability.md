@@ -1,3 +1,8 @@
+---
+title: 9. Communication, Design, and Usability
+layout: default
+nav_order: 11
+---
 # Communication, Design, and Usability
 
 ### [Navigation & ReadMe](README.md)

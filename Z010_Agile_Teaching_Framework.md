@@ -1,3 +1,8 @@
+---
+title: 10. “Agile” Teaching Framework
+layout: default
+nav_order: 12
+---
 # “Agile” Teaching Framework
 
 ### [Navigation & ReadMe](README.md)

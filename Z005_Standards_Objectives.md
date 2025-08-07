@@ -1,3 +1,8 @@
+---
+title: 5. Standards / Objectives
+layout: default
+nav_order: 7
+---
 # Standards / Objectives
 
 ### [Navigation & ReadMe](README.md)

@@ -1,3 +1,8 @@
+---
+title: 26. Conclusion / Learnings
+layout: default
+nav_order: 28
+---
 # Conclusion / Learnings
 
 ### [Navigation & ReadMe](README.md)
