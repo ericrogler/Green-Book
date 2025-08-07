@@ -1,6 +1,6 @@
 ---
-title: A Manager TL;DR
-layout: about
+title: 1. A Manager TL;DR
+layout: default
 ---
 # A Manager TL;DR
 

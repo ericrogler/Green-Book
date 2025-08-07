@@ -1,6 +1,6 @@
 ---
-title: The Actual Overview
-layout: page
+title: 2. The Actual Overview
+layout: default
 ---
 
 # The Actual Overview

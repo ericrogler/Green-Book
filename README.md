@@ -56,7 +56,7 @@ Click "Navigation & ReadMe" near the top of each page to get back to here quickl
 
 ## Content License
 
-The content written here follows a pretty lenient license. 
+*For all written content such as material in pages outside of code used for the website template.*
 
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
@@ -73,8 +73,8 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, August 7). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
-- **CC-BY-SA License Link**
+  - Rogler, E. (2025, August 7). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
+- **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
 ## Template Attribution

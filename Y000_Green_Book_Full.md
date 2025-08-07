@@ -1,9 +1,10 @@
 ---
 title: Full Text + References
 layout: default
+nav_order: 2
 ---
 
-# The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)
+# The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers)
 
 ### [Navigation & ReadMe](README.md)
 
