@@ -30,7 +30,7 @@ Sleep is important. Both students and teachers should not neglect it because it 
 
 **Spaced practice** (alternatively, “distributed practice”) is the most straight-forward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, time periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material; the optimal point to relearn is somewhere around where you’re just about to forget information. It’s used to combat the [**forgetting curve**](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned.
 
-Before going into the next type of practice, I’ll review “massed practice” next. Massed practice is the opposite of spaced practice. Rather than giving time and learning over multiple sessions, you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work.
+Before going into the next type of practice, I’ll review “massed practice” next. Rather than giving time and learning over multiple sessions, massed practice is when you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work.
 
 - If it *does* seem to work, it’s an illusion of effective learning and there’s a high chance you’ll forget it all in a day, if not a week, after your learning session(s).
 

@@ -22,8 +22,6 @@ Surprisingly though, it has more benefits than expected:
 ## [Full Length Text Version (Click!)](Y000_Green_Book_Full.md)
 Best for desktop viewers or for people who don't want to click through multiple pages.
 
-References are split [onto a separate link here](Y001_References_Separated.md), without ordering.
-
 ## Navigation by Chapter
 This splits the text by chapter across multiple pages. 
 

@@ -28,7 +28,7 @@ I could go on and on about more examples of biases students and non-students sho
 
 ### **Administrators**
 
-We’ll start with the principal, dean, and assistant principals, as they’re your “boss.” Their goal is to ensure the continued success of the school and they hold responsibility if said school succeeds or fails. Think of these roles as C-Suite executive positions, such as CEO, CFO, and CTO. They oversee a company–the school, in this case–and report to a Board/Department of Education who approve or deny actions principal(s) may push forward on. That same board also has a “vision” or standards they want the CEO–the principal–to properly execute for the good of the school. 
+We’ll start with the principal, dean, and assistant principals, as they’re your “boss.” They want the school to perform well and they hold responsibility if said school succeeds or fails. Think of these roles as C-Suite executive positions, such as CEO, CFO, and CTO. They oversee a company–the school, in this case–and report to a Board/Department of Education who approve or deny actions principal(s) may push forward on. That same board also has a “vision” or standards they want the CEO–the principal–to properly execute for the good of the school. 
 
 In plain business terms, the Board/DoE wants a good return on their investment they put into the school. Ironically, the power a principal holds over teachers is also marred with their hands tied for many issues outside of their control, such as state and federal legal consequences for actions.
 
