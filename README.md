@@ -1,174 +1,91 @@
-# just-the-docs-template
+## ReadMe
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+**Last Updated: August 7, 2025**
 
-More specifically, the created site:
+### Wait, a book hosted on GitHub?
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+Yea! It's unconventional to host a book on this platform and I was against it at first and almost developed a website instead.
 
-To get started with creating a site, simply:
+Surprisingly though, it has more benefits than expected:
+- Version control capabilities
+- Text styles
+- Break points
+- Supported on any text tool editor
+- WYSIWYG
+- Can be converted further from here
+- You can copy it freely and without issue
+- It's self-published, so no other middle man
+- It's free for you, the user/reader
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+## [Full Length Text Version (Click!)](Y000_Green_Book_Full.md)
+Best for desktop viewers or for people who don't want to click through multiple pages.
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
+## Navigation by Chapter
+This splits the text by chapter across multiple pages. 
 
-After completing the creation of your new site on GitHub, update it as needed:
+Click "Navigation & ReadMe" near the top of each page to get back to here quickly.
 
-## Replace the content of the template pages
+- [Manager TL;DR](Z001_Manager_TLDR.md)
+- [Actual Overview](Z002_The_Actual_Overview.md)
+- [Legality](Z003_Legality.md)
+- [Management 101](Z004_Management_101.md)
+- [Standards / Objectives](Z005_Standards_Objectives.md)
+- [Roadblocks To Teaching](Z006_Roadblocks_To_Teaching.md)
+- [Metrics Of Success](Z007_Metrics_Of_Success.md)
+- [Source(s) of Truth](Z008_Source(s)_Of_Truth.md)
+- [Communication, Design, and Usability](Z009_Communication_Design_Usability.md)
+- [“Agile” Teaching Framework](Z010_Agile_Teaching_Framework.md)
+- [Learning Methodologies](Z011_Learning_Methodologies.md)
+- [Homework](Z012_Homework.md)
+- [Teacher-Client Relations](Z013_Teacher_Client_Relations.md)
+- [Assistant Teachers](Z014_Assistant_Teachers.md)
+- [Guest Teachers, Speakers, and Presenters](Z015_Guest_Teachers_Presenters.md)
+- [Passporting & Information Transfer](Z016_Passporting_Information_Transfer.md)
+- [Other Additional Duties](Z017_Other_Additional_Duties.md)
+- [Maintaining Your Health](Z018_Maintaining_Your_Health.md)
+- [Money and Budget Management](Z019_Money_Budget_Management.md)
+- [The Use of AI](Z020_The_Use_Of_AI.md)
+- [Design Systems and EdTech](Z021_Design_Systems_EdTech.md)
+- [Action Plan: Day 1](Z022_Action_Plan_Day_1.md)
+- [Action Plan: Week 1](Z023_Action_Plan_Week_1.md)
+- [Action Plan: Month 1](Z024_Action_Plan_Month_1.md)
+- [Case Study: Communication Lesson](Z025_Case_Study_Communication_Lesson_Example.md)
+- [Conclusion / Learnings](Z026_Conclusion_Learnings.md)
 
-Update the following files to your own content:
+## Content License
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+The content written here follows a pretty lenient license. 
 
-## Changing the version of the theme and/or Jekyll
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
-Simply edit the relevant line(s) in the `Gemfile`.
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-## Adding a plugin
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+### Attribution
+Per the license requirements, you may need the following for help in citations:
 
-- Add the following to your site's `Gemfile`:
+- **"Appropriate Credit" (APA 7th example below)**
+  - Rogler, E. (2025, August 7). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
+- **CC-BY-SA License Link**
+  - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
+## Template Attribution
 
-- And add the following to your site's `_config.yml`:
+### About
 
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
+Just the Docs is © 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com/).
 
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
+### License
 
-## Publishing your site on GitHub Pages
+Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
 
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
-
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
-
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
-
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
-
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Hosting your docs from an existing project repo
-
-You might want to maintain your docs in an existing project repo. Instead of creating a new repo using the [just-the-docs template](https://github.com/just-the-docs/just-the-docs-template), you can copy the template files into your existing repo and configure the template's Github Actions workflow to build from a `docs` directory. You can clone the template to your local machine or download the `.zip` file to access the files.
-
-### Copy the template files 
-
-1.  Create a `.github/workflows` directory at your project root if your repo doesn't already have one. Copy the `pages.yml` file into this directory. GitHub Actions searches this directory for workflow files.
-
-2.  Create a `docs` directory at your project root and copy all remaining template files into this directory.
-
-### Modify the GitHub Actions workflow
-
-The GitHub Actions workflow that builds and deploys your site to Github Pages is defined by the `pages.yml` file. You'll need to edit this file to that so that your build and deploy steps look to your `docs` directory, rather than the project root.
-
-1.  Set the default `working-directory` param for the build job.
-
-    ```yaml
-    build:
-      runs-on: ubuntu-latest
-      defaults:
-        run:
-          working-directory: docs
-    ```
-
-2.  Set the `working-directory` param for the Setup Ruby step.
-
-    ```yaml
-    - name: Setup Ruby
-        uses: ruby/setup-ruby@v1
-        with:
-          ruby-version: '3.3'
-          bundler-cache: true
-          cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
-    ```
-
-3.  Set the path param for the Upload artifact step:
-
-    ```yaml
-    - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: docs/_site/
-    ```
-
-4.  Modify the trigger so that only changes within the `docs` directory start the workflow. Otherwise, every change to your project (even those that don't affect the docs) would trigger a new site build and deploy.
-
-    ```yaml
-    on:
-      push:
-        branches:
-          - "main"
-        paths:
-          - "docs/**"
-    ```
-
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
-
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
-
-----
-
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
-[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
-[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+### Github
+[Link to the GitHub repository](https://github.com/just-the-docs/just-the-docs#contributing).

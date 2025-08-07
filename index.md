@@ -7,7 +7,7 @@ layout: home
 
 Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-**Last Updated: August 4, 2025**
+**Last Updated: August 7, 2025**
 
 ### Wait, a book hosted on GitHub?
 
@@ -59,25 +59,38 @@ Click "Navigation & ReadMe" near the top of each page to get back to here quickl
 - [Case Study: Communication Lesson](Z025_Case_Study_Communication_Lesson_Example.md)
 - [Conclusion / Learnings](Z026_Conclusion_Learnings.md)
 
-## License
+## Content License
 
-Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+The content written here follows a pretty lenient license. 
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
-[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+[Creative Commons Attribution 4.0 International License][cc-by].
 
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+[![CC BY 4.0][cc-by-image]][cc-by]
 
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
 ### Attribution
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, August 4). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
+  - Rogler, E. (2025, August 7). *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners](https://github.com/ericrogler/The_Green_Book_Teachers_Instructors_Presenters_LearningDesigners)
 - **CC-BY-SA License Link**
-  - [https://creativecommons.org/licenses/by-sa/4.0/](https://creativecommons.org/licenses/by-sa/4.0/)
-- **Indication of changes made to original**
-  - Only if they were made, otherwise ignore.
+  - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+
+## Template Attribution
+
+### About
+
+Just the Docs is © 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https://patrickmarsceill.com/).
+
+### License
+
+Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
+
+### Github
+[Link to the GitHub repository](https://github.com/just-the-docs/just-the-docs#contributing).
