@@ -1,7 +1,7 @@
 ---
 title: 1. A Manager TL;DR
 layout: default
-nav_order: 3
+nav_order: 2.1
 ---
 
 # A Manager TL;DR
