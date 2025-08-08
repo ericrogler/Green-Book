@@ -115,7 +115,7 @@ If a student shows signs of one of the following, or something related, do not f
 - Overly dramatic reactions
 - Dramatic or provocative behavior
 - Fishing for compliments
-- Excessive noise-masking
+- Excessive noise-making
 - Pushing boundaries
 - Bullying others in the classroom
 - Talking out of turn
