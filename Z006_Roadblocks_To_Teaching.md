@@ -79,7 +79,7 @@ Be aware, however, there are strict requirements for what the businesses providi
 
 ### **Interpersonal Blockers**
 
-There’s not much you can do with these, but think of interpersonal blockers as things like societal issues, cultural fit, as well as gender, political affiliations, and more. There’s plenty of red tape and blockers you cannot avoid, so be mindful of how you navigate the many relationships you have with coworkers, students, peers, and more.
+There’s not much you can do with these, but think of interpersonal blockers as things like societal issues, cultural fit, gender, political affiliations, and more. There’s plenty of red tape and blockers you cannot avoid, so be mindful of how you navigate the many relationships you have with coworkers, students, peers, and more.
 
 If your facility or learning environment has an HR department, generally just follow the guidelines and rules they tell you to follow and you should be, for the most part, good to go.
 
