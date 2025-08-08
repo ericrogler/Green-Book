@@ -30,8 +30,6 @@ Best for desktop viewers or for people who don't want to click through multiple 
 ## Navigation by Chapter
 This splits the text by chapter across multiple pages. 
 
-Click "Navigation & ReadMe" near the top of each page to get back to here quickly.
-
 - [Manager TL;DR](Z001_Manager_TLDR.html)
 - [Actual Overview](Z002_The_Actual_Overview.html)
 - [Legality](Z003_Legality.html)
