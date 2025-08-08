@@ -3,17 +3,17 @@ title: 22. Action Plan - Day 1
 layout: default
 nav_order: 24
 ---
-# Action Plan: Day 1 
+# 22. Action Plan: Day 1 
 
 ### [Previous Chapter](Z021_Design_Systems_EdTech.html)
 
-*Notice: This setup is designed for a year long (or semester long) class session taking place at a physical location for primary or secondary education.*
+*Notice: This setup is designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
 
-The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is done in one day, what you need prepared may change.
+The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is one day long, what you need prepared may change.
 
 *Ideally,* you'll have at least a few days to a week of preparation time to get ready for the class. If not, well, get what you can.
 
-**Here are some things I'd like to have (and/or know) by day 1.** I'm focusing bare essentials over “nice to haves” to balance preparedness with minimal cost and effort plus ability to address many situations:
+**Here are some things I'd like to have (and/or know) by day 1.** I'm focusing on the bare essentials over "nice to haves" to balance preparedness with minimal cost and effort, plus the ability to address many situations:
 - Facility access, like keys and scannable ID badge
 - Parking space, if you travel by car
 - Designated location(s) to teach on campus
@@ -34,28 +34,28 @@ The very first day of a classroom setting. Depending on your timeframe, like if 
 - List of students for the class(es)
 - Your account information for computers, payroll systems, work emails, etc.
 - Specialist supplies (if applicable)
-  - E.g. a class on medicine may need medical supplies ready on day 1
+  - E.g., a class on medicine may need medical supplies ready on day 1
 - First Aid Kit (FAK)
-  - Trauma kit also fine, but that's overkill for many classrooms unless severe to near-lethal damage possible
+  - Trauma kit also fine, but that's overkill for many classrooms unless severe and higher damage is possible
 - Something to carry your supplies around
   - Backpack, binder, etc.
-- Locations of important areas on campus, such as teacher lounge, fridge to store your food, bathrooms, and front office + nurse/health room
+- Locations of critical areas on campus, such as the teacher lounge, fridge to store your food, bathrooms, and the front office + nurse/health room
 - List of software and other tools you need for class on the first day
 - N95 and KN95 (or higher grade) masks
 
-This is a large list, but think of it like climbing a plateau. It is steep initially, but once you reach the top it flattens out and is easier to traverse. 
+This is an extensive list, but think of it like climbing a plateau. It is steep initially, but once you reach the top, it flattens out and is easier to traverse. 
 
 You may be climbing up a short plateau as well, and not even need all these items. You may need even more than what's listed here. The situation depends on a case-by-case basis.
 
-There are some parts I'll go more into depth on which aren't as obvious.
+There are some parts I'll go more into depth on, which aren't as obvious.
 
 ### Syllabus
-This is important information for the student to know about in your class. Depending on student demographics, this can be either simple or more complex in design.
+A syllabus is essential information for the student to know about in your class. Depending on student demographics, this can be either simple or more complex in design.
 
 This may include, but is not limited to:
 - Learning objectives
 - Goals
-- Grades / grading distribution
+- Grades/grading distribution
 - Late work policies
 - Absences
 - Exam schedule
@@ -70,14 +70,14 @@ This may include, but is not limited to:
 By default, a syllabus is not a legal document or contract as it doesn't require the signatures of students or teachers. You should, however, ensure it is readily accessible and understood by students.
 
 ### Lesson Plan
-This is a written record of what you're teaching. Depending on class intensity your day 1 may go over only the syllabus and expectations, with a possible activity, or straight into the material.
+Lesson plans are a written record of what you're teaching. Depending on class intensity, your day 1 may go over only the syllabus and expectations, with a possible activity, or straight into the material.
 
-In either case, this is a guide for you, the teacher, to make so you know what you're teaching and mitigate going off track. You’ll also want a lesson plan written to show “proof of learning” in case a student comes back to claim something was not taught.
+In either case, this is a guide for you, the teacher, so you know what you're teaching and stay on track. You'll also want a lesson plan written to show "proof of learning" in case a student comes back to claim something was not taught.
 
 ### Additional Rules and Expectations
-Sometimes extra rules and expectations are established outside of the syllabus, depending on your situation, which aren’t related to what or how you’re teaching but other factors, like location or software you’re using.
+Sometimes extra rules and expectations are established outside of the syllabus, depending on your situation, which aren't related to what or how you're teaching, but other factors, like location or software you're using.
 
-In both the syllabus and outside of syllabus, the biggest things to keep in mind are:
+In both the syllabus and outside of the syllabus, the biggest things to keep in mind are:
 - You can enforce the rule(s) you make
 - The rules are legal
 - They fit your management style, when possible, so it is easier for you to enforce and follow through on
@@ -86,18 +86,18 @@ In both the syllabus and outside of syllabus, the biggest things to keep in mind
 
 *Disclaimer: This is NOT medical advice. Seek a medical professional or certified medical staff for further medical questions.*
 
-I've been pleasantly surprised how often a FAK was necessary–even for minor injuries and the occasional request for a bandage.
+I've been pleasantly surprised by how often a FAK was necessary–even for minor injuries and the occasional request for a bandage.
 
-Keep in mind, as a teacher, you may not administer drugs to students. There are a few cases where it is OK, but they are explicitly defined, narrow exceptions with specific procedures to follow. Unless you can verify and prove you fit one of these exceptions, do NOT administer drugs.
+Keep in mind, as a teacher, you may not administer drugs to students. There are a few cases where it is OK. Still, they are explicitly defined, narrow exceptions with specific procedures to follow. Unless you can verify and prove you fit one of these exceptions, do NOT administer drugs.
 
 Vaseline, Neosporin, and similar items also contain active drug ingredients, which means you're still administering drugs to students and risking legal issues. This also includes lotions, topical creams, and other oral medicines.
 
-You may think Tylenol, Ibuprofen, Advil, etc. is OK to administer, but it isn't. It still falls under narrow exceptions; if you and the situation don't apply under an exception, don't give it to students. Hospitals and medical facilities also track their use through acetaminophen (“Tylenol”) levels in blood because of how easy it is to acquire and overdose on it.
-- **An overdose, even accidental, is a medical emergency that you do not want to cause or be responsible for and can lead to death.**
+You may think Tylenol, Ibuprofen, Advil, etc., are OK to administer, but they are not. It still falls under narrow exceptions; if you and the situation don't apply under an exception, don't give it to students. Hospitals and medical facilities also track their use through acetaminophen ("Tylenol") levels in blood because of how easy it is to acquire and overdose on it.
+- **An overdose, even accidental, is a medical emergency that you do not want to cause or be responsible for, and can lead to death.**
 
-Some items are in a grey area, such as disinfectants and antiseptic wipes. For those, confirm with a principal, administrator, and/or nursing staff first before using and also confirm the cases where it can be used.
+Some items are in a grey area, such as disinfectants and antiseptic wipes. For those, confirm with a principal, administrator, and/or nursing staff first before using, and also confirm the cases where it can be used.
 
-**Some items I found are OK in a first aid kit (FAK) are the following as they aren't administering drugs:**
+**Some items I found are OK in a first aid kit (FAK) are the following, as they aren't administering drugs:**
 - Bandages
 - Scissors
 - Tweezers
@@ -107,9 +107,9 @@ Some items are in a grey area, such as disinfectants and antiseptic wipes. For t
 - Tape
 - Gauze
 
-There's several other items you could use which don't administer drugs, but they either: 
+There are several other items you could use that don't administer drugs, but they either: 
 - Are unlikely to be needed in everyday situations
-- Don't administer drugs, but have specific procedures involved to not cause life-threatening harm instead.
+- Don't administer drugs, but have specific procedures involved not to cause life-threatening harm instead (e.g, tourniquets).
 
 ## References
 
