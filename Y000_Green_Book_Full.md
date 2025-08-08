@@ -1833,7 +1833,7 @@ Think of design systems as curriculums. Let me draw some parallels below:
 - Both have well-defined standards to follow
 - Both contain (hopefully) a library of resources to create your own materials and reproduce them
 - Both have ways to edit foundational elements and components to do a service
-- Both offer options to for templates, patterns, components, and tokens
+- Both offer options for templates, patterns, components, and tokens
 - Both are organized into a clear hierarchy of topics/components
 - Both offer ways for handling different types of media and information delivery
 - Both permit edits from multiple people, which applies to all materials within the system
