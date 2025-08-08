@@ -19,40 +19,38 @@ Surprisingly though, it has more benefits than expected:
 - It's self-published, so no other middle man
 - It's free for you, the user/reader
 
-## [Full Length Text Version (Click!)](Y000_Green_Book_Full.html)
+## Full Length Text Version
 Best for desktop viewers or for people who don't want to click through multiple pages.
 
 ## Navigation by Chapter
 This splits the text by chapter across multiple pages. 
 
-Click "Navigation & ReadMe" near the top of each page to get back to here quickly.
-
-- [Manager TL;DR](Z001_Manager_TLDR.html)
-- [Actual Overview](Z002_The_Actual_Overview.html)
-- [Legality](Z003_Legality.html)
-- [Management 101](Z004_Management_101.html)
-- [Standards / Objectives](Z005_Standards_Objectives.html)
-- [Roadblocks To Teaching](Z006_Roadblocks_To_Teaching.html)
-- [Metrics Of Success](Z007_Metrics_Of_Success.html)
-- [Source(s) of Truth](Z008_Source(s)_Of_Truth.html)
-- [Communication, Design, and Usability](Z009_Communication_Design_Usability.html)
-- [“Agile” Teaching Framework](Z010_Agile_Teaching_Framework.html)
-- [Learning Methodologies](Z011_Learning_Methodologies.html)
-- [Homework](Z012_Homework.html)
-- [Teacher-Client Relations](Z013_Teacher_Client_Relations.html)
-- [Assistant Teachers](Z014_Assistant_Teachers.html)
-- [Guest Teachers, Speakers, and Presenters](Z015_Guest_Teachers_Presenters.html)
-- [Passporting & Information Transfer](Z016_Passporting_Information_Transfer.html)
-- [Other Additional Duties](Z017_Other_Additional_Duties.html)
-- [Maintaining Your Health](Z018_Maintaining_Your_Health.html)
-- [Money and Budget Management](Z019_Money_Budget_Management.html)
-- [The Use of AI](Z020_The_Use_Of_AI.html)
-- [Design Systems and EdTech](Z021_Design_Systems_EdTech.html)
-- [Action Plan: Day 1](Z022_Action_Plan_Day_1.html)
-- [Action Plan: Week 1](Z023_Action_Plan_Week_1.html)
-- [Action Plan: Month 1](Z024_Action_Plan_Month_1.html)
-- [Case Study: Communication Lesson](Z025_Case_Study_Communication_Lesson_Example.html)
-- [Conclusion / Learnings](Z026_Conclusion_Learnings.html)
+- Manager TL;DR  
+- Actual Overview  
+- Legality  
+- Management 101  
+- Standards / Objectives  
+- Roadblocks To Teaching  
+- Metrics Of Success  
+- Source(s) of Truth  
+- Communication, Design, and Usability  
+- “Agile” Teaching Framework  
+- Learning Methodologies  
+- Homework  
+- Teacher-Client Relations  
+- Assistant Teachers  
+- Guest Teachers, Speakers, and Presenters  
+- Passporting & Information Transfer  
+- Other Additional Duties  
+- Maintaining Your Health  
+- Money and Budget Management  
+- The Use of AI  
+- Design Systems and EdTech  
+- Action Plan: Day 1  
+- Action Plan: Week 1  
+- Action Plan: Month 1  
+- Case Study: Communication Lesson  
+- Conclusion / Learnings  
 
 ## Content License
 
