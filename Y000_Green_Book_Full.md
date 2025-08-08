@@ -1885,7 +1885,7 @@ Some general rules of thumb you can quickly apply comes from personal experience
 - 5 random colors don't make a good design, but 8-10 shades, both lighter and darker, of 5 random colors can make a good design
 - For colorblind people, it's easier to tell by lightness (light/dark) rather than color
 - Don't rely on color alone to convey information
-- Many greys you see in the world aren't actually true greys; they grey with another color saturated/mixed in
+- Many greys you see in the world aren't actually true greys; they are grey with another color saturated/mixed in
 - For making lighter and darker shades of colors, increase the saturation as well or it looks "washed out"
 - HSL (Hue, Saturation, Lightness) is easier to work with compared to RGB and Hex, in my opinion, but many people still work with Hex
 - Make paragraphs stay between 45 to 75 characters per line of text when able
