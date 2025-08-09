@@ -2,7 +2,7 @@
 
 Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
-**Last Updated: August 8, 2025**
+**Last Updated: August 9, 2025**
 
 ### Wait, a book hosted on GitHub?
 
@@ -12,8 +12,7 @@ Surprisingly though, it has more benefits than expected:
 - Version control capabilities
 - Text styles
 - Break points
-- Supported on any text tool editor
-- WYSIWYG
+- Supports Markdown
 - Can be converted further from here
 - You can copy it freely and without issue
 - It's self-published, so no other middle man
@@ -71,7 +70,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, August 8). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_ER](https://github.com/ericrogler/The_Green_Book_ER)
+  - Rogler, E. (2025, August 9). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://github.com/ericrogler/The_Green_Book_ER](https://github.com/ericrogler/The_Green_Book_ER)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 

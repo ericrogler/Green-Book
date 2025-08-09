@@ -92,11 +92,10 @@ This book caters to the following people in mind:
 
 ### **Assumptions / Advisory for Readers**
 
-*The frameworks and advice given assume the following is true for the reader's case:*
-
 - Some statements and information may not be independently verifiable because they rely on internal evidence like grades, timelines, surveys, and more. Some info I cannot openly share legally, and other information I purposely omit PID/PII.
 - **You are hired on as a teacher, able to be hired into an instructional role (not necessarily a "Teacher" title), OR you are in a role where you design learning materials and curricula in general.**
     - **This means I'm not covering how to get a teaching license–or other licenses–extensively as it's a varied, case-by-case basis.**
+    - You could also be a reader outside of these cases, which is totally fine.
 - The frameworks and advice I give are initially designed for technical classes, such as math, engineering, and science.
     - If able, I'll call out potential adjustments for other subject areas.
 - You are dealing with reasonable students.
