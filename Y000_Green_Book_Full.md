@@ -13,17 +13,17 @@ Providing information relevant to new teachers and instructors, old teachers and
 *Font used in pseudo cover: [Switzer](https://www.fontshare.com/fonts/switzer)*
 # 1. A Manager TL;DR
 
-### **My Role Overview**
+## **My Role Overview**
 
 - **Duration:** 2 years
 - **Role:** Teacher (In-Person, NOT Online)
 - **School Types:** Secondary and Primary Education; public & private schools
 
-### **Results**
+## **Results**
 
 Designed multiple full-year science curricula in my first year of teaching. Achieved this with strong time management during contract hours, which resulted in high student performance across all classes.
 
-## 2 Years of Teaching in <2 Minutes
+## **2 Years of Teaching in <2 Minutes**
 
 Due to a teaching contract, I cannot easily provide curriculum materials as I *technically* don't own them; the school/district does. All examples and information are HIPAA/FERPA compliant.
 
