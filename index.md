@@ -8,7 +8,7 @@ nav_order: 1
 
 ## ReadMe
 
-Welcome to *The Green Book (For Teachers, Instructors, Presenters, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
+Welcome to *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
 **Last Updated: August 9, 2025**
 
