@@ -70,7 +70,7 @@ This work is licensed under a
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
-  - Rogler, E. (2025, August 9). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
+  - Rogler, E. (2025, August 10). *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers).* GitHub. [https://ericrogler.github.io/green-book/](https://ericrogler.github.io/green-book/)
 - **CC-BY License Link**
   - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
 
