@@ -9,13 +9,22 @@ nav_order: 20
 
 ## **Short Answer**
 
-You are human, so you have human needs. Leave work at work whenever you can.
+You are human, so you have human needs. For many, teaching is a job and not their life.
+
+I view two ways to approach teaching and instruction: as a job and as a career.
+- Job: you go in before contract hours, do your role to the best of your ability, then leave after contract hours. 
+    - I.e., you leave work at work, take time off when needed, and invest in other passions.
+- Career: you see teaching and instruction as a passion and dedicate yourself continously to improvement, and helping outside of a work setting, when able.
+
+Both ways are valid and don't necessarily correlate to teaching ability or how much you enjoy the job; you can have amazing and passionate teachers and instructors with either perspective. One may switch between viewing teaching as a job vs career over time too. 
+
+With either way, though, be careful not to get taken advantage of and know when to set boundaries.
 
 ***Disclaimer: All items in this section are not medical advice.***
 
 ## **Long Answer**
 
-Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to be at a school performing duties. For first-year teachers, it's nearly inevitable because you're designing everything from scratch. If not going from scratch, then you're spending more time figuring out how the systems work. For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes; you've had *years* to fine-tune everything.
+Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to be at a school performing duties. For first-year teachers, it's nearly inevitable because you're designing everything from scratch. If not going from scratch, then you're spending more time figuring out how the systems work. For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes. You've had *years* to fine-tune everything and build up a pool of resources to quickly draw from.
 
 ### A list of things to consider
 
@@ -27,7 +36,6 @@ Here are things to watch out for that I've personally had to be mindful of. Some
 - If you can get around a third to a fourth (6 to 8 hours) of time to yourself–and family, if you have one–each day, that would be ideal.
     - Your hours are about 8 hours each day, and potentially up to 1 to 2 hours of travel each working day.
 - Make grading easy for you and automate it if you can.
-- Times are taking 1 hour to work on something, then a small 5-minute break, and get it done faster than spending 2 hours continuously working on it.
 - Do NOT sacrifice your health for a job. If it is dangerous to do, avoid it if able.
 - You will have good days and you will have bad days. Sometimes the bad days will ruin your entire day, and the best course of action is to try and focus on something else–outside of work–on that day.
 - Chances are, in your first year in a teaching environment, you'll get sick because you're exposed to more germs and bacteria.

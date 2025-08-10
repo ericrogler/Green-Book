@@ -95,6 +95,8 @@ Vaseline, Neosporin, and similar items also contain active drug ingredients, whi
 You may think Tylenol, Ibuprofen, Advil, etc., are OK to administer, but they are not. It still falls under narrow exceptions; if you and the situation don't apply under an exception, don't give it to students. Hospitals and medical facilities also track their use through acetaminophen ("Tylenol") levels in blood because of how easy it is to acquire and overdose on it.
 - **An overdose, even accidental, is a medical emergency that you do not want to cause or be responsible for, and can lead to death.**
 
+You may also consider a bottle of peppermint concentrate/oil/extract. You can safely avoid that because the likelihood you deal with a foul smell on the level of putrescine or cadaverine in your work setting is extremely low.
+
 Some items are in a grey area, such as disinfectants and antiseptic wipes. For those, confirm with a principal, administrator, and/or nursing staff first before using, and also confirm the cases where it can be used.
 
 **Some items I found are OK in a first aid kit (FAK) are the following, as they aren't administering drugs:**

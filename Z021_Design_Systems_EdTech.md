@@ -29,7 +29,7 @@ Per Chad Bergman on Figma’s blog (**[Further Reading](https://www.figma.com/bl
 
 > A design system is a set of building blocks and standards that help keep the look and feel of products and experiences consistent.
 
-For those with less artistic backgrounds or lacking design skills, don't worry. You don't need to design things, but I will ask you to see what a design system is and what it tries to accomplish.
+For those with less artistic backgrounds or lacking design skills, don't worry. You don't need to become a design expert to teach, instruct, or present, but I will ask you to see what a design system is and what it tries to accomplish.
 
 If you've ever played with Legos, used power tools for construction, or questioned why you keep losing the 10mm socket for bolts and nuts used across various products, you're dealing with something akin to a design system.
 
