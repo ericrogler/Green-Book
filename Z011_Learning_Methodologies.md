@@ -86,6 +86,17 @@ If you're still unsure what to tell students about learning, I'll give you a lis
 - Helping out people who struggle too much is detrimental to them
 - Goals matter more when chosen by someone rather than given
 
+### What determines learning ability?
+
+Though I disapprove of learning *styles,* there are still differences in how individuals learn and their capability of learning. To reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
+
+- Intelligence
+- Dynamic Testing
+- Structure Building
+- Rule vs Example Learning
+
+Your goal is presenting material in a way the student is best able to learn, not necessarily how they want to learn.
+
 ## References
 
 1. EBSCO. (n.d.). *OpenDissertations*. [https://opendissertations.org/](https://opendissertations.org/)
@@ -101,5 +112,7 @@ If you're still unsure what to tell students about learning, I'll give you a lis
 6. Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
 
 7. Parrish, S. (n.d.). *Feynman Technique: The Ultimate Guide to Learning Anything Faster*. Farnam Street Media Inc. [https://fs.blog/feynman-technique/](https://fs.blog/feynman-technique/)
+
+8. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
 
 ## [Next Chapter](Z012_Homework.html)
