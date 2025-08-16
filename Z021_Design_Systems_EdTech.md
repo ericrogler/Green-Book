@@ -109,7 +109,7 @@ Some general rules of thumb you can quickly apply come from personal experience 
 - Emphasize, whether by increasing the size, bolding text, etc., the information that a student will look for
 - Ideal line height (sometimes called "Line Spacing") is inversely proportional to font size
 - Text needs sufficient contrast between itself and the background it's on to be readable
-- 5 random colors don't make a good design, but 8-10 shades, both lighter and darker, of 5 random colors can make a good design
+- 5 random colors aren't likely to make a good design, but 8-10 shades, both lighter and darker, of 1 random color can make a good design
 - For colorblind people, it's easier to tell by lightness (light/dark) rather than color
 - Don't rely on color alone to convey information
 - Many greys you see in the world aren't true greys; they are grey with another color saturated/mixed in
