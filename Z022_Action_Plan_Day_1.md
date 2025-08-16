@@ -7,11 +7,13 @@ nav_order: 24
 
 ### [Previous Chapter](Z021_Design_Systems_EdTech.html)
 
-*Notice: This setup is designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
+***Two assumptions in place:***
+1. *Designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
+2. *You have at least a few days to 1 week BEFORE class starts for preparation.*
 
 The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is one day long, what you need prepared may change.
 
-*Ideally,* you'll have at least a few days to a week of preparation time to get ready for the class. If not, well, get what you can.
+If you only have a day or two beforehand to prepare, I'd focus on getting lesson plans, syllabus, and your basic supplies first before worrying about the other items. That way, when you do start teaching on day 1, you're not scrambling to figure out what to do and other items you can acquire/ask about when on break, throughout the day, and when other people come by.
 
 **Here are some things I'd like to have (and/or know) by day 1.** I'm focusing on the bare essentials over "nice to haves" to balance preparedness with minimal cost and effort, plus the ability to address many situations:
 - Facility access, like keys and scannable ID badge
@@ -42,6 +44,8 @@ The very first day of a classroom setting. Depending on your timeframe, like if 
 - Locations of critical areas on campus, such as the teacher lounge, fridge to store your food, bathrooms, and the front office + nurse/health room
 - List of software and other tools you need for class on the first day
 - N95 and KN95 (or higher grade) masks
+- Some snacks hidden away. You never know when you might want a little snacky snack.
+  - E.g. I mathed out one of my desk drawers was large enough to stow away a 6-pack box of donuts from Safeway and King Soopers.
 
 This is an extensive list, but think of it like climbing a plateau. It is steep initially, but once you reach the top, it flattens out and is easier to traverse. 
 

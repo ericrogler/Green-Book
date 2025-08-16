@@ -1191,7 +1191,7 @@ Also, with gender, teachers and professors are not classified as a "bona fide oc
 
 I could go on and on about more examples of biases students and non-students show towards teachers. Still, you're better off researching topics like "unconscious bias," "implicit bias," and "hidden bias" on your own time. In short, everyone has some level of unconscious bias, but the questions to answer are which biases they have, how they manifest, and how to deal with them.
 
-### **Administrators**
+### Administrators
 
 We'll start with the principal, dean, and assistant principals, as they're your "boss." They want the school to perform well, and they are responsible for its success or failure. Think of these roles as C-Suite executive positions, such as CEO, CFO, and CTO. They oversee a company–the school, in this case–and report to a Board/Department of Education, who approve or denies actions principal(s) may push forward on. That same board also has a "vision" or standards they want the CEO/principal to execute for the good of the school, properly. 
 
@@ -1219,7 +1219,7 @@ As a teacher or instructor, your role is to produce the results the principal(s)
 
 Your best bet is to focus on becoming a more effective teacher, improving your curriculum, resolving issues independently, or improving professional relationships with students and staff.
 
-### **Parents & Adult Students**
+### Parents & Adult Students
 
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll actively be against you. It depends on the administrator, and it's less something you can easily change.
 
@@ -1239,7 +1239,7 @@ It also may help when students are adults, as they face significantly more legal
 
 With both groups of people, you'll want to set expectations from day one, if not even earlier than day one. It saves you time and also quickly establishes the environment they're dealing with.
 
-### **Other Teachers**
+### Other Teachers
 
 You'll likely work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. Still, if the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
@@ -1249,7 +1249,7 @@ Please do note, though, that much like other professional workers, they still ne
 
 With more sensitive topics like religion and politics, avoid talking about those still unless you're sure the other teachers you're around are OK with civilly discussing these topics.
 
-### **Secondary & Primary Education Students**
+### Secondary & Primary Education Students
 
 **Why do students fall under clients? It's because they're the ones receiving your services–what you're teaching them!** This category is for students still considered minors. The biggest thing to note is that minors don't follow the (exact) same rules as adults when it comes to learning, and it's in their name: they are *not* adults. Sometimes, younger students genuinely do not know any better because they haven't been *taught* any better; you're often working with a (mostly) blank canvas.
 
@@ -1273,7 +1273,7 @@ One strategy I've used, to some success, is explicitly asking the students what 
 
 Lastly, keep in mind students of all ages are still *students.* They are not your friends. You can interact with them in a friendly manner, but you are ultimately there to teach them. It's the same in business outside of teaching; you may be good friends with a supplier, but there's still some expectation of reward or money you give them rather than only altruistic feelings amongst informal friend groups. You'll need to set expectations and establish clear boundaries, and enforce any punishments fairly that follow for breaking those expectations.
 
-### **Support Staff**
+### Support Staff
 
 Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or a teacher like yourself. Support includes secretaries, custodians, maintenance staff, paras, security, nurses, cafeteria staff, groundskeepers, and more.
 
@@ -1281,6 +1281,35 @@ Without these staff members, your school wouldn't be able to keep rooms clean, t
 
 To keep it simple, treat them well. If you don't, you'll find yourself saddled with bad conditions and more work very quickly.
 
+### Handling [Adult] Communications and Urgency
+
+How do you know when something is important? I have some indicators:
+
+1. It has a deadline.
+2. It has consequences if not done (defined elsewhere or explicitly in a communication).
+3. It can be verified whether or not *you* did it.
+4. It has specific information (this part can be short or long).
+5. It's been asked about more than once.
+6. It's *probably* not sent as an email/text message.
+7. It's a life-threatening and/or medical emergency.
+
+Your first year of working, you're likely not going to "know" if something is important, so go through the process of responding as usual and figure out what things are actually important. Even in my first year of teaching, I didn't "figure it out" until at least several months in. I don't expect you to be perfect from day one. 
+
+When you develop an intuition for it, you'll learn to better protect your time and what to prioritize.
+
+Next question: How often should you check things like your email every day?
+
+If you're in a line of work like communication, social media, owning a business, or a manager, this is pretty often. If your primary work is NOT communicating, then you should plan out specific times of the day to look at emails, etc. and what days, like vacation days and weekends, to NOT look at emails, etc.
+
+There's also some "rules of thumb" to emails/texts I like to follow:
+- Writing them as short as possible
+- Unless they're actually important, they're responded to during work hours.
+- Some personalization in 1:1 emails
+  - E.g. "This student said they" -> "[Name of student] mentioned [pronoun]..."
+- If it avoids a 1 hour meeting, I'm making a 5 minute email
+- [If the sender does this, I'm ignoring it](https://nohello.net/en/)
+
+There's plenty of nuance in adult communication you'll develop experience for over time, which is why covering every case is both unreasonable and nigh impossible for me to do.
 ___
 
 # 14. Assistant Teachers
@@ -1923,11 +1952,13 @@ ___
 
 # 22. Action Plan: Day 1 
 
-*Notice: This setup is designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
+***Two assumptions in place:***
+1. *Designed for a year-long (or semester-long) class session taking place at a physical location for primary or secondary education.*
+2. *You have at least a few days to 1 week BEFORE class starts for preparation.*
 
 The very first day of a classroom setting. Depending on your timeframe, like if your entire curriculum is one day long, what you need prepared may change.
 
-*Ideally,* you'll have at least a few days to a week of preparation time to get ready for the class. If not, well, get what you can.
+If you only have a day or two beforehand to prepare, I'd focus on getting lesson plans, syllabus, and your basic supplies first before worrying about the other items. That way, when you do start teaching on day 1, you're not scrambling to figure out what to do and other items you can acquire/ask about when on break, throughout the day, and when other people come by.
 
 **Here are some things I'd like to have (and/or know) by day 1.** I'm focusing on the bare essentials over "nice to haves" to balance preparedness with minimal cost and effort, plus the ability to address many situations:
 - Facility access, like keys and scannable ID badge
@@ -1958,6 +1989,8 @@ The very first day of a classroom setting. Depending on your timeframe, like if 
 - Locations of critical areas on campus, such as the teacher lounge, fridge to store your food, bathrooms, and the front office + nurse/health room
 - List of software and other tools you need for class on the first day
 - N95 and KN95 (or higher grade) masks
+- Some snacks hidden away. You never know when you might want a little snacky snack.
+  - E.g. I mathed out one of my desk drawers was large enough to stow away a 6-pack box of donuts from Safeway and King Soopers.
 
 This is an extensive list, but think of it like climbing a plateau. It is steep initially, but once you reach the top, it flattens out and is easier to traverse. 
 
@@ -2473,3 +2506,5 @@ Outside of that, thank you for reading, and I hope you came away from this manua
 16. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart Brevity: The Power of Saying More with Less*. Workman Publishing.
 
 17. Brewer, A., Cynthia. (2016). *Designing Better Maps: A Guide for GIS Users*. Esri Press.
+
+2. no hello. (n.d.). *please don’t say just hello in chat* [Webpage]. No Hello. Retrieved August 16, 2025, from https://nohello.net/en/
