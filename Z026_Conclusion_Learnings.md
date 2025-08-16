@@ -15,4 +15,4 @@ There's a plethora of information I skipped over or omitted that you may go thro
 
 Outside of that, thank you for reading, and I hope you came away from this manual with a deeper understanding of the world of teaching.
 
-### You have reached the end! 😃
+### **You have reached the end!** 😃

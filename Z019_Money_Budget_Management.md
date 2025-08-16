@@ -24,7 +24,7 @@ While I did talk about monetary blockers briefly before, I'm creating a separate
 
 Teachers are managers, it turns out. Another role you have, though it is not explicitly said too often, is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike managers, though, you typically don't deal with all the nuances of budgets and money; that's up to the principal(s) at your institution.
 
-### Covering The Budget
+### **Covering The Budget**
 Now then, your "budget," which comes in different names, such as PTO allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. Unless you're teaching outside of a normal educational institution, your spending limit is defined by someone else, like your principal, and not you. Additionally, the items permitted to be covered by that learning budget are not up to you; instead, this is defined by your federal government (namely, the IRS), the principal, and/or any organization providing the funds. Even if you're not subject to principal control, you are very much subject to IRS control. If you're part of a non-profit, you also have stricter requirements on what can and cannot be paid for *in general*.
 
 This amount varies wildly across institutions, but I've seen ranges from a couple hundred USD ($200) to several thousand USD ($3000+), *per year*, granted as a learning budget for a teacher. For some schools, this may come from a source known as a parent-teacher association (PTA) or a parent-teacher organization (PTO) that provides grants and approves purchases and materials teachers buy. From personal experience, as long as you're getting only supplies they'll cover–or able to get them to cover–you won't have much difficulty getting it covered. Suppose you're still low on budgetary needs. In that case, you can also look into third-party organizations, such as Adopt a Classroom. I won't discuss those in depth because of their varied nature.
@@ -53,7 +53,7 @@ Because this is a manual on teaching and not budgeting, I'll avoid going into de
 - Items not easily obtainable without purchasing them
 - Things that are safe (or safe enough for science) in a teaching environment
 
-### Putting It Into Practice (Budgeting for Newbies)
+### **Putting It Into Practice (Budgeting for Newbies)**
 
 **If you're not sure how much you should spend, forget about whatever learning budget you have and pretend you have only 100 USD (United States dollars).** It's probable you can have the essentials and basic supplies you need for a classroom with that amount, like pencils and paper. 
 - The only exception to this 100 USD limit right now is for any ONE item you need for teaching–not the physical classroom–that is >=100 USD.

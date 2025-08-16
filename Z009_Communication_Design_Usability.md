@@ -51,7 +51,7 @@ You don't need to be the best at discovering or inventing ideas. Still, you do n
   - "Good enough" content done in a day is better than "perfect" content done in a month.
   - Focus on what's directly related to your standards and transferable first and foremost.
 
-### The User (Student) Experience
+### **The User (Student) Experience**
 Imagine you're using a website or playing a video game for the first time. You may not know how to use it to its full potential, or you're going in with some knowledge of conventions and standards about how this website or game should operate.
 
 Students are much the same way. They're coming from multiple demographics, and each demographic shares some conventions in common, while others are less well known. 
@@ -73,7 +73,7 @@ When in doubt, design your teaching materials so that they require as little thi
 
 You can also teach new conventions and methods, but keep in mind that it may take students several iterations and exposures before they require less mental effort to think about how to do it.
 
-### The Pareto Principle
+### **The Pareto Principle**
 You may have heard of the 80/20 rule before. That's what the Pareto Principle is. It's applied to many different scenarios and situations, but for a valid reason: 80% of the consequences come from 20% of the causes is a commonly observed event. It's a generally accepted rule (NOT law).
 
 **There are some misconceptions to correct:**
@@ -94,7 +94,7 @@ Don't know what the serious problems are?
 
 Solutions don't have to be perfect; just good enough to effectively solve the problem.
 
-### Accessibility
+### **Accessibility**
 Outside of legal requirements like IEPs and 504s, you want to make sure your teaching material is accessible.
 
 Does this mean more work? Yes. Does this also mean you can dramatically improve people's lives and experiences with slight effort? Also yes.

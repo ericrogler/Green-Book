@@ -19,7 +19,7 @@ Recall how I mentioned the principal has a significant number of tasks and, when
 
 There is a similar relationship between teachers, specifically "general education," and professors, as well as assistant teachers, like "SPED" (Special Education), "Paras" (Paraeducators), TAs (Teaching Assistants), co-teachers, and substitute teachers. The difference between you and them is significant, though; even though there may be many co-teachers, there is still a primary teacher, which is likely you if you're reading this.
 
-### Assistant Teacher Types
+### **Assistant Teacher Types**
 
 **Special Education (or "SPED")** is a department consisting of 1 or more paraeducators, colloquially called "paras" by staff and students alike. In many states in the US, paraeducators don't need teaching licenses or credentials. However, they are still professionals working alongside certified teachers. Each paraeducator usually focuses on 1 or 2 students at a time to meet their IEP/504 requirements and any other educational requirements. Meeting these requirements ranges from basic assistance to meet the current curriculum of students without the need for highly modified curricula. Paraeducators may need additional guidance on the material covered, as they also have to worry about your class and every other class the student goes into.
 
@@ -33,7 +33,7 @@ They're like mini-teachers, and their goal is to take off the workload for teach
 
 **Substitute teachers** are teachers with either a teaching license, a substitute teaching license, or a vetted adult in private school settings. They won't always have the same background as you do, but in case you need to take time off, they can legally replace you in a classroom setting. Keep in mind they may not be able to teach your subject–unless you give clear enough instructions and they have a background–so they are treated closer to a TA rather than a co-teacher. If it's a substitute who you're unsure of teaching in your place, the days you are out are better assigned as work days, which are like project/activity days on the framework from before. Be advised, though, that a substitute teacher fully assumes the role and responsibilities of the teacher they cover, so whatever you can do as the primary teacher, they can do much of the same. You place a moderate level of risk in a substitute teacher, as students may not get as far as you intended with them while you are absent. You can get them into trouble with administration, though, if they do a poor job, and a substitute teacher should leave you a note or short report on how the day went in your classes.
 
-### Handling Assistant Teachers (In-Depth)
+### **Handling Assistant Teachers (In-Depth)**
 
 Managing assistant teacher expectations and how they assist you depends on communication and expectations. I'll put it this way: if you're a primary teacher, don't expect your assisting teachers to know what to do if you don't define what they *should* do. 
 

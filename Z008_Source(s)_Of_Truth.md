@@ -38,7 +38,7 @@ There are three explicit categories stated here: known knowns, known unknowns, a
 **Unknown Unknown**
 - Information that you are neither aware of, understand, nor can correctly predict and expect.
 
-### Exploring Outside Your Field
+### **Exploring Outside Your Field**
 Though Rumsfeld mentions unknown unknowns as difficult, I'd also categorize unknown knowns as equally challenging. Beliefs, suppositions, and practices we do not know of may form the values we know of, follow, and practice.
 
 For your curriculum and meeting standards, you'll be dealing with mainly known knowns and known unknowns. You're able to teach because you know what you're teaching. For parts you're uncertain about on the subjects you're covering (known unknowns), you're able to find and research resources elsewhere, make sense of them, and incorporate them into your teaching. In the process of researching, you'll eventually come upon information that you may or may not use in teaching, but didn't know about before, existed, or initially thought relevant to your subject(s) (unknown unknowns). Funny how intelligence work is helpful in teaching, too.
@@ -61,7 +61,7 @@ Here is a small list of books I used for designing a curriculum.
 
 Despite my teaching focus on science and engineering, I found helpful information in other sources, such as communication and design books. This list is a small sample, but shows an example where looking into information outside of your field can ultimately benefit you.
 
-### Regarding Wikipedia
+### **Regarding Wikipedia**
 
 Lastly, I'll end with a note on Wikipedia. Wikipedia is excellent as a one-stop source for what you're trying to look up. For the average layman and in general, it's a good resource.
 

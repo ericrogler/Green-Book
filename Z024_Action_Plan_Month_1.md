@@ -28,7 +28,7 @@ After the first month, you should be closer to a routine schedule rather than pl
 
 For first-year teachers, your main goal is survival. When you have completed everything you need or meet the minimum effectiveness requirements, then you can expand from there.
 
-### A Note on Effectiveness vs Efficiency
+### **A Note on Effectiveness vs Efficiency**
 
 During your self-reflection period, these terms may come into mind.
 

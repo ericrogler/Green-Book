@@ -26,7 +26,7 @@ With either way, though, be careful not to get taken advantage of and know when 
 
 Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to be at a school performing duties. For first-year teachers, it's nearly inevitable because you're designing everything from scratch. If not going from scratch, then you're spending more time figuring out how the systems work. For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes. You've had *years* to fine-tune everything and build up a pool of resources to quickly draw from.
 
-### A list of things to consider
+### **A list of things to consider**
 
 Here are things to watch out for that I've personally had to be mindful of. Some parts are repeats of what I said before, but if I'm repeating it, *it's for a good reason*:
 
@@ -52,7 +52,7 @@ Here are things to watch out for that I've personally had to be mindful of. Some
 
 If you're in a position where you also happen to be teaching basic health (not advanced health and medicine; leave that to health professionals like nurses, doctors, and dieticians), you can look into sources such as the CDC, NIH, and nutrition.gov as starting references.
 
-### A Quick Life Lesson From An Unexpected Source
+### **A Quick Life Lesson From An Unexpected Source**
 
 There's an exchange between Dr. Cox and J.D. from the TV show *Scrubs* in the episode "My Lunch" that sticks in my head more than I care to admit. 
 
@@ -92,7 +92,7 @@ It may take less than a month, or a year, or even your entire teaching career be
 
 Like the scene above, now that I told you about it, hopefully, you won't get affected by it as much.
 
-### An Isolating Profession
+### **An Isolating Profession**
 
 Another thing about being a teacher is that it's an isolating profession. This sounds odd at first, because a teacher is interacting with many other human beings a lot. Still, many teachers are working alone most of the time.
 

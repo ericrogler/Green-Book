@@ -9,10 +9,10 @@ nav_order: 27
 
 *Notice: You can copy and modify this template. This is based on an activity I did for my students in Science classes.*
 
-### Objective 
+### **Objective**
 Students will examine a case study and learn how to communicate and present to a larger audience. The assignment will test their ability to identify why the presentation is effective, which elements contributed to its effectiveness, and what made the topic particularly effective.
 
-### Time Distribution
+### **Time Distribution**
 **~50 minutes total**
 - ~5 minutes for Teacher prep and administrative tasks beforehand
 - 15 minutes for video
@@ -20,12 +20,12 @@ Students will examine a case study and learn how to communicate and present to a
 - 15 minutes for classroom discussion over answers and presentation
 - Any remaining free time is dedicated to further discussion
 
-### Resource(s)
+### **Resource(s)**
 Steve Jobs Introduced iPhone in 2007
 (Posted on YouTube by John Schroter):
 [https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o) 
 
-### Accommodations
+### **Accommodations**
 - For hearing impairments, turn on closed captions (CC) in the video.
   - If there is an interpreter present with the student(s), permit the interpreter to assist with the questions and follow along with the classwide discussion.
 - For sight impairments, base grading on their level of active participation and how well they answer questions you ask. 
@@ -33,10 +33,10 @@ Avoid asking them questions dealing with heavy visual elements.
 - For physical impairments, have seating available for these students if not already available.
 - For writing impairments, you may permit them an electronic copy of the assignment to type their answers on. They're still required to participate in discussion, however.
 
-### Standards
+### **Standards**
 - [Teacher defined; may vary depending on grade level, subject, etc]
 
-### Questions
+### **Questions**
 *Student Notice: For all questions, assume answers need to be in complete sentences unless stated otherwise.*
 
 - What elements were integral to Steve Jobs' presentation? List six different elements you spotted in the video—no complete sentences needed.
@@ -53,11 +53,11 @@ Avoid asking them questions dealing with heavy visual elements.
 
 - **Extra Credit:** What feature received a low amount of applause, but is still an essential feature of the iPhone? Why?
 
-### PAUSE
+### **PAUSE**
 
 **When done, wait for the teacher to signal the start of classroom discussions. If done early, review and refine your answers above.**
 
-### Discussion
+### **Discussion**
 
 **Steps to follow:**
 - The teacher provides 5 minutes for students to discuss the answers amongst themselves. 

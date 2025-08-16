@@ -27,7 +27,7 @@ This week is difficult precisely because everything is still "new," and you may 
 
 Week 1 is where you're setting up your teaching database of information; a place where you can easily access and search for information. This involves cleaning and sorting things first before they're usable, so your first week is OK to sacrifice free time to get your ducks in a row.
 
-### Lesson Plans (Post Day 1)
+### **Lesson Plans (Post Day 1)**
 
 After day 1, your principal, or another administrator if not the principal, may have expectations for how much–or how little–to include in your lesson plans. General advice is to follow whatever the principal or your boss tells you, to avoid trouble. 
 
@@ -43,7 +43,7 @@ After day 1, your principal, or another administrator if not the principal, may 
 
 If you can answer those questions, you're doing OK. Your lesson plan can be short or long, so long as it meets your objectives and fits within your deadlines.
 
-### Templates (Assignments, Tests, etc.)
+### **Templates (Assignments, Tests, etc.)**
 
 Templates are great, and they save you time. Instead of writing assignments from scratch every time, you can create one master template for each type of work. A template includes static fields where students write information, such as answers and names, and includes dynamic fields where you replace or edit information, such as directions, questions, images, visuals, and more.
 

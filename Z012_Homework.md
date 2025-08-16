@@ -29,7 +29,7 @@ In a high school or lower educational setting, you may only need some to no home
 
 Now, to talk about why homework for students means more homework for you, the teacher.
 
-### Do I give more or less homework?
+### **Do I give more or less homework?**
 
 Every assignment you issue is an assignment you'll likely have to grade. Multiply that by the number of students you're teaching, and you may find, just grading alone, homework may take hours, if not multiple work days, to accomplish.
 

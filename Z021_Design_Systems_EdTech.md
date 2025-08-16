@@ -23,7 +23,7 @@ I've lived in Kansas City and can tell you about gas station barbecue, amongst o
 
 Moving on!
 
-### The Weird Complexity of Design Systems
+### **The Weird Complexity of Design Systems**
 
 Per Chad Bergman on Figma’s blog (**[Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)**):
 
@@ -56,7 +56,7 @@ Adopting, adapting, and creating each have their benefits and drawbacks. This is
 
 If you're unsure whether to adopt, adapt, or create, consider the amount of creative freedom or control you need over your system. Adopting suits interests best when you don't need to make many edits, but creating suits interests best when you're expecting to make multiple customizations and adjustments over time.
 
-### How Design Systems Relate to Teaching
+### **How Design Systems Relate to Teaching**
 
 Think of design systems as curricula. Let me draw some parallels below:
 - Both have well-defined standards to follow
@@ -83,7 +83,7 @@ Think of design systems as curricula. Let me draw some parallels below:
 - Learn not to fall in love with your work, because high chances are you will change it later.
   - Sometimes it's also your boss or consumers making you change it.
 
-### What about EdTech?
+### **What about EdTech?**
 
 Not much to say about it. 
 
@@ -93,7 +93,7 @@ Some software you use will look "good" and function properly, while other softwa
 
 Sometimes you're forced to use a particular software, or a suite of software, to accomplish your goal. Software is a tool to achieve a task or solve a problem you have, and you'll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won't get better with them unless you use them.
 
-### I don't have much design experience though!
+### **I don't have much design experience though!**
 
 Two things before you panic.
 1. You can "design" in PowerPoint, Excel, and Microsoft Word or their equivalents in Google Documents, Sheets, and Slides as well. If you need advanced design programs, look into tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.

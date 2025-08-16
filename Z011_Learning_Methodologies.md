@@ -29,7 +29,7 @@ Suppose you have ever coached or practiced sports before. In that case, you may 
 
 Sleep is important. Both students and teachers should not neglect it because it affects learning. How exactly sleep affects learning is outside the scope of this writing, but generally speaking, if you don't get enough sleep, it is harder to learn and retain knowledge over a long time.
 
-### Types of Practice
+### **Types of Practice**
 
 **Spaced practice** (alternatively, "distributed practice") is the most straightforward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material; the optimal point to relearn is somewhere around where you're just about to forget information. Spaced practice combats the [**forgetting curve**](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned.
 
@@ -41,7 +41,7 @@ Before going into the next type of practice, I'll review "massed practice" next.
 
 **Varied practice** is another form of learning. To expand on the tennis example, we're already doing spaced days and interleaving different types of tennis techniques throughout the day. However, now we *vary* the context of the methods and their use. Do you use a drop shot when at the back of the court? What about the technique to use when you're suddenly near the net? You take the topic and the methods employed under that topic and vary based on how they're applied.
 
-### Helplessness and Failure
+### **Helplessness and Failure**
 
 Lastly, there's also dealing with the theories of learned helplessness, learned incompetence, and negative reinforcement. It may show at any age in humans and also shows up in animals, but is more common in younger age groups. In the context of students, these issues manifest most often when a student receives a difficult task. Rather than try to work through a task to the best of their ability, they may instead not attempt the task at all because it seems complicated or attempt it once and give up after only a single failure, waiting for someone else to do the work for them.
 
@@ -61,7 +61,7 @@ Many students can act like they don't know because it's easier to do so, and it 
 
 Countering learned helplessness, faked incompetence, and negative reinforcement is simple: Do not help students unless absolutely needed and/or medically/legally obligated to. It's the best way I've seen to beat those issues: making students experience and overcome difficulty and failure.
 
-### Performance vs Learning
+### **Performance vs Learning**
 
 When a student focuses on performance, their goal is to satisfy metrics–often quantitative, like a grade–and do no additional work beyond that. When a student focuses on learning, they'll invest less time in an explicit grade and more in understanding how and why something works. 
 
@@ -86,7 +86,7 @@ If you're still unsure what to tell students about learning, I'll give you a lis
 - Helping out people who struggle too much is detrimental to them
 - Goals matter more when chosen by someone rather than given
 
-### What determines learning ability?
+### **What determines learning ability?**
 
 Though I disapprove of learning *styles,* there are still differences in how individuals learn and their capability of learning. To reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
 

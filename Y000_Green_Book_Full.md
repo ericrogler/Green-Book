@@ -616,7 +616,7 @@ There are three explicit categories stated here: known knowns, known unknowns, a
 **Unknown Unknown**
 - Information that you are neither aware of, understand, nor can correctly predict and expect.
 
-### Exploring Outside Your Field
+### **Exploring Outside Your Field**
 Though Rumsfeld mentions unknown unknowns as difficult, I'd also categorize unknown knowns as equally challenging. Beliefs, suppositions, and practices we do not know of may form the values we know of, follow, and practice.
 
 For your curriculum and meeting standards, you'll be dealing with mainly known knowns and known unknowns. You're able to teach because you know what you're teaching. For parts you're uncertain about on the subjects you're covering (known unknowns), you're able to find and research resources elsewhere, make sense of them, and incorporate them into your teaching. In the process of researching, you'll eventually come upon information that you may or may not use in teaching, but didn't know about before, existed, or initially thought relevant to your subject(s) (unknown unknowns). Funny how intelligence work is helpful in teaching, too.
@@ -639,7 +639,7 @@ Here is a small list of books I used for designing a curriculum.
 
 Despite my teaching focus on science and engineering, I found helpful information in other sources, such as communication and design books. This list is a small sample, but shows an example where looking into information outside of your field can ultimately benefit you.
 
-### Regarding Wikipedia
+### **Regarding Wikipedia**
 
 Lastly, I'll end with a note on Wikipedia. Wikipedia is excellent as a one-stop source for what you're trying to look up. For the average layman and in general, it's a good resource.
 
@@ -708,7 +708,7 @@ You don't need to be the best at discovering or inventing ideas. Still, you do n
   - "Good enough" content done in a day is better than "perfect" content done in a month.
   - Focus on what's directly related to your standards and transferable first and foremost.
 
-### The User (Student) Experience
+### **The User (Student) Experience**
 Imagine you're using a website or playing a video game for the first time. You may not know how to use it to its full potential, or you're going in with some knowledge of conventions and standards about how this website or game should operate.
 
 Students are much the same way. They're coming from multiple demographics, and each demographic shares some conventions in common, while others are less well known. 
@@ -730,7 +730,7 @@ When in doubt, design your teaching materials so that they require as little thi
 
 You can also teach new conventions and methods, but keep in mind that it may take students several iterations and exposures before they require less mental effort to think about how to do it.
 
-### The Pareto Principle
+### **The Pareto Principle**
 You may have heard of the 80/20 rule before. That's what the Pareto Principle is. It's applied to many different scenarios and situations, but for a valid reason: 80% of the consequences come from 20% of the causes is a commonly observed event. It's a generally accepted rule (NOT law).
 
 **There are some misconceptions to correct:**
@@ -751,7 +751,7 @@ Don't know what the serious problems are?
 
 Solutions don't have to be perfect; just good enough to effectively solve the problem.
 
-### Accessibility
+### **Accessibility**
 Outside of legal requirements like IEPs and 504s, you want to make sure your teaching material is accessible.
 
 Does this mean more work? Yes. Does this also mean you can dramatically improve people's lives and experiences with slight effort? Also yes.
@@ -1042,7 +1042,7 @@ Suppose you have ever coached or practiced sports before. In that case, you may 
 
 Sleep is important. Both students and teachers should not neglect it because it affects learning. How exactly sleep affects learning is outside the scope of this writing, but generally speaking, if you don't get enough sleep, it is harder to learn and retain knowledge over a long time.
 
-### Types of Practice
+### **Types of Practice**
 
 **Spaced practice** (alternatively, "distributed practice") is the most straightforward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material; the optimal point to relearn is somewhere around where you're just about to forget information. Spaced practice combats the [**forgetting curve**](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned.
 
@@ -1054,7 +1054,7 @@ Before going into the next type of practice, I'll review "massed practice" next.
 
 **Varied practice** is another form of learning. To expand on the tennis example, we're already doing spaced days and interleaving different types of tennis techniques throughout the day. However, now we *vary* the context of the methods and their use. Do you use a drop shot when at the back of the court? What about the technique to use when you're suddenly near the net? You take the topic and the methods employed under that topic and vary based on how they're applied.
 
-### Helplessness and Failure
+### **Helplessness and Failure**
 
 Lastly, there's also dealing with the theories of learned helplessness, learned incompetence, and negative reinforcement. It may show at any age in humans and also shows up in animals, but is more common in younger age groups. In the context of students, these issues manifest most often when a student receives a difficult task. Rather than try to work through a task to the best of their ability, they may instead not attempt the task at all because it seems complicated or attempt it once and give up after only a single failure, waiting for someone else to do the work for them.
 
@@ -1074,7 +1074,7 @@ Many students can act like they don't know because it's easier to do so, and it 
 
 Countering learned helplessness, faked incompetence, and negative reinforcement is simple: Do not help students unless absolutely needed and/or medically/legally obligated to. It's the best way I've seen to beat those issues: making students experience and overcome difficulty and failure.
 
-### Performance vs Learning
+### **Performance vs Learning**
 
 When a student focuses on performance, their goal is to satisfy metrics–often quantitative, like a grade–and do no additional work beyond that. When a student focuses on learning, they'll invest less time in an explicit grade and more in understanding how and why something works. 
 
@@ -1099,7 +1099,7 @@ If you're still unsure what to tell students about learning, I'll give you a lis
 - Helping out people who struggle too much is detrimental to them
 - Goals matter more when chosen by someone rather than given
 
-### What determines learning ability?
+### **What determines learning ability?**
 
 Though I disapprove of learning *styles,* there are still differences in how individuals learn and their capability of learning. To reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
 
@@ -1136,7 +1136,7 @@ In a high school or lower educational setting, you may only need some to no home
 
 Now, to talk about why homework for students means more homework for you, the teacher.
 
-### Do I give more or less homework?
+### **Do I give more or less homework?**
 
 Every assignment you issue is an assignment you'll likely have to grade. Multiply that by the number of students you're teaching, and you may find, just grading alone, homework may take hours, if not multiple work days, to accomplish.
 
@@ -1179,7 +1179,7 @@ You'll also need to learn how to work with people you disagree with and not take
 
 ***Disclaimer: This section is more heavily opinionated.***
 
-### Primer on Psychology (kind of)
+### **Primer on Psychology (kind of)**
 
 Before we go into how to deal with people, I should briefly talk about their goals and unconscious bias. If you know what someone's goal is, you'll have an easier time rationalizing and dealing with them. There are times goals vary among different people in the same position, so this is a comprehensive overview. As a teacher, you'll deal primarily with administrators and parents, as well as other teachers. Depending on your role or needs, you may also deal with agencies.
 
@@ -1191,7 +1191,7 @@ Also, with gender, teachers and professors are not classified as a "bona fide oc
 
 I could go on and on about more examples of biases students and non-students show towards teachers. Still, you're better off researching topics like "unconscious bias," "implicit bias," and "hidden bias" on your own time. In short, everyone has some level of unconscious bias, but the questions to answer are which biases they have, how they manifest, and how to deal with them.
 
-### Administrators
+### **Administrators**
 
 We'll start with the principal, dean, and assistant principals, as they're your "boss." They want the school to perform well, and they are responsible for its success or failure. Think of these roles as C-Suite executive positions, such as CEO, CFO, and CTO. They oversee a company–the school, in this case–and report to a Board/Department of Education, who approve or denies actions principal(s) may push forward on. That same board also has a "vision" or standards they want the CEO/principal to execute for the good of the school, properly. 
 
@@ -1219,7 +1219,7 @@ As a teacher or instructor, your role is to produce the results the principal(s)
 
 Your best bet is to focus on becoming a more effective teacher, improving your curriculum, resolving issues independently, or improving professional relationships with students and staff.
 
-### Parents & Adult Students
+### **Parents & Adult Students**
 
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll actively be against you. It depends on the administrator, and it's less something you can easily change.
 
@@ -1239,7 +1239,7 @@ It also may help when students are adults, as they face significantly more legal
 
 With both groups of people, you'll want to set expectations from day one, if not even earlier than day one. It saves you time and also quickly establishes the environment they're dealing with.
 
-### Other Teachers
+### **Other Teachers**
 
 You'll likely work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. Still, if the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
@@ -1249,7 +1249,7 @@ Please do note, though, that much like other professional workers, they still ne
 
 With more sensitive topics like religion and politics, avoid talking about those still unless you're sure the other teachers you're around are OK with civilly discussing these topics.
 
-### Secondary & Primary Education Students
+### **Secondary & Primary Education Students**
 
 **Why do students fall under clients? It's because they're the ones receiving your services–what you're teaching them!** This category is for students still considered minors. The biggest thing to note is that minors don't follow the (exact) same rules as adults when it comes to learning, and it's in their name: they are *not* adults. Sometimes, younger students genuinely do not know any better because they haven't been *taught* any better; you're often working with a (mostly) blank canvas.
 
@@ -1273,7 +1273,7 @@ One strategy I've used, to some success, is explicitly asking the students what 
 
 Lastly, keep in mind students of all ages are still *students.* They are not your friends. You can interact with them in a friendly manner, but you are ultimately there to teach them. It's the same in business outside of teaching; you may be good friends with a supplier, but there's still some expectation of reward or money you give them rather than only altruistic feelings amongst informal friend groups. You'll need to set expectations and establish clear boundaries, and enforce any punishments fairly that follow for breaking those expectations.
 
-### Support Staff
+### **Support Staff**
 
 Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or a teacher like yourself. Support includes secretaries, custodians, maintenance staff, paras, security, nurses, cafeteria staff, groundskeepers, and more.
 
@@ -1281,7 +1281,7 @@ Without these staff members, your school wouldn't be able to keep rooms clean, t
 
 To keep it simple, treat them well. If you don't, you'll find yourself saddled with bad conditions and more work very quickly.
 
-### Handling [Adult] Communications and Urgency
+### **Handling [Adult] Communications and Urgency**
 
 How do you know when something is important? I have some indicators:
 
@@ -1326,7 +1326,7 @@ Recall how I mentioned the principal has a significant number of tasks and, when
 
 There is a similar relationship between teachers, specifically "general education," and professors, as well as assistant teachers, like "SPED" (Special Education), "Paras" (Paraeducators), TAs (Teaching Assistants), co-teachers, and substitute teachers. The difference between you and them is significant, though; even though there may be many co-teachers, there is still a primary teacher, which is likely you if you're reading this.
 
-### Assistant Teacher Types
+### **Assistant Teacher Types**
 
 **Special Education (or "SPED")** is a department consisting of 1 or more paraeducators, colloquially called "paras" by staff and students alike. In many states in the US, paraeducators don't need teaching licenses or credentials. However, they are still professionals working alongside certified teachers. Each paraeducator usually focuses on 1 or 2 students at a time to meet their IEP/504 requirements and any other educational requirements. Meeting these requirements ranges from basic assistance to meet the current curriculum of students without the need for highly modified curricula. Paraeducators may need additional guidance on the material covered, as they also have to worry about your class and every other class the student goes into.
 
@@ -1340,7 +1340,7 @@ They're like mini-teachers, and their goal is to take off the workload for teach
 
 **Substitute teachers** are teachers with either a teaching license, a substitute teaching license, or a vetted adult in private school settings. They won't always have the same background as you do, but in case you need to take time off, they can legally replace you in a classroom setting. Keep in mind they may not be able to teach your subject–unless you give clear enough instructions and they have a background–so they are treated closer to a TA rather than a co-teacher. If it's a substitute who you're unsure of teaching in your place, the days you are out are better assigned as work days, which are like project/activity days on the framework from before. Be advised, though, that a substitute teacher fully assumes the role and responsibilities of the teacher they cover, so whatever you can do as the primary teacher, they can do much of the same. You place a moderate level of risk in a substitute teacher, as students may not get as far as you intended with them while you are absent. You can get them into trouble with administration, though, if they do a poor job, and a substitute teacher should leave you a note or short report on how the day went in your classes.
 
-### Handling Assistant Teachers (In-Depth)
+### **Handling Assistant Teachers (In-Depth)**
 
 Managing assistant teacher expectations and how they assist you depends on communication and expectations. I'll put it this way: if you're a primary teacher, don't expect your assisting teachers to know what to do if you don't define what they *should* do. 
 
@@ -1602,7 +1602,7 @@ With either way, though, be careful not to get taken advantage of and know when 
 
 Many teachers are likely to work outside of their contract hours; the hours of the day you're "supposed" to be at a school performing duties. For first-year teachers, it's nearly inevitable because you're designing everything from scratch. If not going from scratch, then you're spending more time figuring out how the systems work. For more experienced teachers, the amount of time outside of work you get back gradually increases because you can do things faster and require less rigorous setup for your classes. You've had *years* to fine-tune everything and build up a pool of resources to quickly draw from.
 
-### A list of things to consider
+### **A list of things to consider**
 
 Here are things to watch out for that I've personally had to be mindful of. Some parts are repeats of what I said before, but if I'm repeating it, *it's for a good reason*:
 
@@ -1628,7 +1628,7 @@ Here are things to watch out for that I've personally had to be mindful of. Some
 
 If you're in a position where you also happen to be teaching basic health (not advanced health and medicine; leave that to health professionals like nurses, doctors, and dieticians), you can look into sources such as the CDC, NIH, and nutrition.gov as starting references.
 
-### A Quick Life Lesson From An Unexpected Source
+### **A Quick Life Lesson From An Unexpected Source**
 
 There's an exchange between Dr. Cox and J.D. from the TV show *Scrubs* in the episode "My Lunch" that sticks in my head more than I care to admit. 
 
@@ -1668,7 +1668,7 @@ It may take less than a month, or a year, or even your entire teaching career be
 
 Like the scene above, now that I told you about it, hopefully, you won't get affected by it as much.
 
-### An Isolating Profession
+### **An Isolating Profession**
 
 Another thing about being a teacher is that it's an isolating profession. This sounds odd at first, because a teacher is interacting with many other human beings a lot. Still, many teachers are working alone most of the time.
 
@@ -1710,7 +1710,7 @@ While I did talk about monetary blockers briefly before, I'm creating a separate
 
 Teachers are managers, it turns out. Another role you have, though it is not explicitly said too often, is managing money. If you don't have money or spend it all unwisely, you may not have the supplies to teach. Unlike managers, though, you typically don't deal with all the nuances of budgets and money; that's up to the principal(s) at your institution.
 
-### Covering The Budget
+### **Covering The Budget**
 Now then, your "budget," which comes in different names, such as PTO allowance, learning budget, classroom budget, and more. For consistency's sake, I'll refer to it as "learning budget" going forward. Unless you're teaching outside of a normal educational institution, your spending limit is defined by someone else, like your principal, and not you. Additionally, the items permitted to be covered by that learning budget are not up to you; instead, this is defined by your federal government (namely, the IRS), the principal, and/or any organization providing the funds. Even if you're not subject to principal control, you are very much subject to IRS control. If you're part of a non-profit, you also have stricter requirements on what can and cannot be paid for *in general*.
 
 This amount varies wildly across institutions, but I've seen ranges from a couple hundred USD ($200) to several thousand USD ($3000+), *per year*, granted as a learning budget for a teacher. For some schools, this may come from a source known as a parent-teacher association (PTA) or a parent-teacher organization (PTO) that provides grants and approves purchases and materials teachers buy. From personal experience, as long as you're getting only supplies they'll cover–or able to get them to cover–you won't have much difficulty getting it covered. Suppose you're still low on budgetary needs. In that case, you can also look into third-party organizations, such as Adopt a Classroom. I won't discuss those in depth because of their varied nature.
@@ -1739,7 +1739,7 @@ Because this is a manual on teaching and not budgeting, I'll avoid going into de
 - Items not easily obtainable without purchasing them
 - Things that are safe (or safe enough for science) in a teaching environment
 
-### Putting It Into Practice (Budgeting for Newbies)
+### **Putting It Into Practice (Budgeting for Newbies)**
 
 **If you're not sure how much you should spend, forget about whatever learning budget you have and pretend you have only 100 USD (United States dollars).** It's probable you can have the essentials and basic supplies you need for a classroom with that amount, like pencils and paper. 
 - The only exception to this 100 USD limit right now is for any ONE item you need for teaching–not the physical classroom–that is >=100 USD.
@@ -1853,7 +1853,7 @@ I've lived in Kansas City and can tell you about gas station barbecue, amongst o
 
 Moving on!
 
-### The Weird Complexity of Design Systems
+### **The Weird Complexity of Design Systems**
 
 Per Chad Bergman on Figma’s blog (**[Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)**):
 
@@ -1886,7 +1886,7 @@ Adopting, adapting, and creating each have their benefits and drawbacks. This is
 
 If you're unsure whether to adopt, adapt, or create, consider the amount of creative freedom or control you need over your system. Adopting suits interests best when you don't need to make many edits, but creating suits interests best when you're expecting to make multiple customizations and adjustments over time.
 
-### How Design Systems Relate to Teaching
+### **How Design Systems Relate to Teaching**
 
 Think of design systems as curricula. Let me draw some parallels below:
 - Both have well-defined standards to follow
@@ -1913,7 +1913,7 @@ Think of design systems as curricula. Let me draw some parallels below:
 - Learn not to fall in love with your work, because high chances are you will change it later.
   - Sometimes it's also your boss or consumers making you change it.
 
-### What about EdTech?
+### **What about EdTech?**
 
 Not much to say about it. 
 
@@ -1923,7 +1923,7 @@ Some software you use will look "good" and function properly, while other softwa
 
 Sometimes you're forced to use a particular software, or a suite of software, to accomplish your goal. Software is a tool to achieve a task or solve a problem you have, and you'll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won't get better with them unless you use them.
 
-### I don't have much design experience though!
+### **I don't have much design experience though!**
 
 Two things before you panic.
 1. You can "design" in PowerPoint, Excel, and Microsoft Word or their equivalents in Google Documents, Sheets, and Slides as well. If you need advanced design programs, look into tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.
@@ -1998,7 +1998,7 @@ You may be climbing up a short plateau as well, and not even need all these item
 
 There are some parts I'll go more into depth on, which aren't as obvious.
 
-### Syllabus
+### **Syllabus**
 A syllabus is essential information for the student to know about in your class. Depending on student demographics, this can be either simple or more complex in design.
 
 This may include, but is not limited to:
@@ -2018,12 +2018,12 @@ This may include, but is not limited to:
 
 By default, a syllabus is not a legal document or contract as it doesn't require the signatures of students or teachers. You should, however, ensure it is readily accessible and understood by students.
 
-### Lesson Plan
+### **Lesson Plan**
 Lesson plans are a written record of what you're teaching. Depending on class intensity, your day 1 may go over only the syllabus and expectations, with a possible activity, or straight into the material.
 
 In either case, this is a guide for you, the teacher, so you know what you're teaching and stay on track. You'll also want a lesson plan written to show "proof of learning" in case a student comes back to claim something was not taught.
 
-### Additional Rules and Expectations
+### **Additional Rules and Expectations**
 Sometimes extra rules and expectations are established outside of the syllabus, depending on your situation, which aren't related to what or how you're teaching, but other factors, like location or software you're using.
 
 In both the syllabus and outside of the syllabus, the biggest things to keep in mind are:
@@ -2031,7 +2031,7 @@ In both the syllabus and outside of the syllabus, the biggest things to keep in 
 - The rules are legal
 - They fit your management style, when possible, so it is easier for you to enforce and follow through on
 
-### First Aid Kit (FAK)
+### **First Aid Kit (FAK)**
 
 *Disclaimer: This is NOT medical advice. Seek a medical professional or certified medical staff for further medical questions.*
 
@@ -2086,7 +2086,7 @@ This week is difficult precisely because everything is still "new," and you may 
 
 Week 1 is where you're setting up your teaching database of information; a place where you can easily access and search for information. This involves cleaning and sorting things first before they're usable, so your first week is OK to sacrifice free time to get your ducks in a row.
 
-### Lesson Plans (Post Day 1)
+### **Lesson Plans (Post Day 1)**
 
 After day 1, your principal, or another administrator if not the principal, may have expectations for how much–or how little–to include in your lesson plans. General advice is to follow whatever the principal or your boss tells you, to avoid trouble. 
 
@@ -2102,7 +2102,7 @@ After day 1, your principal, or another administrator if not the principal, may 
 
 If you can answer those questions, you're doing OK. Your lesson plan can be short or long, so long as it meets your objectives and fits within your deadlines.
 
-### Templates (Assignments, Tests, etc.)
+### **Templates (Assignments, Tests, etc.)**
 
 Templates are great, and they save you time. Instead of writing assignments from scratch every time, you can create one master template for each type of work. A template includes static fields where students write information, such as answers and names, and includes dynamic fields where you replace or edit information, such as directions, questions, images, visuals, and more.
 
@@ -2136,7 +2136,7 @@ After the first month, you should be closer to a routine schedule rather than pl
 
 For first-year teachers, your main goal is survival. When you have completed everything you need or meet the minimum effectiveness requirements, then you can expand from there.
 
-### A Note on Effectiveness vs Efficiency
+### **A Note on Effectiveness vs Efficiency**
 
 During your self-reflection period, these terms may come into mind.
 
@@ -2152,10 +2152,10 @@ ___
 
 *Notice: You can copy and modify this template. This is based on an activity I did for my students in Science classes.*
 
-### Objective 
+### **Objective** 
 Students will examine a case study and learn how to communicate and present to a larger audience. The assignment will test their ability to identify why the presentation is effective, which elements contributed to its effectiveness, and what made the topic particularly effective.
 
-### Time Distribution
+### **Time Distribution**
 **~50 minutes total**
 - ~5 minutes for Teacher prep and administrative tasks beforehand
 - 15 minutes for video
@@ -2163,12 +2163,12 @@ Students will examine a case study and learn how to communicate and present to a
 - 15 minutes for classroom discussion over answers and presentation
 - Any remaining free time is dedicated to further discussion
 
-### Resource(s)
+### **Resource(s)**
 Steve Jobs Introduced iPhone in 2007
 (Posted on YouTube by John Schroter):
 [https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o) 
 
-### Accommodations
+### **Accommodations**
 - For hearing impairments, turn on closed captions (CC) in the video.
 
   - If there is an interpreter present with the student(s), permit the interpreter to assist with the questions and follow along with the classwide discussion.
@@ -2177,10 +2177,10 @@ Avoid asking them questions dealing with heavy visual elements.
 - For physical impairments, have seating available for these students if not already available.
 - For writing impairments, you may permit them an electronic copy of the assignment to type their answers on. They're still required to participate in discussion, however.
 
-### Standards
+### **Standards**
 - [Teacher defined; may vary depending on grade level, subject, etc]
 
-### Questions
+### **Questions**
 *Student Notice: For all questions, assume answers need to be in complete sentences unless stated otherwise.*
 
 - What elements were integral to Steve Jobs' presentation? List six different elements you spotted in the video—no complete sentences needed.
@@ -2197,11 +2197,11 @@ Avoid asking them questions dealing with heavy visual elements.
 
 - **Extra Credit:** What feature received a low amount of applause, but is still an essential feature of the iPhone? Why?
 
-### PAUSE
+### **PAUSE**
 
 **When done, wait for the teacher to signal the start of classroom discussions. If done early, review and refine your answers above.**
 
-### Discussion
+### **Discussion**
 
 **Steps to follow:**
 - The teacher provides 5 minutes for students to discuss the answers amongst themselves. 
@@ -2225,7 +2225,7 @@ There's a plethora of information I skipped over or omitted that you may go thro
 
 Outside of that, thank you for reading, and I hope you came away from this manual with a deeper understanding of the world of teaching.
 
-### You have reached the end! 😃
+### **You have reached the end!** 😃
 
 # References
 
