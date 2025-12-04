@@ -1,7 +1,7 @@
 ---
-title: 12. Homework
+title: 20. Homework
 layout: default
-nav_order: 14
+nav_order: 22
 ---
 # Homework
 
@@ -9,54 +9,60 @@ nav_order: 14
 
 ## **Short Answer**
 
-The time spent in class should make up for the time spent on homework, and this varies significantly by subject.
+Class time should offset homework time, though this balance depends heavily on the subject(s) taught.
+
+It's possible, but not always feasible, to eliminate homework entirely for a class provided students demonstrate sufficient understanding of the material taught.
+- Another reason is students may refuse to do it altogether.
+
+Sometimes you may have to give homework due to an administrative policy. This is typically to align teachers and avoid discrepancies in provided education. Other times, there's no homework policy and its up to the teacher.
 
 ## **Long Answer**
 
 Recall the previous section where I talked about blockers to student learning and the ability to teach.
 
-Homework *can*–but not always will–infringe on those four blockers I talked about: technology, physical, monetary, and interpersonal. Student A may not have the same support systems as Student B. Even though you gave them the same assignment, they may not have the same opportunities and availability to complete it to the best of their ability.
+Homework amplifies potential blockers to learning and may affect equity. Student A and student B may not have the same opportunities, technology available to use, support systems, and availability to complete the same assignment. This is one major reason why some schools adopt no homework policies.
 
-The goal of equity here is providing *opportunity* to those in less fortunate circumstances or those with disabilities or impairments.
+Equity is *opportunity* provided to those in worse circumstances and with fewer resources. Before you start parading equity as the end-all, be-all solution, and go straight towards support no homework policies, consider the following argument:
 
-Before you start parading equity as the end-all, be-all solution, consider the following argument:
+College students may see a professor for 3 hours a week while high schoolers see teachers typically 4-5 days each week at about 50 min to 1.5 hours per day. Less class time in college means more out-of-class work and practice to stay on track and ensure material is retained. Primary and secondary education courses have more time in class, so less, or even no, homework should be needed to go through the necessary material.
+- College-prep courses in high schools I would include under the "college" category here with regards to homework.
 
-In tertiary education, like college, you may only see your professors for 3 hours *each week* in a semester. In secondary education, such as high school and middle school, you may see teachers for about 50 minutes to 1 hour per day, if not more, Monday to Friday each week. The in-class time you have across different types of education varies significantly, so what you can get done during class and teach, review, practice, etc., also differs significantly.
-
-It's why college classes expect *more* out of students outside of class compared to high school classes. The total work may be about the same in both education levels (unless it's post-graduate, then definitely more outside work). Still, the amount of work you can do in a classroom in college is less, so there's more out-of-class work to compensate and make up for the practice, learning, etc., you need. The work amount is by design and due to the constraints imposed upon teaching. Professors and teachers aren't always giving you homework because they dislike you; they're doing it to stay within deadlines and to get you the appropriate practice for the material they're covering to ensure you're learning as they intend you to.
-
-In a high school or lower educational setting, you may only need some to no homework depending on your subject and how rigorous the class is (e.g., AP History vs. "normal" history). For subjects like music, athletics, and math, there is a significant amount of learning by doing over listening/remembering only, so homework is likely. For other subjects, more work is doable in class, so it doesn't *always* have to become homework and give more work outside of an 8-to-4 or 7-to-3 schedule secondary and primary education students already have to follow.
-
-Now, to talk about why homework for students means more homework for you, the teacher.
+Now to talk about why more homework for students means more homework for you, the teacher.
 
 ### **Do I give more or less homework?**
 
-Every assignment you issue is an assignment you'll likely have to grade. Multiply that by the number of students you're teaching, and you may find, just grading alone, homework may take hours, if not multiple work days, to accomplish.
+Every assignment you issue is an assignment you may have to write, grade, and adjust to various student accommodations. With dozens, hundreds, or even thousands of students, this workload *from one graded assignment* can take multiple days. Any accommodations multiply the time further. The time to go through one homework assignment scales exponentially as class sizes increase and number of accommodations increase.
 
-Multiply that value again by the number of students for whom you have to rewrite the assignment due to disabilities and accommodations. What seems like minor changes and a simple homework assignment inevitably scales exponentially as you have more students. Remember, time is your most valuable asset; you do not want to waste it.
+Additionally, if all work is done inside of class, a teacher could catch errors and reteach topics quickly rather than delaying correction with homework. In middle school and high school, students typically may have several teachers with differing amounts of homework given in their class too.
 
-You should not give out homework you are not willing to grade, if you can help it. If you do have to give out graded homework, figure out if there's a way to automate or quickly accomplish the grading process. If you cannot automate it or quickly grade it, then see if you can structure or refine the assignment for more efficient grading, whether by limiting the number of questions or the types of responses permitted for questions.
+Homework should be intended as practice and low-stakes, not busy work. It also shouldn't be too time-consuming; if it takes excessive time, it's an issue with assignment design and/or student understanding.
 
-Multiple choice questions, math/science problems with discrete solutions, and any questions with one solution work best here, because all you need to do is make a key. If their answers don't match your answers, it's easy to cross-reference and grade.
+Homework should also be *practice* and focus on critical problem-solving skills. You *can* do repetition through homework, but it shouldn't be something like drilling down 40+ math problems with a value or two changed. class time is better for drilling down concepts because you can have students go through concepts with a teacher guiding, correcting, modeling, and facilitating the learning process.
+
+Before making a decision on issuing more homework, there are two other important notes I'll cover.
+
+**Note 1: Some practice is needed for learning, which may require homework or classwork.**
+
+Say I'm teaching electrical circuits. This may include topics like Ohm's Law (V = IR) and the Power Formula (P = IV). The theory is taught, equations are demonstrated, and understanding is checked for.
+
+At this point, a problem occurs: some students lack algebra skills to manipulate multivariable equations. There's no need to reteach the entirety of algebra then and there, but they still need guidance on how to properly manipulate and apply these equations in different scenarios.
+
+This combines two fields, math and science, into one: applied algebra remediation so students succeed on the current topic(s). I could do this with classwork and practice right then and there, but I may have to assign it as homework so I don't get too far behind and risk not staying on track with my curriculum and standards.
+
+**Note 2: When allowed, only assign homework you're willing to grade.**
+
+If homework must be graded, design it for fast evaluations. Automate when able, limit questions, and stick to formats with discrete answers like multiple choice questions, certain math/science problems, and questions with one correct solution in general. If their answers don't match your answers, it's easy to cross-reference and grade.
 
 - In data analysis terms, it's matching 1-to-1 questions to answers, rather than 1-to-many questions to answers.
 
 These types of questions are easy to automate compared to qualitative problems and questions with a multitude/range of correct answers, which means you save more time. We like saving time.
 
-The method I stuck with was "implied homework" for teaching, which meant explicitly telling students I'm putting the responsibility on them to properly prepare for tests, assignments, etc., based on any information and explanations I gave during classroom time. I told students what to expect from the test and what I'll try to cover in each unit. 
+My primary approach for homework in class was "implied homework." I explicitly told students they were responsible for preparing for tests and assignments based on what I covered in class. Students could ask me questions about *concepts* will be tested, but not ask me about which questions are on tests. If I didn't cover a topic to a sufficient degree, I summarized, simplified, and/or excluded the topic from exams.
 
-Suppose I don't go over a particular subject. In that case, I figure out if there's a way to summarize it and potentially exclude it from a unit's exam. 
+This setup eliminated virtually all formal homework, except for math-heavy science and engineering topics, but necessitated frequent testing to ensure master of concepts.
 
-This setup eliminated virtually all of my homework, except for math-heavy science and engineering topics, but vastly increased the number of "tests" I issued at the end of each unit in-class to compensate and ensure students were adequately prepared for and learned the appropriate subjects.
-
-Another "implied" homework I gave, but didn't explicitly grade, was allowing a "cheat sheet" for tests. Cheat sheets had varied results, so if I were to do it again, I'd do the following:
-
-- A notecard size at most. An entire page of 8.5 x 11 paper can fit in nearly the whole exam if a student is willing to write small enough–and they most certainly are eager.
-- Force it to be in writing. It forces students to commit to what they should put on a cheat sheet vs trying to remember, and stops the "copy+paste" problem of computer-based notes.
-
-There are cases where you can permit an open book test as well, but reserve those for topics with exceptional depth and where a student should utilize how to *find* things in the book(s) allowed for answers rather than knowing every detail in the book.
+There were also "open book" tests. I reserved those tests for subjects and concepts where the primary skill tested is knowing how to find information then apply it to a problem.
 
 Overall, though, don't give out homework unless necessary. Try your best, as a teacher, to accomplish what you need to get students to learn within the classroom setting.
 
-
-## [Next Chapter](Z013_Teacher_Client_Relations.html)
+## **[Next Chapter](Z013_Teacher_Client_Relations.html)**

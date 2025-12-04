@@ -1,4 +1,8 @@
-## ReadMe
+# ReadMe
+
+![The Green Book.png](https://iili.io/Fg93eou.png)
+
+*Font used in pseudo cover: [Switzer](https://www.fontshare.com/fonts/switzer)*
 
 Welcome to *The Green Book (For Teachers, Instructors, Presenters, Students, and Learning Designers)*. Included is the license involved with this work and a chapter navigation if you'd rather go to a specific topic. This is a web-friendly version hosted on Github and created through Visual Studio Code. You do not need to access the main repository unless you want to.
 
@@ -18,23 +22,25 @@ Surprisingly though, it has more benefits than expected:
 - It's self-published, so no other middle man
 - It's free for you, the user/reader
 
-## Full Length Text Version
-Best for desktop viewers or for people who don't want to click through multiple pages.
-
 ## Navigation by Chapter
 This splits the text by chapter across multiple pages. 
 
 - Manager TL;DR  
 - Actual Overview  
 - Legality  
-- Management 101  
+- General Management (for Teaching)
+- Management Case A: Scaling Growth
+- Management Case B: Communications and Operations
+- Management Case C: Macro and Micro
+- Classroom & Behavior Management
 - Standards / Objectives  
 - Roadblocks To Teaching  
-- Metrics Of Success  
+- Metrics Of Success
+- Analysis, Probability, and Statistics
 - Source(s) of Truth  
 - Communication, Design, and Usability  
 - “Agile” Teaching Framework  
-- Learning Methodologies  
+- Learning Methodologies and Teaching Methods 
 - Homework  
 - Teacher-Client Relations  
 - Assistant Teachers  
@@ -66,7 +72,7 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-### Attribution
+### Content Attribution
 Per the license requirements, you may need the following for help in citations:
 
 - **"Appropriate Credit" (APA 7th example below)**
@@ -85,4 +91,4 @@ Just the Docs is © 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](https:/
 Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
 
 ### Github
-[Link to the GitHub repository](https://github.com/just-the-docs/just-the-docs#contributing).
+[Link to template's GitHub repository](https://github.com/just-the-docs/just-the-docs#contributing).

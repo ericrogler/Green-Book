@@ -1,7 +1,7 @@
 ---
-title: 10. “Agile” Teaching Framework
+title: 17. “Agile” Teaching Framework
 layout: default
-nav_order: 12
+nav_order: 19
 ---
 # “Agile” Teaching Framework
 
@@ -9,15 +9,23 @@ nav_order: 12
 
 ## **Short Answer**
 
-*Disclaimer: I built this framework in mind for secondary and tertiary education (middle school and above). Elementary school/primary education may need adjustments beyond what is here.*
-
+*Disclaimer: I built this framework in mind for secondary and tertiary education (middle school and above). Elementary school/primary education may need adjustments beyond what is here. It is also intended to be independent of subject(s) taught, so it may reach multiple fields.*
 - **The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
 - Many topics can fit into short, fixed-time periods of 1, 2, or 4 weeks/days and include a balance of lectures, activities, projects, and tests.
 - Be ready and able to adjust lesson plans as needed, even on a day-by-day basis.
 - *Every* subject requires teachers to communicate well through storytelling. If you cannot communicate well and hold students' attention, then you cannot get students to invest in your teachings and learn what they need to know.
-- If it works as a summary, use a summary.
+- If it works as a summary, then it's typically best to keep it as a summary.
 - Good lectures are not boring. Bad lectures are boring.
-- **"If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now."** – Former US President Woodrow Wilson
+- **"If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now."** – Former US President Woodrow Wilson (Daniels, 1946, p. 624)
+
+This framework requires keeping some other important things in mind:
+- The goal is fast feedback and results on learning material (content), while keeping any changes cheap and easy to implement to take advantage of better learning opportunities.
+- It also requires autonomy; if an organization does not support it, it will not work.
+- It is NOT meant to micromanage people.
+- Do not implement this framework for the sake of process; its goal is driving outcomes.
+- You must be allowed to criticize the system(s) to find and develop improvements for it.
+
+**Last, but not least: Whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
 
 ## **Long Answer**
 
@@ -31,85 +39,128 @@ A teacher, however, goes through multiple steps beyond looking up the informatio
 
 This gap in learning creates a void to fill with an important question: how does a *student* learn if they're not a teacher and trying to teach others?
 
+### **A Cautionary Aside on Frameworks**
+
+Keep in mind the following information in this chapter is a *framework.* Not a system, not a curriculum, etc.
+
+What's the difference? A framework provides a reference point, or a set of predefined rules and functions to work around. A system, on the other hand, is a self-contained, working entity, with its own flow, functions, and controls.
+
+I'll put it in several analogies.
+- If Windows OS is a system, .NET Framework is the framework to build applications on Windows.
+- If a website is a system, React is a framework which helps create that system.
+- If all teaching materials (i.e. curriculum, classroom management plan, etc.) together form a system, this chapter is a framework for determining how to split types of learning to meet standards.
+- If a toolkit is a system, a set of standardized wrenches is the framework used to solve problems.
+
+What I'm asking you to do is think in terms of problems to solve and what frameworks (tools, structures, or otherwise) to apply to solve the problem. You may see this concept called "Jobs to Be Done" in other spaces, which is figuring out the steps to complete a job, why the job is being done, and researching solutions to complete that job.
+- E.g. A person wants to browse the web on their phone. You use frameworks, like UI toolkits and coding libraries, to create a system, which is a web browser in this case, to do that job.
+
+Though this advice may run counter to this chapter's focus, it will help you in the future when you need to design your own systems from scratch or adapt existing curriculums to a framework or system.
+
+### **Overview and Advisory**
+
+Something I want you to keep in mind as you're reading through this. There are multiple ways to teach multiple topics. 
+
+This framework focuses on categorizing methods and distributing their ratios to fit a learning environment. It's my attempt to make a framework one can apply across multiple environments, multiple age groups, multiple levels of education, and multiple accommodations all at once. 
+
+**Some important notes before reading further:**
+1. It's ok for students to be bored sometimes.
+2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution. 
+3. Modifications are expected and will happen in practice; plan for when they're needed.
+4. Sometimes the old-fashioned methods work better than cutting-edge methods.
+
 ### **Where does Agile fit into this?**
 
-For those unfamiliar with Agile, here's the [**Agile Manifesto**](https://agilemanifesto.org/principles.html). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success (E.g., "Scrumfall") compared to traditional waterfall practices.
+*Notice: I may use the terms "distribution" and "ratio" interchangeably.*
 
-When I was teaching, I settled on a 6/2/2 distribution for my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
+For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g., "Scrumfall" or "Scrumerfall") compared to traditional waterfall practices and, quite often, its original intent, guidelines, and purpose gets thrown to the wayside.
+
+When I was teaching, I settled on a 6/2/2 distribution/ratio for most of my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
 
 - (60%) 6 days lecture
 - (20%) 2 days projects and/or activities
 - (20%) 2 days tests and/or review
 
-I set this up because I had, in the worst case, 24 units in a single school year to cover. In science, I also had much theoretical information to cover compared to practical experiments to do. I had to be sensible. With this setup, I met standards, and I regained an entire week to explore other future concepts with students in the field of science!
+I set this up because I had, in the worst case, 24 units in a single school year to cover. In science, I also had much theoretical information to cover compared to practical experiments to do. I had to be sensible and efficient. With this setup, I met standards, and I regained an entire week to explore other future concepts with students in the field of science!
+
+Some readers may see the above and wonder why I spend entire days on just *one* category of teaching. That was simply how I did things at the time. It's entirely possible to mix categories together and do those 3 categories in 1 day as well. 
+
+To give an example of what could replace a "lecture" day in the same amount of time: Lecture -> Interaction/Activity -> Review Worksheets 
+
+**You try to define ratios for each category (e.g. "6:2:2") and NOT finite units of time in this framework, so you can scale up and down based on how much time you'll have to instruct.**
+- E.g. You have 10 minutes instead of 10 days, so it splits into 6 minutes, 2 minutes, and 2 minutes.
 
 More important notes with the above distribution:
 
-1. Sometimes there are days you lose. It's possible, but difficult, to plan for losses like these, but you'll likely only be able to prepare 1-2 weeks out.
+1. You'll eventually lose some instructional days. It's possible, but difficult, to plan for losses like these, but you'll likely only be able to decently prepare 1-2 weeks out at a time.
 2. This distribution example is for a two-business-week (10-day) coverage of one unit. 1 week (5 days) would be 3/1/1 and 4 weeks (20 days) would be 12/4/4.
 3. 1 or 2 week periods work best for me, because you won't go too in-depth when you should summarize instead, and you are less likely to get behind on your teaching schedule.
 
 Some parts in each unit I can summarize and explain fully in a few sentences. Other parts required significantly more depth or required methods where typical text or verbal explanations alone were insufficient.
 
 - Aside: If you want a "fun" way to practice summarizing, read graduate and PhD theses/dissertations and sum them up in layman's terms within two or fewer short sentences. Do that multiple times. It's easier than you think!
-    - [**Here’s a link to start practicing**](https://opendissertations.org/)
+    - [Here’s a link to start practicing](https://opendissertations.org/) (OpenDissertations, n.d.)
 
-**The stages of a Scrum "sprint" in Agile are the following ([further reading](https://www.atlassian.com/agile/scrum/sprints)):**
+**The stages of a Scrum "sprint" in Agile are the following** ([further reading](https://www.atlassian.com/agile/scrum/sprints)):
 
 - Planning
 - Implementation
 - Review
 - Retrospective
 
-Scrum is an Agile framework, and the sprint is a part of Scrum. The goal of a sprint is to ship out work on a product, or a completed product, at the end of each sprint. To put "product" another way, your goal is to complete parts of, or the whole, curriculum by your deadline.
+Scrum is an Agile framework and the sprint is a part of Scrum (Rehkopf, n.d.; Schwaber & Sutherland, 2020). The goal of a sprint is to ship out work on a product, or a completed product, at the end of each sprint. To put "product" another way, your goal is to complete parts of, or the whole, curriculum by your deadline(s).
 
 I'll go over these four stages and where they apply in a teaching context below. Each unit or "cycle" repeats these four stages continuously from start to end during a school year, semester, or trimester. Though you go through iterations with a sprint, it's not ideal to go across stages in a sprint, such as moving from Implementation to Planning. It's best to go through a whole cycle of Planning, Implementation, Review, and then Retrospective whenever possible, as the Retrospective stage is time dedicated to adjusting your teaching approach, seeing what went wrong or right, and more.
 
-### **Advisory**
+### **Pre-emptive Advisory**
 
-Though I do a 6/2/2 setup, other subjects may need more student days dedicated to projects and activities rather than lectures, such as theater, art, athletics, and music. In those scenarios, you could do a 4/4/2, a 2/6/2, or even a 1/8/1 setup if it's primarily project-based rather than theory-based and/or exams aren't the primary way to check for competency.
+**Be wary of disregarding a type of learning completely, like never doing lectures, never doing activities, or never doing tests. It may likely affect learning negatively and not properly convey important concepts effectively.**
+- For example, imagine removing coloring/drawing activities from kindergarten and young children. Those activities were around for decades, if not centuries or longer, because they help build up fine motor skills. You would need an *extremely* good reason, with evidence, to break away from a long established precedent.
 
-If your curriculum is more project-based or heavily focuses on activities, dedicate more days to activities and working on projects. If not, dedicate more days to lecture and direct instruction. Always have some time planned for reviewing and tests to ensure material is retained.
+Though I do a 6/2/2 setup, other subjects may need more time dedicated to projects and activities rather than lectures, such as theater, art, athletics, and music. In those scenarios, you could do a 4/4/2, a 2/6/2, or even a 1/8/1 setup if it's primarily project-based rather than theory-based and/or exams aren't the primary way to check for competency.
+
+If your curriculum is more project-based, collaborative, or heavily focuses on activities, dedicate more time to activities and working on projects. If not, dedicate more time to lecture and direct instruction. From personal preference, I'd advise to always have some time planned for reviewing and tests to ensure material is retained and sufficiently mastered.
 
 ### **Planning (Teacher)**
 
-*"If I am to speak for ten minutes, I need a week for preparation; if fifteen minutes, three days; if half an hour, two days; if an hour, I am ready now."* – Former US President Woodrow Wilson
-
 The planning phase is what you spend the bulk of your time on and, more often than not, NOT during a class period. The majority is spent during assigned planning periods and outside of school. I also don't include it as part of the "6/2/2" setup because it's not days where students are heavily involved; it's mainly just you as a teacher.
 
-Unlike a typical Scrum sprint, the Planning phase doesn't require the students to be present, but accounts for the capabilities and conditions of students, such as:
+Unlike a typical Scrum sprint, the Planning phase doesn't require the students to be present, but still accounts for the capabilities and conditions of students, such as:
 
-- Disabilities & Accommodations, such as IEPs and 504s
+- Disabilities & accommodations, such as IEPs and 504s
 - What students can reasonably accomplish
 - What skill(s) students have going into the course/unit
 
 Before starting your planning, look for a set of standards or objectives (your product backlog) you need to cover and find the appropriate materials, such as textbooks, that cover or meet those standards and objectives.
 
-*A typical planning phase for me looked like the following for each unit:*
+*A typical planning phase for me looked something like the following for each unit:*
 
-- Review the unit material. You may know it, but it helps to confirm your knowledge.
-- Make a list of the names and concepts to cover.
-- Verify using the standards to see if I'm meeting goals on each unit.
+- Review the unit material. I may already know it, but confirmation exposes knowledge gaps if they exist.
+- Make a short list of concepts to cover.
+- Verify with standards if goals are met.
 - Verify with standards what material to test and quiz over by the end of the unit.
-- Research additional sources if your current material does not cover all standards.
-- Figure out ways to summarize each concept, in case time is cut short due to external factors.
+- Research additional sources if current material does not cover all standards.
+- Figure out ways to summarize each concept to still meet standards, in case time is cut short due to external factors.
+- Establish context with previous units, so concepts can relate to and build upon previous units.
 - See what materials I need to bring in, if any, and assess what equipment I have currently.
     - For projects and activities, the Internet is a great place to search for plans, free online labs, and ideas for hands-on learning.
 - "Block" out sessions by days and plan for around 5-10 minutes of "waste" or downtime during the period.
-    - Downtime could also be time you're not actively teaching and having students work on something in the meantime in class.
-- For secondary and primary education, figure out what material students should cover and/or work on when you're absent from school during part(s) of the unit.
-- Do a second pass of your unit plan and refine the presentation materials
+    - Downtime could also be time I'm not actively teaching and having students work on something in the meantime in class.
+- For secondary and primary education, figure out what material students should cover and/or work on when I'm absent from school during part(s) of the unit.
+- Do a second pass of the unit plan and refine the presentation materials.
     - Visuals, diction, summarizing information, explanations, etc.
 
-While this list seems long, it takes only a few times at most to go through before it becomes easy to adapt. Later on in my first year, this took up to 1 hour for each entire unit. You also don't need to write *everything* down on a lesson plan, but this may differ depending on the specific requirements and expectations of your teaching and administrators.
+**The core idea is straightforward: review the units, review the standards related to the units, start with summaries on concepts, and expand with detail as needed.**
+- You also want to be the teacher that actually *teaches* students. 
 
-If you're struggling in the planning phase, don't worry. This part takes practice. In my situation, I eventually got each day/class down to lesson plans of 3-4 lines, which leaves me room to adjust and be flexible in a classroom:
+While this list seems long, it takes only a few times at most to go through before it becomes easy to adapt. Later on, this took up to 1 hour for each entire unit. You also don't need to write *everything* down on a lesson plan, but this may differ depending on the specific requirements and expectations of your teaching and administrators.
+
+If you're struggling in the planning phase, don't worry. This part takes practice. In my situation, I eventually got each day/class down to lesson plans of 3-4 line summaries, like the following, which leaves me room to adjust and be flexible in a classroom:
 
 - Titles of Section(s)/Activity to cover that day
 - 1 sentence on the objectives
 - Any other task(s) to cover if able to or if needed
 
-Lastly, as a stern reminder, be aware that no plan you make survives first contact with students. Follow your lesson plans, but be prepared to deviate and adjust when needed and as situations outside of your control arise.
+Lastly, as a stern reminder, be advised that no plan you make survives first contact with students. Follow your lesson plans as written, but be prepared to deviate and adjust when needed and as situations outside of your control arise.
 
 ### **Implementation (Teacher & Student)**
 
@@ -121,7 +172,7 @@ There are two primary methods: lectures and projects/activities. There's also a 
 
 Lectures are the first "6" of my setup. Again, you can decrease lecture days for more hands-on classes.
 
-These are sessions used to deliver–mainly verbally–a significant amount of information all at once to a student, or group of students, and allow them to ask questions.
+These are sessions used to deliver, typically verbally, a significant amount of information all at once to a student, or group of students, and allow them to ask questions. Direct instruction requires at least some lecturing done and I find helps students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
 
 **With lectures, you need to focus on three areas *alongside* the material you're teaching: passion, knowledge, and entertainment.**
 
@@ -129,23 +180,31 @@ These are sessions used to deliver–mainly verbally–a significant amount of i
 
 **Knowledge is how much you know about the subject(s) you're teaching.** It's entirely possible to teach by reading out the material, straight from a textbook. Still, your students may question your teaching ability if you also cannot successfully answer their questions, which leads to disengagement and less effective teaching.
 
-**Entertainment is the ability to *hold* attention.** You don't need to dance like a monkey in front of students, but you also shouldn't be bland and monotone. If you're not able to hold a student's attention, they'll lose that attention. They may create problems for you *and* other students, negatively bringing down the classroom. Steve Jobs' speech with the iPhone reveal, TED Talks, TikTok, social media applications, and YouTube shorts are excellent examples of how you can hold the attention of people across all ages.
+**Entertainment is the ability to *hold* attention.** You don't need to dance like a monkey in front of students, or never let students get bored, but you also shouldn't be bland and monotone. If you're not able to hold a student's attention, they'll lose that attention. They may create problems for you *and* other students, negatively bringing down the classroom. 
+- Steve Jobs' speech with the iPhone reveal, TED Talks, TikTok, social media applications, and YouTube shorts are excellent examples of how you can hold the attention of people across all ages.
 
 The combination of these three areas, with your teaching material, culminates in storytelling; the ability to tell engaging stories (or "sell" something that students "buy" into with their attention and willingness to learn).
 
 Though some may criticize "sage on the stage" style lectures, with valid points, they are highly effective when done well. You are not limited to only words; you can use images, drawings, occasionally get students to follow along with something while lecturing, ask them questions about what you're teaching, and more. You can play off of student tangents relevant to your topic and have the tangent used as a question on a test, to keep students' attention by inserting the unexpected question here and there.
 
-**Lecturing works great if the lecture is well structured. If not, then it does not work well.** It is a powerful tool for learning, but it requires preparation and dedication on the teacher's part.
+Condensing the above, lectures are a combinations of a few things:
+- Instructor's delivery of information to impart knowledge
+- Open discussion (and "controlled" conversations) to question *why* that knowledge is important
+- Ways to engage with the content through active learning beyond simply listening
+
+**Lecturing works great if the lecture is well structured. If not, then it does not work well.** It is a powerful tool for learning, but it requires preparation, dedication, and proper delivery on the teacher's part.
 
 ***Activities / Projects***
 
 Activities and projects are the first "2" of my setup. **I recommend doing no fewer than 1 to 2 activities or projects per unit, unless your material is nearly all theoretical,** as you may lose student engagement from over-repetition.
 
-Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. These may be the toughest type to implement, because many things can go very wrong, very quickly.
+Activities and projects are ways to break the monotony of a classroom and force students to solve problems or perform work they otherwise cannot do easily in a lecture. These may be the toughest type to implement, because many things can go very wrong, very quickly. 
 
-If you haven't reviewed your safety measures for activities, plan to review them as soon as possible to ensure compliance. You can do multiple days if there are many procedures to cover. You also need to run a test to see if students truly know the safety measures, and space it between activity days, lecture days, and review days. How much you invest in safety talks depends on the subject(s) you're teaching. A class on math won't require as many safety talks as a class on wilderness survival, for example.
+Projects and activities may also be higher difficulty as they deal more with critical thinking, creativity, and problem solving skills. There may also be prerequistive knowledge required to follow along properly or else the purpose of the activity/project falls through.
 
-For activities and projects, do not be afraid to use the Internet for inspiration and gather ideas. Compared to finding textual information on how things work, it's much harder to find practical applications for that information.
+If you haven't reviewed your safety measures for activities, review them as soon as possible to ensure compliance. You can do multiple days if there are many procedures to cover. You also need to run a test to see if students truly know the safety measures, and space it between activity days, lecture days, and review days. How much you invest in safety talks depends on the subject(s) you're teaching. A class on math won't require as many safety talks as a class on wilderness survival, for example.
+
+For activities and projects, do not be afraid to use the Internet for inspiration and gather ideas. Compared to finding textual information on how things work, I find it's much harder to find practical applications for that same information.
 
 **When I search for activities, I consider some of the following:**
 
@@ -159,15 +218,21 @@ For activities and projects, do not be afraid to use the Internet for inspiratio
 
 While many activities can be done on computers as of 2025, such as planetary orbit simulations, some activities *have* to be done in a physical environment and often are better done in a physical environment where students can touch, feel, and/or see what is happening.
 
+There's one more type of activity I want to talk about: group projects. They are usually the bane of a teacher's and student's existence. They can also simulate the real-world working environment shockingly well and the teacher could suddenly add in things like a manager would, like "you need to do this new thing" with less than a week left until the deadline.
+
+The "average" group project, from observation, is when you have a group of 4-5 students, but only 1-2 of them do the majority of the work while the others coast by and pitch it an infinitesimal amount of effort on their part. If these issues happen in group projects, there are some potential solutions:
+- Provide the people not contributing with busywork to avoid them causing issues with the real work produced by the people actually contributing.
+- The students who actually did the work can meet with you and provide evidence of the work they did. From there, you can figure out how to delegate grades for each group member.
+- Alternatively, you could have a policy in place like "drop the lowest grade" for students who are consistently high-scoring to avoid one bad group project tanking their grade.
+
+If the student refuses to do a particular activity or assignment because it won't affect their grade (e.g. An A+ student doesn't do X because they'll still have an A regardless), then I'd advise a short meeting with them to confirm their intentions. It doesn't have to be a long meeting; this kind of meeting can take less than 30 seconds if you're direct and to the point about intentions.
+- If this becomes a problem with *multiple* students, I would consider adjusting your classroom management plan and how it handles grading. This could let high-performing students find alternative, but appropriate, forms of learning due to sufficient mastery and effort already demonstrated.
+- If said student is violent or breaks classroom rules though, it doesn't matter what their grade is, they suffer the consequences for conduct due to how they deployed their refusal.
+
 Lastly, with activities, you're expected to manage students more than in lectures. Managing isn't necessarily a bad thing, but an observed fact of doing activities; you're giving students more freedom and not confining them (mostly) to chairs or in a single spot, so your role of keeping them on task intensifies greatly.
+- Additionally, activities can serve as a break from "constant instruction" while also not sacrificing your learning objectives.
 
-### **"Daily Scrum" (Teacher)** 
-
-Think of the daily Scrum as your reassessment of your classroom and what you got done during the day. Do NOT go back to the planning stage yet.
-
-After each day/class session, you can see which topic(s) were covered, how well they were covered, and then spend a bit of time making minor to moderate adjustments if needed. Do NOT make major adjustments after initial planning outside of emergencies; it is a time sink and an enormous headache.
-
-### **Review (Teacher & Student)**
+***Review & Tests***
 
 In the review stage, we get to the last "2" in my "6/2/2" setup. Review is when you're presenting the material you've implemented in the previous stage, whether through lectures, activities, or a combination of the two.
 
@@ -188,13 +253,23 @@ In the second method, you'll still do a review, but typically at the end of each
 
 **In general, I recommend you go with the first method: 1 day of testing with 1 day of dedicated review.** The second method is more complex to implement and more challenging for students. Still, it does save you time, gives you the chance to cover more material within the year, semester, or trimester, and provides more buffer days in case of unexpected events.
 
-### **Retrospective (Teacher)**
+### **"Daily Scrum" (Teacher)** 
+
+Think of the daily Scrum as your reassessment of your classroom and what you got done during the day.
+
+After each day/class session, you can see which topic(s) were covered, how well they were covered, and then spend a bit of time making minor to moderate adjustments if needed. Do NOT make major adjustments after initial planning outside of emergencies; it is a time sink and an enormous headache.
+
+### **Retrospective (Teacher & Student)**
+
+Unlike the "Daily Scrum," this occurs at the end of each unit.
 
 This part is outside of the "6/2/2" setup as it's done primarily through planning periods and not days where students are heavily involved. Additionally, the time spent here varies from minutes to hours, but you should not spend more than 2 to 3 hours here.
 
 The retrospective is a time for you, as a teacher, to figure out ways to improve the effectiveness and efficiency of your teaching plans, style, presentation, and more.  You figure out what went well, what did not go well, what problems arose, and any solutions you made to solve problems you faced.
 
 If you find significant improvements, assess the feasibility of implementation and then implement them. You may also discover new material that you didn't cover in this unit. You may need or want to cover it in the next unit.
+
+You can also include, typically as part of a review day, a dedicated time for students to offer genuine feedback about the class, setup, teacher, etc. It gives students a chance to voice criticisms or concerns in an open environment, which helps make them feel validated and provide a direction to improve your own teaching skills you otherwise would not find out on your own.
 
 ### **“The One-a-week” Structure**
 
@@ -233,7 +308,7 @@ Using the same 2-hour example, we can do another distribution like this:
 
 You could combine lectures and projects/activities into 4 days rather than a 3-day split, putting lectures and activities on the same day. It depends on the needs of the class and if it's the best way to learn about what you're teaching.
 
-***What if I have one day (or a weekend) for the entire curriculum instead of one day a week?***
+### **What if I have one day (or a weekend) for the entire curriculum instead of one day a week?**
 
 Pretending you're combining multiple weeks into a day and scaling down the values and time estimates. You'll adjust some parts depending on the material and what you need to cover, but it is doable.
 
@@ -246,34 +321,32 @@ Sprinkle in short breaks throughout the parts as needed or when the session requ
 
 **Do not underestimate how long it takes to condense information. It can take a short or extensive amount of time to convert a long-term curriculum into a shorter one.
 
-***Cost Overage vs Cost Underage (Teaching too much vs too little in X time)***
+### **Cost Overage vs Cost Underage (Newsvendor Model Application)**
 
-You may have seen these terms before in an engineering, supply chain, or production context, where underage costs are costs when you don't have enough inventory to meet demand, and overage costs are costs when you have too much inventory beyond demand. If you're unfamiliar with these terms and want to learn more, look for "Newsvendor Model" on Google or another search engine.
+In operations and supply chains, underage cost is when demand exceeds supply, while overage cost is when supply exceeds demand. The Newsvendor model weighs the risks associated with these costs to determine optimal inventory counts for a given time period. The goal, or objective statement, is to reduce costs *in general,* not to go too high or too low.
 
-In teaching, overage and underage costs are part of your monetary costs and budgeting, but also a way to define if you're teaching the optimal amount of content in a given timeframe. This problem typically deals with supply quantities rather than timeframes, so my example may deviate from standard models.
+A crucial difference between teaching and the Newsvendor model is Newsvendor focuses on *uncertain* demand, whereas teaching typically has *certain* demand in the form of fixed curriculums and deadlines given far in advance. Newsvendor also focuses on perishable goods, whereas teaching is non-perishable goods in the form of information.
+- Despite these differences, it's still a good analogy in my opinion.
 
-You have a curriculum with a deadline of 26 weeks. You *have* to teach for the full 26 weeks, no more or no less, even if you get done with your material early. You cannot take longer than 26 weeks. Overage cost is what you incur when you cannot finish your curriculum in 26 weeks (due to excessive material or unplanned absences). In contrast, underage cost is what you incur when you finish the curriculum too early.
+In teaching, think of your curriculum deadline for a year, semester, etc. as demand and lesson content as supply.
+- Overage cost is when you can't cover all required material in time, which means cutting topics or summarizing lessons to cover standards in the curriculum.
+- Underage cost is when you finish covering all standards sufficiently too early, which means extra leftover time to supplement with more activites, projects, enrichment and potentially more planning or expenses.
 
-Your underage costs–If you get done early–could be additional material, supplies, and work to supplement any extra free time you have left. Your overage costs–if you take too long or are delayed too often past 26 weeks–are cutting content or omitting material to fit within the timeframe, which means you may not meet the appropriate standards you're supposed to cover.
+Any disruptions, like emergencies, absences, and schedule changes, are additional risks as they can push you ahead or behind schedule. This model takes multiple variables into account and weighs the probability of going over or under the deadline, which informs how much supply to produce.
+- Supply, in this case, is depth/breadth of topic(s) covered.
 
-There's also a chance you could go over or under your deadline of 26 weeks; you're not certain, as things can always affect your timelines from now until then. Your overage cost and underage cost weigh against those chances to determine whether or not you want to spend much time or a little time on specific subjects within your curriculum to meet a deadline, as well as when to "cut" out material to meet your deadline and standards.
+The newsvendor framework illustrates the trade-off and shows why covering too much, or too little, in a timeframe is costly. There's significantly more engineering, math, and statistics involved behind the scenes, but this model shows a way to optimize supply (lesson content) to meet demand (deadlines). In a real world scenario, there would be vastly more variables, constraints, and formal equations in play.
 
-The newsvendor model is one way to illustrate how having too little or too much material is costly and detrimental to all parties involved, beyond the production context. The example provided is highly simplified, and in real-world scenarios, there are significantly more costs and factors involved.
+## **Bibliography**
 
-## References
+1. Beck, K., Beedle, M., van Bennekum, A., et al. (2001). *Principles behind the Agile Manifesto*. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
 
-1. EBSCO. (n.d.). *OpenDissertations*. [https://opendissertations.org/](https://opendissertations.org/)
+2. Daniels, J. (1946). *The Wilson era: Years of war and after 1917–1923* (p. 624). The University of North Carolina Press.
 
-2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
+3. OpenDissertations. (n.d.). *OpenDissertations*. [https://opendissertations.org/](https://opendissertations.org/)
 
-3. Laoyan, S. (2025, February 20). *Agile methodology: What it is and how to implement it*. [https://asana.com/resources/agile-methodology](https://asana.com/resources/agile-methodology)
+4. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
 
-4. Gurnov, A. (2025, May 22). *What is Agile Methodology in Project Management?* [https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/)
+5. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
 
-5. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
-
-6. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
-
-7. 1946, The Wilson Era: Years of War and After 1917-1923 by Josephus Daniels, Quote Page 624, The University of North Carolina Press, Chapel Hill, North Carolina. (Verified with scans)
-
-## [Next Chapter](Z011_Learning_Methodologies.html)
+## **[Next Chapter](Z010a_Accommodations.html)**

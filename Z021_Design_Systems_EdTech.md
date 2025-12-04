@@ -1,19 +1,29 @@
 ---
-title: 21. Design Systems and EdTech
+title: 29. Design Systems and EdTech
 layout: default
-nav_order: 23
+nav_order: 31
 ---
 # Design Systems and EdTech
 
-### [Previous Chapter](Z020_The_Use_Of_AI.html)
+### [Previous Chapter](Z020_The_Use_Of_AI_And_Technology.html)
 
 ## **Short Answer**
 
-Everyone is a designer. Not everyone is a good designer, however.
+Everyone is a designer. Not everyone is a *good* designer.
 
-Understanding design systems translates directly into skills across multiple fields and helps with templating, creating reusable components and materials, and making it easy to change things.
+Even if you can design well, you'll still deal with people management issues, managing upwards, and designing communication.
 
-Don't fall in love with your work, because there's a high chance you will change it later.
+Understanding design systems translates directly into skills across multiple fields and helps with templating, creating reusable components and materials, and making it easy to change things. 
+
+A complex design is always worse than a simple design if they perform at the same effectiveness/efficiency. Complex designs are more prone to failure compared to simple designs. 
+- [Dr Richard Cook in *How Complex Systems Fail*](https://how.complexsystems.fail/) does a much better job than me succinctly describing complexity issues across multiple industries (2000).
+- Keep it simple, stupid.
+
+Don't fall in love with your work, because there's a high chance you will change it later. You're usually better off quickly pushing designs, testing (one at a time to save sanity), and iterating than remaining stuck on one perfect design. This means, when in doubt, stop overthinking and design something that just works and don't touch it again unless absolutely necessary. Sometimes the attempt to make it better actually makes it worse and sometimes a new piece of technology isn't the correct answer. 
+
+No single breakthrough makes the work easier, as difficulty is often found in the *problem* instead of the *tools.*
+
+Lastly, despite how well something is designed, human error and accidents will occur.
 
 ## **Long Answer**
 
@@ -21,57 +31,56 @@ Considering all the other topics and themes in the book, some readers think I'm 
 
 I've lived in Kansas City and can tell you about gas station barbecue, amongst other things, no problem. I'll also tell you I'm not talking about Kansas City, MO, but instead Kansas City, KS.
 
-Moving on!
+*Moving on!*
 
-### **The Weird Complexity of Design Systems**
+### **The Weird Complexity (and Simplicity) of Design Systems**
 
-Per Chad Bergman on Figma’s blog (**[Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)**):
+Per Chad Bergman on Figma’s blog (2024) ([Further Reading](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/#what-exactly-is-a-design-system)):
 
 > A design system is a set of building blocks and standards that help keep the look and feel of products and experiences consistent.
 
 For those with less artistic backgrounds or lacking design skills, don't worry. You don't need to become a design expert to teach, instruct, or present, but I will ask you to see what a design system is and what it tries to accomplish.
 
-If you've ever played with Legos, used power tools for construction, or questioned why you keep losing the 10mm socket for bolts and nuts used across various products, you're dealing with something akin to a design system.
+If you've ever played with Legos, used power tools for construction, or questioned why you keep losing the 10mm socket for bolts and nuts used across various products, you're dealing with something akin to a design system: consistent and reusable parts.
 
 Done correctly, **a design system accomplishes several goals**:
 - A single source of truth
-- Contains standards, rules, styles, etc., that you can look up and follow
-- Collection of libraries hosting your building blocks
-- Consistency across all your products and work
-- Redundancy and time spent designing reduced
-- Higher ease of access to newer and experienced personnel
+- Rules, standards, and styles definitions
+- Libraries of reusable components
+- Consistency across all products
+- Reduced redundancy
+- Increased accessibility
 
-**Design systems are utilized in three ways: Adopt, Adapt, Create.**
+**Design systems are typically utilized in one of three ways: Adopting, Adapting, and Creating.**
 
-**Adopting takes a design system and adds it into your current system(s) without changes.** It doesn't always replace an existing system, but it does have to go into an existing workflow.
-- To give an example, you're taking a cake recipe you found in a book and introducing it as a new item, as is, without changing it. 
+**Adopting** takes a design system and adds it into your current system(s) without changes.
+- Example: You copy and follow a cake recipe as is, step-by-step, exactly as written.
 
-**Adapting takes a design system and changes parts and pieces to fit it into existing system(s).**
-- Continuing from the cake example: you find a cake recipe in a book and follow its steps closely, but you need to substitute the flour for a gluten-free alternative to satisfy the needs of employees, users, etc.
+**Adapting** takes a design system and changes parts and pieces to fit it into existing system(s).
+- Example: You follow the cake recipe, but have to substitute in gluten-free flour, vanilla for chocolate, or use a pan instead of a Dutch oven for part of the recipe..
 
-**Creating borrows from no design system and creates a new system from scratch.** You can still reference other design systems to create your own. You're not taking any existing products and modifying them. You're going from 0-100 (or close to it).
-- You looked around the Internet for cake recipes, but didn't see any you liked. Making an educated guess (and perhaps doing research/testing), you create your cake recipe, deciding its process and ingredients, to sell to consumers.
+**Creating** borrows from no design system and makes a new system from scratch.
+- Example: You don't like the current cake recipe(s), so you made your own cake recipe.
 
-Adopting, adapting, and creating each have their benefits and drawbacks. This isn't limited to just design systems; it can go across various processes and software you use, too. Adopting is the least costly (usually), but offers less customization, while creating is the most expensive, whether in time and/or money, but offers high customization to stand out more. Adapting is somewhere in between adopting and creating, depending on the extent and nature of the adaptation from design systems.
+Each option has benefits and drawbacks. Adoption is typically the cheapest, but least flexible and hardest to change. Creation is typically the most expensive, but most customizable. Adaption sits in between Adoption and Creation in cost and customization to suit your needs.
 
-If you're unsure whether to adopt, adapt, or create, consider the amount of creative freedom or control you need over your system. Adopting suits interests best when you don't need to make many edits, but creating suits interests best when you're expecting to make multiple customizations and adjustments over time.
+If you're unsure whether to adopt, adapt, or create, consider the amount of creative freedom or control you need over your system. Adopting suits low creative control, Adapting suits moderate creative control, and Creating suits high creative control.
 
 ### **How Design Systems Relate to Teaching**
 
-Think of design systems as curricula. Let me draw some parallels below:
-- Both have well-defined standards to follow
-- Both contain (hopefully) a library of resources to create your materials and reproduce them
-- Both have ways to edit foundational elements and components to provide a service
-- Both offer options for templates, patterns, components, and tokens
-- Both are organized into a clear hierarchy of topics/components
-- Both offer ways for handling different types of media and information delivery
-- Both permit edits from multiple people, which applies to all materials within the system
-- Both define a shared vocabulary that people from diverse backgrounds can interpret
-- Both stand the test of time and persist across multiple periods
+Think of design systems as curricula. Let me draw some parallels they share:
+- Defined Standards
+- Libraries of resources
+- Permits edits and updates
+- Templates and reuseable materials
+- Organizational Hierarchies
+- Collaboration to create one
+- Shared vocabulary
+- Longetivity and reusability
 
 **If you're starting fresh, here are some pointers. This applies to both curricula and design systems:**
-- Do whatever makes the most sense for your use case(s) and the people using your design system or curriculum. 
-  - If it doesn't make sense, then no one's going to want to stick with it
+- Do whatever makes the most sense for your use case(s) and audience.
+  - If it doesn't make sense, then no one's going to want to stick with it.
 - Look up actual design systems. Some examples are linked below:
   - [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
   - [https://atlassian.design/](https://atlassian.design/)
@@ -80,64 +89,107 @@ Think of design systems as curricula. Let me draw some parallels below:
   - [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
   - [https://www.designsystems.com/](https://www.designsystems.com/)
 - If you want to make good designs, you have to start designing.
-- Learn not to fall in love with your work, because high chances are you will change it later.
-  - Sometimes it's also your boss or consumers making you change it.
+- Learn not to fall in love with your work, because change is likely and sometimes forced.
 
 ### **What about EdTech?**
 
-Not much to say about it. 
+Many rules and concepts you find in design systems, you'll find in EdTech and other digital and physical mediums. Some tools are well-designed and others are not. Quality typically improves over time, but gaps and deficiencies persist between iterations of new products.
 
-Many of the same rules and concepts you find in design systems, you can apply to physical work and educational technology, all the same. 
+Sometimes you're forced to use particular software to accomplish your goal. Software is a tool to achieve a task or solve a problem you have and you'll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won't get better with them unless you use them.
 
-Some software you use will look "good" and function properly, while other software will not look good and will not function properly. Over time, the overall quality of software and technology options will increase drastically. Still, there will always be gaps and deficiencies.
+### **What if I cannot find problems with designs?**
 
-Sometimes you're forced to use a particular software, or a suite of software, to accomplish your goal. Software is a tool to achieve a task or solve a problem you have, and you'll be better off knowing how to use a tool than not knowing how to use a tool. With tools, however, you won't get better with them unless you use them.
+*Alternatively: Heuristics and Heuristic Analysis*
+
+You'll rarely, if ever, find something with *zero* issues in any way, shape, or form whatsoever. If something without *any* problems exists, then it'll probably stand the test of time for many years to come.
+
+One common reference around for some time now is [Jakob Nielsen's *10 Usability Heuristics for User Interface Design*](https://www.nngroup.com/articles/ten-usability-heuristics/) (2025). They're rules, rather than guidelines, which is unlike what you might hear from pirates in the Caribbean. The intent of the rules is to make product easier to use and reduce cognitive load on users as they're utilizing products.
+
+As for specific problems in general, there's countless amounts. To give a small set of examples:
+- Functions without defined intents
+- Readability issues
+- Inconsistency
+- Redundancies
+- Help documentation is lacking
+- Errors are permitted instead of prevented
+
+The issues you'll find vary widely on the context and product they're located inside of. Some issues may have acceptable ranges (tolerances) which are wide or narrow depending on requirements.
+
+### **How to Measure "Impact" (Metrics of Success) of Designs?**
+
+This is a complicated question. 
+
+The biggest thing is you don't want to lie about any impact and throw out random numbers. The lie quickly becomes apparent under scrutiny and you risk losing trust, influence, and even your position in a group.
+
+A hidden reality is a lot of design work may not be "shipped" or available for use by customers or businesses. Because they are not readily available, collecting data for business metrics isn't easy, if even feasible, for someone below a director-level position or outside a data adjacent position (Scientist, Analyst, Engineer, etc.). This typically means many designers, or someone generating designs, may not have significant influence and impact at a company level.
+
+The question shouldn't be how to provide business metrics to demonstrate success. It should be how to display the quality of decision making and problem solving and what you *should* use to prove your designs are good. While you could be in a position to acquire data to enforce decisions, if you're in an organization they may strictly limit who can access what data and manipulate it.
+
+I'll go over what could still be answered while assuming you're in a position you cannot acquire hard data.
+
+1. How would you measure success of the design (i.e. what you *would* use, not *did* use)?
+2. What problems occurred during research into the design?
+3. What are potential solutions we can implement?
+4. What were the results from any tests you set up and ran on your designs?
+    - Additionally, how did those tests influence decisions going forward? 
+5. What processes worked and what processes didn't work?
+6. What were the outcomes along the way during the design process?
+7. What did you learn about?
+
+Even for work that's never shipped, a project with sufficiently high quality design work is still a signal to show there's potential impact if it were shipped.
+
+### **What if I Need to Find/Design Something?**
+
+There's some questions you should ask beforehand.
+
+1. Who is it for?
+2. What problem does it solve?
+3. Can it be used in your current setup, system, etc?
+4. What benefits does it provide over another option?
+
+If you don't know who is going to utilize what you provide, you risk them not using it, refunding it, or disliking the provider; you. If you cannot figure out what problem it's trying to solve, it's like using a band-aid for a non-existent wound and may not be that useful. If it cannot be used alongside your other products, or get buy-in from people to adopt it, it doesn't matter how good the solution is if it cannot be used. Lastly, if it doesn't provide benefits other another option, then why should someone use what you make?
+
+
 
 ### **I don't have much design experience though!**
 
 Two things before you panic.
-1. You can "design" in PowerPoint, Excel, and Microsoft Word or their equivalents in Google Documents, Sheets, and Slides as well. If you need advanced design programs, look into tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.
-2. You're likely focused more on content, the delivery of content, and the management of students rather than design anyway. Learn just enough to get by and supplement your teaching.
+1. You can "design" in programs such as PowerPoint, Excel, and Microsoft Word or their equivalents in Google Documents, Google Sheets, and Google Slides as well. 
+    - If you need advanced design programs, you'll need to look into dedicated design tools like Figma, ProtoPie, Photoshop, Illustrator, and Sketch.
+2. You're likely focused more on content, the delivery of content, and the management of students rather than design anyway. If you lack time or resources, learn just enough to get by and supplement your teaching.
 
-Some general rules of thumb you can quickly apply come from personal experience as well as reading through *Refactoring UI* by Wathan and Schoger.
+Some general rules of thumb you can quickly apply come from personal experience as well as reading through *Refactoring UI* by Wathan and Schoger (2025).
 
-*This is still a decently sized list.* 
-
-- Start with simple designs and get them functional first before you add complexity
-- It's easier to start with more white space and remove it rather than start with too little white space and add it
-- Limit your choices, like number of colors, font sizes, adjustments, etc., early on to avoid analysis paralysis later on
-- Emphasize, whether by increasing the size, bolding text, etc., the information that a student will look for
-- Ideal line height (sometimes called "Line Spacing") is inversely proportional to font size
-- Text needs sufficient contrast between itself and the background it's on to be readable
-- 5 random colors aren't likely to make a good design, but 8-10 shades, both lighter and darker, of 1 random color can make a good design
+- Never rely on color alone
+- Start simple and ensure functionality before adding complexity
+- White space is easier to reduce than add
+- Text needs sufficient contrast (e.g. WCAG "AA" rating or higher) against its background
 - For colorblind people, it's easier to tell by lightness (light/dark) rather than color
-- Don't rely on color alone to convey information
-- Many greys you see in the world aren't true greys; they are grey with another color saturated/mixed in
-- For making lighter and darker shades of colors, increase the saturation as well, or it looks "washed out"
-- HSL (Hue, Saturation, Lightness) is easier to work with compared to RGB and Hex, in my opinion, but many people still work with Hex
-- Make paragraphs stay between 45 and 75 characters per line of text when able
-- For fonts, stick with a neutral sans-serif, like Roboto, Helvetica Neue, or even Arial if you want
+- Most greys have tints of other colors mixed in
 
-## References
+## **Bibliography**
 
-1. Bergman, C. (2024, February 12). *Design systems 101: What is a design system?* [https://www.figma.com/blog/design-systems-101-what-is-a-design-system/](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
+1. Apple Inc. (n.d.). *Apple design*. [https://developer.apple.com/design/](https://developer.apple.com/design/)
 
-2. Fessenden, T. (2021, April 11). *Design systems 101*. [https://www.nngroup.com/articles/design-systems-101/](https://www.nngroup.com/articles/design-systems-101/)
+2. Apple Inc. (n.d.). *Human interface guidelines*. [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
 
-3. TV Tropes. (n.d.). *Kansas City shuffle*. [https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle](https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle)
+3. Atlassian. (n.d.). *Atlassian design system*. [https://atlassian.design/](https://atlassian.design/)
 
-4. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
+4. Bergman, C. (2024, February 12). *Design systems 101: What is a design system?* [https://www.figma.com/blog/design-systems-101-what-is-a-design-system/](https://www.figma.com/blog/design-systems-101-what-is-a-design-system/)
 
-5. Atlassian. (n.d.). *Atlassian design system*. [https://atlassian.design/](https://atlassian.design/)
+5. Cook, R. (2000). *How Complex Systems Fail.* how.complexsystems.fail. [https://how.complexsystems.fail/](https://how.complexsystems.fail/)
 
-6. Google. (n.d.). *Material 3 design system*. [https://m3.material.io/](https://m3.material.io/)
+5. Design Systems. (n.d.). *DesignSystems.com*. [https://www.designsystems.com/](https://www.designsystems.com/)
 
-7. Apple Inc. (n.d.). *Apple design*. [https://developer.apple.com/design/](https://developer.apple.com/design/)
+6. Fessenden, T. (2021, April 11). *Design systems 101*. Nielsen Norman Group. [https://www.nngroup.com/articles/design-systems-101/](https://www.nngroup.com/articles/design-systems-101/)
 
-8. Apple Inc. (n.d.). *Human interface guidelines*. [https://developer.apple.com/design/human-interface-guidelines/](https://developer.apple.com/design/human-interface-guidelines/)
+7. Google. (n.d.). *Material 3 design system*. [https://m3.material.io/](https://m3.material.io/)
 
-9. Design Systems. (n.d.). *DesignSystems.com*. [https://www.designsystems.com/](https://www.designsystems.com/)
+8. TV Tropes. (n.d.). *Kansas City shuffle*. [https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle](https://tvtropes.org/pmwiki/pmwiki.php/Main/KansasCityShuffle)
 
-10. Wathan, A., Schoger, S. (2025). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
+9. U.S. General Services Administration. (n.d.). *U.S. Web Design System*. [https://designsystem.digital.gov/](https://designsystem.digital.gov/)
 
-## [Next Chapter](Z022_Action_Plan_Day_1.html)
+10. Wathan, A., & Schoger, S. (2025). *Refactoring UI*. Tailwind Labs Inc. [https://www.refactoringui.com/](https://www.refactoringui.com/)
+
+
+## **[Next Chapter](Z022_Action_Plan_Week_1.html)**

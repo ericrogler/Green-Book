@@ -1,7 +1,7 @@
 ---
-title: 13. Teacher-Client Relations
+title: 21. Teacher-Client Relations
 layout: default
-nav_order: 15
+nav_order: 23
 ---
 # Teacher-Client Relations
 
@@ -9,115 +9,171 @@ nav_order: 15
 
 ## **Short Answer**
 
-Working with people outside of students, like parents and administrators, is also necessary. If you cannot do this well, you'll have a hard time making it through teaching and getting any support you need. If you treat your peers well, you'll (likely) get treated well in turn.
+Teaching also means working with students, parents, and administrators. If you cannot do this well, you'll struggle in teaching. If you treat your peers well, you'll (likely) get treated well in turn. 
 
-You'll also need to learn how to work with people you disagree with and not take things personally.
+There's also times peers will treat you terribly when you did nothing wrong. You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
+- To put it plainly, teachers may be treated like punching bags by parents and other adults as they're the visible "frontline" of education people *can* reach.
+
+Diplomacy is the strategy and tactic to master relationships with others.
+
+Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people.
+
+Also, the amount of information you can display about students (the *legally* allowed information, obviously) is staggering. In most schools, at least in the United States, interested parties like parents and adult students have 24/7 access to grades, progress reports, schedules, and more, but will still complain about not getting enough notice.
+- The amount of time a teacher spends per day with a student is not a reasonable fix, despite people thinking it is. That's not the teacher's issue at that point.
 
 ## **Long Answer**
 
 ***Disclaimer: This section is more heavily opinionated.***
 
-### **Primer on Psychology (kind of)**
+### **Perceptions and Stereotypes**
 
-Before we go into how to deal with people, I should briefly talk about their goals and unconscious bias. If you know what someone's goal is, you'll have an easier time rationalizing and dealing with them. There are times goals vary among different people in the same position, so this is a comprehensive overview. As a teacher, you'll deal primarily with administrators and parents, as well as other teachers. Depending on your role or needs, you may also deal with agencies.
+Bias is unavoidable, ever-present, and unlikely to go away anytime soon. Everyone has unconscious bias and it's your role to identity which biases matter and how to adapt to them. It's the things people don't *say* they do, but still do it anyway–the unknown knowns. 
 
-As for bias, it's unavoidable, ever-present, and unlikely to go away anytime soon. It's the things people don't *say* they do, but still do it anyway–the unknown knowns.
+You might also hear this mentioned as stereotypes and this applies to many things, such as gender, race, and more. It affects how you handle things like classroom management and is often out of your control and shaped by the dynamics of the environment people grow up in.
 
-Here's an example: your gender affects people's expectations of you. They aren't *saying* it does, but it does. If you're a male, you're more likely to get away with doing the minimum/putting in less effort. Still, you also have more hard lines drawn with disciplining certain things, like dress code, which are more likely to be assigned to de-escalate situations, and are more restricted on what you can talk about in general. If you're a female, then you can comfort students without fear of retaliation more easily. Still, at the same time, you'll deal with students who have no trouble questioning your authority and all types of people judging you significantly more on your appearance.
+I'll stick with one example here: gender.
 
-Also, with gender, teachers and professors are not classified as a "bona fide occupational qualification" (BFOQ), so you legally cannot discriminate by gender for who gets into a teaching role in the United States (**[Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)**). This ruling may differ for other countries and sovereign states, however. Despite explicitly written laws with very narrow scopes, the bias still exists and permeates teaching culture extensively.
+Gender shapes perceptions of teachers, whether people admit it or not. Male teachers often have more authority in discipline and less backlash on appearances, but face more scrutiny on what they say and do. Female teachers may provide more support networks and have lower fears of retaliation, but may be more likely to face sexual assault, misogyny, and have their appearance and classroom authority questioned by students, parents, co-workers, administration, and more.
+- I've seen, multiple times, male students treat female teachers worse, but male teachers better, despite both sets of teachers sharing the same roles, responsibilities, and skills.
+- Small aside: these same dynamics may occur to non-teachers and professionals across multiple fields too.
 
-I could go on and on about more examples of biases students and non-students show towards teachers. Still, you're better off researching topics like "unconscious bias," "implicit bias," and "hidden bias" on your own time. In short, everyone has some level of unconscious bias, but the questions to answer are which biases they have, how they manifest, and how to deal with them.
+With gender, teachers and professors are not classified as a "bona fide occupational qualification" (BFOQ), so you legally cannot discriminate by gender for who gets into a teaching role in the United States ([Further reading on BFOQ](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)) (U.S. Equal Employment Opportunity Commission, 1982).
+- Notice: BFOQ is an *exception* to existing laws, [like Title VII](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964) (U.S. Equal Employment Opportunity Commission, 2009).
+
+Should this happen in a teaching setting, from anyone, then keep the following in mind: 
+- Judge based on the values, actions, and conduct of a person; not their background.
+- Notions on respect and disrespect towards someone regardless of gender, etc. can be taught.
 
 ### **Administrators**
 
-We'll start with the principal, dean, and assistant principals, as they're your "boss." They want the school to perform well, and they are responsible for its success or failure. Think of these roles as C-Suite executive positions, such as CEO, CFO, and CTO. They oversee a company–the school, in this case–and report to a Board/Department of Education, who approve or denies actions principal(s) may push forward on. That same board also has a "vision" or standards they want the CEO/principal to execute for the good of the school, properly. 
+Principals, deans, and assistant principals are your "boss." They're like directors or higher level managers. They oversee school performance, budgets, staffing, policies, public relations, personnel management, and more while under the jurisdiction of their District and the Department of Education. They also handle things teachers may not want to deal with, like most complaints, legal issues, and multiple meetings.
 
-In plain business terms, the Board/DoE wants a good return on the investment they put into the school. Ironically, the power a principal holds over teachers is limited by their hands being tied for many issues outside of their control, such as state and federal legal consequences for actions.
+They have a lot of real power over you, but often have hands tied outside of their control for reasons like state and federal regulations and legal consequences for actions. 
 
-Unlike typical teaching (and designing) roles, principals and deans are more public-facing and deal with the brunt of *most* complaints and outside interference, such as the Department of Education, agencies, councils, parents, and more. They also deal with budgeting, meetings, staffing, planning, decision-making, operations, policy-making, public speaking, marketing, managing personnel (like teachers) across different disciplines, and significantly more. There's also much undefined work because these roles may need to do multiple duties outside of their work routine.
+They want the school to perform well and they hold a large responsibility for its success or failure. The District and Department of Education also have a vested interest and want good returns on the investment they put into the school.
 
-For smaller schools, you may need only a single principal, and sometimes the teachers will pitch in to cover deficiencies. For larger schools, you'll still have one "principal." Still, many roles are divided or partitioned out amongst multiple people, such as assistant principals or deans. These roles assume some duties similar to a principal, but specialize in specific duties (such as discipline), groups of students (such as finance major students), or specialized administrative tasks (such as Legal Counsel and HR Manager). The principal still has a hand in the affairs of everything at the school and has a surprisingly large amount of legal power.
+For smaller schools, you may need only a single principal and the teachers may pitch in to cover deficiencies. For larger schools, you'll still have one "principal." Still, many roles are divided or partitioned out amongst multiple people, such as assistant principals or deans. These roles assume some duties similar to a principal, but focus on specific duties (such as discipline), groups of students (such as finance major students), or specialized administrative tasks (such as Legal Counsel and HR Manager). The principal still has a hand in the affairs of everything at the school and has a surprisingly large amount of legal power.
 
-As a teacher or instructor, your role is to produce the results the principal(s) need you to achieve with your students. Outside of that, when dealing with administrators as a teacher, you want to do the following:
+As a teacher or instructor, your role, in their eyes, is to produce the results the principal(s) need you to achieve with your students. Outside of that, when dealing with administrators as a teacher, you want to do the following:
 
-- Communicate within the "chain-of-command" about issues. Sometimes you go straight to the principal, direct-to-head, and other times through an echelon below, like an assistant principal.
-- Talk in a calm, polite, and respectful manner with them.
-- If you need to "hold your ground" against them, expect to present evidence of why your stance is correct and consider what issues may occur with your stance.
-    - There are times when you'll still lose holding your ground despite doing everything right. That's life.
-- Keep written documentation of interactions with administration.
-- Have them be aware of additional laws related to your subject, like with special education or gun safety, if relevant.
-- Keep your opinion(s) to yourself unless asked for them or it's a significant issue affecting your teaching environment.
-    - Remember: they have a lot to deal with already.
-- If you come in with a problem, expect to come in with a potential solution too.
-    - No one likes complainers, and administrators already deal with complainers.
-- If you're unsure *why* a decision is made, stick with asking questions and clarification rather than forthright opinions.
-- Keep your gradebook and lesson plans up to date.
-- If you make their job easier, they will make your job easier.
+- Follow chain of command
+- Stay calm, polite, and respectful
+- Document interactions (in writing when possible)
+- Bring solutions, not just problems, whenever possible
+    - No one likes complainers
+- Ask clarifying questions, not state raw opinions, on decisions they made
+    - Also prepare evidence to inform decisions you support, if applicable
+- Keep gradebooks and lesson plans updated
+- Make their job easier and they'll usually make yours easier in turn
 
-Your best bet is to focus on becoming a more effective teacher, improving your curriculum, resolving issues independently, or improving professional relationships with students and staff.
+Another interesting reality about teachers and principals is potentially misaligned goals. A teacher may, validly, focus their goal on educating students. A principal may focus on meeting graduation rates and test scores as their goal. Your goals, despite both of you working towards showcasing high levels of student learning, will probably not align and you'll have conflicts over teaching methodologies as a result. Expect and prepare for when that happens.
+
+Overally, your best bet is becoming a more effective teacher, improving your curriculum, resolving issues independently, and improving professional relationships with students and staff.
 
 ### **Parents & Adult Students**
 
-Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll actively be against you. It depends on the administrator, and it's less something you can easily change.
+Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll side with parents to appease complaints or keep the peace. It depends on the administrator and it's less something you can easily change.
 
-The goal of parents is to ensure a good education, future opportunities, and a safe environment for learning for their children. A parent's logic is not necessarily standard logic; what seems sane to parents may not seem rational to non-parents.
+The goal of most parents is opportunities, success, safety, and learning for their children. A parent's logic is not the same as normal logic; what seems rational to parents may not seem rational to non-parents. To achieve this goal, parents should work with, not against, teachers and educational staff.
+- There's also legal consequences as an incentive. In multiple states in the United States, as of June 2025, "failure to educate" is potentially grounds for mandatory reporting under the definition of neglect (Child Welfare Information Gateway, 2025).
 
-For parents of students, you'll want to keep in mind the following:
+When handling parents of students, you'll want to keep records of interactions, how policies are enforced, and evidence of learning (whether positive or negative). You may also request administrators or a second colleague to show up to meetings with them to act as a witness if there are potential issues with meeting them.
 
-- Keeping a paper trail of interactions whenever possible.
-- Ensuring they are aware of policies of the school and your classes their children, as students, are in.
-- Be ready to explicitly show them what is happening with their children in your classes, such as grades, disability accommodations, progress plans, and more.
-- When meeting with them, consider having another teacher or administrator around as a witness to protect yourself.
-- If there is a learning plan, such as IEP/504, to check if the parent is *also* fulfilling their duties as part of the plan, if the parent has any explicitly defined roles and duties.
+For adult learners, treat them as students and not friends. You aren't as age-restricted on what you can say, but everyone, teacher and student, have more legal responsibiity and freedom compared to younger students. Boundaries and professional demeanor still matters.
 
-For adult learners, you'll still want to treat them like students, but you've got a lot more leeway about what you can say and how you can teach. You aren't restricted any longer by "age-appropriate" content, but you still have "classroom-appropriate" content to deal with. Even though they are adult students, please do treat them like students and guests, not as your friends, while teaching. You can teach them as friends, sure, but you're in a position to *teach* them, not *befriend* them. Keep boundaries up during the teaching period still.
+With everyone involved here, you'll want to set expectations from day one, if not even earlier than day one. It saves you time and also quickly establishes the environment they're dealing with.
 
-It also may help when students are adults, as they face significantly more legal repercussions if they cause issues. It's a forthright way of saying it helps classroom management without you doing any extra work.
+**I also cannot stress enough: parents hold significant leverage.** They're like customers paying to use your product/service. Adult students have similar dynamics to parents, but more based on their own interests rather then their children's interests. Parents also spend significantly more time with students than teachers ever will, so their influence on said student's behavior and actions, as well as the environment they raise the student in, is much higher.
+- **Simply put, the *parents* typically break or make a child's life, education, and future.**
+- The parent and their child (a teacher's student) should be told "no" sometimes to protect themselves, their children (students), and the entire education system from irreparable damage.
+- From personal observation: a problem at school with a student is typically a problem at home with parents, especially with students showing consistent/persistent bad behaviors.
 
-With both groups of people, you'll want to set expectations from day one, if not even earlier than day one. It saves you time and also quickly establishes the environment they're dealing with.
+If I were to describe some ways parents can negatively affect their children's views of education and performance in school, it'd probably say some of the following:
+- Too much screen time (or technology overly used to pacify children)
+- Scared of their child being bored or unhappy
+- Solving problems for the child instead of letting the child solve them
+- Controlling social interactions too much
+- A lack of interest in said child's education
+- Maintaining negative views about education and particular subjects, like math
+- Always, and/or immediately, fixing any uncomfortable situation or getting rid of obstacles
+- Not reading to kids or at least encouraging kids to read
+
+Without parents and their children, school enrollment drops, funding soon follows, and schools cannot operate effectively. The power of speaking with their wallet is far-reaching. Parents may also make complaints and reviews out of ignorance or without consideration to the resources and constraints of educational systems. Though they are complaints, they still lead to decisions which, for better *or* worse, affect education as a whole.
+
+What this means is educational staff across multiple organizational layers may make decisions to keep parents, and also donors by extension, satisfied, even when it conflicts with educational interests. It may not always be your principal, or you, who enforces this, but instead someone with influence or a group higher up the chain-of-command making the decision for your organization. You also may not see the negative consequences of these decisions for years to come, but they could be still be happening in the present.
+
+Lastly, the ideal scenario is a parent's child, the teacher's student, is never written up or they receive a communication from education staff about their negative behaviors. If that occurs, that is almost always happening *after* multiple intervention methods were tried and failed. That now means the parent is expected to exercise their rights and privileges as a parent and enforce consequences for the student's actions. A permissive parent in this scenario will backfire on everyone, including the student, in the education system.
+- If there is no structure, consequences, and expectations for students, don't be surprised when a child/student cannot function in a society later on in life.
+- This scenario also does not immediately mean said student is being "targeted." The Earth revolves around the Sun, not the parent or the student, and teachers have to balance this one student with every other student and moving piece in the classroom.
+- Depending on the parent(s) response, they may or may not be reported for failure to educate.
 
 ### **Other Teachers**
 
-You'll likely work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. Still, if the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
+You'll likely work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. If the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
-In any of these cases, you'll find yourself working with teachers of varying skill levels, experience, and backgrounds. You can "talk shop" with them, going over curricula, figuring out if something works well here and can be applied there, or how one student is managing across classrooms.
+In any of these cases, you'll find yourself working with teachers of varying skill levels, experience, and backgrounds. Other teachers are your allies, resources, and sounding boards to check your sanity. You can share ideas about how to operate classrooms, but respect their downtime.
 
-Please do note, though, that much like other professional workers, they still need a space for breaks. Not every hour of every day requires you–or other staff–to talk to them about teaching. Talk about other things during downtime, like outside life, sports, etc.
+Avoid talking about sensitive topics like religion and politics unless you're sure the other teachers you're around are OK with civil discussion on those topics.
+- Even then, be wary of talking about these topics in public and private spaces. Who knows who is listening in.
 
-With more sensitive topics like religion and politics, avoid talking about those still unless you're sure the other teachers you're around are OK with civilly discussing these topics.
+Lastly, if you're planning events for teachers where they receive something or gifts are involved, like a catered lunch, give a heads up and/or inform in advance when it happens.
+- This can apply to other professions, but especially true for teaching and roles where chaos can occur at any given time throughout the workday.
 
 ### **Secondary & Primary Education Students**
 
-**Why do students fall under clients? It's because they're the ones receiving your services–what you're teaching them!** This category is for students still considered minors. The biggest thing to note is that minors don't follow the (exact) same rules as adults when it comes to learning, and it's in their name: they are *not* adults. Sometimes, younger students genuinely do not know any better because they haven't been *taught* any better; you're often working with a (mostly) blank canvas.
+**Why do students fall under clients? It's because they're the ones receiving your services, which is what you're teaching them!** 
+
+That's where the comparison to clients/customers stop with them. After that, they're considered children unless they're 18 years old or older.
+
+There are two consistent truths I have found out with any students I oversaw in classes.
+1. The best students (in behavior, at least) have parents who don't enable them or baby them.
+2. Students lie all the time.
+
+This category mainly applies for students still considered minors. The biggest thing to note is minors don't follow the (exact) same rules as adults when it comes to learning. Sometimes, younger students genuinely do not know any better because they haven't been *taught* any better; you're often working with a (mostly) blank canvas.
+
+As for managing them, I'll put it this way: the more things students are doing inside of a classroom, the less behavior problems they'll cause. It's harder to cause issues elsewhere when they're dealing with something else right in front in them, so to speak.
 
 For students in general, you want to go in with as few assumptions as possible; the fewer, the better. Here are some assumptions you can safely make about students, but also be ready to change them if needed:
 
-- The students you're teaching do not know the material you're teaching extensively.
+- They may not know the material you're teaching
 - What seems easy to you may be complicated for them
-- May not be as motivated to learn or put in the work as you are to teach
 - There are emotions and feelings that a student may not be able to express well
 - They may not be familiar with the same tools you are familiar with (like computers)
 - They may not follow your instructions well and/or correctly the first time
-- They may lack basic skills
 
-These assumptions focus on what you may experience as a student goes into your classroom for the first time. It isn't prudent to make bad assumptions about students in general, as it'll heavily affect how you approach teaching and rapport. Still, you'll likely form an established opinion about the student(s) later on based on their *actions done* and *words said* during class.
+Think of teaching like sales. If material is engaging and desireable, students buy into it. If not, they won't buy into it despite any tangible benefits provided. Some students may view activities more negatively, but objectively, in terms of payoff vs time and effort put in.
 
-With assumptions out of the way, think of students as clients you're trying to sell your material to. This is where storytelling comes in and captivates an audience to engage with your material. If they don't find it engaging, then they will not engage. You could hold the threat of a grade over them, which can work sometimes, but not always.
+One strategy I've used is explicitly asking the students what kind of activities they want to learn and do within the limits of the curriculum. This method ensures they have a way to "buy in" or invest their time into what I'm teaching. For already motivated students, this won't do as much. For students on the fence or less motivated, it's like providing a free side with their entree, which may boost their motivation and increase the chances of buying in.
 
-They'll be interested in fun activities precisely because they *are* fun, but may avoid activities that are not fun. Older students may view unfun activities more negatively, but objectively, in terms of payoff vs time and effort put in. These students lose motivation due to the reward structure and how the class is structured, more so than anything you say as a teacher.
+It is possible students bring in factors you may not be able to fix or fall outside initial assumptions. These may include lack of accountability, apathy, learning accommodations, and more. They may refuse to do things and also refuse to use the accommodations provided, even if legally required to make available to said student(s). There's only so much you can do for these cases, which is why documenting learning efforts and interactions with students is extremely important in case someone claims you didn't appropriately perform your duties as a teacher.
 
-One strategy I've used, to some success, is explicitly asking the students what kind of activities they want to learn and do. Their choice(s) are the units and information I must cover per my standards. Still, this method ensures they have a way to "buy in" or invest their time into what I'm teaching. For already motivated students, this won't do much. For students on the fence or less motivated, it serves as a tipping point to raise motivation and make them feel like they have a stake in what they want to learn, which is something you can provide them.
+Additionally, it's also easy to tell signs of when a student has too much screen time and/or not enough time to sleep. Some examples, which lead to that conclusion from personal observation, include the following:
+- Sleeping a lot *in class* (poor sleep hygiene/management).
+- Parroting video phrases (not saying examples here to spare reader sanity and stay safe-for-work).
+- Talking constantly.
+- Being unable to engage in non-screen activities.
+- Abnormally short attention spans.
+- Immediately trying to access technology when entering class, except when explicitly required for the lesson(s).
+- Adopting speech patterns mimicing online video personalities too closely.
+- They quickly become bored and cannot accept delayed gratification.
+- Meltdowns and refusals when there's no access to computers, phones, etc.
 
-Lastly, keep in mind students of all ages are still *students.* They are not your friends. You can interact with them in a friendly manner, but you are ultimately there to teach them. It's the same in business outside of teaching; you may be good friends with a supplier, but there's still some expectation of reward or money you give them rather than only altruistic feelings amongst informal friend groups. You'll need to set expectations and establish clear boundaries, and enforce any punishments fairly that follow for breaking those expectations.
+...This list could go on for quite a bit. Overall, students with behaviors and issues like these may also have issues with learning, cause issues inside the classroom, and potentially have overlap with, or mask, other unseen or unsaid issues. Additionally, these issues are typically the result of their environment enabling or normalizing them, intentionally or not. That environment can include parents, teachers, student peers, and other people reinforcing patterns.
+
+While parents and relatives may think *their* student is special, classrooms typically have anywhere from a handful to dozens to hundreds/thousands of students at once with other students who may also be considered special. 
+- If every student in the classroom is special, then none of the students are special. 
+
+Teachers are operating under time and resource constraints, which means they have to focus on equity and practicality to ensure fairness and material is delivered to as many students under their care as possible.
+
+Lastly, remember to be friendly, but keep professional boundaries, between you and your students. You are in a position of authority over them, like a manager over an employee, and they also have to report to several *other* managers (i.e. teachers and sometimes administrators) at the same time. This typically means they're juggling around several different classroom management plans at once rather than a single one across all classrooms.
 
 ### **Support Staff**
 
-Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or a teacher like yourself. Support includes secretaries, custodians, maintenance staff, paras, security, nurses, cafeteria staff, groundskeepers, and more.
+Last, but certainly not least, are your fellow support staff. These are people who work in the same environment, school, etc. as you, but aren't necessarily your manager/boss or a teacher like yourself. Support includes secretaries, custodians, maintenance staff, paraprofessionals, security, nurses, cafeteria staff, groundskeepers, and more.
 
-Without these staff members, your school wouldn't be able to keep rooms clean, take care of the learning environment, and maintain a safe and orderly environment. It would force you into taking on more administrative tasks as well. In short, **they help *you* do *your* job–albeit indirectly.**
+Without these staff members, your school wouldn't be able to keep rooms clean, offload specialized tasks from your own workload, and maintain a safe and orderly environment. Many support staff also focus on arranging substitutes to cover for you when you're absent as well. Without them, you may have to take on more administrative tasks. In short, **they help *you* do *your* job–albeit indirectly.**
 
-To keep it simple, treat them well. If you don't, you'll find yourself saddled with bad conditions and more work very quickly.
+To keep it simple, treat them well or expect bad conditions and more work very quickly for you.
 
 ### **Handling [Adult] Communications and Urgency**
 
@@ -126,7 +182,7 @@ How do you know when something is important? I have some indicators:
 1. It has a deadline.
 2. It has consequences if not done (defined elsewhere or explicitly in a communication).
 3. It can be verified whether or not *you* did it.
-4. It has specific information (this part can be short or long).
+4. It has specific information (this part can be short or long in length).
 5. It's been asked about more than once.
 6. It's *probably* not sent as an email/text message.
 7. It's a life-threatening and/or medical emergency.
@@ -140,20 +196,56 @@ Next question: How often should you check things like your email every day?
 If you're in a line of work like communication, social media, owning a business, or a manager, this is pretty often. If your primary work is NOT communicating, then you should plan out specific times of the day to look at emails, etc. and what days, like vacation days and weekends, to NOT look at emails, etc.
 
 There's also some "rules of thumb" to emails/texts I like to follow:
-- Writing them as short as possible
-- Unless they're actually important, they're responded to during work hours.
-- Some personalization in 1:1 emails
+- Keep it short
+- Reply only during work hours unless *actually* urgent
+- Some personalization
   - E.g. "This student said they" -> "[Name of student] mentioned [pronoun]..."
 - If it avoids a 1 hour meeting, I'm making a 5 minute email
-- [If the sender does this, I'm ignoring it](https://nohello.net/en/)
+- [If the sender sends low-value messages like these, I'm ignoring it](https://nohello.net/en/) (No Hello, n.d.)
 
-There's plenty of nuance in adult communication you'll develop experience for over time, which is why covering every case is both unreasonable and nigh impossible for me to do.
+Over time, you'll develop the intuition for what matters and when/how to respond.
 
-## References
+### **Professional Developments (PD)**
 
-1. U.S. Equal Employment Opportunity Commission. (n.d.). *CM-625 bona fide occupational qualifications*. [https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)
+I have mixed opinions on this. These comments could apply to other professions, but I'm focusing on teachers/instructors here.
 
-2. no hello. (n.d.). *please don’t say just hello in chat* [Webpage]. No Hello. Retrieved August 16, 2025, from https://nohello.net/en/
+In every professional development or administrative presentation, however, I want the person *to just get to the point.* There's no reason to ever infantilize *other adults;* students or minors aren't attending these events but other adult professionals.
+- It's why every chapter has a "Short Answer" section at the top. I try to get to the point for those who want! It's useful and desired!
 
+Professional development are electives/continuing education for *professionals* (i.e. teachers, staff, etc.) and provided, typically, by people with active roles outside of education. Teachers/instructors usually need X number of hours to maintain a certificate, license, etc. PD is based around andragogy, adult learning, rather than pedagogy teachers may be used to, so you may experience a disconnect while attending them. Nevertheless, if you do go to a PD, be reasonably respectful to presenters and other attendees.
 
-## [Next Chapter](Z014_Assistant_Teachers.html)
+On one hand, some of these are extremely valuable to teachers and instructors. They could be designed by people with actual classroom experience, so they understand the context reasonably well. They also focus *on the content* and avoid unneccesary fluff.
+- Sadly, in practice, these are the *exception.*
+
+On the other hand, the PD sessions (not necessarily the presenters) are typically the bane of my existance for a variety of reasons:
+- Not appropriately designed for the intended audience (adult professionals teaching other adult professionals).
+- Not related to the grade level/audience a teacher manages.
+- The veracity of information presented is inadequate.
+- Presenter bias may overtake the course material intended for teachers.
+- The PD elective may be a veiled attempt at marketing materials created by the presenter.
+- A lack of proper research and evidence, which is the burden of the presenter(s), to support their material.
+  - This includes research paid to support specific conclusions as well.
+- It's a subject requiring a particular background, but the presenter isn't the appropriate background. (i.e. medical knowledge from a non-medical professional)
+- The PD is ironically designed and undermines its own goals (E.g. a 8 hour presentation on condensing words and sentences)
+
+My favorite PD days were typically:
+- When I was allowed to choose which PD to pursue.
+- Sessions covering my content area(s).
+- An unofficial "do a quick, 15-minute report and check-up, then you can do your own work" day.
+- The PD is showing a program, process, system, etc. to go over relatively quickly (e.g. 15 minutes in a 1 hour session), then the rest of the time was working with a team. Sometimes food was included.
+
+In general, PD is good if it isn't a waste of time. Some people also use PD as a way to network with other professionals as well.
+
+## **Bibliography**
+
+1. Child Welfare Information Gateway. (2025, June 2). *Definitions of child abuse and neglect | Child welfare Information Gateway*. www.childwelfare.gov. [https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/](https://www.childwelfare.gov/resources/definitions-child-abuse-and-neglect/)
+
+1. McLeod, S. (2025, August 3). Maslow’s hierarchy of needs. Simply Psychology. [https://www.simplypsychology.org/maslow.html](https://www.simplypsychology.org/maslow.html)
+
+1. no hello. (n.d.). *Please Don’t Say Just Hello in Chat* [Webpage]. No Hello. Retrieved August 16, 2025, from [https://nohello.net/en/](https://nohello.net/en/)
+
+2. U.S. Equal Employment Opportunity Commission. (1982, Jan 2). *CM-625 bona fide occupational qualifications*. www.eeoc.gov. [https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications](https://www.eeoc.gov/laws/guidance/cm-625-bona-fide-occupational-qualifications)
+
+3. U.S. Equal Employment Opportunity Commission. (2009). *Title VII of the Civil Rights Act of 1964.* www.eeoc.gov. [https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964](https://www.eeoc.gov/statutes/title-vii-civil-rights-act-1964)
+
+## **[Next Chapter](Z014_Assistant_Teachers.html)**

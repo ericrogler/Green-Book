@@ -1,19 +1,18 @@
 ---
-title: 25. Case Study Communication Lesson
+title: 33. Case Study Communication Lesson
 layout: default
-nav_order: 27
+nav_order: 35
 ---
 # Case Study: Communication Lesson
 
-### [Previous Chapter](Z024_Action_Plan_Month_1.html)
+### [Previous Chapter](Z024_Action_Plan_Year_1.html)
 
 *Notice: You can copy and modify this template. This is based on an activity I did for my students in Science classes.*
 
 ### **Objective**
 Students will examine a case study and learn how to communicate and present to a larger audience. The assignment will test their ability to identify why the presentation is effective, which elements contributed to its effectiveness, and what made the topic particularly effective.
 
-### **Time Distribution**
-**~50 minutes total**
+### **Expected Duration: 50 minutes - 1 hour**
 - ~5 minutes for Teacher prep and administrative tasks beforehand
 - 15 minutes for video
 - 15 minutes to complete questions
@@ -69,8 +68,10 @@ Avoid asking them questions dealing with heavy visual elements.
   - Allow early dismissal (if permitted by principal/school policy)
   - Ask the students how they would make their presentation on a topic of their choice, using the concepts and themes shown in the video.
 
-## References
+*--End of Template--*
 
-1. Schroter, J. (2011, October 8). Steve Jobs introduces iPhone in 2007. YouTube. [https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o)
+## **Bibliography**
 
-## [Next Chapter](Z026_Conclusion_Learnings.html)
+1. Schroter, J. (2011, October 8). Steve Jobs introduces iPhone in 2007 [Video]. YouTube. [https://m.youtube.com/watch?v=MnrJzXM7a6o](https://m.youtube.com/watch?v=MnrJzXM7a6o)
+
+## **[Next Chapter](Z026_Conclusion_Learnings.html)**

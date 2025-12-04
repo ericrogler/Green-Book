@@ -8,42 +8,50 @@ nav_order: 3
 
 ## **My Role Overview**
 
-- **Duration:** 2 years
-- **Role:** Teacher (In-Person, NOT Online)
-- **School Types:** Secondary and Primary Education; public & private schools
+- **Duration:** 2.5+ years (2022-2025+)
+- **Role:** Science/STEM Teacher (In-Person, NOT Online), with years done as a substitute teacher.
+- **Main School Types:** Secondary and primary education; public & private schools
 
-## **Results**
+## **Results****
 
 Designed multiple full-year science curricula in my first year of teaching. Achieved this with strong time management during contract hours, which resulted in high student performance across all classes.
 
-## **2 Years of Teaching in <2 Minutes**
+## **A <2 Minutes Overview**
 
-Due to a teaching contract, I cannot easily provide curriculum materials as I *technically* don't own them; the school/district does. All examples and information are HIPAA/FERPA compliant.
+**This book focuses on a breadth of information rather than extensive depth into a few topics.**
+
+Due to contract terms and laws limiting use of personally identifying information, I cannot fully share materials, examples, or information to remain HIPAA/FERPA compliant.
 
 - **Your overall mission is turning complex subjects into simple(r) lessons.**
+- **If you cannot develop good soft skills and communicate well, you cannot achieve excellence.**
+    - This includes emotional control and the ability to stay calm.
+- Teaching is a combination of preparation and luck.
+    - Preparation is creating great lesson plans, curricula, management plans, etc.
+    - Luck is not getting blindsided by chaos and hoping students behave on any given day.
 - Teaching is many different fields merged in a single profession.
-    - You are, however, NOT a therapist.
+    - **You are, however, NOT a therapist.**
 - What you legally follow depends on your location, subject, and place of employment.
-- Plan and prepare for the worst, but assume the best of students.
+- **Plan and prepare for the worst, but assume the best.**
 - Plan a class as if there's only one teacher in the room for all students.
+- Many classroom management systems should scale to hundreds or even thousands of students.
 - What you need to do depends heavily on what, where, and how you're teaching.
-    - Sometimes you need to make concessions on material covered and edit curriculum materials to fit standards.
-- You may need a license or certification to teach specific subjects or do certain tasks legally, such as administering medicine to students.
-- Even if you're the leading expert in your subject, you won't know *everything* and you should expect to use external sources to supplement teaching.
+    - You may need to adapt your curriculum and make concessions.
+- Certain tasks require licenses or certifications.
+- Even experts rely on external sources.
 - Every student wants to be understood and accepted.
-- Compromises are easy solutions, but not always the best or morally correct solution.
-- You can block many topics into short, fixed-time periods of 1, 2, or 4 weeks and include a balance of lectures, activities, projects, and tests.
-- Be ready and able to adjust lesson plans as needed, even on a day-by-day basis.
-- *Every* subject requires teachers to communicate well through storytelling. If you cannot communicate well, then you cannot get students to invest in learning.
-- If it works as a summary, use a summary.
-- Good lectures are not boring. Bad lectures are boring.
+- Compromises are easy, but not always best or ethical solutions.
+- Topics can block into 1-4 week periods and include a balance of lectures, activities, projects, and tests.
+- Be ready to adjust lesson plans daily.
+- *Every* subject requires storytelling for student investment.
+- Summaries work well. Use them.
+- Good lectures engage and bad lectures bore.
 - The best way to learn varies across topics, and you can teach multiple ways at once.
-- The time spent in class should make up for the time spent on homework, and it also depends heavily on the subject. More time in class = less time on homework.
-- Collaborating with people outside of students, like parents and administrators, is necessary. If you cannot do this well, you'll have a hard time as a teacher.
+- In-class time should balance homework loads. More class time = less homework.
+- Collaborating with parents, administrators, and peers is essential.
 - If you treat your peers well, you'll (likely) get treated well in turn.
-- You'll need to learn how to work with people you disagree with and learn how not to take things personally.
-- Don't use AI for learning if students do not know how to use AI safely and properly.
-- Money is always a constraint when teaching. Be careful about how you spend it.
+- Learn to work with people you dislike and act professionally with them.
+- Don't use AI for learning if students do not know how to use AI safely.
+- Money is always a constraint; spend it carefully.
 - Templates are king, so learn to design reusable materials.
 
-## [Next Chapter](./Z002_The_Actual_Overview.html)
+## **[Next Chapter](./Z002_The_Actual_Overview.html)**

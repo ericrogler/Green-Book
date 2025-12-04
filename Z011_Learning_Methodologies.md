@@ -1,17 +1,33 @@
 ---
-title: 11. Learning Methodologies
+title: 19. Learning Methodologies and Teaching Methods
 layout: default
-nav_order: 13
+nav_order: 21
 ---
-# Learning Methodologies
+# Learning Methodologies and Teaching Methods
 
 ### [Previous Chapter](Z010_Agile_Teaching_Framework.html)
 
 ## **Short Answer**
 
-I'm not a proponent of "individual learning styles" ([**see here for further evidence**](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)). There are optimal ways to learn topics, but the best way varies from topic to topic, and you can teach in multiple ways at once. Direct instruction is an effective way of learning if done well.
+*Notice: This chapter aims to cover both andragogy and pedagogy at the same time, but without going too into depth.*
 
-- As an example, you can watch 10000 hours of violin playing, but it won't make you a virtuoso. 10000 hours of practicing violin playing will get you far closer to a virtuoso.
+**Andragogy:** Learning, and theories related to teaching, catered towards adult, postgraduate, and professional audiences.
+- E.g. Professional development and continuing education.
+- From personal experience, I rarely hear this term outside of talking to other adults in education.
+
+**Pedagogy:** Learning, and theories related to teaching, catered towards children, teen, and *sometimes* college undergraduate audiences.
+- E.g. Primary and secondary education.
+- Pedagogy is often used in place of andragogy as the umbrella term pedagogy is more commonly known.
+
+In general:
+
+1. Teach students where they are at.
+2. Every method can be questioned. Without questioning methods, we cannot improve methods.
+3. Both motivation and intelligence are important to learning. Even if a student is smart, if they don't want to be motivated, then they cannot be motivated.
+
+Additionally, I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)) (Riener, Willingham, 2010). There are optimal ways to learn topics, but the best way varies from topic to topic and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
+
+- As an example, watching 10,000 hours of violin playing won't make you a virtuoso. Practicing for 10,000 hours might (Gladwell, 2008).
 
 I'd personally recommend some form of learning with a combination of the following involved for students:
 
@@ -20,99 +36,304 @@ I'd personally recommend some form of learning with a combination of the followi
 - Interleaved Practice
 - Varied Practice
 - Experiencing and working through failure
+- Managing boredom
+
+Lastly, when designing learning, you only have a limited amount of time to cover what you need to cover. This means you're fighting depth vs breadth (how much) and academic rigor vs inclusion (for whom), which means, ultimately, you're defining scope.
+- Decide between covering a few topics deeply vs many topics broadly.
+- An inclusive curriculum is extremely unlikely to be a rigorous curriculum.
+- **An every flavor cake doesn't taste that great.**
 
 ## **Long Answer**
 
-There are multiple ways to learn. A more common method is the [**Feynman technique**](https://fs.blog/feynman-technique/), where you learn by selecting a concept and trying to explain it in simple terms. Another method is through flashcards with the [**Leitner system**](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) or [**Anki**](https://apps.ankiweb.net/).
+There are multiple ways to learn, such as the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.) by explaining concepts simply, flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/).
 
-Suppose you have ever coached or practiced sports before. In that case, you may have experienced spaced practice, interleaved practice, and varied practice but not know there were terms for it.
+Sleep is important. Both students and teachers should not neglect it because it affects learning. If you don't get enough sleep, learning and retention drop.
 
-Sleep is important. Both students and teachers should not neglect it because it affects learning. How exactly sleep affects learning is outside the scope of this writing, but generally speaking, if you don't get enough sleep, it is harder to learn and retain knowledge over a long time.
+### **A "Secret" for Students**
+
+It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I usually cannot help but quietly smirk when the realization hits.
+
+As for the actual secret: review the material *before* it's covered in class.
+
+Is it always possible to do this? Not really; time and resource constraints still exist. 
+
+Does it help? Yes.
+
+Pre-reading the material is where you enter the shallow part of the pool, test out the waters first to temper expectations, and get an idea of what you're doing. Then, during the class, you're transitioning from shallow waters to deeper waters instead of the instructor pushing you straight into the deep end of the pool. Reviewing again, if you choose, is like practicing and getting used to swimming in the deep end of the pool.
+
+It also saves you, the student, from scrambling around in class as much. It actually saves time (ironically) by giving you an idea where to start, which means more time to do the work and a better time handling increased workloads over time. It also helps for discussions and pop quizzes, where reading the material ahead of time makes you more prepared and likely to perform better compared to those without preparation.
+
+It might sound boring because it is work, but it is work you put in now to make the future easier.
+
+There's also another name for this: *studying.*
+
+### **Managing Boredom**
+
+Managing boredom is managing dopamine; the brain's reward chemical. Not all boredom is bad and not all lessons need to be fun. If students don't learn how to manage boredom, they cannot learn to manage themselves independently to achieve bigger and better things in the future.
+
+It's like going to a new rollercoaster ride at a park and realizing you need to wait 2 hours in line before you can get on the 3-5 minute ride of a lifetime.
+
+How do you manage that boredom in the meantime?
+
+In operations research, we have two terms relevant here: balking (not joining the queue) and reneging (leaving the queue after joining).
+
+The point is you may have to get through the boring part (the long wait in line) before the reward (the new park ride). There's also a second lesson about a certain reward in the present vs a greater reward in an unreliable future.
+
+This is seeking instant gratification vs delayed gratification, or the difference between a reward today vs bigger reward tomorrow. Put another way: the fight against non-stop stimuli.
+
+To apply this back to teaching:
+1. It's balancing act of students doing things and students listening about things.
+2. It's a test of how well students can manage their own boredom.
 
 ### **Types of Practice**
 
-**Spaced practice** (alternatively, "distributed practice") is the most straightforward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material; the optimal point to relearn is somewhere around where you're just about to forget information. Spaced practice combats the [**forgetting curve**](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned.
+Suppose you have ever coached or practiced sports before. You may have experienced spaced practice, interleaved practice, and varied practice but not know there were terms for it (Brown, Roediger, McDaniel, 2014).
 
-Before going into the next type of practice, I'll review "massed practice" next. Rather than giving time and learning over multiple sessions, massed practice is when you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work.
+**Spaced practice** (alternatively, "distributed practice") is the most straightforward. Rather than learning and cramming everything at once, you do the same material over multiple, *spaced*, periods. There is a strong emphasis on long enough breaks between the time you first learn material, followed by reviewing the material. Review time for materials is typically before someone naturally forgets.  Spaced practice combats the [forgetting curve](https://e-student.org/ebbinghaus-forgetting-curve/) to help with active recall and better memory retention of the topic(s) learned (Tamm, 2023)(Ebbinghaus, 1885). 
 
-- If it *does* seem to work, it's an illusion of effective learning and there's a high chance you'll forget it all in a day, if not a week, after your learning session(s).
+**Massed practice** is what we do *not* want, compared to spaced practice. Rather than giving time and learning over multiple sessions, massed practice is when you try to learn everything in a single session (or multiple, unspaced sessions) and hope the information sticks. That may work for Tony Stark when it comes to thermonuclear astrophysics, but for 99.9% of other students, that statistically does not work.
 
-**Interleaved practice** is when you alternate what is being practiced or learned. For example, we spaced out tennis practice at specific times each day. Interleaved practice is doing multiple types of tennis techniques throughout the practice sessions, rather than only drop shots one day and backhands only the next; the day can *interleave* drop shots and backhand returns together in the same session.
+- If it *does* seem to work, it's an illusion of effective learning and you may forget it all in days.
 
-**Varied practice** is another form of learning. To expand on the tennis example, we're already doing spaced days and interleaving different types of tennis techniques throughout the day. However, now we *vary* the context of the methods and their use. Do you use a drop shot when at the back of the court? What about the technique to use when you're suddenly near the net? You take the topic and the methods employed under that topic and vary based on how they're applied.
+**Interleaved practice** is when you alternate what is being practiced or learned. For example, we spaced out tennis practice at specific times each day. Interleaved practice is doing multiple types of tennis techniques throughout the practice sessions, Interleaving mixes skills in the same session instead of isolating skills across sessions.
+
+**Varied practice** is another form of learning. To expand on the tennis example in interleaved practice, we're already doing spaced days and interleaving different types of tennis techniques throughout the day. Variation adds context, where you practice a technique across multiple applications, like a drop shot from baseline and net. You take the topic and the methods employed under that topic and vary based on how they're applied.
+
+### **Back to the Basics**
+
+*Alternatively: "Anchored Instruction."*
+
+For some readers, this may be a concept which doesn't internalize fully until you have to design your own curriculum and lesson plans.
+
+You'll want to think with a broad perspective here. The general process is these steps:
+1. Create an "umbrella" concepts can go under. 
+2. Establish context and find ways to tie concepts together.
+3. Call back to these relationships in older concepts to help explain new concepts.
+4. Continue circling back to foundational concepts repeatedly throughout the academic period.
+
+To put it another way, mastery is paved through layering basics. To put it so it sounds more appetizing, you're adding on more and more layers to a delicious cake.
+
+The anchor involved doesn't have to be serious either. When I talked about the Earth in Science, I often used cake as an anchor because cake layers are, well, layered, but also observable, edible, and people like food. I managed to relate cake back to *all* of these Earth concepts and more:
+- Layers of the Earth
+- Plate Tectonics
+- Faults, Folding, Erosion
+- Rock Cycles
+- Soil Horizons
+- Geological Time Scale
+
+A good anchor is a fantastic way to explain concepts which may be difficult to approach, but it helps establish a foundation and an "anchor" point to return to as new material is covered and when you need to scale up concepts.
 
 ### **Helplessness and Failure**
 
-Lastly, there's also dealing with the theories of learned helplessness, learned incompetence, and negative reinforcement. It may show at any age in humans and also shows up in animals, but is more common in younger age groups. In the context of students, these issues manifest most often when a student receives a difficult task. Rather than try to work through a task to the best of their ability, they may instead not attempt the task at all because it seems complicated or attempt it once and give up after only a single failure, waiting for someone else to do the work for them.
+There's also dealing with the theories of learned helplessness, learned incompetence, and negative reinforcement. Learned helplessness happens when repeated failures convince someone their efforts do not matter. Learned incompetence is avoiding responsibility for actions. Negative reinforcement occurs when avoidant behaviors are rewarded.
 
-In teaching, these three concepts are surprisingly prevalent and can show up in many unexpected ways. Here are some examples:
+These may show at any age in humans and also shows up in animals. In the context of students, it typically appears when they avoid challenges and difficulties. Their responses may include not attempting tasks, quitting after one failed attempt, or waiting for another person to solve it for them (Nickerson, 2022). Another way I'd describe learned helplessness is a lack of autonomy, where it feels like nothing you try will ever make a difference based on past experiences, even when opportunities exist in the present to improve things.
 
-- Student doesn't have a pencil? They may sit there until you give them a pencil, rather than searching for a pencil, to start work.
-- Students have to retake a test? They may not care enough, despite repeated classwide reminders, or even a 1-on-1 reminder. Even if it is essential, they may still avoid it or not care enough to do it.
-- Students need to practice a new skill? They may refuse to do it because they don't know how to do it.
+In teaching, these concepts are surprisingly prevalent and show in unexpected ways. Here are some examples:
 
-Ironically, the easiest way for them to get used to failure is to force them to confront failure when it occurs rather than sidestep it. You may also see this with working adults, too: doing just enough work not to get fired, because they have seen good workers rewarded with more work to do. Depending on your school environment, this may be frowned upon or, worse, get you a stern talking to and other trouble because some institutions won't allow you to "fail" students. If you're not allowed to fail students, how will students ever experience failure to learn how to overcome it?
+- Student doesn't have a pencil? They may wait for you to provide one rather than search for one.
+- Students have to retake a test? They may not care enough, despite repeated classwide reminders, or even a 1-on-1 reminder. Even if it is essential, they may still avoid it or choose not to do it.
+- Students need to practice a new skill? They may refuse to do so because they don't know how and won't attempt solutions to fix it.
+- Student doesn't want to do an assignment? They may act like they don't know so they can get you to complete it for them.
 
-A reason why the teacher may avoid failing students is the amount of paperwork, legal and otherwise, required. Many teachers are subject to this paperwork requirement, while some may not be.
+Countering learned helplessness, learned incompetence, and negative reinforcement is simple: make students experience and overcome difficulty on their own, even if it is only a small win. What's hard is the execution. Provide no more support than necessary, like a small nudge in the right direction. What matters is the effort and problem-solving coming from the student themselves.
 
-To illustrate: If a student gets a passing grade, even if it's a low passing grade, they're fine. If a student receives a failing grade, however, you may have to show proof of failure solely on the student's part. Remember to show you took every appropriate measure to try and teach the material to them to no avail. Ironically, the burden of proof is on you, the teacher, and not the student to show that the student failed on their merit. A method teachers employ to avoid failure is to provide enough points to "push along" the student into the next grade or out of the class. This response may be due to their sympathies for students or due to the administration not allowing them to fail students and pass everyone unless extreme circumstances, like blatant cheating, show otherwise.
+Resilience is built by facing and working through failures. Students have to learn to do more things on their own and get outside of their comfort zone, lest it follow them and negatively affect them for the rest of their lives. 
+- **A good learning environment isn't always a comfortable learning environment.**
 
-Many students can act like they don't know because it's easier to do so, and it has worked for them before. If you can throw the accountability onto them and ensure they have the tools they need to complete the work–preferably with a method your superiors are approving of–then you can show proof of you doing your due diligence in case anyone asks about student issues later on.
+The goal isn't punishment. It is rebuilding lost autonomy and resilience by presenting manageable challenges; the small wins over time to gain confidence to achieve larger victories.
 
-Countering learned helplessness, faked incompetence, and negative reinforcement is simple: Do not help students unless absolutely needed and/or medically/legally obligated to. It's the best way I've seen to beat those issues: making students experience and overcome difficulty and failure.
+You may also see this with working adults, too. They may do just enough work not to get fired, because extra effort goes either unrewarded or given more work, reinforcing minimal engagement.
+
+### **When Students Ask for Help**
+
+**Here's a mantra to save your sanity: specific answers require specific questions.**
+
+From personal experience, when a student is requesting help they're often trying to get you, the teacher/instructor, to give an answer so they don't have to think. They may be willing to listen to the explanation, but that's just steps towards the goal of getting an answer still. Chances are they know
+
+If you *do* give an answer, you sabotage the learning process and enforce it's OK later on for them to keep doing it.
+
+Let me give examples of non-questions I've experienced:
+- A student showing me something on their computer and saying "Well, read it."
+- "I don't know how to do this."
+- "What do I write here?" (when there's clearly written instructions for what to write)
+- "I don't get it."
+- A student gesturing towards their paper, computer, etc.
+- (After raising their hand to get my attention) "I forgot."
+
+As for examples how I responded to the above:
+- "Did you read the directions?"
+- "Read the directions out loud."
+- Making students ask their question out loud so the entire class hears.
+- "Come up with a question I can answer."
+- "Ask your neighbor first" (except for tests/quizzes)
+- "What is the first step?" (mainly for ESL)
+- "Try to do it first."
+- If I moved to a raised hand and they don't have their question ready, I move on to the next person.
+
+You want to save time. Non-questions waste time and students who ask these types of questions won't learn effectively.
+
+The *only* exceptions here are if you're addressing medical concerns or assisting people with specific accommodations. If neither of those apply, then save time where you can and expect *specific* questions from students.
+
+### **The Test Wasn't Like The (Homework/Review Sheet/Examples/Etc.)!"**
+
+Sometimes this is a valid complaint, but I find those are the exceptions. It can happen as a result of misalignment and bad teachers testing on material located somewhere on Mars when you need to be back on Earth. It's possible for it to be a legitimate issue, but not *probable*.
+
+Most of the time though, and for... pretty much every subject, you will rarely, if ever, apply learning from situation X in practice to situation X in testing to show understand. It's like the various types of practice I discussed earlier. Yes, the class taught you how to serve the ball in tennis and why serving is done that way, but now you got to show it in a live game where many other things can also happen. 
+
+I once had a student ask me about why one of my tests was difficult in the first place. The answer I gave was the test is *intended* to: 
+1. Test your understanding of the topic(s)
+2. Test your ability to apply that understanding to new or more difficult problems.
+3. Be difficult enough to challenge, but still get at least most questions right.
+4. Show you *really* understand the concept(s) and not just regurgitate an answer to a question.
+
+The younger the student is, or more accommodation limited they are, the more you should consider hand-holding along the way as they may not have critical thinking fully developed at their age group. 
+
+As for older students though? Throw them straight into the proverbial fire.
+
+If you ask teachers "have [students] seen it worded that way before?" you're missing the point. They don't understand the material if they cannot apply what they learned to properly answer the problem(s).
+
+If it's administration or a boss telling teachers to make tests/quizzes exactly like the homework, then the teachers hands are (mostly) tied to keep their jobs.
+
+### **What Happens if Students Use my Example as an Answer?**
+
+Speaking forwardly, that's a lack of creativity and imagination *unless* you're specifically asking them to follow along step-by-step and reach the same answer. Rephrasing or rewording existing example(s) also counts here.
+
+It may not be the student's fault entirely either. Their past environment may not be conducive to learning or training creativity. In an era of Google and search engines, information is readily available to search and mitigates need to generate your own answers. They may also have creativity crushed by a system focused on extreme standardization across their entire learning journey.
+
+If you're encountering this scenario, there's a few examples (oh, the irony) on how you could address it:
+- Early expectations: "Here's what I need you to do. Here's my example. Your example *must* be different."
+- Starting point only: "This is the problem. Start writing out a solution."
+- Directly requesting original answers: "I want your answer to this question."
+- Writing it explicitly into work requiring original responses as documentation to affect grades if they break the instruction.
+- Adding time limits.
 
 ### **Performance vs Learning**
 
 When a student focuses on performance, their goal is to satisfy metrics–often quantitative, like a grade–and do no additional work beyond that. When a student focuses on learning, they'll invest less time in an explicit grade and more in understanding how and why something works. 
 
-Ironically, students I've seen focused on learning score similar, if not higher, grades compared to students focused on performance. They're exploring the topic in-depth rather than a baseline effort to achieve a desired grade and no more beyond that.
+Performance students chase grades while learning students pursue understanding. Ironically, the latter often earn higher grades too.
 
-If you're still unsure what to tell students about learning, I'll give you a list I've shown to my students. It's a rather long list, so you may do all the points or cherry-pick the points most relevant to your situation.
+I'll show a list I've shown to my students, condensed down to limit redundancy.
 
-- Learning well requires going beyond passively learning about topics
-- If you cannot solve problems or recall facts in practice, it's improbable to do so during a test (or applied scenario)
-- The best methods are organic, but counterintuitive
-    - What seems easy for learning may not help you learn as well
-- Frustrations and difficulties are expected
-- Better learning is possible at little to no additional cost
-- Better to try and guess than give up
-- Learning is not always fun or easy
-- There are two ways of learning: the explanation/theory and the practice. Both are necessary.
-- Massed practice provides a false sense of mastery
-- Handwriting helps with retention more than typing
-- Stating a concept verbally does not necessarily equal mastery of a concept
-- People like success, so people avoid challenging problems/failure
-- Some people place social acceptance high above the need to learn and understand information
-- Helping out people who struggle too much is detrimental to them
-- Goals matter more when chosen by someone rather than given
+- Struggle and failure is normal and a part of learning
+- Passive exposure to information isn't enough, hence practice and recall is done
+- Massed practice creates illusions of learning and limits retention
+- Motivation matters and goals are better when chosen rather than given
+- Learning requires explanation/theory and practice. Both are necessary.
 
 ### **What determines learning ability?**
 
-Though I disapprove of learning *styles,* there are still differences in how individuals learn and their capability of learning. To reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
+Though I disapprove of learning *styles,* there are still differences in student abilities. To reference *Make It Stick* by Brown, Roediger, and McDaniel, here are some examples: 
 
 - Intelligence
 - Dynamic Testing
 - Structure Building
 - Rule vs Example Learning
 
-Your goal is presenting material in a way the student is best able to learn, not necessarily how they want to learn.
+In short, present materials in ways to optimize learning, not just how students prefer learning.
 
-## References
+### **What about when student performance is below expectations and/or grade level?**
 
-1. EBSCO. (n.d.). *OpenDissertations*. [https://opendissertations.org/](https://opendissertations.org/)
+I see four ways to proceed here: 
+1. Remediation
+2. Curriculum Redesign
+3. Survival Tactics
+4. Student Removal
 
-2. Beck, K. et al. (2001). *Principles behind the Agile Manifesto*. [https://agilemanifesto.org/principles.html](https://agilemanifesto.org/principles.html)
+Remediation is costly in time for a teacher, and other relevant staff. Supports, as part of remediation, also risk enabling dependency or feeding into learned helplesness.
 
-3. Riener, C. R., & Willingham, D. (2010, August). (PDF) *The Myth of Learning Styles.* ResearchGate. [https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)
+Curriculum redesign is costly in time and resources and unlikely to change midway during your school period. You may also push a problem downstream unless the entire educational pipeline is also aligned.
 
-4. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. [https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf)
+Survival tactics is pushing students through without addressing deficiencies. It also risks students lacking foundational knowledge and unable to operate when supports disappear.
 
-5. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
+Removing a student from a class requires a lot of documentation proving the student cannot succeeed and/or function in the class, despite best efforts, and can be cumbersome to execute/process. It deals with politics, legality, and ethics, plus you also may not be allowed to remove a student outside of extreme circumstances.
 
-6. Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
+Out of all of these ways, remediation (and supports) is typically done as it goes the path of least resistance while also meeting legal requirements. I'll focus on that and assume, in good faith, your goal is getting students up to speed despite any blockers. Keep in mind that, despite your best efforts, it's possible remediation may not be feasible for the class, or some students, which means teaching what topics you need/want to teach may be impossible.
+
+For remediation, I see two main options:
+
+1. Reteach and/or integrate the basics
+2. Provide supports (tables, charts, calculators, etc.)
+
+Reteaching basics requires modifying lesson plans. Time spent can range from a dedicated review class session to review snippets without each class session. It also depends on subject matter and its intensity. Some implementation examples may include:
+- Finishing 5 minutes early to speed review basics
+- Exit tickets over basic concepts
+- Hands on activities and general review
+
+From personal experience, I could reasonably cover 1 or 2 grades of learning deficit. Beyond that would typically require tutors, special education, and external support systems. 
+- Reasonable example: Re-teaching parts of Calculus 1 to students in Calculus 3.
+- Unreasonable example: Teaching Calculus 3 to functionally illiterate students.
+
+**To give an analogy, you don't want someone flying a plane that has never taken pilot training.**
+
+It's not impossible to fix large deficits, but doing it on top of everything else a teacher in a typical classroom needs to do is extremely difficult, if not impossible. 
+- If deficits are truly impossible/unreasonable to fix, then you need to document what the deficits are, what has been done to try and overcome them, and communicate why they're infeasible to help protect yourself and your role as a teacher.
+
+The second option, providing supports, is similar to training wheels on a bike. It complements learning, but doesn't replace learning. Examples may include reference charts, formula sheets, and guided notes you provide students or students create on their own time to use for other assignments, tests, and projects.
+
+Some blockers may mitigate, or completely stop, remediation and may be outside your control: 
+- Students motivation and engagement
+- System issues like pushing through grades despite evidence showing deficiencies
+- Administrative pressure to meet pacing/benchmarks
+- External systems not reinforcing learning outside of class
+- Accommodations and legal requirements prohibiting some remediation techniques
+
+As a caution and reminder, there's still two issues with remediation and supports:
+1. If students cannot acquire the skill(s) to function in the class, and it cannot be fixed, you'll have to accept it's a potential failure and start drafting documents to protect yourself.
+2. Supports help students pass classes, but may not help them be independent.
+
+Your goal here is properly educating students, and you should strive for it, but sometimes it won't always go the way you want for various reasons.
+
+### **"You Should Know How To Do It"**
+
+*Alternatively: "What if students can't follow the prompt?"*
+
+Teachers want you to figure things out and have students develop their own resources for solving problems. If you don't try and fail, how are you going to know where you're failing or pinpoint exactly where the problem(s) exist?
+
+There are times the phrase in the header is unreasonable. Other times, the instructions are explicitly written out and/or shown for students to follow and they cannot follow them, or they're asking for help when they haven't even tried to find a solution and really just want the teacher to solve it for them.
+- E.g. Teacher says you need to reference a page in the book to get started. Student, with the book out, asks how they get started, despite the teacher explicitly stately how to start.
+
+Generally, an attitude of telling the student they should know what to do implies an expectation the teacher isn't going to repeat themselves any more than necessary or offer help unless it's truly needed and deserved.
+
+Additionally, teachers are far more likely to help students who pay attention, reference source material to solve problems, and take notes compared to students not putting in effort towards learning. That's not being unfair; that's just helping those who *want* to learn. Those students might even get extra credit or rewards for putting in effort or going in above and beyond.
+- For accommodations, you still teach (and reward) at their level. The principle can adapt.
+
+The sword cuts both ways. You could mitigate the issue by coaching through *how* to ask for help, but the student is ultimately responsible for asking for help afterwards anyway. Teachers aren't going to read minds and magically know when help is needed.
+- If mind-reading technology becomes available, we'd probably get regulated on what we do with it anyway through things like FERPA, FAPE, etc.
+
+If a student were to ask me "how do I solve this problem?" (especially *right after* being given a problem) I'm more likely to tell them to figure it out. If that same student were to ask me "Can you see if I applied this formula correctly here?" I'm more likely to offer genuine assistance as I can verify an attempt was made.
+
+For science specifically, I'll see students who ask for help on a problem. I look at the worksheet, see that the problem is still blank, and hand it right back to them. Some reasons why I do that are simple:
+- There's no attempt made yet.
+- There's no basic steps showcasing you learned what you needed to learn
+
+It's different if they're missing resources, like a ruler or calculator, to solve a problem where they're normally needed. In that case, you can help.
+
+Remember: you're not filling blanks. You're fixing work.
+
+Don't reward students who don't try. They should know how to do it (or at least make a try at it).
+
+## **Bibliography**
+
+1. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
+
+2. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
+
+3. Ebbinghaus, H. (1885/1913). *Memory: A contribution to experimental psychology.* New York: Teachers College, Columbia University.
+
+4. Gladwell, M. (2008). *Outliers: The Story of Success.* Little, Brown and Company.
+
+5. Kansas State University Academic Achievement Center. (n.d.). *Leitner system*. [https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf)
+
+6. Nickerson, C. (2022). *Learned Helplessness.* Simply Psychology. [https://www.simplypsychology.org/learned-helplessness.html](https://www.simplypsychology.org/learned-helplessness.html)
 
 7. Parrish, S. (n.d.). *Feynman Technique: The Ultimate Guide to Learning Anything Faster*. Farnam Street Media Inc. [https://fs.blog/feynman-technique/](https://fs.blog/feynman-technique/)
 
-8. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
+8. Riener, C. R., & Willingham, D. (2010, August). (PDF) *The Myth of Learning Styles.* ResearchGate. [https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)
 
-## [Next Chapter](Z012_Homework.html)
+9. Tamm, S. (2023, February 13). *What is the Ebbinghaus forgetting curve?* e-student. [https://e-student.org/ebbinghaus-forgetting-curve/](https://e-student.org/ebbinghaus-forgetting-curve/)
+
+10. Gladwell, M. (2008). *Outliers: The Story of Success*. Little, Brown and Company.
+
+## **[Next Chapter](Z012_Homework.html)**
