@@ -3,7 +3,7 @@ title: 13. Probability and Statistics
 layout: default
 nav_order: 15
 ---
-# Analysis, Probability, and Statistics
+# Probability and Statistics
 
 ### [Previous Chapter](Z007x_Math_And_Calculus.html)
 

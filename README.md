@@ -25,37 +25,40 @@ Surprisingly though, it has more benefits than expected:
 ## Navigation by Chapter
 This splits the text by chapter across multiple pages. 
 
-- Manager TL;DR  
-- Actual Overview  
-- Legality  
+- Manager TL;DR
+- Actual Overview
+- Legality
 - General Management (for Teaching)
 - Management Case A: Scaling Growth
 - Management Case B: Communications and Operations
 - Management Case C: Macro and Micro
 - Classroom & Behavior Management
-- Standards / Objectives  
-- Roadblocks To Teaching  
+- Standards / Objectives
+- Roadblocks To Teaching
 - Metrics Of Success
-- Analysis, Probability, and Statistics
-- Source(s) of Truth  
-- Communication, Design, and Usability  
-- “Agile” Teaching Framework  
-- Learning Methodologies and Teaching Methods 
-- Homework  
-- Teacher-Client Relations  
-- Assistant Teachers  
-- Guest Teachers, Speakers, and Presenters  
-- Passporting & Information Transfer  
-- Other Additional Duties  
-- Maintaining Your Health  
-- Money and Budget Management  
-- The Use of AI  
-- Design Systems and EdTech  
-- Action Plan: Day 1  
-- Action Plan: Week 1  
-- Action Plan: Month 1  
-- Case Study: Communication Lesson  
-- Conclusion / Learnings  
+- Math, Calculus, and Beyond
+- Probability and Statistics
+- Analysis (for Instructors)
+- Source(s) of Truth
+- Communication, Design, and Usability
+- “Agile” Teaching Framework
+- Accommodations
+- Learning Methodologies and Teaching Methods
+- Homework
+- Teacher-Client Relations
+- Assistant Teachers
+- Guest Teachers, Speakers, and Presenters
+- Passporting & Information Transfer
+- Other Additional Duties
+- Maintaining Your Health
+- Money and Budget Management
+- The Use of AI and Technology
+- Design Systems and EdTech
+- Action Plan: Week 1
+- Action Plan: Month 1
+- Action Plan: Year 1
+- Case Study: Communication Lesson
+- Conclusion / Learnings
 
 ## Content License
 
