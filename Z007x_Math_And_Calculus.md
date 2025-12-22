@@ -45,11 +45,17 @@ Applying math is what makes money.
 
 Money (and currency) affords goods and services to keep you alive.
 
-Money or no money, doing cool things with math, even if you cannot directly apply it, *is still pretty cool.*
+Money or no money, doing cool things with math, even if you cannot directly apply it, *is still pretty cool.* The less cool part, though, is the field is so incredibly diverse that no one single person will likely ever learn *all* of it.
 
-The average person may not get much mileage out of math, but the smarter person may. Not every person is expected to become an engineer (or even complete an engineering degree). There's also adjacent roles using math like physicists and analysts.
+The average person may not get much mileage out of math, but the smarter person may. Not every person is expected to become an engineer (or even complete an engineering degree) or suddenly be good at math just because they took a course in it. There's also adjacent roles using math like physicists and analysts, and countless roles using math in some way, shape, or form.
 
-The main thing stopping people is math is difficult, but not in ways you'd expect and it still remains difficult even under perfect conditions. Sometimes it's so difficult even the professor or teacher outright admits the subject is just that intuitively difficult or unable to verbalize well before attempting to teach it anyways. There are certain fields where you can learn enough to explain what you don't understand. 
+If I had to name *only two* issues affecting math, it'd be the following:
+1. Math perceived negatively is normalized, so being bad at math is "ok" and competency starts sliding down.
+2. How math is taught across *the entire learning sequence* and all related curricula is flawed.
+
+I'm not sure which of these is easier to fix, as both issues could be forever ongoing or take many years to remedy. I'm not here to write a full solution to that because I'm focusing on the *importance* of math, which means more targeting issue 1 over issue 2.
+
+The main thing stopping people is math is "difficult," but not in ways you'd expect, and it still remains difficult even under perfect conditions. Sometimes it's so difficult even the professor or teacher outright admits the subject is just that intuitively difficult or unable to verbalize well before attempting to teach it anyways. There are certain fields where you can learn enough to explain what you don't understand. 
 
 Much like with a musical instrument, there's a mental resilience someone must have where they won't be good for a while until they reach a certain point. Though someone may have the desire, they also must accept it will take time thinking about it and understanding it for math knowledge to set in.
 
@@ -59,19 +65,23 @@ Math matters and it isn't only for smart people. There's no virtue in being bad 
 
 As a warning to readers: do not assume any sections in this chapter are a substitute for attending a class or formally learning the material. That's like opening up a winery and thinking the only job is selling wine (it's definitely not!).
 
-
-
 ### **The Pedagogy of Math**
 
-Though my primary subject matter is Science (and Engineering), Math is still necessary for those subjects and I find myself teaching Math alongside Science quite often. Science deals with many of the same issues, but across different contexts.
+In the United States, as of November 2025, math skills in students are [not at the level they should be](https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf) (University of California San Diego, 2025).
+- Though it uses some different standards, the [NAEP (Nation's Report Card) in the United States](https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/?grade=4) also maps out progress in math as well as reading (NAEP, 2024).
+
+Though my primary subject matter is Science (and Engineering), Math is still necessary to properly understand those subjects and I find myself teaching Math alongside Science quite often. Science deals with many of the same issues, but across different and/or applied contexts.
+- Notice: I'm not saying other subjects are or are not suffering from similar issues.
+
+The foundation of math in general is based on understanding and intuition. 
 
 Say for example I want to introduce you to a new proof. It requires abstraction, which means confusion and difficulty when you first see it; that's normal. It also requires a foundation to work upon, because it may seem boring and useless at first and doesn't get "fun" until you reach the later stages. You cannot get away with short-term memorization; you *have* to actually learn math to advance in it and do well.
 
-It's like the chicken and egg problem. You need students to buy into what you're learning, which means showing math (and science) is useful and interesting. Those same students, however, may not see it that way until they're actually good at it though!
+It's like the chicken and egg problem. You need students to buy into what you're learning, which means showing math (and science) is useful and interesting. Those same students, however, may not see it that way until they're actually good at it though! This is why practice (and homework, by extension) is *still* essential.
 
 There's also an issue with subjects where students may not care for abstraction and care more about the tools needed to solve their problems. This isn't inherently bad, however, as every part of every subject cannot reasonably cater towards every student and their goals. Generally speaking, the wider the audience, the more a class may focus on application instead of theory/abstracts.
 
-As for ways to have people hate math, I can easily name a few:
+As for ways to get people to hate math, I can easily name a few:
 1. Doing math assignments as a punishment.
     - By extension, punishing a student every time they do it wrong.
 2. Student surrounded by a culture where being bad at math is cool.
@@ -116,17 +126,22 @@ One of the few times I'll just say my primary source helping me here is from [Pa
 1. **Rate of Change (Derivatives)**
     - Δx (Delta (uppercase)) = quantifiable/finite difference of X between two values
     - dx = derivative, or differential of X, for instantaneous rates of change
-    - ∂x (cursive d) = partial derivative; the rate of change of X of one variable while other variables kept constant
+    - ∂x (Cursive d) = partial derivative; the rate of change of X of one variable while other variables kept constant
     - δx (Delta (lowercase)) = small, but finite, change between d and Δ of X (e.g. deviation/error)
     - ∇ (Del/Nabla) = vector differential operator typically for gradients, divergence, and curl (rotation); often seen with partial derivatives
 2. **Accumulation of Change (Integrals)**
-    - Σ (Sigma) = Finite sum of discrete changes
-    - ∫ (Line Integral) = Continuous accumulation of change in 1 dimension (dt) (e.g. line/edge of a cube)
-    - ∫∫ (Double Integral) = Continuous accumulation of change in 2 dimensions (dt²) (e.g. surface/face of a cube)
-    - ∫∫∫ (Triple Integral) = Continuous accumulation of change in 3 dimensions (dt³) (e.g. volume of a cube)
+    - ∫ (Line integral) = Continuous accumulation of change in 1 dimension (dt) (e.g. line/edge of a cube)
+    - ∫∫ (Double integral) = Continuous accumulation of change in 2 dimensions (dt²) (e.g. surface/face of a cube)
+    - ∫∫∫ (Triple integral) = Continuous accumulation of change in 3 dimensions (dt³) (e.g. volume of a cube)
 
 These are the most common (and "basic") forms of integrals and derivatives I've encountered within Calculus when I went through it. How to solve them, their nuances, and associated theorems behind them are beyond the scope of this chapter, but exposure to concepts is still useful here.
 - You may also see closed line integrals (∮) and closed surface integrals (∯). They function similarily to line integrals and double integrals, excepth a path/surface forms a closed loop where start and end points coincide.
+
+There's two other notations which are *similar* to the above, but aren't considered change.
+- Σ (Sigma) = Finite sum (addition) of discrete changes
+    - E.g. sum(i=3 to 6) 3i -> (3x3) + (3x4) + (3x5) + (3x6) = 36
+- Π (Capital pi) = Finite product (multiplication) of discrete terms
+    - E.g. product(i=3 to 6) 3i -> (3x3) x (3x4) x (3x5) x (3x6) = 29160
 
 To more practically explain one form of derivative and integral relationships, I'll draw from physics and use displacement (x), velocity (v), and acceleration (a). Each of these derivatives/integrals is measured with respect to (w.r.t.) time (dt).
 - Derivative of displacement w.r.t. time is velocity, which is rate of change of position over time.
@@ -157,11 +172,30 @@ This also isn't a call to ignore math as a discipline or disrespect math either.
 
 ### **Beyond Calculus**
 
-TBD
+As you get into higher-level math, numbers... disappear.
+
+That doesn't mean it gets easier. It gets harder. *Much harder.*
+
+When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* Why proofs matter is because you need to convince people that something is true. A lot of math is taught by assuming that X is used to solve a situation, so X is the correct formula to do so. Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt.
+- In other words, you're learning more theory and applications rather than formulae.
+
+You encounter words with precise meanings, such as if, then, when, such, or, and, else, and so on. You deal with far more variables and how to manipulate them, which is tantamount to death by pencil if you never got the foundations down. Sometimes things *look* like simple algebraic equations, but have a long proof steeped in higher-level math.
+
+And what you *could* say in ordinary language, like English, now gets its own special notation through quantification and set theory! To give a small sampling ([which Wikipedia actually has a surprisingly accurate compilation of!](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols) (Wikipedia contributors, 2025)):
+- ∀ (turned A) = "For all" or "for every"
+- ℕ = Set of natural numbers
+- ∈ = Belongs in a set, such as "is in," "belongs to," "element of," or " "is a member of"
+- { } (Braces or curly brackets) = Set, or collection of elements (e.g. {1,2,3})
 
 ## **Bibliography**
 
 1. Dawkins, P. (2023, October 9). Pauls Online Math Notes. Tutorial.math.lamar.edu. [https://tutorial.math.lamar.edu/](https://tutorial.math.lamar.edu/)
 
+2. *Senate-Administration Workgroup on Admissions Final Report.* (2025). University of California San Diego. [https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf](https://senate.ucsd.edu/media/740347/sawg-report-on-admissions-review-docs.pdf)
+
+3. U.S. Department of Education, Institute of Education Sciences, National Center for Education Statistics, National Assessment of Educational Progress (NAEP), various years, 1990–2024 Mathematics Assessments.
+    - Alt: *NAEP Mathematics: Performance Trends for States and Districts.* (2024). Nationsreportcard.gov. [https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4](https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4)
+
+4. Wikipedia contributors. (2025, December 17). *Glossary of mathematical symbols.* Wikipedia. [https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 
 ## **[Next Chapter](Z007y_Probability_And_Statistics.html)**

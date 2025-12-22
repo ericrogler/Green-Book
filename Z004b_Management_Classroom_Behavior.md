@@ -12,19 +12,22 @@ nav_order: 10
 **The more people you have to manage, the more likely something can go wrong.**
 
 **You can fix most (80-90%) classroom management issues with one action: limiting the size of classrooms/number of students each teacher manages.**
-- Sadly, it also means you need more resources like real estate, staff, and wealth to do that.
+- Sadly, it often means more resources like real estate, staff, and wealth which may not be available.
 
-A classroom management plan, and its rules, only matter when people at all levels of the organization enforce and follow them consistently (teachers, principals, staff, etc.). Sometimes your plan may experience failure due to factors outside your control. Discipline and management should be strict, but also fair and reasonable for everyone it affects.
+A classroom management plan, and its rules, only matter when people at all levels of the organization, and to some extent customers/clients/users receiving the organization's services, enforce and follow them consistently (teachers, principals, staff, parents, etc.). It's a reality your plan may experience failure due to factors outside your control.
 
-How you design and execute on classroom management plans also depends significantly on your intended audience.
+Discipline and management should be strict, but also fair and reasonable for everyone it affects. How you design and implement management plans also depends significantly on your intended audience.
 - It's so significant I'd even recommend you find out about *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
   - E.g. teaching middle schoolers requires different techniques compared to teaching college students.
 
-To quickly sum up across various stages of pedagogy (children/minors) and andragogy (adults) in management:
+ To quickly sum up across various stages of pedagogy (children/minors) and andragogy (adults) in management:
 - Ages 0-11: Favoring simple instructions, visualizations, cues, and routines over rules.
 - Ages 12-14: Exploring autonomy, testing limits/rules, and flexibility.
 - Ages 15-18: Desiring respect, independence, and exposure to interesting content.
-- Ages 18+: Focusing on collaboration, accountability, and content value.
+- Ages 18+: *Needing* independence, accountability, and content value for future careers.
+
+You may also need licensure or certifications to teach specific subjects or do particular tasks legally, such as administering medicine to students.
+- Also, never be alone in a room with two or fewer students without the door open.
 
 Fair, well-designed procedures are necessary to manage classrooms and behaviors from day one. Without them, you spend more time managing instead of teaching. A "fun" or casual teacher that lets students essentially do what they want is a nightmare to deal with for other teachers, administrators, and substitute teachers covering for the "fun" teacher. Do *not* be that teacher.
 
@@ -37,11 +40,17 @@ PBIS, or Positive Behavioral Interventions and Supports (rewards, restorative ci
 
 *Notice: This is its own dedicated "chapter" as there are myriad ways to establish classroom management and procedures. The chapter is also placed after the other Management chapters because concepts from there can directly translate to classroom and behavior management.*
 
-If you told a manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job.
+If you told a typical manager they had 40 direct reports, they'd probably think you were crazy and start looking for another job now.
 
-If you told a teacher/instructor they had 40 students (which are essentially direct reports), they'd probably ask "total or per class" like it's another Tuesday.
+If you told a typical teacher/instructor they had 40 students (which are essentially their version of direct reports), they'd probably ask "total or per class" like it's another Tuesday.
 
-What seems normal and reasonable everywhere else for management is not the case in an educational setting, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face.
+What seems normal and reasonable everywhere else for management is not the case in an educational setting, but teachers and instructors are still expected to manage people. Classroom management is one of the hardest, if not THE hardest, problem teachers and instructors face. You may have affinity with a particular type of student, or students, or just be "good" across all disciplines; it varies a lot person-to-person.
+
+Your management policies from the start of the year may change, or be more strict/lenient, by the end of the year as you adapt to the environment as well. You could also have people that are easy to "manage," but difficult to work with.
+- E.g. Senior students (17-18 years) being easy to manage throughout the year, but losing motivation to do assignments near end of the year once they get the college acceptance letter.
+
+Generally speaking, the older the students are the easier they are to teach. I know this may seem obvious, but if I don't write it down here someone will call it out.
+- There *are* exceptions, yes, but I'm not covering them right now.
 
 If you skipped the other management chapters and went straight to here, I'll recap some parts:
 - Procedures and management strategies must scale up with more students under your supervision
@@ -52,6 +61,8 @@ If you skipped the other management chapters and went straight to here, I'll rec
 - Success is determined by your ability as well as how well students perform
 - Learning proper classroom management requires experience and application
   - A book, guide, etc. alone will NOT be enough to get you experience, *but it is better than nothing*
+
+Also, depending on how many resources you have, or the type of educational facility you operate in, your "normal" school is your alternative school. This could happen from a refusal/blocker to removing a legitimate threat
 
 *Alright, let's get into it.*
 
@@ -98,8 +109,8 @@ Teachers may be at fault for undermining classroom management as well. Several e
 - Enforcing a rule not currently a part of the classroom management plan or other legal entity's ruleset
 
 These examples typically have one of two common themes:
-1. They fail to follow their own plan
-2. They don't project a human being; a relatable person
+1. Teachers/Instructors fail to follow their own plan
+2. Teachers/Instructors don't project a human being; a relatable person
 
 For the first item, it goes back to what I said earlier: if you won't enforce the plan, why have the plan in the first place?
 
@@ -121,6 +132,23 @@ I've done this before by using a stopwatch, starting it when I need to reign bac
 I've also seen other teachers do a hand gesture, held in the air, accompanied by a short phrase, and kept the hand up in the air until all other students mimicked the hand gesture to signal attention.
 
 Do I say to do something similar? If it works, and doesn't cause moral/ethical/legal issues, then go for it I guess.
+
+### **The Scaling Power of Wasted Time**
+
+Let's say you do a morning activity that's short, gets student attention, and takes 1 minute per day. Each classroom session you host for a group of students is 50 minutes long across 180 days.
+
+Repeating that same activity across all 180 days is effectively 3.5 days of classroom time spent *on that small, but repeated, activity.*
+
+This doesn't come as a punishment or as a result of acting out. That's just from a routine check-in or activity you do to help run the classroom. It's a necessary cost to ensure things goes smoothly.
+
+Now, let's say things don't go smoothly and you have a less-than-good group of students needing redirection every day because they're breaking rules or causing issues in a classroom.
+
+To go off personal experience, I'd say this averaged out to around 3 minutes per day of redirection instead of instruction. Some days were almost perfect and some days were less than perfect.
+
+That's now *nearly 11 days lost towards redirection.* That's 2 whole business weeks! For a small amount of time stopping issues from people who know they're not supposed to cause issues across the school period!
+
+What may seem like a small loss adds up over time to the point it's a significant loss due to both mismanagement and people problems.
+- Change minutes to milliseconds and you're on the way to spending 300 million USD (at 2009-2010 rates) for a cable reducing communication times from 16 milliseconds to 13 milliseconds (Budish et al., 2013).
 
 ### **Passes (to see other teachers/education staff)**
 
@@ -321,6 +349,8 @@ Some of my favorite responses, even if some were *definitely* jokes, were:
 1. Amy, J. (2025, August 21). *Students face new cellphone restrictions in 17 states as school year begins.* AP News. [https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060](https://apnews.com/article/schools-cellphone-bans-social-media-parents-d6464fbfdfae83189c752fe0c40fd060)
 
 2. Bacher-Hicks, A., Billings, S., & Deming, D. (2019, August). *The School to Prison Pipeline: Long-Run Impacts of School Suspensions on Adult Crime.* [https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf](https://conference.iza.org/conference_files/Education_2019/bacher-hicks_a28539.pdf)
+
+2. Budish, E. B., Cramton, P., & Shim, J. J. (2013). *The High-Frequency Trading Arms Race: Frequent Batch Auctions as a Market Design Response.* SSRN Electronic Journal. [https://doi.org/10.2139/ssrn.2388265](https://doi.org/10.2139/ssrn.2388265)
 
 2. Google Scholar. (2025). *Scholar.google.com.* [https://scholar.google.com/scholar?as_sdt=0,6&q=cell+phones+and+academic+performance&hl=en](https://scholar.google.com/scholar?as_sdt=0,6&q=cell+phones+and+academic+performance&hl=en)
 

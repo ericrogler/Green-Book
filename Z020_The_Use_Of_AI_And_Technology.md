@@ -18,13 +18,10 @@ Opinion: The public proliferation of AI in, well just about every field and occu
 - The biggest "hidden cost" is ambiguity and accidental complexity.
 - Other examples of overkill: giving frying pans and coffee machines firmware updates and AI.
 
-For a viewpoint centralized primarily on education, I'd reference the work of Anne Lutz Fernandez, [specifically her *Help Sheet: Resisting AI Mania in Schools* in Google Documents](https://docs.google.com/document/d/1n9CokRz8xRR-sO01DIVkuftFywxSay6ae5eLf__UYJM/edit?usp=sharing), as I'll share some viewpoints for AI in education like them (2025). 
+For a viewpoint on AI centralized primarily on education, I'd reference the work of Anne Lutz Fernandez, [specifically her *Help Sheet: Resisting AI Mania in Schools* in Google Documents](https://docs.google.com/document/d/1n9CokRz8xRR-sO01DIVkuftFywxSay6ae5eLf__UYJM/edit?usp=sharing), as I'll share some viewpoints with them (2025). 
 
-Most AI use in education is *doing the work* (not to be confused with having the work done) for someone else. If a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
-
-If you combine a substitute of mastery with a society diminishing the value of honesty, integrity, and personal responsibility, humanity's educational level and and ability to accomplish tasks also diminishes.
-
-**Don't permit AI for learning if students cannot use AI safely and adequately.** It is still a tool you should learn about and plan for, even if you adamantly refuse to use it. You may not even *have* to use AI for your curriculum nor does it always make sense to use AI.
+As for technology, we have enough tools to do things we never could've done before in the past, but we also lose the nuance for *how* things work "under the hood." There's also a lot of ways to abuse, exploit, and use technology, despite whatever guardrails you may implement.
+- E.g. Chances are you probably don't know how to change over half the settings on a smart phone do, even if you're someone with one (almost) always on your person.
 
 ## **Long Answer**
 
@@ -80,6 +77,11 @@ To dilute technological security (cybersecurity) down into two points:
 2. At the same time, how much damage you can do with technology makes people extremely vulnerable compared to what was possible in the past.
 
 ### **AI in General**
+
+Most AI use in education is *doing the work for someone else* (not to be confused with having the work done). If a student knows the content, they should not *need* AI to explain, defend, or interpret the content. Students doing the appropriate practice and work on their own to achieve mastery is part of the learning process. Without it, critical thinking and other important skills suffer.
+- For example: the text you're reading now. AI could generate an answer for everything here, but I know the material here because I did the human element, which is the work I put in, *and wrote the thing in the first place.* The act of going through the work reinforced my knowledge, which is crucial for learning.
+
+If you combine a substitute of mastery with a society diminishing the value of honesty, integrity, and personal responsibility, humanity's educational level and and ability to accomplish tasks also diminishes.
 
 **Here are some questions for you:**
 
@@ -179,6 +181,7 @@ As a stern reminder, anything listed under "Recommended AI Use" still requires a
 **Part 1: Does it work well?**
 
 In my opinion, as of November 2025, AI is not terribly effective (yet) and many expectations are overblown. About the only thing it can do *really* well is pattern based work, and even then it's still an unintelligent tool. AI cannot understand like a human can. Overdependence on AI by humans breeds normalized incompetence, which will be a rapidly growing problem in addition to its ever-growing costs as data complexity increases over time.
+- Cleaning up messes is generally harder than preventing messes in the first place.
 
 Another problem I see with AI is when people want to automate large projects or work at large scale. It is a resource sink in every way possible, whether through time, cost, staff, and management. The more things you try to automate, the resources required to create *and maintain* that automation exponentially increases. If you really need to automate something, then I'd say three things before attempting to do so:
 1. Start small. Extremely small. Start with one tiny problem.
@@ -192,8 +195,8 @@ Despite that viewpoint, I wouldn't be surprised if someone told me people were *
 
 All of this is to say AI is *extremely* powerful for someone who could've never done these things before without it, so it's no surprise to me sudden and easy access to it may cause attachment.
 
-I'd also believe AI systems already have access to sensitive information and private security documents through user accounts, which should put any cybersecurity professionals on high alert right now. Many people unintentionally, or intentionally, insert private information into an AI model, which allows it to train on that same information in the future. There is still a very real concern people may be utilized by humans as a means to manipulate, deceive, and attack other humans.
-- A seemingly innocent case may be using AI to generate summaries of a website on a search engine so you don't have to visit the website to learn about something.
+I'd also believe AI systems already have access to sensitive information and private security documents through user accounts, which should put any cybersecurity professionals on high alert right now. Many people unintentionally, or intentionally, insert private/legally protected information into an AI model, which allows it to train on that same information in the future. AI can be, and has been, utilized by humans as a means to manipulate, deceive, and attack other humans and resources, such as [the AI-powered PromptLock ransomware](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/) (Cherepanov, 2025). I should further emphasize publicly/commercially available models are capable of all these feats, which opens up the number of people able to perform these acts.
+- A seemingly innocent case may be using AI to parse content and generate summaries of a website on a search engine so you don't have to visit the website to learn about something.
 
 There's also only so much data available to train an AI model on. A lot of available data is built upon centuries and millenia of prior information generated by people and translated into machine readable formats. It's entirely possible to "run out" of data to feed an AI to let it solve problems, which may inhibit its progress and slow improvements to its functions.
 
@@ -204,36 +207,28 @@ Lastly, AI is an umbrella for many types of automation and large language models
 
 **Part 2: What about the cost of implementing/adding AI?**
 
-To write it as a theorem: **C = k x (D x B)ⁿ**
-- *This is vastly oversimplified and doesn't account for a whole ensemble of other, real-world variables.*
-
-k = Number of executions, requests, or deployments (amount of times AI is asked to perform a task).
-
-D = Depth of information/data (precision on patterns).
-
-B = Breadth of information/data (diversity of patterns).
-
-C = Complexity/Cost of information/data (resources required such as data, architecture, and time to train).
-
-n = Degree of scaling nonlinearity.
-- 1 = linear
-- Less than 1 = sublinear/logarithmic
-- Greater than 1 = superlinear/exponential
-- *Not* a constant; variable depending on interdependencies between depth and breadth of data involved.
-- n is almost always greater than 1 to emulate real-world messiness/chance of hallucinations and increases as depth/breadth of data increases.
-
 In plain English, AI (and related systems like LLMs) have the following traits:
 - AI frequency/usage can multiply costs like complexity does and accure *for each user request* in addition to any initial setup costs.
 - Investment into depth or breadth alone is costly, even with simple or complex problems.
 - Investing into *both* depth and breadth, or the ability to handle multiple areas well, is exponentially costly.
 - Data complexity exponentially increases as well when more depth or breadth is introduced.
-- The costs exist in both free and paid AI products consumers may access.
-- Despite any potential benefits, AI, LLMs, and automation in general can quickly force its designers/hosts into negative ROI (return on investment) and operating at a loss.
+- The costs exist in both free and paid AI products consumers access.
+- Despite any potential benefits, AI, LLMs, and automation in general can quickly force its designers/hosts into negative ROI (return on investment) and operate at a loss.
 
-Additionally, these costs aren't anything new or emerging with the rise of GenAI/AGI post-COVID or after 2020-2022. Automative engineering, since at least the 1990s, has exponential complexity as modern cars add more services, systems, and automated features, which means the numbers of interactions between all these new systems and services also increases (Walus, 2022).
-- For any software engineers reading this, it's like dealing with O(n²) and O(2ⁿ) complexity as you're scaling systems.
+As for the *cost* of AI/automation, and who is responsible for owning said cost, that's probably one of three situations:
+1. The user/employee directly incurs a monetary cost.
+2. A technical and/or financial team/department, like IT or FinOps, manages the costs.
+3. The head(s) of the organization manages the costs.
+
+There could be other situations, but those three above seem the most likely in general. Nevertheless, because there is a *cost* someone, or something, needs to take responsibility for that cost or else you'll suffer from undue/unexpected expenses. If it remains unowned/unused, it's a resource to try and delete so it no longer drains monetary resources. If you need an effective, though crude, method to find who needs a resource, disable or remove it and wait until you find the person that complains the loudest.
+
+Additionally, these costs aren't anything new or emerging with the rise of GenAI/AGI post-COVID or after 2020-2022. Automative engineering, since at least the 1990s, has exponential complexity as modern cars add more services, systems, and automated features. This means the numbers of interactions between all these new systems and services also increases inside cars (Walus, 2022).
+- For any software engineers reading this, it's like dealing with at least O(n²) and O(2ⁿ) complexity as you're scaling systems.
 
 I'll emphasize this part only talks about cost and complexity in automation. It doesn't cover whether risk increases with complexity, the breakeven points of complexity with task automation vs manual tasking, the Pareto efficiency of adding more automation features, and many more applications. I believe highlighting underlying costs is important as it may be overshadowed by all the benefits AI could provide.
+
+You could also design your own AI instead of utilizing another AI service another provider has. Even if both you and the provider have the exact same models, parameters, and code, you may not have to pay high costs per use, but you may lack the sheer processing power and quality of life a provider can afford through more resources and technology backing their models.
+- People may not even care if you can make a copy of a service for cheaper too, because it's not *that brand's product.* Name-brand recognition is very powerful.
 
 ### **Potential Solution(s) to AI in Class Settings**
 
@@ -253,6 +248,8 @@ I suppose if you want to try a different twist: you could create an assignment r
 ## **Bibliography**
 
 1. Brooks, Frederick P. (1986). ["No Silver Bullet—Essence and Accident in Software Engineering"](https://www.cs.unc.edu/techreports/86-020.pdf) (PDF). Proceedings of the IFIP Tenth World Computing Conference: 1069–1076.
+
+1. Cherepanov, Anton. (2025, August 26). *First known AI-powered ransomware uncovered by ESET Research.* Welivesecurity.com. [https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/](https://www.welivesecurity.com/en/ransomware/first-known-ai-powered-ransomware-uncovered-eset-research/)
 
 1. Cybersecurity and Infrastructure Security Agency. (2024, September). *Secure our world: Using AI – Tip sheet*. [https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf](https://www.cisa.gov/sites/default/files/2024-09/Secure-Our-World-Using-AI-Tip-Sheet.pdf)
 

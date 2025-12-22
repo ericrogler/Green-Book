@@ -11,7 +11,7 @@ nav_order: 4
 
 For authenticity purposes as needed.
 
-- **Duration:** 2 years
+- **Duration:** 2.5+ years (2022-2025+)
 - **Role:** STEM Teacher (In-Person, NOT Online), with some time as a substitute teacher.
 - **Main School Types:** Secondary and primary education; public & private schools
 

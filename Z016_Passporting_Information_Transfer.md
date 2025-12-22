@@ -11,7 +11,21 @@ nav_order: 26
 
 Sometimes you need to help get a fellow teacher–or substitute teacher–set up in a classroom. You may not have to do it often, but it's better to know how because you may still need to do it.
 
+Just because your passporting and information transfer procedures, especially with lesson plans, are long doesn't necessarily mean they're good. Quantity =/= quality and clear details/procedures are the winners.
+
 ## **Long Answer**
+
+In a position (teaching/instructing) where you need all the help you can get, it's surprisingly hard to get that help. It may be for a multitude of reasons, such as:
+- It took someone else a lot of effort to set up everything they use, so are reluctant to pass it off
+- Someone wants to sell their curriculum or teaching materials
+- They're not willing to work with other people out of habit, pride, or similar disposition
+    - By extension, they may make it *more difficult* for you as well
+- They may not be well prepared, like yourself, so cannot assist you meaningfully even if they want to
+- They are unable or unwilling to serve as a mentor role
+
+The first several items in the list above are straightforward. As for mentorship, many people in general are not cut out to be mentors even if they're in education.
+
+If you get into teaching or instructing, or are currently one, your experiences may vastly differ depending on the environment you operate in. 
 
 I'll split this up into two sections: teacher-to-teacher and teacher-to-substitute.
 

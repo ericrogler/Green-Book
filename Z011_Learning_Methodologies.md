@@ -9,21 +9,29 @@ nav_order: 21
 
 ## **Short Answer**
 
-*Notice: This chapter aims to cover both andragogy and pedagogy at the same time, but without going too into depth.*
+**From Bob Ross:**
+> "We don't make mistakes; we have happy accidents." 
 
-**Andragogy:** Learning, and theories related to teaching, catered towards adult, postgraduate, and professional audiences.
+**Andragogy:** Learning, and theories, related to teaching catered towards adult, postgraduate, and professional audiences.
 - E.g. Professional development and continuing education.
 - From personal experience, I rarely hear this term outside of talking to other adults in education.
 
-**Pedagogy:** Learning, and theories related to teaching, catered towards children, teen, and *sometimes* college undergraduate audiences.
+**Pedagogy:** Learning, and theories, related to teaching catered towards children, teen, and *sometimes* college undergraduate audiences.
 - E.g. Primary and secondary education.
 - Pedagogy is often used in place of andragogy as the umbrella term pedagogy is more commonly known.
 
 In general:
 
 1. Teach students where they are at.
+    - ...unless multiple students cannot perform at "grade level" and/or lack appropriate basic skills, then this isn't practical nor reasonable advice.
 2. Every method can be questioned. Without questioning methods, we cannot improve methods.
 3. Both motivation and intelligence are important to learning. Even if a student is smart, if they don't want to be motivated, then they cannot be motivated.
+4. You should hold back students from moving on if they're not ready to move on.
+    - The social stigma alone may be enough motivation to perform well.
+    - It mitigates the issue down the line where information is read, skips processing in the brain, and goes straight to work with hands.
+    - This *doesn't* mean avoiding throwing them into the fire for learning.
+5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
+6. You could be an amazing teacher, but if the system doesn't support you, then you're fighting an uphill, or even losing, battle the whole way.
 
 Additionally, I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)) (Riener, Willingham, 2010). There are optimal ways to learn topics, but the best way varies from topic to topic and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
 
@@ -49,6 +57,14 @@ There are multiple ways to learn, such as the [Feynman technique](https://fs.blo
 
 Sleep is important. Both students and teachers should not neglect it because it affects learning. If you don't get enough sleep, learning and retention drop.
 
+Sometimes a student might complain that all they ever do is work.
+
+Yes, they're right. That's the science teacher's job, to teach science in science class.
+- Replace science with any other subject and it still holds true.
+
+Learning *is* work. Were every day a free day, students wouldn't get any real learning done. If you're a teacher who's diligent, but other teachers provide too much free time or leeway, you might dislike the other teachers too.
+- Students may even complain if you give a free day too, despite it not being a "work" day, because it's boring. At that point, I'd say resort to more work so they have something *else* to do instead.
+
 ### **A "Secret" for Students**
 
 It's like people finding out why Ajax (the cleaning product) is specifically called *Ajax*. It is stronger than grease, because Ajax (the warrior) was stronger than all of Greece. I usually cannot help but quietly smirk when the realization hits.
@@ -63,7 +79,9 @@ Pre-reading the material is where you enter the shallow part of the pool, test o
 
 It also saves you, the student, from scrambling around in class as much. It actually saves time (ironically) by giving you an idea where to start, which means more time to do the work and a better time handling increased workloads over time. It also helps for discussions and pop quizzes, where reading the material ahead of time makes you more prepared and likely to perform better compared to those without preparation.
 
-It might sound boring because it is work, but it is work you put in now to make the future easier.
+If you consistently cannot prepare in advance, another method is taking notes you'll never reread. It sounds dumb at first, but consider: It forces you to pay at least *some* attention to what's being taught and, if you forget something, you now have a written record to reference in the future.
+
+These methods might sound boring because they are work, but it is work you put in now to make the future easier.
 
 There's also another name for this: *studying.*
 
@@ -177,7 +195,7 @@ The *only* exceptions here are if you're addressing medical concerns or assistin
 
 ### **The Test Wasn't Like The (Homework/Review Sheet/Examples/Etc.)!"**
 
-Sometimes this is a valid complaint, but I find those are the exceptions. It can happen as a result of misalignment and bad teachers testing on material located somewhere on Mars when you need to be back on Earth. It's possible for it to be a legitimate issue, but not *probable*.
+Sometimes this is a valid complaint, but I find those are the exceptions. It can happen as a result of misalignment and bad teachers testing on material located somewhere on Mars when you need to be back on Earth. It's possible to be a legitimate issue, but not *probable*.
 
 Most of the time though, and for... pretty much every subject, you will rarely, if ever, apply learning from situation X in practice to situation X in testing to show understand. It's like the various types of practice I discussed earlier. Yes, the class taught you how to serve the ball in tennis and why serving is done that way, but now you got to show it in a live game where many other things can also happen. 
 
@@ -232,6 +250,25 @@ Though I disapprove of learning *styles,* there are still differences in student
 - Rule vs Example Learning
 
 In short, present materials in ways to optimize learning, not just how students prefer learning.
+
+### "Meet Them Where They're At"
+
+*Alternatively: Teach Students Where They Are At.*
+
+*For additional context, I wrote this particular section on December 2025.*
+
+**You cannot meet students where they're at if they have "no skin in the game" (i.e. incurred risk to them).**
+
+Though "meet them where they're at" sounds like good advice, and generally is what you *should* do, it depends far too heavily on external factors outside your control to be actually good advice. The environment, resources available, the students, other personnel, and far more variables arise in practice. In a real-world scenario, this good advice quickly turns into the worst advice.
+
+Say for example I am managing a workload of 150 students across all classes. Of those 150 students, only about 12 can read, interpret, and reason at the level I *need* them at to properly understand the information in my curricula. The irony is many of these students are still getting good grades when they shouldn't be doing well. 
+
+It's less an issue where students are not smart, but more they go from point A to point B, but the thinking behind *why* they go from point A to point B is gone. You or I could make one slight alteration and cause a panic attack in some students who don't know the "why" and can adapt. They take what they see or hear and typically go straight to work, but the process skips going into the brain and performing the reasoning and critical thinking to *not* mess things up.
+
+I've even seen cases where they only rewrote the instructions as their answers, used the example(s) when explicitly told not to, and turn in assignments like they're "done" but are done completely incorrectly. That's only a few examples too!
+
+I'm genuinely unsure if the students are actually smart, but acting this way because they *know* they cannot fail. I do know many students aren't doing it maliciously on moral grounds, at least, because they're doing what the system rewards. Since this is the case, there needs to be consequences for failures, such as holding them back a grade or forcing a retake of the class.
+- And no, a proper "retake" of the class that normally lasts a semester or year is not a remedial session you can finish in a few days.
 
 ### **What about when student performance is below expectations and/or grade level?**
 
@@ -317,6 +354,8 @@ Don't reward students who don't try. They should know how to do it (or at least 
 ## **Bibliography**
 
 1. Anki. (n.d.). *Anki: Powerful, intelligent flashcards*. [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
+
+2. Bob Ross. (n.d.). AZQuotes.com. Retrieved December 17, 2025, from AZQuotes.com. Web site: [https://www.azquotes.com/quote/346484](https://www.azquotes.com/quote/346484)
 
 2. Brown, P. C., Roediger, H. L., III, & McDaniel, M. A. (2014). *Make it stick: The Science of Successful learning*. The Belknap Press of Harvard University Press. 
 

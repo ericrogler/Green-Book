@@ -9,29 +9,36 @@ nav_order: 6
 
 ## **Short Answer**
 
-Though this chapter talks about management in the context of teaching and instruction, some information can also apply to associates, employees, peers, and more across various industries.
+**God Entity, Futurama (2002)**
+> "When you do things right, people won't be sure you've done anything at all." 
+- Ironically, in practice, sometimes being visible is what gets you noticed and promoted while not being visible may get you in trouble.
 
-**The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** Soft skills, like communicating with people, and hard skills, like technical knowledge, are means you shouldn't neglect to best meet that goal. If you're not sure how to set up a process or workflow, start with the minimum (or simplest) that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when they aren't needed goes against to your goals.
+*Notice: Though this chapter talks about management in the context of teaching and instruction, some information can also apply to associates, employees, peers, and more across various industries.*
 
-**Prepare for the worst, but assume the best of people.** You may also need licensure or certifications to teach specific subjects or do particular tasks legally, such as administering medicine to students.
-- Also, never be alone in a room with two or fewer students without the door open.
+**The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** Soft skills, like communicating with people, and hard skills, like technical knowledge, are means you shouldn't neglect to best meet that goal. If you're not sure how to set up a process or workflow, start with the minimum (or simplest) that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when they aren't needed often goes against your goals.
+
+**Do not ever neglect technical skills, even if you're in a management role now or in the future.** This also applies for managers in multiple industries, like programming and software, and also applies to teachers/instructors. You may be able to manage people well as a teacher, but your curriculum's content suffers if you don't know how to effectively teach.
+
+**Prepare for the worst, but assume the best of people.**
 
 Cooking something at 1200 degrees for 1 hour does *not* produce the same result as cooking something at 300 degrees for 4 hours.
 - I have to say this is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
 
-Lastly, most of your management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good" that's rarely, if ever, going to be the case in practice and you'll still have accountability and autonomy issues.
+Lastly, most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good" that's rarely, if ever, going to be the case in practice and you'll still have accountability and autonomy issues.
 
 ## **Long Answer**
 
-Teaching is either extremely hands-off (many online "courses" avoid interfacing with students almost entirely) or extremely hands-on. It can also be anywhere between those two extremes.
+Teaching is either extremely hands-off (many online "courses" avoid interfacing with students almost entirely) or extremely hands-on. It can also be anywhere between those two extremes, but management exists across the entire spectrum.
 
 Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. Some students may also respect the authority of a teacher and be respectful to other students. Some students will actively undermine the education of their peers, interrupt you when an opportunity arises, or even resort to physical contact.
 
-This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting.
+This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting. You have to manage people.
 
 **You still need to plan for the worst-case scenarios.**
 
-If you can figure out how to handle students at their worst, then you can handle them at every other degree of behavior.
+If you can figure out how to handle students at their worst, then you can handle them at every other degree of behavior. 
+
+If a manager, or someone who manages, consistently encounters the same problem(s) over and over, then that manager is likely the problem.
 
 ### **Is Teaching (and Instruction) Hard?**
 
@@ -49,7 +56,11 @@ In terms of environment, I'll look at the *2024-25 Discipline and Behavior Data 
 - Drugs and alcohol account for 10% of violations.
 - There's on average 2 disciplinary actions per student (132892 DAs vs 64538 students).
 
-By these metrics, I have high confidence you *will* deal with troublemakers during any year of teaching. It's possible one student, or multiple, can cause significant issues every single day of teaching.
+By these metrics, I have high confidence you *will* deal with troublemakers during any year of teaching. It's possible one student, or multiple, can cause significant issues every single day of teaching. 
+
+Additionally, disciplinary actions recorded above do NOT include redirection, warnings, etc. that happened before the action is issued, as well as any time lost during instruction due to behaviors. This can potentially mean at least 2 things requiring further investigation:
+1. Disciplinary actions being down doesn't necessarily correlate with improved behaviors
+2. New systems implemented may affect how disciplinary actions are tracked to show things improved *only at the surface level.*
 
 In terms of the teaching role itself, from what I've seen and experienced in addition to [what I read from RAND](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf) (Doan, Steiner, & Pandey, 2024) and the [School Pulse Panel](https://nces.ed.gov/surveys/spp/results.asp) (2025), I'd probably give you this ordered list in overall difficulty:
 - Special Education
@@ -85,7 +96,7 @@ Teaching is not a role one can easily get into and excel at. This is even with t
 Manage resources.
 - Resources includes people too.
 
-That's the simple, pragmatic answer. What they actually do is handle communication and relationships between people, task delegation, and accomplishing a specific goal or completing a project/work.
+That's the simple, pragmatic answer. What they actually do is handle communication and relationships between people, task delegation, creating schedules, and accomplishing a specific goal or completing a project/work.
 
 Here's examples of what I mean:
 - Finding new projects and work to keep everyone in business and employed
@@ -108,17 +119,21 @@ Here's examples of what I mean:
 
 There's a lot of tasks here. It's counterintuitive to micromanage people because it means hyperfixating on one element at the potential detriment of every other element.
 
-### **Everyday Classroom Management Rules**
+### **Everyday Management Rules**
 
-There are rules you need to follow with every management style:
+There are rules you should follow with every management style:
 
 - **It must be legal for you to do.**
+- Human behavior is surprisingly diverse, which means racing to conclusions may harm more than help.
 - No means no. If you do not allow something, you MUST be willing and able to enforce that. The moment you do not, it becomes a rule that students, adults, and minors know can be broken.
-- Appropriate punishments for appropriate behaviors. A student talking out of turn can be resolved with a warning. That same student actively bullying another cannot be solved the same way and requires escalation.
+- Appropriate punishments for appropriate behaviors. For example, a student talking out of turn can be resolved with a warning. That same student actively bullying another cannot be solved the same way and requires escalation.
 - Ignore any attention-seeking behavior, as not every quip or comment a student makes is worth your time or even a reply.
 - A management style you're comfortable with is a management style you'll enforce and follow more easily.
 - Determine where "the line" is and do not move it unless necessary. Regardless of age, if someone can get away with something, they will try to do it.
 - People listen to the advice of someone who knows what they're talking about more readily than someone who doesn't know what they're talking about. If you lose the perception that you understand what you're talking about, you also lose respect and weaken the ability to teach properly to students (or a group/audience in general).
+- You're the filter and translator for requirements and what needs to be done for direct reports; the people in your team.
+- Clear and decisive action solves issues faster than delaying and festering.
+- When handling underperformers, it helps the rest of the team, class, etc. to address the issue(s) sooner rather than later.
 
 **Many rules that work with one group of students/people may not translate over to another group of students/people.** Teachers across grades and school types operate in different teaching, management, development, and accommodation contexts, which means adapting your rules to fit these contexts is necessary.
 - Example 1: A Kindergarten teacher and a 12th grade teacher may share some classroom management rules and procedures, but how they're best executed, written, and taught vary significantly enough it's like handling two completely different groups.
@@ -253,6 +268,9 @@ For most meetings, you'll want an agenda of what to cover. This could be an essa
 The agenda is like a compass pointing you towards the direction of topics you need to focus on and communicate with everyone present. It's goal is to discourage bringing up unncessary things in the moment or sidetracking and wasting time. 
 
 What this means is hosting a meeting without an agenda is a recipe for wasted time, effort, and money. Don't do it. Send an email instead like a normal person.
+- There is one notable example that breaks this rule: a dial-in/coffee meeting or "happy hour."
+    - Manager sets up available times, in advance, employees can come in to vent, discuss ideas, or talk casually.
+    - They MUST be optional to attend.
 
 ### **Positive and Negative Student Behaviors**
 
@@ -270,6 +288,7 @@ Negative behaviors are any behaviors that put you, the classroom, or other stude
     - All it takes is a few seconds for control to be lost, your authority diminished, and the rest of the class/audience to see an opportunity to make it worse.
     - Best when, you know with certainty, something goes against the rules of the school/classroom, etc.
 2. Let it play out for a bit before deciding whether to ignore or act.
+    - Mistakes are likely in the first 5-10 seconds; a delay may put out a fire and not add to it. 
     - While this carries some risk and can escalate a situation, it can also provide context to the negative behavior, let you collect evidence, and inform how you should handle it in the future.
 3. Make it boring.
     - Usually only works for memes or trends going amongst students at the time.
@@ -346,6 +365,8 @@ Automation–and AI (Artificial Intelligence) by extension–is not a one-size-f
 2. Colorado Department of Education. (2025). *2024-25 Discipline and Behavior Data Release Summary*. [https://www.cde.state.co.us/cdereval/disciplinedatarelease_2024-2025_summary](https://www.cde.state.co.us/cdereval/disciplinedatarelease_2024-2025_summary)
 
 3. Doan, S., Steiner, E., & Pandey, R. (2024, June 18). *Teacher Well-Being and Intentions to Leave in 2024*. [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA1100/RRA1108-12/RAND_RRA1108-12.pdf)
+
+2. “Futurama” Godfellas (TV Episode 2002) - Quotes - IMDb. (2025). IMDb. [https://www.imdb.com/title/tt0756880/quotes/](https://www.imdb.com/title/tt0756880/quotes/)
 
 3. Marshall, T. F. (1998). *Restorative Justice: An Overview | Office of Justice Programs.* www.ojp.gov. [https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview](https://www.ojp.gov/ncjrs/virtual-library/abstracts/restorative-justice-overview)
 

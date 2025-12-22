@@ -9,11 +9,9 @@ nav_order: 13
 
 ## **Short Answer**
 
-Being the "best" is simply a title. Nothing more.
+Being the "best" is simply a title. Nothing more. What is the best one day can no longer be the best the next day.
 
-Two things make a "good" teacher:
-1. Being better than other teachers
-2. "When you do things right, people won't be sure you've done anything at all." (Futurama, 2002)
+Being "good" is, pragmatically speaking, being better than others.
 
 Metrics depend on goals and should be consistent and objective. Test scores are one type of metric to base performance on. Be wary of metrics enabling perverse incentives, or incentives encouraging undesireable, and/or unexpected, results (see cobra effect below). If a metric has no influence on answering someone's question or drive a real decision, it's probably a useless metric.
 
@@ -35,6 +33,10 @@ When money is tied to metrics of success, people do things they normally wouldn'
 **Metrics are like compasses/snapshots indicating failure/success in a system rather than evaluating and defining a distinct problem.** You use metrics to inform decisions a human should make, not to replace decisions humans make. A "good" metric is one that's meaningful, timely (or doesn't take long to measure), measureable, and understandable. If it lacks one of these aspects, it may not be a good metric to inform decisions.
 - **Metrics are *diagnostic*, not prescriptive.**
 - **Correlation does not imply causation.**
+
+As an opinion: if you implement ANY new specialized learning program (which is explicitly NOT designed for everyone) for an educational facility, but force *every* student there to go into it, you're just replicating General Education again with additional steps and lost funds.
+- In general, a program that sells itself as a good fit "for everyone" is a program you should be skeptical of.
+- Regardless of benefits or drawbacks, you should be wary of educational programs and what their goals are (hint: it's almost always money).
 
 ## **Long Answer**
 
@@ -85,7 +87,7 @@ One area of quantitative data comes from metrics for student success. Some quant
 - Test Scores (State, ACT, SAT, IB, AP, etc.)
 - Attendance & Participation
 
-Generally speaking, a student metric deals with performance, growth, and development. You may also track metrics like GPA and test scores through other, related metrics such as proficiency rates. This is when students are bucketed based on performance and you want to showcase a high  percentage scoring at or above, for example, a "proficient" level.
+Generally speaking, a metric deals with performance, growth, and/or development. You may also track metrics like GPA and test scores through other, related metrics such as proficiency rates. This is when students are bucketed based on performance and you want to showcase a high  percentage scoring at or above, for example, a "proficient" level.
 
 Most analysis of results should be treated as a snapshot rather than a valid performance evaluation. This may be because only a single metric is focused at a time, there are insufficient growth models, or multiple metrics aren't used in conjunction for analysis. For example, if using gap analysis, or even analysis in general, to analyze education results, it may have critical flaws for three reasons:
 1. Typical experiments test the same group, or same subject, before and after an experiment to isolate effects and ensure only one variable is changed at a time. School environments rarely, if ever, allow for this controlled testing.
@@ -103,6 +105,19 @@ There's also metrics not related just to students, but also staff members (and s
 - Counselor-to-Student Ratio
 
 There are a whole host of metrics, but there's a few I want to call out because I usually see them as "objectives" rather than performance indicators.
+
+### **What If Metrics Mean Different Things?**
+
+If a metric means something different for people, in the same organization, you risk running communication errors down the line, which potentially means lower performance and lost revenue.
+
+If you're in a position to do it *and maintain it* (because things always change over time), start with a single document or wiki page outlining what the metrics are, what each metric means, and how each metric is measured. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Afterwards, force every report and dashboard across the *entire* organization to adhere to that "common language" you established.
+- The same thinking applies to other types of documents too, like a project charter template, where you define a standard outline for people to adhere to.
+
+This method may receive pushback or disagreement, because many people means many opinions, and may take a long time to set up or get implemented correctly. It does, however, mitigate the issue where everyone uses the same metric, but tries to measure a different thing with that metric.
+
+You could also implement a ticket system, which forces people to write down what they actually want or need before requesting or implementing a change for it. It's like doing a double take to confirm "do I actually need to change" before you go in and change it guns blazing.
+- Also ensure the ticket system has clear intake standards, like mandatory fields to fill out and write text in, to mitigate communication issues.
+- No ticket = no work
 
 ### **Diagnostics with Metrics**
 
@@ -132,7 +147,7 @@ As for why it's happening, you'll need to investigate, collect evidence, and loo
 - Are there other logistical barriers present with parents, staff, and other peers?
 - Is there a change in demographics?
 
-Once you start identifying which issues exist, and if they're *valid* issues that exist, then you can gather data for them, then disaggregate the data to determine how universal or specific a problem is.
+Once you start identifying which issues exist, and if they're *valid* issues (veracity) that exist, then you can gather data for them, then disaggregate the data to determine how universal or specific a problem is.
 
 After data is collected and process, then you can effective design whatever solution is needed to solve the problem(s). Keep in mind three things, however:
 - A seemingly good solution may actually generate more problems than before. 
@@ -144,7 +159,7 @@ After data is collected and process, then you can effective design whatever solu
 There's an example I like to talk about where a better result occurs in practice despite established metrics saying it's worse: white text on orange background in a button. 
 - There's even [a dedicated case study on this topic](https://www.bounteous.com/insights/2019/03/22/orange-you-accessible-mini-case-study-color-ratio/) from Ericka O'Connor (2019).
 
-Designs need to consider similar accessibility laws. Instead of ESSA and LRE, however, it's ADA, Section 508, and WCAG (Web Content Accessibility Guidelines). Someone may still risk legal actions if they aren't designing with consideration for these rules.
+Designs need to consider similar accessibility laws. Instead of ESSA and LRE, however, it's ADA, Section 508, and WCAG (Web Content Accessibility Guidelines). Someone may risk legal actions if they aren't designing with consideration for these rules.
 
 There were two main levels of WCAG compliance, AA and AAA, when the case study was written in 2019. Designs should meet a minimum contrast ratio of at least AA, or 4.5 for small text and 3 for large text, but a higher "value" is generally better. For reference, contrast ratio is how well text of one color appears against a background of another color.
 
@@ -207,7 +222,7 @@ For anyone familiar with MMORPGS, video games, or other forms of media, you may 
 - Most Played Game
 
 If this is a success metric, you may perform mass adoption strategies, or reaching the maximum audience available to you, to showcase improvement and success. Enrollment, as a metric, generally only cares about number of students *in* a given class/school. It does not care about the performance of those students or what those students do while inside of the school.
-- Video game example: A game can sell 5 million copies, but if 4 million players quit before completing the game, it's not an accurate indication of success.
+- Video game example: A game can sell 5 million copies, but if 4 million players quit before completing the game, it may indicate only financial success and not overall success.
 
 Though generally you want high enrollment, you may risk pursuing high enrollment at the cost of other metrics such as:
 - Engagement
@@ -250,6 +265,39 @@ To avoid delving into politics too much, the most practical consequence of not m
 
 These acts are responsible for establishing metrics as a target to meet, which means the education system changes, for better or for worse, towards a metrics-based system. You may also see more staff and more bureaucracy, at the administrative or support level, to hold people responsible for meeting these metrics. You may also see an increase in perverse incentives or initiatives which, despite good intentions, usually backfire.
 
+### **Misalignment Case: IB vs Implementation**
+
+International Baccalaureate (IB) is the example I'll use here. This isn't a positive or negative review of said program; only a review of their mission statement vs metrics.
+
+Let's say the goal of IB is, paraphrased, [learning and developing skills for a student's future](https://www.ibo.org/about-the-ib/) (IBO, n.d.). That could imply many things, such as learning through a trial by fire (i.e. an opportunity for educational rigor) or designing specifically for students with higher abilities and self-motivation, but *the goal is still learning.*
+
+The metrics that administration, or other people responsible for implementing programs like IB into an institution, may care about grades, graduation rates, student retention rates, and test scores.
+
+This is a case of misaligned *goals*, not misaligned *metrics*. It happens a lot even outside this example. Both sides could even be utilizing the same metrics, but placing different weights on those metrics.
+
+One group wants to ensure high-quality learning goals are met while the other group wants to ensure business goals are met. One might attempt a compromise and "meet it halfway" but that is not a great solution and can negatively affect the goals of *both* sides. Programs like these may also be implemented to create magnet schools or attempt to bring up low-scoring schools to better meet metrics and stay afloat.
+
+The program offered by one group may also not match the existing system it's trying to fit into. If that occurs, then you're looking at extra work, cumbersome overlapping, and excessive overhead on the part of staff, teachers, administration, students, etc. Though the system may be excellent or great for whomever it's catered to, it requires buy-in and compatibility with the current system(s) to mitigate undue issues down the line.
+
+The easiest to state, but hardest to do, solution is simple: You need full buy-in or no buy-in (i.e. appropriate, QUALITY support/resources and student desire to enter those programs) for initiatives like these, or else you're setting up the entire institution for failure. A program like this should also be separate, but together, within the institution, like how multiple majors with vastly different curriculums are all in the same campus area at universities.
+- To put it like I'm in a negotiation: "Yes, we'll add this program on the condition we get resource A, B, and C before this stated time. If this is not feasible, we will not do it."
+
+### **Open Enrollment**
+
+Before continuing, consider the following context: generally speaking, a parent wants what is best for their children.
+
+Let's say you're looking around various options. You want the best option you're able to get, even if it means going to desperate lengths or alternative funding to acquire it. There's even reviews for all options confirming their value, often through metrics including, but not limited to, the ones discussed here already.
+
+Adding in the context from earlier, there's no logical leap to make and it makes perfect sense that students will go to the "best" school they can get into.
+
+Open enrollment doesn't generate bad schools; it merely exposes what school is considered "bad" based on several metrics, then offers options to go into other schools which may perform better. If poor performance schools lose enough students to better schools, then they may close down. That action, however, lowers the amount of schools in the pool students *can* go to, which increases the risk of overcrowding and negates whatever benefits open enrollment wanted to achieve.
+
+Open enrollment shares parallels with the effects on economic growth as well. Pooling resources, in this case students, into a smaller group of well-off schools and taking away from other schools ironically increases inequality further. If inequality keeps increasing, the amount of resources left over for schools suffering from a loss of students and a lack of resources, despite their metric performance, eliminates the capacity for growth and permits less students to get into education.
+- Though not directly related, an article from Josh Bivens talks more about economic inequality through "secular stagnation" (2017) and may establish more parallels.
+
+Though open enrollment permits mobility for many groups, system-wide issues affecting that same policy stop it from generating any real gains.
+- For video-game savvy readers, it's like developers opening access to a popular MMORPG server without adding hardware or capacity to support the sudden influx of players and creating "dead" servers as a byproduct.
+
 ### **What about if the entire class fails?**
 
 Well, that depends. Which one of the two probable scenarios is it below?
@@ -266,15 +314,17 @@ Overall, it's an application of the classic saying: bring a horse to water, but 
 
 ## **Bibliography**
 
+1. Bivens, J. (2017, December 12). *Inequality is slowing US economic growth: Faster wage growth for low- and middle-wage workers is the solution.* Economic Policy Institute. [https://www.epi.org/publication/secular-stagnation/](https://www.epi.org/publication/secular-stagnation/)
+
 1. Campbell, Donald T (1979). *Assessing the impact of planned social change.* Evaluation and Program Planning. 2 (1): 67–90. [doi:10.1016/0149-7189(79)90048-X](https://doi.org/10.1016%2F0149-7189%2879%2990048-X).
 
 1. Fields, E. (2024, November 15). *How do you measure student success?* Enrollify. [https://www.enrollify.org/blog/how-do-you-measure-student-success](https://www.enrollify.org/blog/how-do-you-measure-student-success)
 
-2. “Futurama” Godfellas (TV Episode 2002) - Quotes - IMDb. (2025). IMDb. [https://www.imdb.com/title/tt0756880/quotes/](https://www.imdb.com/title/tt0756880/quotes/)
-
 3. Goodhart, C. (1975). *Problems of Monetary Management: The UK Experience.* Papers in Monetary Economics. Papers in monetary economics 1975; 1; 1. - [Sydney]. - 1975, p. 1-20. Vol. 1. Sydney: Reserve Bank of Australia.
 
 1. Hirschfeld Davis, J. (2015, December 11). President Obama Signs Into Law a Rewrite of No Child Left Behind. The New York Times. [https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html](https://www.nytimes.com/2015/12/11/us/politics/president-obama-signs-into-law-a-rewrite-of-no-child-left-behind.html)
+
+2. International Baccalaureate Organization. (n.d.). *IBO*. [https://www.ibo.org/about-the-ib/](https://www.ibo.org/about-the-ib/). Accessed on December 17, 2025.
 
 1. Klein, M., Sosu, E. M., & Dare, S. (2020). Mapping inequalities in school attendance: The relationship between dimensions of socioeconomic status and forms of school absence. Children and Youth Services Review, 118(118), 105432. [https://doi.org/10.1016/j.childyouth.2020.105432](https://doi.org/10.1016/j.childyouth.2020.105432)
     - Alt Link: [https://www.sciencedirect.com/science/article/pii/S0190740920303698](https://www.sciencedirect.com/science/article/pii/S0190740920303698)

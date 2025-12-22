@@ -9,7 +9,8 @@ nav_order: 9
 
 ## **Short Answer**
 
-Management, at scale, shares some problems and logic with video games and real-time strategies: limited resources, simultaneous operations, and balancing short-term tactics with long-term strategy to meet goals.
+Management, at scale, shares some problems and logic with video games and real-time strategies: limited resources, simultaneous operations, and balancing short-term tactics with long-term strategy to meet goals. The manager who doesn't know the technical details of the work, or at least the high-level parts of the work, they're overseeing will only go so far compared to the manager who *does* understand the technical details.
+- In short: a technical manager is almost always better than a non-technical manager
 
 Macro (Macromanagement): Strategy, such as resource allocation, system optimizations, workflows, and scaling infrastructure to support operations.
 

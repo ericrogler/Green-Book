@@ -14,6 +14,9 @@ Co-teaching and assistant teaching doesn't typically work as well as people thin
 
 Assistant teachers support you as if they were a second teacher in the area. They do not replace you, the primary teacher. 
 
+The easiest way to have assistant teachers, and substitute teachers, like you as a teacher is having thorough lesson plans and well-behaved students for instruction instead of baby-sitting.
+- Sadly, reality has ways to make this not the ideal situation and the most difficult thing to do.
+
 Initially plan as if any assistant teachers may be absent or unable to assist effectively.
 
 ## **Long Answer**
@@ -78,6 +81,18 @@ There are also times when an assistant teacher can make things *worse* for a cla
 - Overstepping explicitly defined boundaries.
 
 Then this may be overstepping. If the assistant teacher(s) overstep or cause issues that are not your fault, meet with them, document the incident(s), and escalate if needed.
+
+### **When Assistant Teacher(s) Are More Experienced**
+
+Sometimes the "assistant" teacher has more professional experience in the workplace compared to the primary teacher, despite the difference in positions they hold and who's name is likely on the lawsuit (only the primary teacher's).
+
+In an instruction setting, you typically want students to hear one voice providing instruction. There can be people who help transmit or interpret instruction, but only one person is the head chef in the kitchen, not multiple.
+
+There's two things you should do nicely, assuming you're the primary teacher in this case:
+1. Assert your role.
+2. Ensure they know they're not supposed to give directions that undermine classroom management.
+
+When concerns arise, you're better off sorting them out in a one-on-one conversation rather than exploding in public over it to show you *did* communicate expectations. If issues still continue, and this is in a setting like a school or professional workplace, then you should bring in administration or other higher-level staff up the chain to resolve issues.
 
 ### **Alternative Teaching License**
 

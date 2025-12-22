@@ -9,11 +9,17 @@ nav_order: 20
 
 ## **Short Answer**
 
+**Despite the accommodations you provide (or have to meet), there are times you'll have to accept you cannot meet the needs of every student.**
+
+Differentiation and inclusion works *when there's resources available for it,* such as time, support, and staff. When there's not enough resources, it's harmful to the learning experience. Just like how you cannot expect even top-tier management to differentiate or include perfectly for every direct report under them, you cannot reasonably expect teachers to provide sufficient differentiation and inclusion to *every* student under their care.
+- E.g. "Inclusion at all costs" policies negatively impact the experience for everyone involved.
+
 Accommodations are meant to help students perform like their peers, NOT provide an advantage over their peers. 
 - We should support student learning and provide accommodations if it's reasonable.
 
 Not all accommodations are feasible. Even if accommodations are feasible, if they are unreasonable, unrealistic, and/or remove accountability, they may cause harm to students instead.
 - A class being "tough" shouldn't be a reason to request an accommodation for it.
+    - Opinion: students should not be permitted in "tough" classes without proof of competency and/or recommendation in the first place!
 - Getting an accommodation is not the equivalent of bringing a student suddenly up to grade level with peers; all it really does is help their efforts in learning.
 
 You also may not openly disclose accommodations for any students, as they're typically under strict, legal protections and carry swift, significant consequences for breaking those protections. 

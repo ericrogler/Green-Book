@@ -9,6 +9,10 @@ nav_order: 31
 
 ## **Short Answer**
 
+**From Unknown**
+> “Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.”
+- *Finding the source for this quotation is a Herculean task, so if someone does know the original person, let me know.*
+
 Everyone is a designer. Not everyone is a *good* designer.
 
 Even if you can design well, you'll still deal with people management issues, managing upwards, and designing communication.
@@ -21,17 +25,36 @@ A complex design is always worse than a simple design if they perform at the sam
 
 Don't fall in love with your work, because there's a high chance you will change it later. You're usually better off quickly pushing designs, testing (one at a time to save sanity), and iterating than remaining stuck on one perfect design. This means, when in doubt, stop overthinking and design something that just works and don't touch it again unless absolutely necessary. Sometimes the attempt to make it better actually makes it worse and sometimes a new piece of technology isn't the correct answer. 
 
+For technical designs, like charts and graphs, you could save time and solve most of your business questions by asking if someone needs to import data to Excel (or another similar spreadsheet software).
+
 No single breakthrough makes the work easier, as difficulty is often found in the *problem* instead of the *tools.*
 
-Lastly, despite how well something is designed, human error and accidents will occur.
+Lastly, despite how well something is designed, human error and accidents will occur and you'll always have to make tradeoffs.
 
 ## **Long Answer**
 
-Considering all the other topics and themes in the book, some readers think I'm pulling a Kansas City Shuffle on them. To that I say: you're right, but also wrong. 
+There are two things to cover in this chapter: design patterns and design systems. The latter is explained far more in-depth later here whereas the former can be summarized pretty neatly with an example.
 
-I've lived in Kansas City and can tell you about gas station barbecue, amongst other things, no problem. I'll also tell you I'm not talking about Kansas City, MO, but instead Kansas City, KS.
+Design patterns are reusable solutions to commonly occuring problems with specific contexts.
 
-*Moving on!*
+...You know. Math formulae. Algorithms. The fun stuff.
+
+To put it in an example: You want to make a cake.
+
+Your problem is you need to make a cake. 
+
+You have a recipe that *could* solve this problem; a method you can use to make a cake and many more cakes like it down the line. You recognize and recall that this recipe can make this cake, or solve the problem, and then reason through the steps to get from problem to solution.
+
+The recipe, or design pattern alone, will get you most of the way through. 
+
+*Most* of the way.
+
+What may stop you are additional variables, such as elevation affecting baking time or substituting ingredients. They may be a non-issue at best or a show-stopper (the bad kind) at worst. If you understand the pattern well enough and its underlaying mechanics, or *why* a recipe uses the ingredients it says, then you can also recognize where issues arise and what/how to adjust the recipe to still bake your cake.
+
+That one recipe can make that one cake. Even though you may reuse some ingredients, you may need a different recipe to make a different kind of cake or even another dessert altogether. Despite this, you still pull from recipes you know (the design patterns) to help solve problems.
+
+If you're familiar with software, you may recognize the terms DSA, data structures, system design, and algorithms. Concepts from there are pretty close to what I'm getting at here!
+- *And another reason you should learn math, like I said in earlier chapters!*
 
 ### **The Weird Complexity (and Simplicity) of Design Systems**
 
@@ -91,6 +114,43 @@ Think of design systems as curricula. Let me draw some parallels they share:
 - If you want to make good designs, you have to start designing.
 - Learn not to fall in love with your work, because change is likely and sometimes forced.
 
+### **Environmental Constraints**
+
+There's two other constraints to design systems.
+
+The first one is you may have to design something that accommodates *another* design. You may design a machine that looks amazing and does a great many things... but there's a catch. You have to use a specific set of screws, fasteners, and more, which are strictly defined and standardized to the point custom versions of these parts are extremely expensive. The environment may also restrict *how* you can design something, which is another cost.
+
+A more practical example in 2025 may be smartphone applications. In the links above, there were various examples of design systems. If you were to make your own application on their software/hardware, you also have to obey the rules of their design systems. You may have to design menus a certain way, have animations function at specific timings, and have interactions be consistent with how the phone is normally utilized. That's only a few examples out of countless many, as compliance ensures your product functions as intended in the environment it is presented and utilized in.
+
+Another environmental constraint I've experienced is when you need to do "field modifications." This may be issues with how a product looks on paper vs real life, it could be issues between professions like architects and engineers or designers and developers, and engineers and machinists, or just "the plan didn't cover this, what do we do?"
+
+In cases like these, you may have to make an educated guess based on what is feasible and what is allowed. One example may be you received 2x6 planks when you need 2x4 planks, but you know you have a table saw around to cut down a 2x6 into a 2x4. Another example may be you need a tool or part to complete something, so you decide to peruse the environment and subsist on a potentially questionable, but surprisingly effective, "fix" to solve the problem at hand.
+
+The general lesson is this: you can do a lot of things on paper, but not as many things in practice. When in doubt, try to create *practical* prototypes to ensure the theory is as close to practice/real-life as possible.
+
+### **The Penthouse Software "Suite"**
+
+Chances are you have purchased a product made by a particular company.
+
+There's also a chance that same company has products compatible with what you currently have, but not compatible with similar products made by a different company.
+
+If you're wondering why they aren't cross-compatible, it's because they want you, the consumer, to buy *their* products and not their competitor's products. Why should I let you buy 1 of my products and 1 of another company's products, when I can get you to buy *2* of my products so I can earn more income?
+- *The answer is it also costs money, but I'll pretend I didn't answer it here.*
+
+This can occur in software, hardware, a custom bed for man's best friend, the cardboard box, a stack of paper. You name it.
+
+A company can do a lot of things to get you to buy their products: 
+1. They can make one product exceptionally well you'll want for a long time. 
+2. They can make one well-made product to get you into the door, then offer other items to keep your interest over time. 
+3. They could offer a product which functions well, but also make a separate service tied to that specific product. 
+4. They can also make a large variety of products to try and suit many needs so they become your one-stop-shop for goods.
+
+A "suite" as the title implies mainly concerns software and items 2 and 3 in the list above. It's a set of software where each "software" in the set forms a "suite." You could purchase parts of a suite or the full suite, but you could be forced to buy the whole suite.
+
+At the end of the day, a suite is an anchor to get you to use and purchase the companies products. The setup of a suite also makes it so as long as you really like at least one or more products in said suite, you might pay for a bundled price despite not utilizing part of a suite.
+
+It's like a penthouse suite in real life. It comes with a lot of features you may or may not use during your stay, but you pay the price for the *opportunity* to have all these features bundled up nicely for you in case you *do* want to use them.
+
 ### **What about EdTech?**
 
 Many rules and concepts you find in design systems, you'll find in EdTech and other digital and physical mediums. Some tools are well-designed and others are not. Quality typically improves over time, but gaps and deficiencies persist between iterations of new products.
@@ -148,8 +208,6 @@ There's some questions you should ask beforehand.
 4. What benefits does it provide over another option?
 
 If you don't know who is going to utilize what you provide, you risk them not using it, refunding it, or disliking the provider; you. If you cannot figure out what problem it's trying to solve, it's like using a band-aid for a non-existent wound and may not be that useful. If it cannot be used alongside your other products, or get buy-in from people to adopt it, it doesn't matter how good the solution is if it cannot be used. Lastly, if it doesn't provide benefits other another option, then why should someone use what you make?
-
-
 
 ### **I don't have much design experience though!**
 

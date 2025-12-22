@@ -9,17 +9,21 @@ nav_order: 23
 
 ## **Short Answer**
 
-Teaching also means working with students, parents, and administrators. If you cannot do this well, you'll struggle in teaching. If you treat your peers well, you'll (likely) get treated well in turn. 
-
-There's also times peers will treat you terribly when you did nothing wrong. You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
+Teaching also means working with students, parents, and administrators. If you cannot do this well, you'll struggle in teaching. If you treat your peers well, you'll (likely) get treated well in turn. There's also times peers will treat you terribly when you did nothing wrong. You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
 - To put it plainly, teachers may be treated like punching bags by parents and other adults as they're the visible "frontline" of education people *can* reach.
 
-Diplomacy is the strategy and tactic to master relationships with others.
+While the above is true, that doesn't absolve teachers/instructor, or any particular person/group, from *also* being the problem. Every person is capable of causing issues, but rarely is it every person causing issues simultaneously.
 
-Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people.
+Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, however, is when that working relationship immediately ends and it's time to bring in the attorney.
 
-Also, the amount of information you can display about students (the *legally* allowed information, obviously) is staggering. In most schools, at least in the United States, interested parties like parents and adult students have 24/7 access to grades, progress reports, schedules, and more, but will still complain about not getting enough notice.
+Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. 
+- E.g. A status quo (existing environment) may persist because people still benefit from it.
+
+The amount of information you can display about students (the *legally* allowed information, obviously) is staggering. In most schools, at least in the United States, interested parties like parents and adult students have 24/7 access to grades, progress reports, schedules, and more, but will still complain about not getting enough notice and a lack of communication.
 - The amount of time a teacher spends per day with a student is not a reasonable fix, despite people thinking it is. That's not the teacher's issue at that point.
+
+Sometimes convincing your boss (or other authority figure) is as easy as having the problem(s) happen to them too or giving them front row seats to the chaos.
+- Key word: *Sometimes.*
 
 ## **Long Answer**
 
@@ -72,6 +76,8 @@ Overally, your best bet is becoming a more effective teacher, improving your cur
 
 ### **Parents & Adult Students**
 
+I think of parents like apple trees. It was true while I was an active teacher and still true today.
+
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll side with parents to appease complaints or keep the peace. It depends on the administrator and it's less something you can easily change.
 
 The goal of most parents is opportunities, success, safety, and learning for their children. A parent's logic is not the same as normal logic; what seems rational to parents may not seem rational to non-parents. To achieve this goal, parents should work with, not against, teachers and educational staff.
@@ -97,6 +103,8 @@ If I were to describe some ways parents can negatively affect their children's v
 - Maintaining negative views about education and particular subjects, like math
 - Always, and/or immediately, fixing any uncomfortable situation or getting rid of obstacles
 - Not reading to kids or at least encouraging kids to read
+
+There's also the parent(s) who claim there's nothing they can do after trying everything. More often than not, it comes from parents where their children still have their phones, drive themselves to school, can freely spend money, have access to video games, etc. In other words, they don't enact punishments which affect what the child, your student, values until behavior is fixed.
 
 Without parents and their children, school enrollment drops, funding soon follows, and schools cannot operate effectively. The power of speaking with their wallet is far-reaching. Parents may also make complaints and reviews out of ignorance or without consideration to the resources and constraints of educational systems. Though they are complaints, they still lead to decisions which, for better *or* worse, affect education as a whole.
 
@@ -125,9 +133,11 @@ Lastly, if you're planning events for teachers where they receive something or g
 
 That's where the comparison to clients/customers stop with them. After that, they're considered children unless they're 18 years old or older.
 
-There are two consistent truths I have found out with any students I oversaw in classes.
+There are two consistent truths I observed with students in classes.
 1. The best students (in behavior, at least) have parents who don't enable them or baby them.
 2. Students lie all the time.
+
+If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. That type of comment is typically a red flag. If a student were truly smart or benevolent, they'd also be smart enough to know not to cause behavioral issues. I've also seen cases where smart people are extremely good at manipulation of staff, peers, etc. to get what they want as well.
 
 This category mainly applies for students still considered minors. The biggest thing to note is minors don't follow the (exact) same rules as adults when it comes to learning. Sometimes, younger students genuinely do not know any better because they haven't been *taught* any better; you're often working with a (mostly) blank canvas.
 
@@ -187,7 +197,7 @@ How do you know when something is important? I have some indicators:
 6. It's *probably* not sent as an email/text message.
 7. It's a life-threatening and/or medical emergency.
 
-Your first year of working, you're likely not going to "know" if something is important, so go through the process of responding as usual and figure out what things are actually important. Even in my first year of teaching, I didn't "figure it out" until at least several months in. I don't expect you to be perfect from day one. 
+Your first year of teaching/instruction, you're likely not going to "know" if something is important, so go through the process of responding as usual and figure out what things are actually important. Even in my first year of teaching, I didn't "figure it out" until at least several months in. I don't expect you to be perfect from day one. 
 
 When you develop an intuition for it, you'll learn to better protect your time and what to prioritize.
 

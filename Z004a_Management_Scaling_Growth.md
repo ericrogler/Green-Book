@@ -158,6 +158,24 @@ Scaling beyond this breakpoint seems like repeating the same strategies at large
 - Establish a steady ratio of managers:direct reports for each management layer
 - Formalizing communications across layers
 
+### **Taking Time Off**
+
+A manager has many freedoms.
+
+Taking time off whenever they want, however, is not typically included. At least not in the way many may think.
+
+At a high enough leadership position, or when you're the owner/president of an organization, you're now always on-call. You *could* take time off like a typical employee, but you may only manage 2-3 weeks because chaos ensues from absent leadership (and not having someone around to pay people!).
+
+This also applies to finding coverage for roles. A manager may have to cover deficiencies for roles they cannot sufficiently delegate out or hire to fill. They may also have to take the brunt of coverage during times multiple employees need to take time off as well.
+
+Does leadership have the same 24 hours a day like people do? Yes.
+
+Does leadership have to spend it the same way their employees do? Rarely, if ever. Some leadership may work a lot of hours compared to a 9-5 or 40 hour per week employees doing every single job in the organization. Some leadership may do significantly less "physical" work and instead go through multiple meetings, presentations, emails, and solving people's issues instead of their own issues.
+
+As people "climb up the ladder;" they tend to spend less time on production/labor tasks and more time in managing. That's a trait consistent across multiple roles and companies, where you "work" less, but your brain works harder. Some days could be 2 hours of smooth sailing and other days 12+ hours of putting out (almost) literal fires. This is further exacerbated by how a high level leadership mistake can have vastly greater consequences than a low level employee mistake.
+
+This isn't a defense of executive pay disparity for people near the top vs the bottom. Some leadership roles are in a position where they *can* influence their wealth, whereas the vast majority of people *cannot* influence their wealth as easily. I'm not fully equipped to discuss or debate beyond this, however, but history is consistent on giving out more wealth to people higher on the ladder compared to people on the bottom.
+
 ### **The Bureaucratic Spiral**
 
 As you scale up organizations, or introduce new initiatives, you should be *extremely* careful about corporatization.

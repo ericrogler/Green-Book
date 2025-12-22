@@ -13,7 +13,11 @@ WIP
 
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
 
+To encourage people to care about your research, analysis, etc. you must ensure you're addressing the questions they need answered. This typically means a clear question with actionable items involved and may involve inquiring what information needs to be found and what information is used for decision.
+
 Broken record reminder: you'll still want advanced knowledge precisely to know when an advanced method is not the best course of action and to know how to manipulate advanced methods to better suit your needs.
+
+Statistical Significance does not imply Practical Significance.
 
 ## **Long Answer**
 
@@ -30,9 +34,9 @@ I will cater this chapter towards readers of lower math levels, but I'll stress 
 ### **Data Analysis Primer**
 
 **There's three "laws" of data:**
-1. Data is objective. Interpretation is subjective.
+1. Data are objective. Interpretation is subjective.
 2. You can tell whatever story you want with data, if you know how to, for both good and evil.
-3. Numbers/Data without context are useless.
+3. Numbers/data without context are useless.
 
 A lot of analysis isn't really designing the fancy dashboard or displaying results for clients. That's still an important part though because an interface which looks good also affects the perception of it. It still must answer a specific question, or set of questions, someone has when looking through it.
 

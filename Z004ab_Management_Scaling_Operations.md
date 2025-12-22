@@ -22,6 +22,9 @@ In general, you want to ensure standard procedures and rules for your class (i.e
 
 After procedures are established and everyone knows what should be done in their given position, you focus on optimizing communications to ensure operations proceed effectively, efficiently, and without issues. The difficulty of communicating exponentially skyrockets as more networks to communicate on and the number of people to communicate with increase.
 
+As for emergencies, you can "wind the clock" back for all but the most serious emergencies. In layman terms, that means take a few seconds to emotional regulate, calmly assess the situation, consider available actions, then act. Applies to many cases and not just aviation.
+- Delaying a reaction is a skill, afterall.
+
 **The closer leadership is to consequences of actions, the faster their response to address it.**
 - If they suffer consequences, they resolve it quickly.
 - If they do not suffer consequences, they resolve it slowly or ignore it.
@@ -36,12 +39,16 @@ This chapter covers operational management and provides some context for what le
 
 According to the U.S. Department of Defense on Army organization, there are similar breakpoints/upper limits like the previous chapter. A squad goes up to about 16 soldiers, a platoon about 44 soldiers, a company about 120-200 soldiers, and a battalion about 400-1000 soldiers (U.S. Department of Defense, n.d.).
 
+**If there's any one lesson you should take away from here: emotional regulation is essential.** There are times you get *punished* and things go completely in flames because one person did one tiny thing due to an emotional outburst. It affects decision making, communication, your abilities, and so much more. 
+
+As for another reason why emotional regulation is important: it further establishes your presence and authority as a leader and person. If you're calm and chill while everyone else is panicking, people are appreciative and show more respect towards you; the person who handles themselves and knows what they're doing.
+
 ### **How does this relate to Teaching/Instruction?**
 
 The material in this chapter may be foreign to many people, so I have to write far more context than usual. Here are some examples between classroom management and milsim management to consider as you're reading along.
 
 **Communications** 
-- Soldiers use voice and radio nets, whereas a class may use hand signals and structured discussion formats.
+- Soldiers use spoken voice and radio nets, whereas a class may use hand signals and structured discussion formats.
 
 **Scaling Challenges** 
 - A teacher can manage smaller classrooms and groups of students, while a squad leader can manage everyone in their squad. 

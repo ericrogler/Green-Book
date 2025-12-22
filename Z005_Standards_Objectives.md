@@ -64,6 +64,32 @@ You may come across other sets of standards (not to be confused with curricula!)
 - The same set of standards and how they're implemented can vary widely from school to school, district to district, and state to state.
 - Sometimes standards are not solely based on what is best for learning, but as a response to cultural and political environments they're developed in.
 
+### **What About Standardized Tests?**
+
+*They're a necessary evil.* 
+
+If I were asked for an opinion, I'll claim they help high-achieving, but low-income or underprivileged, students stand on the same stage as more privileged students. I'll also claim they can promote inequality because resources heavily determine what level of preparation you get for them.
+
+To give an example that applies, but isn't related to education to keep neutral context: Medical tests. Imagine you go to the doctor's office for a checkup, and they need to prescribe you a blood test. There might not be anything *wrong* with you, but they're making sure and ruling out possibilities. After you take the blood test, you'll get results and may see items like Albumin, WBC, RBC, Hct, Hgb, MCV, and more. These metrics are pretty well established in the medical community and doctors generally know what these metrics mean and how they're measured. They *could* be subjective on how they interpret results, which may cause a Type I or II error if severe enough, but there's a known, verified baseline they can reference and confirm results.
+
+Scores and metrics are a thing in about every field, major, study, or area of expertise; a baseline level to determine good vs bad, big vs small, etc. If that isn't there, or cannot be agreed upon, you get multiple competiting standards and increase confusion on which standard(s) actually are valuable.
+
+Put another way, you *need* a consistent way *people can agree on* to measure things. Standardized test scores are one of many metrics, which means they're diagnostic and used *as part of an evaluation* (more on metrics in a later chapter). 
+- E.g. standardized test scores considered alongside school context for university admissions.
+
+The ideal system would prioritize evaluating many different traits from someone, but that may not be feasible due to the testing organization's own bias, resources, or political/social pressures. It may also not be prioritized simply because society, as a whole, doesn't value a particular skill or trait, so sees no need to evaluate based on it.
+
+Some people may be against them because it's a potential case of evaluating a fish on how well it climbs a tree like a monkey.
+- Alternatively, a difference in geographic and socioeconomic backgrounds may negatively affect experience preparing for a test.
+
+Other people may negate those same detractors by stating the student *is* the monkey and we have to see how well they can climb a tree because that's what they need to do to survive.
+
+Additionally, standardized tests counters multiple issues with adhering to metrics (more on metrics in later chapters). For example, it would highlight discrepancies and issues such as a student getting padded scores at their local school, but failing horribly on the standard test at the state/national level. It could also bring an investigating into teachers, schools, etc. to ensure the curriculum students were supposed to get is what they're actually getting.
+
+You can easily set your own standards at a micro level (personal/school), but not as easily at a macro level (organization/coalition). Some consistent way to verify actual ability and is not subject to easy manipulation is, in my opinion, far more trustworthy.
+
+Though standardized tests may force curricula to be more 'rigid', they're also less likely to be taken advantage of. Couple that with an authority that *cannot* be easily swayed and it still remains a valid measure of a student's ability to do something.
+
 ## **Bibliography**
 
 1. Colorado Department of Education. (2025, July 3). *Colorado Department of Education*. [https://www.cde.state.co.us/](https://www.cde.state.co.us/)  

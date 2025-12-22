@@ -11,15 +11,17 @@ nav_order: 29
 
 **Money is a resource you may not have enough of when teaching. Be careful spending it.**
 
-Having enough money and resources solves a lot of problems and provides a lot of freedom.
-- A subtle indication of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
+**If the service(s) sounds too good to be true and/or or does not cost money, find out what the service(s) needs to do to make money and pay for expenses. It'll likely answer many questions about their motives.**
+
+Money is also what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a school, or any group providing education as a service, has typically correlates positively with its quality of education. 
+
+Because money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and being able to do social things that cost money.
+- Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
 - It also generates a lot of *new* problems.
     - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
     - More aptly put: making decisions based on convenience rather than monetary cost.
 
-The amount of wealth and resources a school has typically correlates positively with its quality of education. It also generates a host of different problems precisely due to increased wealth.
-
-Two easy-to-follow strategies for staying within budget:
+Two typical strategies for staying within budget:
 1. Buy less, but buy better.
 2. Buy more, but buy at a discount.
 
@@ -50,7 +52,8 @@ Teachers function like managers, even if it's not outwardly stated. Another role
 
 *Notice: Much of this section comes from personal observations.*
 
-How much wealth a school has, or the students and parents attending a school has, affects their behaviors as well. The probability for a better education at a high-wealth school is higher than a low-wealth school. It does not necessarily mean a good education at a low-wealth school is impossible to earn or an excellent education is guaranteed at a high-wealth school. 
+How much wealth a school has, or the students and parents attending a school has, affects their behaviors as well. The probability for a better education at a high-wealth school is higher than a low-wealth school. It does not necessarily mean a good education at a low-wealth school is impossible to earn or an excellent education is guaranteed at a high-wealth school. It could still mean, however, a degree and education received at a low-wealth school does not compare to a high-wealth school.
+- Put another way: a student could be a big fish in a little pond with, or without, even knowing about it.
 
 Despite this optimism, socioeconomic status (SES) of a child and their parents is statistically significant as a prediction of mobility and success in said child's future (CEW Georgetown, 2019).
 - For a visual representation, consider looking at the [Opportunity Atlas from Opportunity Insights](https://www.opportunityatlas.org/) (Opportunity Insights, 2024).

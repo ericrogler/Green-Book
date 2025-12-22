@@ -72,7 +72,7 @@ This framework focuses on categorizing methods and distributing their ratios to 
 
 *Notice: I may use the terms "distribution" and "ratio" interchangeably.*
 
-For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g., "Scrumfall" or "Scrumerfall") compared to traditional waterfall practices and, quite often, its original intent, guidelines, and purpose gets thrown to the wayside.
+For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g., "Scrumfall") compared to traditional waterfall practices and, quite often, its original intent, guidelines, and purpose gets thrown to the wayside.
 
 When I was teaching, I settled on a 6/2/2 distribution/ratio for most of my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
 
