@@ -10,7 +10,35 @@ nav_order: 19
 ## **Short Answer**
 
 *Disclaimer: I built this framework in mind for secondary and tertiary education (middle school and above). Elementary school/primary education may need adjustments beyond what is here. It is also intended to be independent of subject(s) taught, so it may reach multiple fields.*
-- **The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
+
+About 50% of teaching/instruction involves communication in some way. The other 50% is management. Communication and management are tightly integrated together here.
+
+"Communication" is packed into three instructional categories:
+1. Lectures
+2. Activities & Projects
+3. Review & Tests
+
+If you have 10 parts of time, you determine a desired ratio/distribution of those 10 parts of time across three categories for every unit you need to cover.
+
+That's it. Simple and easy to remember. From there, think about how you'll manage time and students.
+
+**Last, but not least: Whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
+
+## **Long Answer**
+
+**Here's a weird thought: Education is learning. Teaching is a *form* of learning.**
+
+A student may only need to look up the information to learn about something or to solve a problem. They may not need to utilize the information afterwards. You, as a teacher or non-teaching individual, probably looked up something before on Google, got an answer, and (probably) didn't need to remember that answer later on because it solved your current question/problem.
+
+A teacher, however, goes through multiple steps beyond looking up the information. They have to ensure the information is correct, figure out what parts they need to communicate, figure out the *method* of communication, then *execute* the communication to a broader audience, and adjust–sometimes in the moment–how a concept is presented.
+
+**Paradoxically, teachers can often be better learners than students and may learn more new things about the same topic(s) compared to their students–the very people they're trying to educate!**
+
+This gap in learning creates a void to fill with an important question: how does a *student* learn if they're not a teacher and trying to teach others?
+
+### **What's the Overview?**
+
+**The curriculum you design should mirror what students will do outside the classroom as closely as possible whenever feasible.**
 - Many topics can fit into short, fixed-time periods of 1, 2, or 4 weeks/days and include a balance of lectures, activities, projects, and tests.
 - Be ready and able to adjust lesson plans as needed, even on a day-by-day basis.
 - *Every* subject requires teachers to communicate well through storytelling. If you cannot communicate well and hold students' attention, then you cannot get students to invest in your teachings and learn what they need to know.
@@ -24,20 +52,6 @@ This framework requires keeping some other important things in mind:
 - It is NOT meant to micromanage people.
 - Do not implement this framework for the sake of process; its goal is driving outcomes.
 - You must be allowed to criticize the system(s) to find and develop improvements for it.
-
-**Last, but not least: Whatever you do, even if it's easy, a break, or a game, it must tie back into instruction. Trust me; this is for your own sanity.**
-
-## **Long Answer**
-
-**Here's a weird thought: Education is learning. Teaching is a *form* of learning.**
-
-A student may only need to look up the information to learn about something or to solve a problem. They may not need to utilize the information afterwards. You, as a teacher or non-teaching individual, probably looked up something before on Google, got an answer, and (probably) didn't need to remember that answer later on because it solved your current question/problem.
-
-A teacher, however, goes through multiple steps beyond looking up the information. They have to ensure the information is correct, figure out what parts they need to communicate, figure out the *method* of communication, then *execute* the communication to a broader audience, and adjust–sometimes in the moment–how a concept is presented.
-
-**Paradoxically, teachers are often better learners than, well, students and may learn more new things about the same topic(s) compared to their students–the very people they're trying to educate!**
-
-This gap in learning creates a void to fill with an important question: how does a *student* learn if they're not a teacher and trying to teach others?
 
 ### **A Cautionary Aside on Frameworks**
 
@@ -64,15 +78,17 @@ This framework focuses on categorizing methods and distributing their ratios to 
 
 **Some important notes before reading further:**
 1. It's ok for students to be bored sometimes.
-2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution. 
-3. Modifications are expected and will happen in practice; plan for when they're needed.
-4. Sometimes the old-fashioned methods work better than cutting-edge methods.
+2. Treat this framework as a set of principles and a template, rather than a one-size-fits-all solution.
+3. Modifications are expected and *will* happen in practice; plan for when they're needed.
+4. Sometimes old methods work better than new methods.
 
 ### **Where does Agile fit into this?**
 
 *Notice: I may use the terms "distribution" and "ratio" interchangeably.*
 
-For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g., "Scrumfall") compared to traditional waterfall practices and, quite often, its original intent, guidelines, and purpose gets thrown to the wayside.
+For those unfamiliar with Agile, [here's the Agile Manifesto](https://agilemanifesto.org/principles.html) (Beck et al., 2001). 
+
+It's related to software development, but you can apply it in multiple industries. In practice, though, Agile goes through numerous types of implementation to various levels of success and failure (E.g. "Scrumfall") compared to traditional waterfall practices and its original intent, guidelines, and purpose gets thrown to the wayside.
 
 When I was teaching, I settled on a 6/2/2 distribution/ratio for most of my curriculum. In a block of 10 "teaching" days (or two business weeks), this distribution splits into three categories:
 
@@ -84,7 +100,10 @@ I set this up because I had, in the worst case, 24 units in a single school year
 
 Some readers may see the above and wonder why I spend entire days on just *one* category of teaching. That was simply how I did things at the time. It's entirely possible to mix categories together and do those 3 categories in 1 day as well. 
 
-To give an example of what could replace a "lecture" day in the same amount of time: Lecture -> Interaction/Activity -> Review Worksheets 
+To give an example of a mixed "lecture" day in one, 50 minute class session: 
+1. Lecture (~18-20 minutes)
+2. Activity (~15-20 minutes) 
+3. Review (~10 minutes)
 
 **You try to define ratios for each category (e.g. "6:2:2") and NOT finite units of time in this framework, so you can scale up and down based on how much time you'll have to instruct.**
 - E.g. You have 10 minutes instead of 10 days, so it splits into 6 minutes, 2 minutes, and 2 minutes.
@@ -170,9 +189,28 @@ There are two primary methods: lectures and projects/activities. There's also a 
 
 ***Lectures***
 
-Lectures are the first "6" of my setup. Again, you can decrease lecture days for more hands-on classes.
+Lectures are the first "6" of my setup. As a reminder, you can decrease lecture days for more hands-on classes.
 
-These are sessions used to deliver, typically verbally, a significant amount of information all at once to a student, or group of students, and allow them to ask questions. Direct instruction requires at least some lecturing done and I find helps students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
+I'd also consider them the hardest to run, because it's usually the student sitting and listening. Younger students are more likely to display behavior issues during these compared to older/adult students.
+
+Lectures are like meetings. The person "calling the meeting" is the instructor and should have several things in place (with some tips taken from *Smart Brevity* by VandeHei et al. (2022)):
+- There's an objective and an agenda.
+    - This can be just a few sentences. Nothing long.
+- Time limits are planned.
+- A headline to single out why people (the students typically) are there.
+- Ways to guide the discussion and shut down off-topic conversations.
+- Starting on time.
+    - Chit-chat is fine before time. At start time? Not fine.
+- Thanking *only* those who are there on time.
+- Properly assigning responsibilities.
+
+Lectures are sessions used to deliver, typically verbally, a significant amount of information all at once to a student, or group of students, and allow them to ask questions. It's sometimes called direct instruction too. Direct instruction requires at least some lecturing done and I find helps students and adults (pedagogy and andragogy) who aren't as effective in a group/collaborate learning environment.
+
+A single lecture "talk" on each topic should rarely go beyond 18-20 minutes without some sort of break or it suffers from diminishing returns. [TED (Technology, Entertainment, Design), a nonprofit focused on spreading ideas](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes), uses a similar guideline as it's "long enough to say something meaningful, but short enough to hold your audience's full attention" (TED, 2025).
+- You can, and should, still consider longer or full duration lecture days! Just remember to pause or break appropriately throughout it.
+
+When I did full lecture days, I alternated lectures and review. I did a 15-20 minute topic lecture, followed by a 5 minute review, and repeated as needed. That pacing helped better with retention and overload of information. While format varies by content, and sometimes includes an activity, there's *always* a break between topics to let the information sink in.
+- That break isn't "free time" though. You just go from doing one thing to doing another thing.
 
 **With lectures, you need to focus on three areas *alongside* the material you're teaching: passion, knowledge, and entertainment.**
 
@@ -194,7 +232,7 @@ Condensing the above, lectures are a combinations of a few things:
 
 **Lecturing works great if the lecture is well structured. If not, then it does not work well.** It is a powerful tool for learning, but it requires preparation, dedication, and proper delivery on the teacher's part.
 
-***Activities / Projects***
+***Activities & Projects***
 
 Activities and projects are the first "2" of my setup. **I recommend doing no fewer than 1 to 2 activities or projects per unit, unless your material is nearly all theoretical,** as you may lose student engagement from over-repetition.
 
@@ -343,10 +381,14 @@ The newsvendor framework illustrates the trade-off and shows why covering too mu
 
 2. Daniels, J. (1946). *The Wilson era: Years of war and after 1917–1923* (p. 624). The University of North Carolina Press.
 
+3. *Do I need to keep talks within 18 minutes?* (2025). TED. [https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes](https://help.ted.com/hc/en-us/articles/360038669354-Do-I-need-to-keep-talks-within-18-minutes)
+
 3. OpenDissertations. (n.d.). *OpenDissertations*. [https://opendissertations.org/](https://opendissertations.org/)
 
 4. Rehkopf, M. (n.d.). *Scrum Sprints*. [https://www.atlassian.com/agile/scrum/sprints](https://www.atlassian.com/agile/scrum/sprints)
 
 5. Schwaber, K., & Sutherland, J. (2020). *The Scrum Guide*. [https://scrumguides.org/scrum-guide.html](https://scrumguides.org/scrum-guide.html)
+
+6. VandeHei, J., Allen, M., & Schwartz, R. (2022). *Smart brevity: The power of saying more with less.* Workman Publishing. ([Amazon Link](https://www.amazon.com/Smart-Brevity-Power-Saying-More/dp/1523516976?crid=9LXTGJ09H2BF&dib=eyJ2IjoiMSJ9.
 
 ## **[Next Chapter](Z010a_Accommodations.html)**

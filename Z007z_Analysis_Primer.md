@@ -9,21 +9,27 @@ nav_order: 16
 
 ## **Short Answer**
 
-WIP
-
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
 
-To encourage people to care about your research, analysis, etc. you must ensure you're addressing the questions they need answered. This typically means a clear question with actionable items involved and may involve inquiring what information needs to be found and what information is used for decision.
+To encourage people to care about your research, analysis, etc. you must address the questions they need answered. This typically means a clear question with actionable items and inquiring what information needs to be found and used for decisions. 
 
-Broken record reminder: you'll still want advanced knowledge precisely to know when an advanced method is not the best course of action and to know how to manipulate advanced methods to better suit your needs.
+Most analysis will employ tools, such as software like Excel or a coding language, as your primary means to figure out the answer(s). You'll also find data excels at humbling people and exposing what is *really* happening.
+
+Sometimes analysis and modeling doesn't requiring any math. In fact, it may be counterintuitive to write an entire, custom solution when an existing model you can import solves the problem far faster and more accurately. There's also countless business problems requiring advanced, custom analytics, which means you need statistics and math.
 
 Statistical Significance does not imply Practical Significance.
 
 ## **Long Answer**
 
-The good news about data analysis is you don't need a lot of math skills to interpret results. You can see this best through results displayed visuals like infographs, dashboards, and more. You still need context behind numbers, however.
+You may be wondering why a book on teaching and instruction dedicated so much time to math.
 
-The bad thing about data analysis is you need a lot of math skills to get the most out of data and generate effective results.
+The reason is simple: you need to know math to understand educational research which influences *every field.* How to read information and communicate findings is critical. Communication is already a skill you should be doing well as a teacher/instructor (assuming the person reading this *is* one, right?).
+
+Now we go onto analysis; an application of all that math with some science and social skills.
+
+The good news about data analysis is you don't *need* a lot of math skills to interpret results. You can see this best through visuals like infographs, dashboards, and more. You still need to know the context behind numbers though.
+
+The bad news about data analysis is you need a lot of math skills to get the most out of data and generate effective results.
 
 In other words: *Learn Math.*
 
@@ -44,11 +50,19 @@ Most analysis comes from cleaning up data, understanding your user's (or student
 
 The previous three topics, which are Calculus, Probability, and Statistics, are also important because they open up the way to understanding further advanced topics like optimization, linear (and nonlinear) programming, forecasting, regression, and more.
 
-### **The Power of Spreadsheets**
+### **Interpretability vs Accuracy**
 
 WIP
 
+### **The Power of Spreadsheets/Tables**
+
+*Alternatively: The Power of Databases*
+
 This is talking about programs like Excel, Google Spreadsheets, etc.
+
+If someone tells you Excel is a database, you have my permission to ignore everything else they say when it comes to understanding technology.
+
+Harsh as that sounds, you have tools built for analysis and tools build for storing information into databases. A database is
 
 ## **Bibliography**
 

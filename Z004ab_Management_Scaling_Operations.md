@@ -45,7 +45,7 @@ As for another reason why emotional regulation is important: it further establis
 
 ### **How does this relate to Teaching/Instruction?**
 
-The material in this chapter may be foreign to many people, so I have to write far more context than usual. Here are some examples between classroom management and milsim management to consider as you're reading along.
+The material in this chapter is likely foreign to many people, so there's more provided context than usual. Here are some examples between classroom management and milsim management to consider as you're reading along.
 
 **Communications** 
 - Soldiers use spoken voice and radio nets, whereas a class may use hand signals and structured discussion formats.
@@ -206,7 +206,46 @@ Precision and discipline also affects other situations, like the following examp
 
 Precision and discipline are universal concepts. Lacking these leads to consequences, such as learning loss, mismanaged risks, and improper responses to emergencies and routine situations. Just like in operations, careful planning, clear communication, and consistent routines ensure risks are managed.
 
-### **Clarifying Radio Networks & Communication**
+### **Smart Communication**
+
+Communication information is done through various methods, such as:
+- Reconnaissance
+- Meetings
+- Face-to-face
+- Over radio networks
+
+Reconnaissance is pretty important. You're gathering information that must be accurate, precise, and communicated properly, or you risk failure and unncessary costs. The task required translating information into symbols and written words humans could quickly read and understand. To give a small overview of what to communicate:
+- Personnel types, numbers, and locations in the AO
+- Patrol routes
+- HQ/HVTs/Intel positions
+- Entries, barriers, and obstructions
+- Points of Interest (POIs)
+- Infil/Exfil (Infiltration/Exfiltration) route(s)
+
+Another way to put is we used acronyms, abbreviations, markings, and symbols to communicate to other people.
+- It was common to use terminology derived from sources like [FM 1-02.1 Operational Terms](https://irp.fas.org/doddir/army/fm1-02-1.pdf) as well as [FM 1-02.2 Military Symbols](https://irp.fas.org/doddir/army/fm1-02-2.pdf) (U.S. Army, 2024).
+
+Whenever I participated in milsim scenarios, I usually did reconnaissance and spotting. Why was I assigned that? I was good at math and doing it quickly. Working at long ranges means dealing with drops, Coriolus effect, wind, and far more variables short range interactions ignore entirely.
+
+I made three rules for *all* communications in these specialist groups:
+1. Concise
+2. Clear
+3. Descriptive
+
+2 and 3 may sound conflicting, but they aren't. To give an example of all three in action, you could say: "I'm a first-chair violin in the Boston Orchestra." From that alone, you get:
+- Concise: a single sentence said in a few seconds.
+- Clear: You know exactly what their function is and remove ambiguity (a violin player)
+- Descriptive: You have appropriate context of their ability, status, etc. (top-class *professional* player based in Boston).
+
+As for meetings, it's subject to all the rules and caveats I discussed in other management chapters, just in a different context.
+
+Where the biggest difference arrives is in face-to-face and radio network communications. Unless you are positively, absolutely sure nothing bad will happen (which is almost never), you don't ever want to talk or ramble a lot.
+
+You want to get straight to the point and not waste anyone's time. Time spent listening to you is time spent they could focus on and do other equally, if not more, important tasks.
+
+It's why 5-10 seconds was set as the limit for each communication, order, etc. sent out. If it's longer than that, minds drift and information complexity increases. The simpler it is, the easier it is.
+
+### **Clarifying Radio Networks**
 
 Radios are a part of all kits and split into SR (short-range) and LR (long-range) communications. Every MOS uses SR radios, but not LR radios, and using a radio properly is one skill present at all organizational levels.
 
@@ -433,5 +472,9 @@ Keep in mind that reservists may not commit to a slotted role, or may be waiting
 2. Lebedev, Anastasiya (2004, May 21). Mattern, Douglas; Waldow, Rene; Ray, Tom (eds.). *The Man Who Saved the World Finally Recognized.* MosNews/Association of World Citizens (AWC). San Francisco, California, United States: The Association of World Citizens. Archived from the original on 21 July 2011. [https://web.archive.org/web/20110721000030/http://www.worldcitizens.org/petrov2.html](https://web.archive.org/web/20110721000030/http://www.worldcitizens.org/petrov2.html)
 
 3. Sinek, S. (2014). *Leaders Eat Last: Why Some Teams Pull Together and Others Don’t.* Portfolio/Penguin.
+
+4. U.S. Army. (2024, February). *FM 1-02.1 OPERATIONAL TERMS.* HEADQUARTERS, DEPARTMENT OF THE ARMY. [https://irp.fas.org/doddir/army/fm1-02-1.pdf](https://irp.fas.org/doddir/army/fm1-02-1.pdf)
+
+4. U.S. Army. (2024, February). *FM 1-02.2 MILITARY SYMBOLS.* HEADQUARTERS, DEPARTMENT OF THE ARMY. [https://irp.fas.org/doddir/army/fm1-02-2.pdf](https://irp.fas.org/doddir/army/fm1-02-2.pdf)
 
 ## **[Next Chapter](Z004ac_Management_Scaling_Macro_Micro.html)**

@@ -13,10 +13,12 @@ WIP
 
 *Notice: This entire chapter is, at best, a surface level view of each topic covered here. That is intentional.*
 
-The average person will probably not go beyond basic concepts for Probability and Statistics unless they seek it out themselves, is required for a job, or going through a math-heavy field of study.
+The average person will probably not go beyond basic concepts for Probability and Statistics unless they seek it out themselves, is required for a job, are or going through a math-heavy field of study.
 - E.g. you may not use statistical *calculations*, but you may utilize statistical *reasoning.*
 
-As a reminder why this is important: you'll want advanced knowledge precisely to know when an advanced method is not the best course of action and to know how to manipulate advanced methods to better suit your needs.
+You might be brushing up on probability and statistics due to the popularity of ML/AI (machine learning and artificial intelligence). For a lot of use cases, like applying ready-made solutions, statistics is about all you need. Going beyond, however, still requires advanced math like Calculus, Linear Algebra, and what vectorized operations are.
+
+Knowing how to do something is great. Knowing where to look up something is good. Not knowing anything about it is a sign.
 
 ## **Long Answer**
 
@@ -34,19 +36,23 @@ Someone could also have insight into how something should be done, but lack the 
 
 Statistics and Probability I find caters to students in two ways: those who need to understand these fields in-depth (e.g. data scientists, graduates and PhDs in technical fields, etc.) and those who may need to use them in general (basically everyone else). The former absolutely needs a strong math background, whereas the latter can get away with a weaker math background. Both backgrounds, however, should strive to understand *how* and *when* to use Statistics and Probability.
 
-That said, lets go over some things you may encounter.
+That said, lets go over concepts.
 
-### **Interpretability vs Accuracy**
-
-WIP
-
-### **Probability: Why it's Important**
+### **Probability vs Statistics**
 
 Probability is the likelihood an event occurs. That's it, but also not it.
 
-There's an inverse relationship between Probability and Statistics, however. Probability uses a model (or hypothesis) to predict what may happen in practice. Statistics starts with data obtained from practice (or experiments), observes what *has* happened, and figures out what the model/process is.
+There's an inverse relationship between Probability and Statistics. 
 
-Usually you learn Probability *before* Statistics. Probability doesn't need Statistics, but Statistics does need Probability. Though one may not need the other, they still complement each other.
+Probability uses a model (or hypothesis) to predict what may happen in practice. 
+
+Statistics starts with data obtained from practice (or experiments), observes what *has* happened, and figures out what the model/process is.
+
+People may typically learn Probability before Statistics. Probability doesn't need Statistics, but Statistics does need Probability. Though one may not need the other, they still complement each other. Some curricula may account for this relationship and teach both topics at the same time, such as showing the probablistic object after talking about its theoretical definition.
+
+### **Probability: Why it's Important**
+
+
 
 ### **Statistics: Why it's Important**
 

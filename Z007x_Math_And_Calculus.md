@@ -15,21 +15,21 @@ WIP
 
 The average adult (and people becoming adults) should have math skills. I'm not expecting the average person to solve the P vs NP problem or another Millennium Prize Problem on their own, but I am expecting the average person to know how to handle math in their future.
 - *Let me stress once again: every adult should care about math and have some knowledge in it.*
+- **Put another way: If you need to commute, you just need to know how to drive a car.**
+    - **Alternatively: At a minimum, learn the high-level concepts.**
 
 I have bias writing this chapter because my background in education is as a Science/STEM Teacher (and substitute teacher). This chapter, however, covers math and some of its applications, *which relates directly to and was necessary to my graduate engineering degree (M.S.I.E.).*
 - Additionally, most Science in general requires a student being proficient in math.
 - Even if you forget most the math here in 5-10 years after initially learning, you'll still (hopefully) retain logical thinking and reasoning habits acquired during the learning process.
 
-I believe learning mathematics isn't optional anymore and absolutely necessary. In the Information Era, and projected future of humanity, understanding math is like a survival skill. Many jobs, especially ones you may not expect at first, can utilize higher mathematics to solve problems. A lot of math you may see was also made precisely to solve practical problems too, like in Physics and supply chains, so it's pretty cool to know about and see in action.
+I believe learning mathematics isn't optional anymore and absolutely necessary. In the Information Era, and projected future of humanity, understanding math is like a survival skill. Many jobs, especially ones you may not expect at first, utilize higher mathematics to solve problems. A lot of math you may see was also made precisely to solve practical problems too, like in Physics and supply chains, so it's pretty cool to know about and see in action.
 
-If I were to tell you what *minimum* level of mathematics an adult should go through in their lifetime, at a "working" level, I would likely say the following:
+If I were to tell you what *minimum* level of mathematics an adult should go through in their lifetime, or have an intuition of, I would likely say the following:
 - *Basic* Data Analysis
 - Calculus
     - *Which also means Algebra and Trigonometry*
 - Probability
 - Statistics
-
-*It's not the finish line to learn these. This is the starting point you should reach.*
 
 You don't need to be an expert in these topics, know how to do complex math well, or even expect you'll see an application for all math theories and methods. You should, however, acquire familiarity with the abstract and concepts behind the math to prove properties/things, recognize what is happening, *and* when math is used for deception. 
 
@@ -115,11 +115,11 @@ WIP
 ### **Calculus: Why it's Important**
 
 One of the few times I'll just say my primary source helping me here is from [Paul Dawkins' (Lamar University) class notes posted on the Internet](https://tutorial.math.lamar.edu/). Hopefully I'm not held to trial for relying heavily on a single source.
-- These were even available when I was still in college going through all levels of Calculus back early 2010's.
+- These were available when I was in college going through the levels of Calculus back in early 2010's.
 - There is a disclaimer, for Calculus I at least, that "you know Algebra and Trig[nometry] prior to reading the Calculus I notes" (Dawkins, 2023).
     - This is NOT a suggestion either. From personal experience, the hardest part about Calculus *was the Algebra* (and Trignometry) and you'll fail it without solid foundations in those areas.
 
- I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what's now possible for you.
+ I can, however, tell you once you understand higher level math (the what) and understand abstraction of math (the why), a lot of doors open for what you can do with it.
 
 **Calculus is a gateway to modern/advanced math and science, but is mainly important for two reasons:** 
 
@@ -172,20 +172,35 @@ This also isn't a call to ignore math as a discipline or disrespect math either.
 
 ### **Beyond Calculus**
 
-As you get into higher-level math, numbers... disappear.
+I'll admit: many people don't *need* to go beyond basic Calculus. If we're going off purely benefits vs time investment, you're typically better off solidifying foundations and basics ten times over instead of building up a (potentially) precarious foundation.
 
-That doesn't mean it gets easier. It gets harder. *Much harder.*
+It's like how you can recall a topic and the general direction of what you need, then use a search engine like Google to find the details. The average person can stand upon the shoulders of giants and benefit from the collective knowledge of humanity throughout time.
 
-When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* Why proofs matter is because you need to convince people that something is true. A lot of math is taught by assuming that X is used to solve a situation, so X is the correct formula to do so. Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt.
-- In other words, you're learning more theory and applications rather than formulae.
+In case you *do* get into higher math, the best way to describe it is it's where numbers... disappear. It doesn't mean numbers become non-existent; just more abstract and dependent on your notion of numbers.
 
-You encounter words with precise meanings, such as if, then, when, such, or, and, else, and so on. You deal with far more variables and how to manipulate them, which is tantamount to death by pencil if you never got the foundations down. Sometimes things *look* like simple algebraic equations, but have a long proof steeped in higher-level math.
+That might sound really confusing at first and validly so. I will confirm, however, it doesn't mean the math gets easier. It gets harder. *Much harder.*
 
-And what you *could* say in ordinary language, like English, now gets its own special notation through quantification and set theory! To give a small sampling ([which Wikipedia actually has a surprisingly accurate compilation of!](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols) (Wikipedia contributors, 2025)):
+When previously you may've learned various formulae and how to apply it, and gotten away with just that, now you need to know *proof(s).* These proofs are not necessarily exclusive to higher math, but are definitely more abundant in higher math. Depending on how math was taught, someone may've experienced proofs far earlier in their learning journey.
+
+Why proofs matter is because you need to convince people that something is true. A lot of math is taught by assuming that X is used to solve a situation, so X is the correct formula to do so. Unlike law or social arguments, however, there is no "reasonable doubt"; a statement can only be true or false and must be proven *beyond* reasonable doubt it followed the rules.
+- In other words, you're learning more how you can solve things without numbers readily available and deterministic models unavailable.
+
+You encounter more words with precise meanings, such as if, then, when, such, or, and, else, and so on. You deal with far more variables and symbols as placeholders, which is tantamount to death by a thousand cuts if you never got the foundations down. Sometimes things *look* like simple algebraic equations, but have a long and complicated proof steeped in higher-level math.
+
+Additionally, what you *could* say in ordinary language, like English, now gets its own special notation through quantification and set theory! To give a small sampling ([which Wikipedia has a surprisingly accurate compilation of!](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols) (Wikipedia contributors, 2025)):
 - ∀ (turned A) = "For all" or "for every"
 - ℕ = Set of natural numbers
 - ∈ = Belongs in a set, such as "is in," "belongs to," "element of," or " "is a member of"
 - { } (Braces or curly brackets) = Set, or collection of elements (e.g. {1,2,3})
+
+With just that small sample, you can make something like this:
+- ∀x ∈ ℕ, x ∈ {1,2,3} ⇒ x ≤ 3
+
+Which means "For every x in the set of natural numbers, if x belongs to set {1, 2, 3}, then x is less than or equal to 3."
+
+Half the work is just *interpreting* the equation. Things get weird and you really start delving into the unknown.
+
+As a reminder, I'm not expecting the average reader to go above and beyond to the level where they, for example, [can seamlessly interpret the entirely of Kimi Linear](https://arxiv.org/abs/2510.26692). Knowing the high-level concepts will suffice for most cases.
 
 ## **Bibliography**
 
@@ -197,5 +212,7 @@ And what you *could* say in ordinary language, like English, now gets its own sp
     - Alt: *NAEP Mathematics: Performance Trends for States and Districts.* (2024). Nationsreportcard.gov. [https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4](https://www.nationsreportcard.gov/reports/mathematics/2024/g4_8/state-district-trends/?grade=4)
 
 4. Wikipedia contributors. (2025, December 17). *Glossary of mathematical symbols.* Wikipedia. [https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
+
+5. Zhang, Y., et al. (2025). *Kimi Linear: An Expressive, Efficient Attention Architecture.* ArXiv.org. [https://arxiv.org/abs/2510.26692](https://arxiv.org/abs/2510.26692)
 
 ## **[Next Chapter](Z007y_Probability_And_Statistics.html)**

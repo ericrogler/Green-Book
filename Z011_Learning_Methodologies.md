@@ -20,6 +20,8 @@ nav_order: 21
 - E.g. Primary and secondary education.
 - Pedagogy is often used in place of andragogy as the umbrella term pedagogy is more commonly known.
 
+It is in the nature of learning to get confused along the journey. That's normal.
+
 In general:
 
 1. Teach students where they are at.
@@ -33,34 +35,24 @@ In general:
 5. Mastery isn't achieved after doing something right just once. It's achieved when you can do something consistently well across multiple scenarios.
 6. You could be an amazing teacher, but if the system doesn't support you, then you're fighting an uphill, or even losing, battle the whole way.
 
-Additionally, I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)) (Riener, Willingham, 2010). There are optimal ways to learn topics, but the best way varies from topic to topic and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
-
-- As an example, watching 10,000 hours of violin playing won't make you a virtuoso. Practicing for 10,000 hours might (Gladwell, 2008).
-
-I'd personally recommend some form of learning with a combination of the following involved for students:
-
-- Getting enough sleep
-- Spaced Practice
-- Interleaved Practice
-- Varied Practice
-- Experiencing and working through failure
-- Managing boredom
-
-Lastly, when designing learning, you only have a limited amount of time to cover what you need to cover. This means you're fighting depth vs breadth (how much) and academic rigor vs inclusion (for whom), which means, ultimately, you're defining scope.
+When designing learning for any given content, you only have a limited amount of time to cover what you need to cover. This means you're fighting depth vs breadth (how much) and academic rigor vs inclusion (for whom), which means, ultimately, you're defining scope.
 - Decide between covering a few topics deeply vs many topics broadly.
 - An inclusive curriculum is extremely unlikely to be a rigorous curriculum.
 - **An every flavor cake doesn't taste that great.**
 
 ## **Long Answer**
 
+I'm not a proponent of "individual learning styles" ([see here for further evidence](https://www.researchgate.net/publication/249039450_The_Myth_of_Learning_Styles)) (Riener, Willingham, 2010). There are optimal ways to learn topics, but the best way varies from topic to topic and you can teach in multiple ways at once. Direct instruction is an effective way of learning when done well.
+
+- As an example, watching 10,000 hours of violin playing won't make you a virtuoso. Practicing for 10,000 hours might (Gladwell, 2008).
+
 There are multiple ways to learn, such as the [Feynman technique](https://fs.blog/feynman-technique/) (Parrish, n.d.) by explaining concepts simply, flashcards with the [Leitner system](https://www.k-state.edu/aac/success-tools/collection/Leitner_System.pdf) (Kansas State University, n.d.), or applications like [Anki](https://apps.ankiweb.net/).
 
-Sleep is important. Both students and teachers should not neglect it because it affects learning. If you don't get enough sleep, learning and retention drop.
+Sleep is also important. Both students and teachers should not neglect it because it affects learning. If you don't get enough sleep, learning and retention drop.
 
 Sometimes a student might complain that all they ever do is work.
 
-Yes, they're right. That's the science teacher's job, to teach science in science class.
-- Replace science with any other subject and it still holds true.
+Yes, they're right. That's the teacher's job, to teach in a class.
 
 Learning *is* work. Were every day a free day, students wouldn't get any real learning done. If you're a teacher who's diligent, but other teachers provide too much free time or leeway, you might dislike the other teachers too.
 - Students may even complain if you give a free day too, despite it not being a "work" day, because it's boring. At that point, I'd say resort to more work so they have something *else* to do instead.

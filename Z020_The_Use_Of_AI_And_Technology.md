@@ -9,6 +9,9 @@ nav_order: 30
 
 ## **Short Answer**
 
+**If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes instead.**
+- AI is also a prime example of "speed over quality." It can do things fast and make (costly) mistakes just as fast.
+
 **The problems you encounter as a teacher don't often change, but the means (and technology) to address those problems do often change.**
 
 AGI (Artificial general intelligence) is possible. It may take a while to get there, however.
@@ -52,7 +55,7 @@ A student iPad can cover almost all use cases in a school setting and simplify t
 
 Not *all* technology is great or necessary as preferences still exist. People may vastly prefer a physical medium to doing work vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
 
-### **Technology and Security**
+### **[Cyber]Security in Technology**
 
 Technology, like computers and cell phones, can also be misused by students *and* staff as well, including jailbreaking, installing unauthorized software, and damaging hardware. The human element is typically the easiest way to bypass any technology's security system to cripple it.
 - Example 1: A post-it note with your password on it next to a shared computer.
@@ -75,6 +78,30 @@ As an example of human engineering above: there's a possibility you have securit
 To dilute technological security (cybersecurity) down into two points:
 1. Technology, and its security, is far more protected with better protocols and tools compared to the past. Said protocols are continuously improving over time.
 2. At the same time, how much damage you can do with technology makes people extremely vulnerable compared to what was possible in the past.
+
+### **The Akinator Files**
+
+When I was much younger, there was a web browser game called Akinator.
+
+Is it AI? Nope, basically a binary search tree.
+- I'm aware that's a massive simplification; don't worry.
+
+Did it look like magic? At the time, yes.
+
+The concept was pretty simple. You receive a list of questions you answer to supply details about your character, animal, or person you were thinking of. Your only responses were either "Yes" or "No."
+- In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities.
+
+For 10 questions, that gives it a list of 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8 billion people* on Earth.
+
+The more questions you answer, the more likely it is to narrow down the correct answer. It's really easy for a computer to track all of this, but much harder for a human. 
+
+To look at it in reverse: Say you have a *really* large list of options and each option has many values assigned to it. If your first question is "no," it could assume all options with a value of "yes" for the first question are not correct. That means it moves options that don't match from its available selection pool to another pool and doesn't need to look through all those available options again for further questions.
+- In case of the player providing a dummy/wrong answer, intentionally or not, it can also "reference" the pool it moved previously eliminated options to and backtracks a few nodes/steps.
+- More technically speaking, it is o(log(n)) time complexity.
+
+If it doesn't guess right at the end? That's perfectly fine; it asks what your actual answer was and adds it into the database, using the values of yes/no you supplied as values to assign to your option. If multiple people think of the same thing later on, it can later calibrate those results and fine-tune the values for each option.
+
+Combine that concept with over 10+ years of many people using Akinator and many characters all added into the database. All that information makes it a *massive* list to reference. Because more people supply data to it, the statistical model for guessing improves due to more available, and better, data.
 
 ### **AI in General**
 

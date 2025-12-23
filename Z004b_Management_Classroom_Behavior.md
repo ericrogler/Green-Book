@@ -20,7 +20,7 @@ Discipline and management should be strict, but also fair and reasonable for eve
 - It's so significant I'd even recommend you find out about *who* you're managing/teaching first before developing a management plan and any rules/consequences. This applies outside of an education context too; it's not just for teachers/instructors.
   - E.g. teaching middle schoolers requires different techniques compared to teaching college students.
 
- To quickly sum up across various stages of pedagogy (children/minors) and andragogy (adults) in management:
+ To quickly sum up various stages of pedagogy (children/minors) and andragogy (adults) in learning and management:
 - Ages 0-11: Favoring simple instructions, visualizations, cues, and routines over rules.
 - Ages 12-14: Exploring autonomy, testing limits/rules, and flexibility.
 - Ages 15-18: Desiring respect, independence, and exposure to interesting content.

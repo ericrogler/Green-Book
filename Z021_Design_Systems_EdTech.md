@@ -11,35 +11,29 @@ nav_order: 31
 
 **From Unknown**
 > “Any idiot can build a bridge that stands, but it takes an engineer to build a bridge that barely stands.”
-- *Finding the source for this quotation is a Herculean task, so if someone does know the original person, let me know.*
+- *Finding the source for this quotation is a Herculean task, so if someone does know the original source, let me know.*
 
 Everyone is a designer. Not everyone is a *good* designer.
 
 Even if you can design well, you'll still deal with people management issues, managing upwards, and designing communication.
 
-Understanding design systems translates directly into skills across multiple fields and helps with templating, creating reusable components and materials, and making it easy to change things. 
-
 A complex design is always worse than a simple design if they perform at the same effectiveness/efficiency. Complex designs are more prone to failure compared to simple designs. 
 - [Dr Richard Cook in *How Complex Systems Fail*](https://how.complexsystems.fail/) does a much better job than me succinctly describing complexity issues across multiple industries (2000).
 - Keep it simple, stupid.
 
-Don't fall in love with your work, because there's a high chance you will change it later. You're usually better off quickly pushing designs, testing (one at a time to save sanity), and iterating than remaining stuck on one perfect design. This means, when in doubt, stop overthinking and design something that just works and don't touch it again unless absolutely necessary. Sometimes the attempt to make it better actually makes it worse and sometimes a new piece of technology isn't the correct answer. 
-
-For technical designs, like charts and graphs, you could save time and solve most of your business questions by asking if someone needs to import data to Excel (or another similar spreadsheet software).
-
-No single breakthrough makes the work easier, as difficulty is often found in the *problem* instead of the *tools.*
-
-Lastly, despite how well something is designed, human error and accidents will occur and you'll always have to make tradeoffs.
+**Your most important question is "Why?"** Jumping straight into work is almost always a bad idea. Acquire information and context when able *before* working or you risk wasting time.
+- What people actually do is worth more than what people say they do.
+- Plus, sometimes all it takes is listening to or watching someone to find out nothing "fancy" was needed.
 
 ## **Long Answer**
 
-There are two things to cover in this chapter: design patterns and design systems. The latter is explained far more in-depth later here whereas the former can be summarized pretty neatly with an example.
+There are two main things to cover in this chapter: design patterns and design systems. The latter is explained far more in-depth later here whereas the former can be summarized pretty neatly with an example.
 
 Design patterns are reusable solutions to commonly occuring problems with specific contexts.
 
-...You know. Math formulae. Algorithms. The fun stuff.
+...You know. Math formulae. Algorithms. Lists of instructions. The fun stuff.
 
-To put it in an example: You want to make a cake.
+As an example: You want to make a cake.
 
 Your problem is you need to make a cake. 
 
@@ -47,14 +41,28 @@ You have a recipe that *could* solve this problem; a method you can use to make 
 
 The recipe, or design pattern alone, will get you most of the way through. 
 
-*Most* of the way.
+*Most of the way.*
 
-What may stop you are additional variables, such as elevation affecting baking time or substituting ingredients. They may be a non-issue at best or a show-stopper (the bad kind) at worst. If you understand the pattern well enough and its underlaying mechanics, or *why* a recipe uses the ingredients it says, then you can also recognize where issues arise and what/how to adjust the recipe to still bake your cake.
+What may stop you are additional variables, such as elevation affecting baking time or substituting ingredients. They're a non-issue at best or a show-stopper (the bad kind) at worst. If you understand the pattern well enough and its underlaying mechanics, or *why* a recipe uses specific ingredients in specific ways, then you can also recognize where issues arise and what/how to adjust the recipe to still bake your cake.
 
-That one recipe can make that one cake. Even though you may reuse some ingredients, you may need a different recipe to make a different kind of cake or even another dessert altogether. Despite this, you still pull from recipes you know (the design patterns) to help solve problems.
+When all is said and done, someone eating your cake evaluates based on the end result; taste, texture, appearance, etc. It could have the best process of all time, but that process doesn't mean anything if the cake tastes bad. This is why you want simplicity whenever possible because it saves you time and headaches, plus your consumer likely remembers the cake's taste far more than the cake's preparation.
+
+That one recipe can make that one cake. You may reuse ingredients, but need a different recipe to make a different cake or another dessert altogether. Despite this, you still pull from recipes you know (the design patterns) to help solve problems.
 
 If you're familiar with software, you may recognize the terms DSA, data structures, system design, and algorithms. Concepts from there are pretty close to what I'm getting at here!
 - *And another reason you should learn math, like I said in earlier chapters!*
+
+### **Things to Keep in Mind**
+
+Understanding design systems translates directly into skills across multiple fields and helps with templating, creating reusable components and materials, and making it easy to change things. 
+
+You're usually better off quickly pushing designs, testing (one at a time to save sanity), and iterating than remaining stuck on one perfect design. This means, when in doubt, stop overthinking and design something that just works and don't touch it again unless absolutely necessary. Sometimes the attempt to make it better actually makes it worse and sometimes a new piece of technology isn't the correct answer. 
+
+For technical designs, like charts and graphs, you could save time and solve most of your business questions by asking if someone needs to import data to Excel (or another similar spreadsheet software).
+
+No single breakthrough makes the work easier, as difficulty is often found in the *problem* instead of the *tools.*
+
+Lastly, despite how well something is designed, human error and accidents will occur and you'll always have to make tradeoffs.
 
 ### **The Weird Complexity (and Simplicity) of Design Systems**
 

@@ -108,7 +108,7 @@ There are a whole host of metrics, but there's a few I want to call out because 
 
 ### **What If Metrics Mean Different Things?**
 
-If a metric means something different for people, in the same organization, you risk running communication errors down the line, which potentially means lower performance and lost revenue.
+If a metric means something different for mutliple people, you're on the highway to communication errors, which potentially means lower performance and lost revenue.
 
 If you're in a position to do it *and maintain it* (because things always change over time), start with a single document or wiki page outlining what the metrics are, what each metric means, and how each metric is measured. This includes methods like filters, source tables, grain (what a "row" represents, like one row = one customer), formulae, and more. Afterwards, force every report and dashboard across the *entire* organization to adhere to that "common language" you established.
 - The same thinking applies to other types of documents too, like a project charter template, where you define a standard outline for people to adhere to.

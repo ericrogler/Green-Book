@@ -15,7 +15,12 @@ nav_order: 6
 
 *Notice: Though this chapter talks about management in the context of teaching and instruction, some information can also apply to associates, employees, peers, and more across various industries.*
 
-**The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** Soft skills, like communicating with people, and hard skills, like technical knowledge, are means you shouldn't neglect to best meet that goal. If you're not sure how to set up a process or workflow, start with the minimum (or simplest) that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when they aren't needed often goes against your goals.
+**The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** 
+
+**The easiest mistake to make is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at your likely risk of rework costs and every other metric suffering.
+- *There's a parallel with "passing up students" and "failing upward" somewhere soon.*
+
+Soft skills, like communicating with people, and hard skills, like technical knowledge, are means you shouldn't neglect to best meet that goal. If you're not sure how to set up a process or workflow, start with the minimum (or simplest) that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when they aren't needed often goes against your goals.
 
 **Do not ever neglect technical skills, even if you're in a management role now or in the future.** This also applies for managers in multiple industries, like programming and software, and also applies to teachers/instructors. You may be able to manage people well as a teacher, but your curriculum's content suffers if you don't know how to effectively teach.
 
@@ -98,7 +103,7 @@ Manage resources.
 
 That's the simple, pragmatic answer. What they actually do is handle communication and relationships between people, task delegation, creating schedules, and accomplishing a specific goal or completing a project/work.
 
-Here's examples of what I mean:
+Here's many examples of what I mean:
 - Finding new projects and work to keep everyone in business and employed
 - Setting examples for people to follow
 - Ensuring you don't exceed budget
@@ -121,7 +126,7 @@ There's a lot of tasks here. It's counterintuitive to micromanage people because
 
 ### **Everyday Management Rules**
 
-There are rules you should follow with every management style:
+There are rules (more like "guidelines") you should follow with every management style:
 
 - **It must be legal for you to do.**
 - Human behavior is surprisingly diverse, which means racing to conclusions may harm more than help.
@@ -141,7 +146,7 @@ There are rules you should follow with every management style:
 
 ### **Enforcing Control**
 
-Success varies greatly depending on what type of group you're teaching. Still, some strategies are universal and applicable at various degrees of success with groups.
+Success varies greatly depending on the audience you're teaching. Thankfully, *some* strategies are universal and applicable at various degrees of success with groups.
 
 One single list will not solve all your problems. You'll need to adjust strategies over time, and this is something you have to do in practice rather than just reading about it. Other times, you don't have time to review the entire list mentally and may have less than a few seconds to get back control before chaos occurs.
 
@@ -210,7 +215,11 @@ To remove idle work, you remove bottlenecks or things prevent work from getting 
 
 ### **The Art of Meet[ings]**
 
-A lot of people hate meetings. They hate meetings so much there's ways to mathematically show the cost of meetings.
+A lot of people hate meetings. 
+
+90 percent daydream in meetings and 73 percent are doing other work during the meeting (Bernstein and Ringel, 2018). Bad meetings are lost opportunities and real costs to everyone involved.
+
+People hate meetings so much we develop ways to mathematically show the cost of meetings.
 
 **The lesson is simple: if you don't generate value greater than the cost of a meeting, do not host a meeting.**
 
@@ -251,6 +260,8 @@ M = [(50,000 / 2080) x 5 x (10/60)] x 260 = ~5208 USD
 All these calculations also assume you don't need additional setup time, purchasing venue space, buying materials, and other additional costs for specific meetings as well; only personnel showing up for X amount of time.
 
 Though meetings may seem like low-cost methods of communication, they quickly add up if not controlled. Even if you're in the camp of championing collaboration and "quick meetings," you still have to prove the value of a meeting is greater than the cost of doing one. This is *especially* true for meetings taking away time spent on other essential work projects.
+
+To repeat once again: As soon as a meeting is deemed invaluable, people will not respect the meeting.
 
 ### **Making Meet[ings] Simple, Effective, and Efficient**
 
@@ -359,6 +370,8 @@ Automation–and AI (Artificial Intelligence) by extension–is not a one-size-f
 - **Also remember: automation (and/or AI) can get very expensive very quickly and may not always solve EVERY problem.**
 
 ## **Bibliography**
+
+1. Bernstein, M., Ringel, R. (2018, February 26). *Plan a Better Meeting with Design Thinking.* Harvard Business Review. [https://hbr.org/2018/02/plan-a-better-meeting-with-design-thinking](https://hbr.org/2018/02/plan-a-better-meeting-with-design-thinking)
 
 1. Cirillo, F. (n.d.). *The Pomodoro Technique*. [https://www.pomodorotechnique.com/](https://www.pomodorotechnique.com/)
 
