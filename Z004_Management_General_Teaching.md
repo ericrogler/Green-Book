@@ -11,7 +11,8 @@ nav_order: 6
 
 **God Entity, Futurama (2002)**
 > "When you do things right, people won't be sure you've done anything at all." 
-- Ironically, in practice, sometimes being visible is what gets you noticed and promoted while not being visible may get you in trouble.
+As great as the quotation above is, sometimes being visible is what gets you noticed and promoted while not being visible may get you in trouble.
+- Put another way: the perception you know what you're doing is as important as knowing what you're doing.
 
 *Notice: Though this chapter talks about management in the context of teaching and instruction, some information can also apply to associates, employees, peers, and more across various industries.*
 
@@ -143,6 +144,36 @@ There are rules (more like "guidelines") you should follow with every management
 **Many rules that work with one group of students/people may not translate over to another group of students/people.** Teachers across grades and school types operate in different teaching, management, development, and accommodation contexts, which means adapting your rules to fit these contexts is necessary.
 - Example 1: A Kindergarten teacher and a 12th grade teacher may share some classroom management rules and procedures, but how they're best executed, written, and taught vary significantly enough it's like handling two completely different groups.
 - Example 2: Accounting for differences in culture, resources, and student behavior between Title 1 schools and affluent schools require different types of rules, rule enforcements, and accommodations for learning.
+
+### **Maintaining Appearances (Perception)**
+
+Let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix.
+
+Despite how knowledgeable you might be, bad communication takes you down like a cat pouncing on a mouse. You can improve communication in less than a week if you put your mind and time to practice.
+
+It's *how* you say something, not just what you say, and getting people to *see* you do it right.
+
+In an instructional role, you're leadership. You might not have traditional employees, but you're still managing people who are "beneath" you in a perceived power (knowledge) structure.
+
+This means you need to do the things leaders also do without *weakening* authority, such as:
+1. Don't be an asshole.
+2. Not using stop words like "uh" and "um."
+3. Not leading into statements with something like "Just a quick thought," "this may sound like a bad idea," excessive apologizing, and so on.
+4. Using the phrase "I believe."
+5. Turning your thoughts into words at the appropriate time and can tactfully interrupt/join a conversation.
+6. Getting other people to confirm you know what you're doing.
+
+Let me use one item above in an example.
+
+"This is a good idea, we should do it. I think." instead of "Let's implement this idea."
+
+The former instills doubt and makes someone think you cannot stand behind your words. The latter cuts that doubt out entirely and makes it sound like you're sure and ready to go.
+
+You also want to avoid thinking outpacing speaking. It's hard to detect at first, but I usually catch myself doing that when I say stop or gap words like "uh" and "um" *even when I don't want to.*
+
+You can pause for a bit. It's ok. A couple seconds to stop, structure what you want to say into a framework, *then* say what you want to say. It'l help you. **Even in extremely high stress scenarios, where seconds are on the clock until disaster, you *will* have a couple seconds to assess the situation(s).**
+
+Last part here is communicating impact. You can solve these amazing problems, but it won't mean anything if people cannot see it was solved. This goes for other co-workers and peers, like other teachers, as well as students watching you instruct. The work you do should also speak for you, which means people should see you're doing good work clearly and consistently.
 
 ### **Enforcing Control**
 
