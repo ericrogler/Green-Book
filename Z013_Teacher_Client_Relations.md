@@ -134,14 +134,15 @@ Lastly, if you're planning events for teachers where they receive something or g
 That's where the comparison to clients/customers stop with them. After that, they're considered children unless they're 18 years old or older.
 
 There are two consistent truths I observed with students in classes.
-1. The best students (in behavior, at least) have parents who don't enable them or baby them.
-2. Students lie all the time.
+1. The best students are held accountable at school, home, *and* outside of school in general.
+2. Students lie to avoid doing "work" and to avoid consequences.
+    - A major reason why I say to collect evidence and document events.
 
 If anyone tells you a student is an angel, or smart, or some similar comment about how they never cause trouble, don't believe them at first. That type of comment is typically a red flag. If a student were truly smart or benevolent, they'd also be smart enough to know not to cause behavioral issues. I've also seen cases where smart people are extremely good at manipulation of staff, peers, etc. to get what they want as well.
 
 This category mainly applies for students still considered minors. The biggest thing to note is minors don't follow the (exact) same rules as adults when it comes to learning. Sometimes, younger students genuinely do not know any better because they haven't been *taught* any better; you're often working with a (mostly) blank canvas.
 
-As for managing them, I'll put it this way: the more things students are doing inside of a classroom, the less behavior problems they'll cause. It's harder to cause issues elsewhere when they're dealing with something else right in front in them, so to speak.
+As for managing them, a general rule of thumb: the more things students are kept busy with or doing inside of a classroom, the fewer behavior problems they'll cause. It's harder to cause issues when they're dealing with something else right in front in them, so to speak.
 
 For students in general, you want to go in with as few assumptions as possible; the fewer, the better. Here are some assumptions you can safely make about students, but also be ready to change them if needed:
 
