@@ -334,7 +334,10 @@ And these are number of radio networks each role may be responsible for:
 
 **How it works in milsims**
 
-You typically have 2-4 squads and 1-2 detachments for operational use. The need to divide and conquer tasks and personnel allocation exponentially increases. Squads are under your direct supervision while detachments are under your indirect supervision, which means detachments temporarily fall under your command until higher authorities order otherwise. 
+If you're platoon staff (or platoon leader), or a higher ranking position in later unit sizes, you go from tactical operations to strategic operations. You're developing soldiers, leading other leaders, maintaining organizational health, and improving organizational capabilities to take on bigger missions.
+- *This parallels with what director+ roles go through in a previous management chapter!*
+
+You typically have 2-4 squads and 1-2 detachments for operational use; around 40-50 people. The need to divide and conquer tasks and personnel allocation exponentially increases. Squads are under your direct supervision while detachments are (typically) under your indirect supervision, which means detachments temporarily fall under your command until higher authorities determine otherwise. 
 - This is similar to product managers and instructors assigning tasks to people in a dynamic environment with shifting priorities.
 
 LR nets have multiple uses at platoon level, but I'll stay concise. Let's say this is 1st Platoon, you're the platoon leader, and you need to communicate to 4th Squad. A message like "Hey you, this is me, information, over" after proper designations and operational info is applied may look like:

@@ -79,6 +79,8 @@ Keep in mind you'd want a teacher to stick around rather than muddle around and 
 
 ### **Teacher-to-Substitute/Guest Teacher**
 
+If there's one thing you *have* to take away from here, it's to tell guest/substitute teachers to ignore a student when they say "Our teacher lets us do ___" or something similar.
+
 Before continuing, I must emphasize some extremely important points with substitute teachers. 
 1. Your classroom management plan could be perfect, but it will not stop students from testing boundaries and seeing what they can get away with.
     - Substitute teachers rarely, if ever, have access to the same tools to monitor and control behavior like other teachers.

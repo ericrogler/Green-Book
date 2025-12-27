@@ -9,17 +9,9 @@ nav_order: 29
 
 ## **Short Answer**
 
-**Money is a resource you may not have enough of when teaching. Be careful spending it.**
+**Money affords mistakes.**
 
-**If the service(s) sounds too good to be true and/or or does not cost money, find out what the service(s) needs to do to make money and pay for expenses. It'll likely answer many questions about their motives.**
-
-Money is also what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a school, or any group providing education as a service, has typically correlates positively with its quality of education. 
-
-Because money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and being able to do social things that cost money.
-- Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
-- It also generates a lot of *new* problems.
-    - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
-    - More aptly put: making decisions based on convenience rather than monetary cost.
+**If the service(s) sounds too good to be true and/or or does not cost money, find out how the service(s) make money to cover expenses. It'll likely answer many questions about their motives.**
 
 Two typical strategies for staying within budget:
 1. Buy less, but buy better.
@@ -38,6 +30,15 @@ Lastly, this isn't financial advice but a notice: The [IRS 529](https://www.irs.
 ## **Long Answer**
 
 While I did talk about monetary blockers briefly before, I'm creating a separate section because money permeates every facet of teaching, either directly or indirectly. Your wage is also affected by money available for budgets.
+
+Money is what buys you time and happiness, up to a certain point, but also affords comforts. The amount of wealth and resources a school, or any group providing education as a service, has typically correlates positively with its quality of education. 
+
+Because money affords comfort and (many) resources, having too much money risks incompetence, laziness, and excess wasting of those same resources. Having enough money and resources solves a lot of problems and provides a lot of freedom, such as eliminating the constant anxiety you could lose everything the next day and ability to do social things that cost money.
+- Some subtle indications of having enough resources is you might forget when pay day is, aren't concerned about late deposits, or don't worry about which bills to pay.
+- It also generates a lot of *new* problems.
+    - Instead of not dealing with issues due to lack of resources, people may throw money at issues to try and make them go away.
+    - E.g. Time management: Many people plan in hours, but millionaires plan every minute and billionaires plan every second to maximize value.
+    - More aptly put: making decisions based on convenience rather than monetary cost.
 
 **If teachers are managers, then each class you're teaching is like a project you're overseeing.**
 
@@ -122,6 +123,8 @@ To end this section: while wealth is an indicator, it does not always paint the 
 
 There's a lot of factors in play, but I'll generalize it this way: the types of students present, the resources available, and *how* the resources are used affect the outcomes of student education far more than a school designation. 
 - I'm also lumping charter schools under the public school umbrella here.
+
+The biggest advantage I've seen with private schools is they can select their students and more easily remove students.
 
 Assuming one public school teacher and one private school teacher enroll the same types of students (including their distributions on performance, behaviors, etc.), get the same curriculum and standards, and receive the same resources, I'd imagine they perform equally well. The major variable left to "control" is the teacher in charge of each classroom, which even that could be the same across both testing groups.
 

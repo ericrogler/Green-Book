@@ -114,6 +114,8 @@ WIP
 
 ### **Calculus: Why it's Important**
 
+Why Calculus? A lot of applied math *loves* using it.
+
 One of the few times I'll just say my primary source helping me here is from [Paul Dawkins' (Lamar University) class notes posted on the Internet](https://tutorial.math.lamar.edu/). Hopefully I'm not held to trial for relying heavily on a single source.
 - These were available when I was in college going through the levels of Calculus back in early 2010's.
 - There is a disclaimer, for Calculus I at least, that "you know Algebra and Trig[nometry] prior to reading the Calculus I notes" (Dawkins, 2023).

@@ -9,12 +9,19 @@ nav_order: 23
 
 ## **Short Answer**
 
-Teaching also means working with students, parents, and administrators. If you cannot do this well, you'll struggle in teaching. If you treat your peers well, you'll (likely) get treated well in turn. There's also times peers will treat you terribly when you did nothing wrong. You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
+Teaching and instruction involves working with people. If you cannot do this well, you'll struggle. If you treat your peers well, you'll (likely) get treated well in turn. At the same time, peers may treat you poorly for reasons out of your control and not your fault. You'll need to learn how to work with people you disagree with, or force their issues upon you, without taking things personally.
 - To put it plainly, teachers may be treated like punching bags by parents and other adults as they're the visible "frontline" of education people *can* reach.
 
-While the above is true, that doesn't absolve teachers/instructor, or any particular person/group, from *also* being the problem. Every person is capable of causing issues, but rarely is it every person causing issues simultaneously.
+Goals are often, if not almost always, mismatched amongst different roles. To keep it simple:
+1. People above you (e.g. managers, administration) care about outcomes and communication.
+2. People beside you (e.g. employees on same "level") care about technical expertise and knowledge.
+3. Consumers (e.g. parents, students, etc.) care about quality goods and services for their time/money.
 
-Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, however, is when that working relationship immediately ends and it's time to bring in the attorney.
+Teachers and instructors, or any particular person/group, are not exempt from *also* being the problem. Every person can cause issues, but rarely does every person cause issues simultaneously.
+
+## **Long Answer**
+
+Diplomacy is the strategy and tactic to master relationships with others. Threatening litigation, or another similar act, is when that working relationship immediately ends and it's time to bring in the attorney.
 
 Sometimes there are problems people already know how to fix but the main thing stopping people from fixing it is, well, other people. 
 - E.g. A status quo (existing environment) may persist because people still benefit from it.
@@ -24,10 +31,6 @@ The amount of information you can display about students (the *legally* allowed 
 
 Sometimes convincing your boss (or other authority figure) is as easy as having the problem(s) happen to them too or giving them front row seats to the chaos.
 - Key word: *Sometimes.*
-
-## **Long Answer**
-
-***Disclaimer: This section is more heavily opinionated.***
 
 ### **Perceptions and Stereotypes**
 
@@ -54,6 +57,8 @@ Principals, deans, and assistant principals are your "boss." They're like direct
 
 They have a lot of real power over you, but often have hands tied outside of their control for reasons like state and federal regulations and legal consequences for actions. 
 
+A primary goal is to ensure good PR for the facility (or facilities) they manage and avoiding lawsuits. This may mean bending the knee to demands both reasonable and unreasonable.
+
 They want the school to perform well and they hold a large responsibility for its success or failure. The District and Department of Education also have a vested interest and want good returns on the investment they put into the school.
 
 For smaller schools, you may need only a single principal and the teachers may pitch in to cover deficiencies. For larger schools, you'll still have one "principal." Still, many roles are divided or partitioned out amongst multiple people, such as assistant principals or deans. These roles assume some duties similar to a principal, but focus on specific duties (such as discipline), groups of students (such as finance major students), or specialized administrative tasks (such as Legal Counsel and HR Manager). The principal still has a hand in the affairs of everything at the school and has a surprisingly large amount of legal power.
@@ -76,7 +81,10 @@ Overally, your best bet is becoming a more effective teacher, improving your cur
 
 ### **Parents & Adult Students**
 
-I think of parents like apple trees. It was true while I was an active teacher and still true today.
+I think of parents (and guardians) as apple trees. They're a significant influence on all students you're dealing with. It was true while I was an active teacher and still true today. 
+
+Parents are also the closest thing teachers/instructors have to "customers."
+- ...Which means they're "always" right, even when they're beyond a doubt incorrect.
 
 Imagine you own a business, but you're a teacher. Now imagine your "clients" are the parents of your students or, if old enough to be legally independent, the students themselves. Sometimes your administrator will support you in handling this category. Other times, they'll side with parents to appease complaints or keep the peace. It depends on the administrator and it's less something you can easily change.
 
@@ -117,7 +125,7 @@ Lastly, the ideal scenario is a parent's child, the teacher's student, is never 
 
 ### **Other Teachers**
 
-You'll likely work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. If the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
+You'll almost certainly work with other teachers. If the school is small, you may be the only teacher present for a particular grade or field of expertise. If the school is larger, you may be amongst other professionals in similar areas to what you're teaching, like multiple engineering professors in a single department.
 
 In any of these cases, you'll find yourself working with teachers of varying skill levels, experience, and backgrounds. Other teachers are your allies, resources, and sounding boards to check your sanity. You can share ideas about how to operate classrooms, but respect their downtime.
 
@@ -129,11 +137,11 @@ Lastly, if you're planning events for teachers where they receive something or g
 
 ### **Secondary & Primary Education Students**
 
-**Why do students fall under clients? It's because they're the ones receiving your services, which is what you're teaching them!** 
+**Why do students fall under clients? It's because they're the ones receiving your services: the material you're teaching them!** 
 
-That's where the comparison to clients/customers stop with them. After that, they're considered children unless they're 18 years old or older.
+That's where the comparison to clients/customers stop with them, because this section talks about minors. They're strictly considered children unless they're the legal, adult age.
 
-There are two consistent truths I observed with students in classes.
+There are two consistent truths I observed with students (young *and* adult) in classes.
 1. The best students are held accountable at school, home, *and* outside of school in general.
 2. Students lie to avoid doing "work" and to avoid consequences.
     - A major reason why I say to collect evidence and document events.

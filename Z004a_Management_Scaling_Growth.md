@@ -29,14 +29,12 @@ I'm going to draw parallels from two places you may not expect to see in a book 
 
 This chapter covers organizational structures and how businesses may bring on new people and shuffle around internal employees to meet the needs of a company.
 
-According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. I'm going to use these values as my own breakpoints and attempt to illustrate *why* they are these values.
-- There's also mathematical formulae to help determine these values. See the Graicunas reference and paper links in the "Short Answer" section above as examples.
+According to Tony Fadell in his book *Build* from 2022, there are multiple breakpoints for organizations at around 15 people, 40-50 people, 120-140 people, and 350-400 people. These breakpoints aren't limited either; the next chapter showcases similar breakpoints in a different application. I'm going to use these values as my own breakpoints and attempt to illustrate *why* they are these values.
+- There's also mathematical formulae to help determine these values. See the Graicunas reference and paper links in the "Short Answer" section above for formulaic examples.
 
 Organizations in both public and private sectors don't fare well past these limits without appropriate planning. This planning includes, but is not limited to, communication methods, role designation and duties, and layers of management. 
 
-**If an organization cannot properly scale and adapt, it eventually dies.**
-
-You also should avoid limiting personnel as people may leave the organization and shift roles or the organization may experience growth beyond those limits.
+You should avoid limiting personnel as people may leave the organization and shift roles or the organization may experience growth beyond those limits.
 
 ### **How does this relate to Teaching/Instruction?**
 
@@ -46,8 +44,16 @@ You may also deal with multiple groups of up to 40+ *different* students in a si
 
 I'll discuss more on this below, but the general lesson is as the number of people you're responsible for increases, the policies and procedures in place need to scale to accommodate. 
 
+### **A Quick Aside**
+
+I'm not going into depth on matrices, or a week vs strong matrix in management. That's too high level for this book.
+
+At best, we're going to assume 1 manager oversees X number of direct reports and make a nice and simple tree diagram across multiple levels.
+
+I'm also not going into many edge cases, such as the manager with multiple managers *and* individual contributors under them as direct reports.
+
 ### **Business Breakpoint 0: The Start**
-Fun fact, I did project management as a paid role before teaching. Additionally, me and my engineering class back in college also made a business as our senior project in undergraduate study. 
+Fun fact, I did project management before teaching. Additionally, me and my engineering class back in college also made a business as our senior project in undergraduate study. 
 
 *I think I'm OK talking about this.*
 
@@ -73,10 +79,10 @@ For now, pretend you are the CEO/owner of this newfound company as I go through 
 As for typical limits, I'd expect around 5-8 direct reports if overseeing people with different roles and 9-12 direct reports when overseeing people with similar, if not the same, roles. You *could* extend beyond the 14 person breakpoint (15 people minus you, the manager) for direct reports, but it would have to be in a role requiring minimal direct intervention with individual contributors and the manager barely doing any IC level work.
 
 You'll have two layers at this point:
-1. Managers (You)
+1. Manager(s) (You)
 2. Individual Contributors
 
-As there's only one true manager (and perhaps assistant managers if you hire them), your main duties are management and task delegation but you may do non-management duties as well to cover deficiencies, employees taking time off, and other similar reasons. There's few bottlenecks in communication and things are straightforward as everyone can fit into a single space without great difficulty. You're also not managing other managers yet; only employees/ICs.
+As there's only one true manager (and perhaps assistant managers if you hire them), your main duties are management and task delegation but you may do non-management duties as well to cover deficiencies, employees taking time off, and other similar reasons. There's few bottlenecks in communication and things are straightforward. Everyone can fit into a single space without great difficulty and it's 1, maybe 2, managers directing employees/ICs.
 
 Some small businesses may purposely stay small and still be successful. These businesses may hire contractors to perform tasks rather than hiring more new employees and these contractors are applicable at any scale of business. Business growth depends on organizational structures, revenue streams, and expense management.
 
@@ -89,15 +95,19 @@ You'll have three layers at this point:
 2. Managers (New)
 3. Individual Contributors
 
-An assumed ratio is about 4-5 managers with 8-10 employees each on average. These people, called direct reports, are people one layer immediately below a manager, director, etc. said leader are responsible for. You could adjust the ratio of manager:employee and director:employee, but avoid overloading any one manager+ staff member. Your initial batch of new managers can also form your C-Suite/executive board when scaling up in the future. 
+If you're at the top level here, or close to the top level, above, your goals start going from managing tasks to managing people. You can no longer deal with incidents or problems as they come; you have to think steps ahead and plan out the future. This is a paradigm shift from operating tactically to operating strategically. The director+ here now develops employees, company culture, and revenue streams.
+- Put another way: finding methods to earn money, improving the state of the company, and getting employees to perform better.
+- If it doesn't cover one of these areas, consider delegation.
+
+An assumed "upper limit" is about 4-5 managers with 8-10 employees each on average in a ~40-50 person organization. These people, called direct reports, are people one layer immediately below a manager, director, etc. said leader are responsible for. Contributors (ICs) report to managers, managers report to directors,  and so on. You could adjust the ratio of manager:employee and director:manager, but avoid overloading any one manager (or higher) staff member. Your initial batch of new managers can also form your C-Suite/executive board when scaling up in the future. 
 
 You may also consider hiring on new individual contributors to assist you, the director, but remember they count towards the limit of direct reports. If their roles are not well-defined, they risk redundancy.
 
-In smaller organizations employee often wore multiple hats. When scaling up and expanding operations, you'll need specialists and managers to oversee new projects or expand existing projects. Generalists are still helpful, but you'll need to look into specialists to meet advanced project requirements. Some ICs may step up into management, but you may need to bring in outside managers and specialized individual contributors to fulfill new roles.
+In smaller organizations, employee often wear multiple hats. When scaling up and expanding operations, you'll need specialists and managers to oversee new projects or expand existing projects. Generalists are still helpful, but you'll need to look into specialists to meet advanced project requirements. Some ICs may step up into management, but you may need to bring in outside managers and specialized individual contributors to fulfill new roles.
 
 Growth near this breakpoint introduces new regulations too. For example, the Affordable Care Act, according to [the IRS](https://www.irs.gov/affordable-care-act/employers), explicitly define "50 or more full-time employees" where you legally have to change procedures and benefits to meet requirements.
 
-Communication as a risk factor exponentially increases with scale. Large meetings, if done with 40-50 people, lead into side conversations and distractions, which waste time and reduce productivity. Conveying vital information occurs through mainly one layer at a time rather than straight from point A to point B. This is when you learn the art of sending an email instead of hosting a meeting.
+Communication as a risk factor exponentially increases with scale. Large meetings, if done with 40-50 people, almost certainly lead into side conversations and distractions, which waste time and reduce productivity. Conveying vital information occurs through mainly one layer at a time rather than straight from point A to point B. This is when you learn the art of sending an email instead of hosting a meeting.
 
 As for you, the CEO, you become a director, or a manager of managers. There are many similarities, but also differences, between managers of ICs and managers of managers:
 - Rather than assist directly with tasks, you help the people helping people complete tasks
@@ -164,7 +174,7 @@ A manager has many freedoms.
 
 Taking time off whenever they want, however, is not typically included. At least not in the way many may think.
 
-At a high enough leadership position, or when you're the owner/president of an organization, you're now always on-call. You *could* take time off like a typical employee, but you may only manage 2-3 weeks because chaos ensues from absent leadership (and not having someone around to pay people!).
+At a high enough leadership position, or when you're the owner/president of an organization, you're always on-call. You *could* take time off like a typical employee, but you may only manage 2-3 weeks because chaos ensues from absent leadership (and not having someone around to pay people!).
 
 This also applies to finding coverage for roles. A manager may have to cover deficiencies for roles they cannot sufficiently delegate out or hire to fill. They may also have to take the brunt of coverage during times multiple employees need to take time off as well.
 

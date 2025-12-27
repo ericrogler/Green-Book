@@ -22,8 +22,8 @@ Discipline and management should be strict, but also fair and reasonable for eve
 
  To quickly sum up various stages of pedagogy (children/minors) and andragogy (adults) in learning and management:
 - Ages 0-11: Favoring simple instructions, visualizations, cues, and routines over rules.
-- Ages 12-14: Exploring autonomy, testing limits/rules, and flexibility.
-- Ages 15-18: Desiring respect, independence, and exposure to interesting content.
+- Ages 12-14: Exploring autonomy, testing limits/rules, flexibility, and engaging content.
+- Ages 15-18: Desiring respect, independence, and exposure to interesting content and better academics.
 - Ages 18+: *Needing* independence, accountability, and content value for future careers.
 
 You may also need licensure or certifications to teach specific subjects or do particular tasks legally, such as administering medicine to students.

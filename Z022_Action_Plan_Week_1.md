@@ -166,6 +166,27 @@ There's also two other rules of thumb for FAKs I prefer to follow:
 1. Review FAKs each year and discard any expired items; many medical items have shelf lives of only 1 to 5+ years (American Red Cross, 2024).
 2. When you're experienced enough, create your own first aid kit(s) based on specific needs. This helps you know what supplies are in the kit, where they're located, and lower patient response times.
 
+### **What About Labs?**
+
+*This is mainly for science teachers.*
+
+For labs, your room likely has a lot of equipement you don't want mishandled.
+
+A good way to mitigate mishandling is organization stations to retrieve and return items to. On the day of labs, you'll want to make your way over to those stations and ensure the process runs smoothly.
+
+You'll also want to maintain the condition of equipment in these stations. A 5 minute cleaning is far better time spent than 1 hour looking up purchase orders to replace a slightly dirty object. You may also need computers for simulations, online labs, and more. Similar process: have stations to retrieve and store them at and ensuring they're properly handled. Not every "lab" needs extensive equipment either; some labs are doable entirely on computers in modern times.
+
+As for the lab *material,* most experiments are:
+1. Setting up equipment 
+2. Measuring X
+3. Determining Y 
+
+That's the basic premise. Design a clearly defined procedure with this in mind and you're 80% of the way there already. This applies neatly at the high school level (sometimes college level) and below. It's not likely you'll get a lab activity *every* week. 
+
+I'd aim for at least one lab per unit of material to model what you teach in real-world environments. Don't do labs in isolation though; science concepts still require breaking them down into simpler ideas and explaining the processes throuhg lectures and other activities. Without appropriate background knowledge, orchestrating the lab is significantly more difficult.
+
+You *can* make students do labs individually, but expect to do groups for labs and similar high-impact activities. This is to save costs on materials, but also to get students to work together. If you're fearful of the "group project" effect, you may assign tasks to individuals so they maintain some accountability to lab success.
+
 ## **Bibliography**
 
 1. American Red Cross. (n.d.). *Make a first aid kit*. [https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html?srsltid=AfmBOoq7_k1YLTdpDwBd7lzvrKe_-UBZpO760LggKdQ4dVkC0Xvdf09t](https://www.redcross.org/get-help/how-to-prepare-for-emergencies/anatomy-of-a-first-aid-kit.html?srsltid=AfmBOoq7_k1YLTdpDwBd7lzvrKe_-UBZpO760LggKdQ4dVkC0Xvdf09t)

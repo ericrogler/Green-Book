@@ -11,26 +11,27 @@ nav_order: 6
 
 **God Entity, Futurama (2002)**
 > "When you do things right, people won't be sure you've done anything at all." 
+
 As great as the quotation above is, sometimes being visible is what gets you noticed and promoted while not being visible may get you in trouble.
 - Put another way: the perception you know what you're doing is as important as knowing what you're doing.
+- You can still measure the "quiet" things.
 
 *Notice: Though this chapter talks about management in the context of teaching and instruction, some information can also apply to associates, employees, peers, and more across various industries.*
 
-**The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** 
+**The ultimate goal is managing time/deadlines, cost, scope/requirements, and quality.** You make sure the work gets done correctly, legally, and safely.
+- In other words: clarity, ownership, and decisions over tasks. That's management in a nutshell.
 
-**The easiest mistake to make is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at your likely risk of rework costs and every other metric suffering.
+**The easiest mistake is prioritizing speed over quality.** Sometimes slower is faster, like the turtle beating the rabbit. You might meet deadlines, but it's at your likely risk of rework costs and every other metric suffering.
 - *There's a parallel with "passing up students" and "failing upward" somewhere soon.*
 
-Soft skills, like communicating with people, and hard skills, like technical knowledge, are means you shouldn't neglect to best meet that goal. If you're not sure how to set up a process or workflow, start with the minimum (or simplest) that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when they aren't needed often goes against your goals.
+Soft skills, like communication, and hard skills, like technical knowledge, are how you meet goals. **Do not ever neglect technical skills, even if you're in a management role now or in the future.** This also applies for managers in multiple industries, like programming and software, and also applies to teachers/instructors. You may be able to manage people well as a teacher, but your curriculum's content suffers if you don't know how to effectively teach. 
 
-**Do not ever neglect technical skills, even if you're in a management role now or in the future.** This also applies for managers in multiple industries, like programming and software, and also applies to teachers/instructors. You may be able to manage people well as a teacher, but your curriculum's content suffers if you don't know how to effectively teach.
+If you're not sure how to set up a process or workflow, start with the minimum (or simplest) way that works. This could be sticky notes on a wall, a word document, or spreadsheet. Advocating for complicated processes when unnecessary often goes against your goals.
 
 **Prepare for the worst, but assume the best of people.**
 
 Cooking something at 1200 degrees for 1 hour does *not* produce the same result as cooking something at 300 degrees for 4 hours.
 - I have to say this is a joke, but if you apply this thinking broadly across multiple scenarios, you *will* have a bad time.
-
-Lastly, most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good" that's rarely, if ever, going to be the case in practice and you'll still have accountability and autonomy issues.
 
 ## **Long Answer**
 
@@ -38,7 +39,9 @@ Teaching is either extremely hands-off (many online "courses" avoid interfacing 
 
 Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. Some students may also respect the authority of a teacher and be respectful to other students. Some students will actively undermine the education of their peers, interrupt you when an opportunity arises, or even resort to physical contact.
 
-This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting. You have to manage people.
+This is a reality of the environment many teachers and instructors deal with on a daily, if not hourly, basis in a classroom setting. You have to manage people. 
+
+Most management "training" is going to happen on the job. As much as you'd like to be the manager that says "just get your work done and I'm good" that's rarely, if ever, going to be the case in practice and you'll still have accountability and autonomy issues.
 
 **You still need to plan for the worst-case scenarios.**
 
@@ -146,6 +149,12 @@ There are rules (more like "guidelines") you should follow with every management
 - Example 2: Accounting for differences in culture, resources, and student behavior between Title 1 schools and affluent schools require different types of rules, rule enforcements, and accommodations for learning.
 
 ### **Maintaining Appearances (Perception)**
+
+There are four levels of managers from best to worst (from what I've seen and heard):
+1. Competent and technical manager
+1. Competent, but non-technical manager
+1. Incompetent, but technical manager
+1. Incompetent and non-technical manager
 
 Let's say you've studied a field for several years, garnered a lot of experience, and you know what you're talking about. You know how to put out fires. You can solve things previously deemed impossible to fix.
 
