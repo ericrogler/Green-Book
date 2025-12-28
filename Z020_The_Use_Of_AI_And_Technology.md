@@ -9,8 +9,10 @@ nav_order: 30
 
 ## **Short Answer**
 
+*Notice: A LOT written here is based on anecdoctal evidence, unless explicitly stated otherwise. There's not a lot of hard, reliable data on AI I can find and trust as of December 2025.*
+
 **If you think you need AI (or a new technology) implemented into a business, organization, or similar group, there's a high chance you actually need better processes instead.**
-- AI is also a prime example of "speed over quality." It can do things fast and make (costly) mistakes just as fast.
+- AI is a prime example of "speed over quality." It can do things fast, but make mistakes just as fast. That's why you should have a human verifying it still.
 
 **The problems you encounter as a teacher don't often change, but the means (and technology) to address those problems do often change.**
 
@@ -53,7 +55,7 @@ To give an example: a high school now provides every student with their own pers
 
 A student iPad can cover almost all use cases in a school setting and simplify the logistics of resource management. It's also a trade-off on resources and reduction in capacity/lot-sizing; though you can now manage fewer physical resources, providing technology may require additional overhead like licensing, device management systems, connectivity, internet providers, and equity concerns.
 
-Not *all* technology is great or necessary as preferences still exist. People may vastly prefer a physical medium to doing work vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
+Not *all* technology is great or necessary as preferences exist. People may vastly prefer a physical medium to doing work vs an electronic medium. It may also be an accommodation to provide a physical medium vs an electronic medium. There's also cases where certain activities cannot be substituted with technology (currently), so it still requires physical resources.
 
 ### **[Cyber]Security in Technology**
 
@@ -83,15 +85,21 @@ To dilute technological security (cybersecurity) down into two points:
 
 When I was much younger, there was a web browser game called Akinator.
 
-Is it AI? Nope, basically a binary search tree.
+Is it AI? Nope; basically a binary search tree.
 - I'm aware that's a massive simplification; don't worry.
 
-Did it look like magic? At the time, yes.
+Did it look like magic to me? At the time, yes.
 
-The concept was pretty simple. You receive a list of questions you answer to supply details about your character, animal, or person you were thinking of. Your only responses were either "Yes" or "No."
-- In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities.
+The concept was pretty simple. You receive a list of questions you answer to supply details about your character, animal, or person you were thinking of. Your only responses were:
+- Yes
+- No
+- Don't Know
+- Probably
+- Probably Not
 
-For 10 questions, that gives it a list of 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8 billion people* on Earth.
+While there's multiple choices, the only possible values are 0 or 1. Don't know, probably, and probably only affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states.
+
+In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities. For 10 questions, that gives it a list of 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8 billion people* on Earth.
 
 The more questions you answer, the more likely it is to narrow down the correct answer. It's really easy for a computer to track all of this, but much harder for a human. 
 

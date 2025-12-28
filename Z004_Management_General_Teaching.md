@@ -35,7 +35,7 @@ Cooking something at 1200 degrees for 1 hour does *not* produce the same result 
 
 ## **Long Answer**
 
-Teaching is either extremely hands-off (many online "courses" avoid interfacing with students almost entirely) or extremely hands-on. It can also be anywhere between those two extremes, but management exists across the entire spectrum.
+Teaching and instruction is anywhere from extremely hands-off (many online "courses" avoid interfacing with students almost entirely) to extremely hands-on (constant assistance in classrooms). It can also be anywhere between those two extremes, but management exists across the entire spectrum.
 
 Students range from a variety of backgrounds across multiple demographics. What may work for one student may not work for another, and how a student behaves in class varies from student to student. Some students may also respect the authority of a teacher and be respectful to other students. Some students will actively undermine the education of their peers, interrupt you when an opportunity arises, or even resort to physical contact.
 
