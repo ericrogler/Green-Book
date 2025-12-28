@@ -97,9 +97,9 @@ The concept was pretty simple. You receive a list of questions you answer to sup
 - Probably
 - Probably Not
 
-While there's multiple choices, the only possible values are 0 or 1. Don't know, probably, and probably only affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states.
+While there's multiple choices, the only possible values are 0 or 1. Don't know, probably, and probably only affect the *probability* (specifically likelihood/confidence) of 1 or 0, whereas Yes or No directly confirm a 0 or 1. That means, for each question, there's only two true states and your answer pushes the state closer to either 0 or 1.
 
-In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities. For 10 questions, that gives it a list of 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8 billion people* on Earth.
+In more technical terms, for n number of questions it asks, it tries to find the answer from 2^n possibilities. For 10 questions, that is 1024 possibilities. For 20 questions, that becomes 1048576 possibilities. 30 questions? 1073741824 possibilities. 33 questions means 8589934592 possibilities, or successfully finding one person from *~8.6 billion people* on Earth.
 
 The more questions you answer, the more likely it is to narrow down the correct answer. It's really easy for a computer to track all of this, but much harder for a human. 
 
