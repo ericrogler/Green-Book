@@ -18,8 +18,11 @@ Goals are often, if not almost always, mismatched amongst different roles. To ke
 3. Consumers (e.g. parents, students, etc.) care about quality goods and services for their time/money.
 
 Goals can greatly differ amongst peers as well. For example, with two people in the same role, someone may seek technical excellence/perfection while another wants to ship things out and get results fast.
+- "Resume driven development" may be a goal you'll see as well.
 
-Teachers and instructors, or any particular person/group, are not exempt from *also* being the problem. Every person can cause issues, but rarely does every person cause issues simultaneously.
+Teachers and instructors, or any particular person/group, are not exempt from *also* being the problem. Every person can cause issues, but rarely does every person cause issues simultaneously. 
+
+A lot of advice assumes people are rational and not crazy. In practice, that's rarely the case. Read many things with a grain of salt.
 
 ## **Long Answer**
 
